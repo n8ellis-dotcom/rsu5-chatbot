@@ -29,6 +29,11 @@ jobs:
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: python3 -c "import psycopg2,os,time; print('Waking Neon...'); conn=psycopg2.connect(os.environ['DATABASE_URL'],connect_timeout=60); conn.close(); print('Awake'); time.sleep(5)"
+      - name: Test OpenAI connectivity
+        run: |
+          curl -s -o /dev/null -w "%{http_code}" https://api.openai.com/v1/models \
+            -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" | grep -q "200\|401" \
+            && echo "OpenAI reachable" || echo "OpenAI BLOCKED"
       - name: Run embed script
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
