@@ -2,34 +2,37 @@ name: Embed RSU5 Docs
 
 on:
   workflow_dispatch:
-    inputs:
-      start_index:
-        description: 'Start file index (0, 300, 600, 900, 1200, 1500)'
-        required: true
-        default: '0'
-      end_index:
-        description: 'End file index (300, 600, 900, 1200, 1500, 9999)'
-        required: true
-        default: '300'
+      inputs:
+            start_index:
+                    description: 'Start file index (0, 300, 600, 900, 1200, 1500)'
+                            required: true
+                                    default: '0'
+                                          end_index:
+                                                  description: 'End file index (300, 600, 900, 1200, 1500, 9999)'
+                                                          required: true
+                                                                  default: '300'
 
-jobs:
-  embed:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-        with:
-          repository: n8ellis-dotcom/rsu5-docs
-          path: rsu5-docs
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - run: pip install psycopg2-binary openai
-      - env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          DOCS_PATH: rsu5-docs/docs
-          TRANSCRIPTS_PATH: rsu5-docs/transcripts
-          START_INDEX: ${{ inputs.start_index }}
-          END_INDEX: ${{ inputs.end_index }}
-        run: python3 embed_ci.py
+                                                                  jobs:
+                                                                    embed:
+                                                                        runs-on: ubuntu-latest
+                                                                            steps:
+                                                                                  - uses: actions/checkout@v4
+                                                                                        - uses: actions/checkout@v4
+                                                                                                with:
+                                                                                                          repository: n8ellis-dotcom/rsu5-docs
+                                                                                                                    path: rsu5-docs
+                                                                                                                          - uses: actions/setup-python@v5
+                                                                                                                                  with:
+                                                                                                                                            python-version: '3.11'
+                                                                                                                                                  - run: pip install psycopg2-binary openai
+                                                                                                                                                        - name: Wake up Neon
+                                                                                                                                                                env:
+                                                                                                                                                                          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+                                                                                                                                                                                  run: python3 -c "import psycopg2,os,time; print('Waking Neon...'); conn=psycopg2.connect(os.environ['DATABASE_URL'],connect_timeout=60); conn.close(); print('Neon awake'); time.sleep(3)"
+                                                                                                                                                                                        - name: Run embed script
+                                                                                                                                                                                                env:
+                                                                                                                                                                                                          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+                                                                                                                                                                                                                n a m e :O PEEmNbAeId_ ARPSIU_5K EDYo:c s$
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                {o ns:e
+                                                                                                                                                                                                                c r ewtosr.kOfPlEoNw
