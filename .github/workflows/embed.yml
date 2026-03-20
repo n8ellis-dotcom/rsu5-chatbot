@@ -3,32 +3,22 @@ name: Embed RSU5 Docs
 on:
   workflow_dispatch:
 
-  jobs:
-    embed:
-        runs-on: ubuntu-latest
-            timeout-minutes: 30
-
-                steps:
-                      - name: Checkout rsu5-chatbot (for embed script)
-                              uses: actions/checkout@v4
-
-                                    - name: Checkout rsu5-docs (for docs and transcripts)
-                                            uses: actions/checkout@v4
-                                                    with:
-                                                              repository: n8ellis-dotcom/rsu5-docs
-                                                                        path: rsu5-docs
-
-                                                                              - uses: actions/setup-python@v5
-                                                                                      with:
-                                                                                                python-version: '3.11'
-
-                                                                                                      - name: Install dependencies
-                                                                                                              run: pip install psycopg2-binary openai
-                                                                                                              
-                                                                                                                    - name: Run embed script
-                                                                                                                            env:
-                                                                                                                                      DATABASE_URL: ${{ secrets.DATABASE_URL }}
-                                                                                                                                                OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-                                                                                                                                                          DOCS_PATH: rsu5-docs/docs
-                                                                                                                                                                    TRANSCRIPTS_PATH: rsu5-docs/transcripts
-                                                                                                                                                                            run: python3 embed_ci.py
+jobs:
+  embed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: n8ellis-dotcom/rsu5-docs
+          path: rsu5-docs
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install psycopg2-binary openai
+      - env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DOCS_PATH: rsu5-docs/docs
+          TRANSCRIPTS_PATH: rsu5-docs/transcripts
+        run: python3 embed_ci.py
