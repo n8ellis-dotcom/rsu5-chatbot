@@ -1,0 +1,42 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/56feaf99-d622-4ba8-8031-aa60343b39b4
+SECTION: /budget/financial-statements
+TITLE: School Nutrition
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Nutrition
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6000.0000.0000.41610.900 School Nutrition Revenues ($60,000.00) $0.00 ($60,000.00) $0.00 ($27,788.25) ($32,211.75) $0.00 ($32,211.75) 53.69%
+6000.0000.0000.41620.900 School Nutrition A La Carte ($50,000.00) $0.00 ($50,000.00) $0.00 ($7,435.06) ($42,564.94) $0.00 ($42,564.94) 85.13%
+Revenue
+6000.0000.0000.41920.000 Full Plate Full Potential Grant $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Revenue
+6000.0000.0000.41990.000 School Nutrition Revenue $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.43250.000 Educ School Nutrition, LUNCH $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+PAID STATE
+6000.0000.0000.43250.900 Educ School Nutrition, LUNCH $0.00 $0.00 $0.00 ($58,358.30) ($306,248.25) $306,248.25 $0.00 $306,248.25 0.00%
+PAID STATE
+6000.0000.0000.43251.900 LOCAL PRODUCE $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.43254.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($260.00) ($1,398.40) $1,398.40 $0.00 $1,398.40 0.00%
+REDUCED STATE
+6000.0000.0000.43258.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($17,756.30) ($91,232.60) $91,232.60 $0.00 $91,232.60 0.00%
+BREAKFAST PAID STATE
+6000.0000.0000.44353.900 LOCAL PRODUCE (New 2024) $0.00 $0.00 $0.00 $0.00 ($10,608.79) $10,608.79 $0.00 $10,608.79 0.00%
+6000.0000.0000.44551.900 Educ. School Nutrition, LUNCH ($1,051,594.34) $0.00 ($1,051,594.34) ($9,046.56) ($47,410.08) ($1,004,184.26) $0.00 ($1,004,184.26) 95.49%
+(REG.) Paid Meals
+6000.0000.0000.44553.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($13,942.65) ($72,621.70) $72,621.70 $0.00 $72,621.70 0.00%
+(S.A.) Free and Redu
+6000.0000.0000.44554.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($9,512.50) ($48,748.00) $48,748.00 $0.00 $48,748.00 0.00%
+BREAKFAST
+6000.0000.0000.44557.900 LOCAL PEBT $0.00 $0.00 $0.00 $0.00 ($3,918.00) $3,918.00 $0.00 $3,918.00 0.00%
+6000.0000.0000.44561.900 Supply Chain Assistance $0.00 $0.00 $0.00 ($49,299.49) ($49,299.49) $49,299.49 $0.00 $49,299.49 0.00%
+6000.0000.0000.45000.000 Carry Forward-Lunch Program $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.45201.900 School Nutrition Transfer In ($293,245.00) $0.00 ($293,245.00) $0.00 ($109.79) ($293,135.21) $0.00 ($293,135.21) 99.96%
+Function: CONTINGENCY/NOT SPECIFIC - 0000 ($1,454,839.34) $0.00 ($1,454,839.34) ($158,175.80) ($666,818.41) ($788,020.93) $0.00 ($788,020.93) 54.17%
+Grand Total: ($1,454,839.34) $0.00 ($1,454,839.34) ($158,175.80) ($666,818.41) ($788,020.93) $0.00 ($788,020.93) 54.17%
+End of Report
+Printed: 02/08/2024 12:12:29 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 1

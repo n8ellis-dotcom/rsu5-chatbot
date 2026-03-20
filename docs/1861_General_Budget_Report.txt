@@ -1,0 +1,21 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/6dd7a6fe-b51a-441f-8643-1b2ac3ad247d
+SECTION: /budget/financial-statements
+TITLE: General Budget Report
+TYPE: Finalsite-PDF
+============================================================
+
+Budget Summanry Report
+FY21 Budget
+FY21 Budget Adjustment February Exp YTD Expenses Encumbrance Remaining % Remain
+179 Art 1 - Regular Instruction Total 15,107,880.00 0.00 1,078,661.01 7,178,358.79 6,161,523.20 1,767,998.01 12 %
+369 Art 2 - Special Education Total 4,688,560.00 0.00 348,257.03 2,158,846.40 1,930,705.81 599,007.79 13 %
+371 Art 3 - CTE 101,706.00 0.00 8,475.45 67,803.62 33,901.78 0.6 0 %
+426 Art 4 - Other Instruction Total 858,926.00 0.00 72,092.11 422,169.37 82,918.09 353,838.54 41 %
+632 Art 5 - Student/Staff Support Total 3,160,872.00 0.00 214,686.76 1,466,856.09 1,087,297.36 606,718.55 19 %
+663 Art 6 - System Administration Total 1,013,211.00 0.00 91,779.50 590,987.09 176,446.17 245,777.74 24 %
+721 Art 7 - School Administration Total 1,727,711.00 0.00 129,030.32 1,077,851.65 562,523.08 87,336.27 5 %
+746 Art 8 - Transportation Total 1,473,419.00 0.00 87,682.86 663,912.70 582,966.30 226,540.00 15 %
+839 Art 9 - O&M Total 5,028,523.00 0.00 267,938.49 2,951,366.83 1,281,553.25 795,602.92 16 %
+842 Art 10 - Debt Service Total 1,427,247.00 0.00 0 131,845.44 0 1,295,401.56 91 %
+845 Art 11 - All Other Expenditures Total 294,645.00 0.00 0 73,311.24 219,933.72 1,400.04 0 %
+846 Expense Totals: 34,882,700.00 0.00 2,298,603.53 16,783,309.22 12,119,768.76 5,979,622.02 17 %

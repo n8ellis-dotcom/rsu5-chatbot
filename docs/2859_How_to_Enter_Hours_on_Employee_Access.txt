@@ -1,0 +1,41 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/f2c24799-9d51-4e64-a8b4-6d6108f645f0
+SECTION: /facultystaff/jobdescriptions
+TITLE: How to Enter Hours on Employee Access
+TYPE: Finalsite-PDF
+============================================================
+
+Daily Time Entry V2
+Daily Time Entry is a module that allows employees to submit their time on Employee Access. This new
+module allows those time requests to be submitting through the designated approval process and allow
+Payroll to analyze submitted time before posting to payroll.
+Daily Time Entry Overview
+My Time | Time Sheets
+Log into Employee Access and navigate to My Time | Time Sheets.
+Select the pay period that the time needs to be entered on from the Pay Period drop down.
+Payroll Note: The position(s) that are marked as Include on Employee Access Daily
+Time Entry will populate within this screen.
+1
+
+Adding a Time Punch to a Date
+To enter time for a specific day, hover over the corresponding box and a grey add symbol (+) will appear
+to be selected.
+The Time Punch box will appear.
+Select the Add time punch.
+This will allow the ability to enter in a Time In and Time Out.
+The delete option can be used to delete a record that is no longer needed.
+The “Add time punch” option allows one more time punch to be added to the date record. Only two
+punches are allowed per day. The system will calculate the hours based upon the time punch.
+Select Details to enter in comments to the time records that will follow the submission through the
+approval process.
+The time punches can be edited from this screen as well.
+2
+
+Other options
+Add entry: Allows you to add another record for the date to enter time
+Clear day: Removes all the records for this date and allows the employee to start over
+Apply: Saves the record
+Cancel: Cancels the record and does not save changes
+Editing an Existing Record
+If an existing record(s) needs to be edited, hover over the date and a grey add (+) and grey edit pencil will
+appear. Select the appropriate action so that it will allow the time punches to be updated.
+3

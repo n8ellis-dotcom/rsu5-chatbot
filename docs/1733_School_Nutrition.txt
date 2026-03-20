@@ -1,0 +1,94 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/f25022f3-2351-4773-8d5f-f37f5b58943e
+SECTION: /budget/financial-statements
+TITLE: School Nutrition
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Nutrition
+From Date: 5/1/2023 To Date: 5/31/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6000.0000.0000.41610.900 School Nutrition Revenues $60,000.00 ($120,000.00) ($60,000.00) $0.00 ($64,636.26) $4,636.26 $0.00 $4,636.26 -7.73%
+Object: FS DAILY SALES - REIMB - 41610 $60,000.00 ($120,000.00) ($60,000.00) $0.00 ($64,636.26) $4,636.26 $0.00 $4,636.26 -7.73%
+6000.0000.0000.41620.900 School Nutrition A La Carte $50,000.00 ($100,000.00) ($50,000.00) $0.00 ($11,457.53) ($38,542.47) $0.00 ($38,542.47) 77.08%
+Revenue
+Object: FS DAILY SALES - NON REIMB - 41620 $50,000.00 ($100,000.00) ($50,000.00) $0.00 ($11,457.53) ($38,542.47) $0.00 ($38,542.47) 77.08%
+6000.0000.0000.41920.000 Full Plate Full Potential Grant $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Revenue
+Object: CONTRIBUTIONS/GIFTS - 41920 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.41990.000 School Nutrition Revenue $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Object: GAS TAX REFUND - 41990 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.43250.000 Educ School Nutrition State Funds $0.00 $0.00 $0.00 $0.00 ($12,592.31) $12,592.31 $0.00 $12,592.31 0.00%
+Lun/Brk 2023
+Object: Educ School Nutrition State Funds Lun/Brk 2023 - 43250 $0.00 $0.00 $0.00 $0.00 ($12,592.31) $12,592.31 $0.00 $12,592.31 0.00%
+6000.0000.0000.44551.900 School Nutrition Federal Revenues $945,000.00 ($1,890,000.00) ($945,000.00) ($120,197.79) ($1,282,854.06) $337,854.06 $0.00 $337,854.06 -35.75%
+Object: School Lunch Program - 44551 $945,000.00 ($1,890,000.00) ($945,000.00) ($120,197.79) ($1,282,854.06) $337,854.06 $0.00 $337,854.06 -35.75%
+6000.0000.0000.45000.000 Carry Forward-Lunch Program $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Object: BALANCE FORWARD - 45000 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.0000.45201.900 School Nutrition Transfer In $293,245.00 ($586,490.00) ($293,245.00) $0.00 ($140.56) ($293,104.44) $0.00 ($293,104.44) 99.95%
+Object: School Nutrition Local Transfer In - 45201 $293,245.00 ($586,490.00) ($293,245.00) $0.00 ($140.56) ($293,104.44) $0.00 ($293,104.44) 99.95%
+6000.0000.0000.52310.900 MPERS Reallocate $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Object: Retirement - Professionals - 52310 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Function: CONTINGENCY/NOT SPECIFIC - 0000 $1,348,245.00 ($2,696,490.00) ($1,348,245.00) ($120,197.79) ($1,371,680.72) $23,435.72 $0.00 $23,435.72 -1.74%
+6000.0000.3100.51040.900 Administrator Salary $71,437.00 $0.00 $71,437.00 $5,541.38 $66,507.65 $4,929.35 $5,541.35 ($612.00) -0.86%
+Object: Salaries Paid to Administrators - 51040 $71,437.00 $0.00 $71,437.00 $5,541.38 $66,507.65 $4,929.35 $5,541.35 ($612.00) -0.86%
+6000.0000.3100.51180.010 Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.51180.900 School Nutition Salaries $450,253.00 $0.00 $450,253.00 $39,806.36 $378,197.93 $72,055.07 $7,713.36 $64,341.71 14.29%
+Object: Salaries of Regular Employees - 51180 $450,253.00 $0.00 $450,253.00 $39,806.36 $378,197.93 $72,055.07 $7,713.36 $64,341.71 14.29%
+6000.0000.3100.52040.900 Administrator Benefits $14,743.00 $0.00 $14,743.00 $939.50 $12,318.65 $2,424.35 $939.48 $1,484.87 10.07%
+Object: Employee Benefits for Administrators - 52040 $14,743.00 $0.00 $14,743.00 $939.50 $12,318.65 $2,424.35 $939.48 $1,484.87 10.07%
+6000.0000.3100.52080.010 Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.52080.900 School Nutrition Benefits $175,000.00 $0.00 $175,000.00 $11,472.46 $120,227.67 $54,772.33 $12,102.46 $42,669.87 24.38%
+Object: Employee Benefits for Regular Employees - 52080 $175,000.00 $0.00 $175,000.00 $11,472.46 $120,227.67 $54,772.33 $12,102.46 $42,669.87 24.38%
+6000.0000.3100.52180.900 Retirement $5,077.00 $0.00 $5,077.00 $0.00 $0.00 $5,077.00 $0.00 $5,077.00 100.00%
+Printed: 06/01/2023 9:47:45 AM Report: rptGLGenRptwBudgetAdj 2023.1.13 Page: 1
+
+RSU No. 5
+Nutrition
+From Date: 5/1/2023 To Date: 5/31/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Object: Group Health for Regular Employees - 52180 $5,077.00 $0.00 $5,077.00 $0.00 $0.00 $5,077.00 $0.00 $5,077.00 100.00%
+6000.0000.3100.52340.900 Administrator Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Object: Retirement for Administrators - 52340 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.52380.010 Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.52380.900 Retirement $0.00 $0.00 $0.00 $0.00 $4,078.96 ($4,078.96) $0.00 ($4,078.96) 0.00%
+Object: Retirement for Regular Employees - 52380 $0.00 $0.00 $0.00 $0.00 $4,078.96 ($4,078.96) $0.00 ($4,078.96) 0.00%
+6000.0000.3100.53300.900 Employee Training & Development $2,500.00 $0.00 $2,500.00 $148.85 $1,615.24 $884.76 $0.00 $884.76 35.39%
+Object: Prof Empl Train & Dev Services - 53300 $2,500.00 $0.00 $2,500.00 $148.85 $1,615.24 $884.76 $0.00 $884.76 35.39%
+6000.0000.3100.53400.900 Contracted Services $12,500.00 $0.00 $12,500.00 $0.00 $6,305.65 $6,194.35 $0.00 $6,194.35 49.55%
+Object: Other Professional Services - 53400 $12,500.00 $0.00 $12,500.00 $0.00 $6,305.65 $6,194.35 $0.00 $6,194.35 49.55%
+6000.0000.3100.54200.010 Rubbish Removal $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+Object: Cleaning Services - 54200 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.54300.010 Repairs & Maintenance $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.54300.900 School Nutrition Repairs $5,000.00 $0.00 $5,000.00 $0.00 $7,943.93 ($2,943.93) $0.00 ($2,943.93) -58.88%
+Object: Repair & Maintenance Services - 54300 $5,000.00 $0.00 $5,000.00 $0.00 $7,943.93 ($2,943.93) $0.00 ($2,943.93) -58.88%
+6000.0000.3100.55800.010 Travel $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.55800.900 Travel $5,000.00 $0.00 $5,000.00 $0.00 $100.00 $4,900.00 $0.00 $4,900.00 98.00%
+Object: Travel - 55800 $5,000.00 $0.00 $5,000.00 $0.00 $100.00 $4,900.00 $0.00 $4,900.00 98.00%
+6000.0000.3100.56300.010 Food Purchases $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.56300.900 Food Purchases $403,300.00 $0.00 $403,300.00 $50,948.54 $458,135.20 ($54,835.20) $0.00 ($54,835.20) -13.60%
+Object: Food Purchases - 56300 $403,300.00 $0.00 $403,300.00 $50,948.54 $458,135.20 ($54,835.20) $0.00 ($54,835.20) -13.60%
+6000.0000.3100.56310.010 Supplies $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.56310.900 Supplies $145,000.00 $0.00 $145,000.00 $3,943.54 $34,806.23 $110,193.77 $0.00 $110,193.77 76.00%
+Object: Supplies - 56310 $145,000.00 $0.00 $145,000.00 $3,943.54 $34,806.23 $110,193.77 $0.00 $110,193.77 76.00%
+6000.0000.3100.57300.900 School Nutrition Equipment $56,435.00 $0.00 $56,435.00 $3,444.00 $6,323.10 $50,111.90 $9,202.00 $40,909.90 72.49%
+Object: Equipment - 57300 $56,435.00 $0.00 $56,435.00 $3,444.00 $6,323.10 $50,111.90 $9,202.00 $40,909.90 72.49%
+6000.0000.3100.58100.010 Dues & Fees $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00%
+6000.0000.3100.58100.900 School Nutrition Dues & Fees $2,000.00 $0.00 $2,000.00 $0.00 $600.00 $1,400.00 $0.00 $1,400.00 70.00%
+Object: Dues & Fees - 58100 $2,000.00 $0.00 $2,000.00 $0.00 $600.00 $1,400.00 $0.00 $1,400.00 70.00%
+Function: FOOD SERVICES OPERATIONS - 3100 $1,348,245.00 $0.00 $1,348,245.00 $116,244.63 $1,097,160.21 $251,084.79 $35,498.65 $215,586.14 15.99%
+Printed: 06/01/2023 9:47:45 AM Report: rptGLGenRptwBudgetAdj 2023.1.13 Page: 2
+
+RSU No. 5
+Nutrition
+From Date: 5/1/2023 To Date: 5/31/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: $2,696,490.00 ($2,696,490.00) $0.00 ($3,953.16) ($274,520.51) $274,520.51 $35,498.65 $239,021.86 0.00%
+End of Report
+Printed: 06/01/2023 9:47:45 AM Report: rptGLGenRptwBudgetAdj 2023.1.13 Page: 3

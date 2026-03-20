@@ -1,0 +1,308 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/630c6018-8dde-4904-9bb2-e690e2e57583
+SECTION: /board-of-directors-and-policies/board-committees/standing-committees/finance-committee
+TITLE: 20 Year Capital Plan.pdf
+TYPE: Finalsite-PDF
+============================================================
+
+typical
+Transportation life replacement FY14 FY15 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26 FY27 FY28 FY29 FY30 FY31 FY32 FY33 FY34
+span year 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+Bus 37 International 78 passenger 1997 12 2009 80,000 85,000 90,000
+Bus 5 Thomas 1999 12 2011 80,000 85,000
+Bus 20 bluebird 78 passenger 2000 12 2012 80,000 90,000
+Bus 21 International 78 passenger 2001 12 2013 80,000 90,000
+Bus 22 international 78 passenger 2001 12 2013 80,000 90,000
+Bus 23 Freightliner 78 passenger 2003 12 2015 80,000 90,000
+Bus 24 Thomas 84 passenger 2004 12 2016 80,000 90,000
+Bus 25 Thomas 84 passenger 2005 12 2017 80,000 90,000
+Bus 26 Thomas 72 passenger 2006 12 2018 80,000 90,000
+Bus 27 International 77 passenger 2008 10 2018 80,000 90,000
+Bus 28 International 77 passenger 2010 10 2020 80,000 90,000
+Bus 29 International 77 passenger 2011 10 2021 80,000 90,000
+Bus 30 International 77 passenger 2012 10 2022 80,000 90,000
+Bus 31 International 77 passenger 2012 11 2023 80,000 90,000
+Bus 32 International 77 passenger 2012 11 2023 80,000 90,000
+Bus 33 international 77 passenger 2013 11 2024 80,000 90,000 90,000
+Van 1 2004 ford 7 passenger 2004 13 2017 30,000 30,000
+Van 2 2004 Ford 7 passenger 2004 13 2017 30,000 30,000
+truck 2009 ford f-150 2009 12 2021 20,000 20,000
+truck gmc dumo body 2011 14 2025 35,000
+Truck 2001 Ford f250 2001 12 2013 30,000 30,000
+sander 2005 8 2013 8,000 8,000 8,000
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+Fields and Grounds maintenance Equipment
+Tractor John deere 4400 1999 15 2014 35,000 35,000
+Trailer flatbed 2001 25 2026 8,000.00
+Mower # 1 John deere f-725 1994 15 2009 10,000.00
+Mower # 2 john deere f-935 1999 15 2014 18,000
+Mower #3 John deere f-935 2001 15 2016 10,000
+Mower Pownal 2006 10 2016 10,000
+Mower Durham 2010 10 2020 20,000
+Gator John Deere 2003 20 2023 12,000.00
+pavement high school main parking 1985 30 2015
+pavement high school bus circle 2006 20 2026 30,000.00
+pavement High school back lot 0 0 0
+pavement Middle access road 1988 27 2015 150,000
+pavement Middle parkinglot 1987 20 2007
+pavement middle back of school 2002 20 2022 50,000.00
+pavement Mast parking 1990 25 2015 50.000.00
+pavement Mast side walk upper 2004 20 2024 40,000.00
+pavement Mast side walk lower 2005 20 2025 40,000.00
+pavement Morse st bus road 2012 25 2037
+pavement Morse Parking Lot 2008 25 2033
+paving main parking Pownal 2000 15 2015 60,000
+paving side plot Pownal na na nainc, above
+paving main parking Durham 2010 25 2035
+
+Pavement main lot Central Office 2012 25 2037 30,000.00
+Pavement rear drive Central Office 2005 25 2030 10,000.00
+paving side plot Durham 2010 25 2035
+Buildings 0 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+Boiler 1-10 Middle School 2012 30 2042
+Boiler (water heater) Middle 2012 25 2037
+Boiler 1 Mast Landing 1990 30 2020 75,000.00
+Boiler 2 Mast Landing 1990 30 2020 75,000.00
+Boiler 1 Morse St. 1997 30 2027 200,000.00
+Boiler 2 Morse St 1997 30 2027 200,000.00
+Boiler 2 High School Burnham scotch marine 2008 46 2054
+Boiler 1 High school Cleaver 1974 50 2024 150,000.00
+Boiler 3 High School HB Smith 2003 35 2038
+Boiler Pownal 1998 20 2018 35,000
+Boiler Central Office 2007 25 2032 15,000
+Boiler Durham 2010 30 2040
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+carpet High School 300 wing 2008 40 2048
+carpet High school Main Hall class rms 2005 10 2015 15,000 20,000.00
+carpet High School 200 wing cls rms 2003 15 2018 15,000
+carpet High School Carpet auditorium 2003 15 2018 25,000
+carpet Middle Library & Office 2002 15 2017 12,000
+carpet Morse Wing A&B 2000 14 2014 30,000
+carpet Morse Wing C 2002 14 2016 20,000
+carpet Morse St. wing D 1998 15 2017 25,000 30,000.00
+carpet Mast Landing 2012 15 2027 100,000.00
+carpet main hall Pownal 2003 10 2013 25,000
+carpet library Pownal 2012 10 2022 40,000
+carpet classrooms Pownal 2012 10 2022
+carpet upper Central Office 2000 18 2018 10,000
+carpet lower com ed Central Office 2005 13 2018 8,000
+carpet library Durham 2010 15 2025 10,000
+carpet classrooms Durham 2010 15 2025 100,000
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+clock System Middle 2011 15 2026 10,000
+clock System High 2010 15 2025 10,000
+clock System Morse 2012 15 2027 10,000.00
+clock System Mast 1990 30 2020 10,000
+clock system Pownal 2000 15 2015 10,000
+clock system Durham 2010 15 2025 10,000
+duct work Mast Landing library ^^ 1990 50 2040
+elevator High school 1985 30 2015 35,000
+elevator Middle School 1989 25 2014 40,000
+elevator Mast Landing 1991 30 2021 35,000.00
+elevator Morse Street 1987 30 2017 35,000
+elevator Durham 2010 30 2040
+electrical upgrade high school breakers and recticles 2009 50 2058
+fire protection High School (alarms) 2003 12 2015 15,000 20,000.00
+fire protection High School (sprinklers) 2003 50 2053
+
+fire protection Middle ( alarms) 2005 12 2017 15,000
+fire protection Middle (sprinklers) 2002 50 2052
+fire protection mast (alarms) 2004 12 2016 15,000 30,000.00
+fire protection mast (sprinklers) 1990 50 2040
+fire protection Morse st (alarms) 2005 13 2018 15,000
+fire protection Morse st (sprinklers) 1985 50 2035
+fire protection Durham (alarms) 2010 15 2025 10,000
+fire protection Pownal 2013 15 2028 15,000
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+fuel tanks High 1999 35 2034
+fuel tanks middle 1999 35 2034
+fuel tanks mast 1999 35 2034
+fuel tanks morse 1999 35 2034
+fuel tanks propane Durham 2010 30 2040
+fuel tanks Pownal 1989 30 2019 50,000.00
+furnace High School Science wing 2003 30 2033 80,000
+furnace High School IA wing trane rooftop 2005 30 2035
+geothermal wells Durham 2010 25 2035
+geothermal pumps Durham 2010 12 2022 300,000
+heat exchangers Durham 2010 25 2035
+HV Air Handler unit 1 High School 1986 30 2016 50,000
+HV Air Handler unit 1 Middle 1989 30 2019 50,000.00
+HV Air handler unit 2 Middle 1989 30 2019 50,000.00
+HV Air Handler unit 3 Middle 1989 30 2019 50,000.00
+HV Air Handler unit 4 Middle 2002 30 2032 50,000
+HV Air Handler unit 1 wing D morse 1983 35 2018 50,000
+HV Air Handler unit 1 Mast harriseeket 1990 30 2020 50,000.00
+HV Air handler unit 2 Mast soule 1990 30 2020 50,000.00
+HV Air handler unit 3 Mast spring hill 1990 30 2020 50,000.00
+HV air handler unit 4 mast gym 1990 30 2020 50,000.00
+HV air handler unit 5 mast café' 1990 30 2020 50,000.00
+HVAC 1 Durham 2010 30 2040
+HVAC 2 Durham 2010 30 2040
+HVAC 3 Durham 2010 30 2040
+HVAC 4 Durham 2010 30 2040
+HVAC 5 Durham 2010 30 2040
+HVAC 6 Durham 2010 30 2040
+HVAC 7 Durham 2010 30 2040
+HVAC 8 Durham 2010 30 2040
+HVAC 9 Durham 2010 30 2040
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+hardwood floor high gym ^^^ 2011 30 2041
+hardwood floor Durham 2010 25 2035
+Gym floor Pownal 2004 20 2024 37,000.00
+lighting interior lighting Pownal 2006 25 2031 50,000
+lighting interior lighting Durham 2010 20 2030 25,000
+lighting parking lot high 2005 20 2025 15,000.00
+lighting parking lot mast 2008 20 2028 15,000
+lighting parking lot Middle 2008 20 2028 15,000
+
+lighting parking lot morse 2008 25 2033 15,000
+lighting outside building High school 2005 25 2030 5,000
+lighting outside high school gym 2003 25 2028 5,000.00
+lighting outside building high auditorium 2003 25 2028 5,000.00
+lighting outside building Middle 1989 27 2016 5,000
+lighting outside building Mast 1990 26 2016 5,000
+lighting outside building Morse 1990 30 2020
+phone system Pownal 2012 10 2022 12,000
+phone system Durham 2010 15 2025 20,000
+phone system High 2006 15 2021
+phone system middle 2011 15 2026
+phone system mast 2005 15 2020
+phone system morse 2010 15 2025
+playground equipment Durham 2010 20 2030 80,000
+playground equipment Pownal 2000 13 2013 10,000
+playground equipment Mast 1990 20 2010 10,000
+playground equipment morse 1999 20 2019
+quarry tile Durham 2010 50 2060
+Roof Main building Central Office 1992 25 2017 35,000
+Roof rear section Central Office 2009 30 2039
+Roof Garage Central Office 1985 30 2015 10,000
+Roof High School 100&200&300 wings 1989 25 2014 200,000
+Roof High School AP room 1989 25 2014 50,000
+Roof High School IA section 2004 25 2029
+Roof gym storage and weight room 2009 25 2034
+Roof high School Science Wing 2003 25 2028 150,000
+Roof High School Auditorium 2003 25 2028 200,000.00
+Roof High School Gym 2011 25 2036
+Roof Morse St Wing A 2006 30 2036
+Roof Morse St wing C 2006 30 2036
+Roof Morse St Wing D at lobby 2006 30 2036
+Roof Morse St Wing D pitched 1983 30 2013 25,000
+Roof Morse St Gym pitched 1983 30 2013 25,000
+Roof Mast landing 1990 25 2024 150,000.00
+Roof Middle Library metal 2003 50 2053
+Roof Middle 7th grade wing 2002 30 2032 100,000.00
+Roof middle 8th grade wing 2002 30 2032 100,000.00
+Roof Middle Gym area 1985 27 2012 50,000 50,000
+Roof Middle school Main building and Gym 2008 20 2028 150,000.00
+roof main building front Pownal 2011 25 2036 40,000
+roof main building rear Pownal 2005 25 2030 40,000
+roof gym area Pownal 1993 26 2019 30,000
+roof main building front Durham 2010 30 2040
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+security High school 2002 14 2016 15,000 20,000.00
+security Middle 2005 12 2017 15,000
+security Mast 2003 12 2015 15,000 20,000.00
+security Morse 2005 12 2017 15,000
+security system Pownal 2003 15 2018 19,000
+
+security system Durham 2010 15 2025 15,000
+septic system Pownal 1967 50 2017 50,000
+septic system Durham 2010 25 2035
+siding Middle Main building vinyl 2006 30 2036
+siding Gym and library middle 2003 30 2033 30,000
+siding Middle 7th &8th wings 2002 30 2032 30,000
+siding Morse Vinyl 2000 30 2030 30,000
+siding High science Metal 2003 50 2053
+siding High auditorium Metal 2003 50 2053
+siding high soffett&facia main building high 2004 50 2054
+siding Central Office 1999 50 2049
+siding soffett and facia Pownal 2011 45 2056
+siding soffett and facia Durham 2010 25 2035
+siding trim boards outside Pownal 1961 30 1991 10,000
+snow blower Pownal 2006 10 2016 10,000
+snow blower Durham 2010 9 2019 10,000
+Unit Ventilators High School ( ) 2008 30 2038
+Unit Ventilators Middle School ( ) 2002 35 2037
+vct (tile flooring) high school 100 wing * hall 1974 50 2024 80,000.00
+vct (tile flooring) high school 200 wing * hall 1974 50 2024 60,000.00
+vct (tile flooring) high school auditorium lobby 2003 50 2053
+vct (tile Flooring) music room high school 2003 50 2053
+vct (tile flooring) 100 wing classrooms * 1980 60 2040
+vct (tile flooring) science wing high school 2003 50 2053
+vct tile flooring Middle main building * 1989 50 2039
+vct tile flooring middle 7th &8th wings 2002 50 2052
+vct tile flooring Morse st lobby & hall D wing * 1983 50 2033 50,000
+vct tile flooring morse st Gym * 1983 50 2033 50,000
+vct tile flooring Mast all classrms 1990 50 2040
+vct tile 300 wing high school ** 2010 45 2055
+vct flooring Pownal 2000 50 2050
+vct flooring music room Pownal 1961 60 2021 10,000
+vct flooring Durham 2010 50 2060
+Water heater Morse kitchen 2011 20 2031 50,000
+Well & tanks Durham 2010 30 2040
+Well & tanks Pownal 1967 50 2017 45,000
+windows Durham 2010 25 2035
+windows main building Central Office 2006 30 2036
+windows spec ed lower Central Office 1990 30 2020 8,000.00
+windows business upper Central Office 1990 30 2020 8,000.00
+windows Pownal na 30 2015 50,000
+windows High 100 &200 wing 1983 45 2028 200,000.00
+windows High 300 wing 1983 45 2028 100,000.00
+windows high AP room 2008 30 2038
+windows High auditorium & music 2003 30 2033 40,000
+windows high IA section 1987 35 2022
+windows High science wing 2003 30 2033 50,000
+windows Middle 7th & 8th grade wings 2002 35 2037
+windows Middle main building 2005 30 2035
+
+windows Mast landing 1990 30 2020 50,000.00
+windows Morse A&B wings 1983 45 2028 100,000.00
+windows Morse C wing 1979 45 2024 50,000.00
+windows Morse D wing 1983 45 2028 50,000
+0 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+Kitchen equipment 0
+steamer High school w/kettle 2005 30 2035
+steamer Mast Landing w/kettle 1990 30 2020 15,000.00
+Kettle tilting Middle 2001 30 2031 15,000
+steamer Morse w/kettle cleveland 1982 31 2013 15,000
+oven High two vulcan stacked 1995 40 2035 18,000.00
+oven high combination 1995 40 2035 28,000.00
+oven Middle three vulcan two stacked 2001 40 2041
+oven Mast three Market forge 1991 40 2031 25,000
+oven Morse two vulcan stacked 2003 40 2043
+oven morse two blogett stacked 1982 40 2022 18,000.00
+dishwasher High Hobart 2012 15 2027 25,000.00
+dishwasher Middle champion 2012 25 2037
+dishwasher Mast Hobart 1991 22 2013 14,000
+dishwasher Morse Hobart 2012 28 2040
+dishwasher Pownal 2005 25 2030 15,000.00
+dishwasher Durham 2010 25 2035
+booster hot water Mast 2005 25 2030 15,000
+booster hot water Middle Hatco 2006 20 2026 10,000.00
+freezer High walk-in 1995 45 2040
+freezer Mast walk-in 1991 45 2036
+freezer Middle walk-in 2001 45 2046
+freezer Morse walk-in 1982 45 2027 100,000.00
+cooler high walk-in 1995 45 2040
+cooler middle walk-in 2001 45 2046
+cooler middle display federal 2001 30 2031 20,000
+cooler mast walk-in Thermal-kool 1991 45 2036
+cooler Morse walk-in 1982 45 2027 100,000.00
+cooler high milk chest three units 1995 45 2040
+cooler Mast Milk chest one unit 1991 45 2036
+cooler Morse milk chest one unit 1982 45 2027 10,000.00
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033
+steam table High 1962 51 2013 16,000
+steam table Middle 2001 50 2051
+steam table Morse 1982 31 2013 15,000
+steam table Mast 1991 50 2041
+range (gas) with oven high school 1995 50 2045
+range (gas) four burner Mast 1991 50 2041
+range (gas) four burner Middle select 2001 50 2051
+Ice Machine Mast Scotman 2002 30 2032 20,000
+refrigerator two door High comercial 1995 35 2030 20,000
+refrigerator one door High comercial 1995 35 2030 20,000
+refrigerator Middle comercial raetone 2001 30 2031 20,000
+disposal in sink High 2011 20 2031 2,000
+disposal in sink Middle 2001 20 2021 1,800.00
+disposal in sink Mast 2011 20 2031 2000
+disposal in sink Morse 2012 20 2032 2000

@@ -1,0 +1,428 @@
+counts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2700.51020.900 Ed Tech Salaries $6,889.84 $6,395.76 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2700.51040.900 Administrator Salary $126,602.99 $78,000.00 $121,197.70 $92,024.00 $105,680.00 $13,656.00 14.84
+1000.0000.2700.51060.900 Transportation Office $0.00 $0.00 $0.00 $0.00 $40,109.00 $40,109.00 0.00
+Clerical Support Salary
+1000.0000.2700.51180.900 Bus Drivers Salaries $482,704.11 $482,613.46 $476,791.92 $529,229.00 $609,326.00 $80,097.00 15.13
+1000.0000.2700.51200.900 Substitute Salaries $97,242.22 $76,594.85 $147,020.56 $77,112.00 $77,112.00 $0.00 0.00
+1000.0000.2700.52000.900 Sub Bus Driver Benefits $22,100.98 $14,378.75 $23,294.16 $11,983.00 $19,111.00 $7,128.00 59.48
+1000.0000.2700.52020.900 Ed Tech Benefits $2,126.98 $1,697.63 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2700.52040.900 Administrator Benefits $32,278.66 $21,333.88 $22,868.28 $20,362.00 $32,898.00 $12,536.00 61.57
+1000.0000.2700.52060.900 Transportation Office $0.00 $0.00 $0.00 $0.00 $9,707.00 $9,707.00 0.00
+Clerical Support Benefits
+1000.0000.2700.52080.900 Bus Driver Benefits $165,980.57 $156,815.73 $198,128.15 $244,463.00 $342,167.00 $97,704.00 39.97
+1000.0000.2700.52300.900 Retirement $825.55 $144.60 $514.90 $0.00 $0.00 $0.00 0.00
+1000.0000.2700.52320.900 Retirement $739.71 $786.02 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2700.52340.900 Retirement $2,232.75 $0.00 $0.00 $0.00 $5,284.00 $5,284.00 0.00
+1000.0000.2700.52360.900 Transportation Office $0.00 $0.00 $0.00 $0.00 $2,005.00 $2,005.00 0.00
+Clerical Retirement
+1000.0000.2700.52380.900 Retirement $8,301.40 $6,232.12 $2,741.30 $26,463.00 $32,904.00 $6,441.00 24.34
+1000.0000.2700.53000.900 Purchased Professional $12,784.29 $4,008.83 $9,644.42 $13,932.00 $13,665.00 ($267.00) (1.92)
+1000.0000.2700.53300.900 Employee Training $0.00 $0.00 $2,306.88 $2,100.00 $2,800.00 $700.00 33.33
+1000.0000.2700.53400.900 Contracted Services $0.00 $4,237.40 $11,875.73 $7,700.00 $6,100.00 ($1,600.00) (20.78)
+Printed: 02/11/2026 10:36:28 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 75 of 89
+
+RSU No. 5
+FY27 Article 8 Transportation & Buses- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2700.54300.900 Purchased Repair/Maint $127,243.84 $164,681.62 $216,652.39 $180,200.00 $259,200.00 $79,000.00 43.84
+1000.0000.2700.54450.900 Bus Garage Lease $12,500.00 $13,000.00 $13,500.00 $13,000.00 $13,000.00 $0.00 0.00
+1000.0000.2700.55200.900 Insurance $25,198.07 $28,998.05 $29,062.00 $31,968.00 $31,968.00 $0.00 0.00
+1000.0000.2700.55320.900 Telephone $0.00 $869.95 $982.46 $3,000.00 $3,984.00 $984.00 32.80
+1000.0000.2700.55800.900 Travel $0.00 $204.34 $639.36 $500.00 $2,000.00 $1,500.00 300.00
+1000.0000.2700.56220.900 Electricity $0.00 $158.02 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2700.56260.900 Fleet Fuel $166,812.87 $138,458.18 $141,292.73 $175,200.00 $189,000.00 $13,800.00 7.88
+1000.0000.2700.56700.900 Supplies $33,654.37 $73,839.91 $32,062.85 $80,530.00 $71,930.00 ($8,600.00) (10.68)
+1000.0000.2700.58100.900 Dues and Fees $4,575.50 $3,836.00 $525.00 $350.00 $400.00 $50.00 14.29
+1000.0000.2700.58310.900 Principal-Bus Lease $74,096.28 $88,555.26 $136,166.57 $228,649.00 $309,872.00 $81,223.00 35.52
+Purchase
+Program: OVERHEAD - 0000 $1,404,890.98 $1,365,840.36 $1,587,267.36 $1,738,765.00 $2,180,222.00 $441,457.00 25.39
+Function: TRANSPORTATION - 2700 $1,404,890.98 $1,365,840.36 $1,587,267.36 $1,738,765.00 $2,180,222.00 $441,457.00 25.39
+1000.0000.2750.51020.900 Ed Tech Salaries $740.28 $11.29 $1,053.32 $18,760.00 $18,760.00 $0.00 0.00
+1000.0000.2750.51180.900 Support Wages $66,640.21 $72,046.77 $99,035.31 $147,392.00 $147,392.00 $0.00 0.00
+1000.0000.2750.52020.900 Ed Tech Benefits $422.39 $5.80 $242.13 $2,915.00 $4,649.00 $1,734.00 59.49
+1000.0000.2750.52080.900 Support Benefits $10,131.49 $11,911.94 $15,900.31 $22,905.00 $36,528.00 $13,623.00 59.48
+1000.0000.2750.52320.900 Retirement $159.09 $0.51 $47.08 $839.00 $906.00 $67.00 7.99
+1000.0000.2750.52380.900 Retirement $28.28 $184.85 $73.32 $0.00 $0.00 $0.00 0.00
+1000.0000.2750.55100.900 OOD PURCHASED $0.00 $95,153.75 $0.00 $0.00 $0.00 $0.00 0.00
+TRANSPORTATION
+Printed: 02/11/2026 10:36:28 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 76 of 89
+
+RSU No. 5
+FY27 Article 8 Transportation & Buses- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Program: OVERHEAD - 0000 $78,121.74 $179,314.91 $116,351.47 $192,811.00 $208,235.00 $15,424.00 8.00
+Function: TRANSPORTATION SPECIAL ED - 2750 $78,121.74 $179,314.91 $116,351.47 $192,811.00 $208,235.00 $15,424.00 8.00
+1000.0000.2770.55100.900 HOMELESS PURCHASED $0.00 $44,141.52 $19,459.24 $0.00 $0.00 $0.00 0.00
+TRANSPORTATION
+Program: OVERHEAD - 0000 $0.00 $44,141.52 $19,459.24 $0.00 $0.00 $0.00 0.00
+Function: TRANSPORTATION HOMELESS - 2770 $0.00 $44,141.52 $19,459.24 $0.00 $0.00 $0.00 0.00
+Cost Center: SYSTEM WIDE - 900 $1,483,012.72 $1,589,296.79 $1,723,078.07 $1,931,576.00 $2,388,457.00 $456,881.00 23.65
+Grand Total: $1,483,012.72 $1,589,296.79 $1,723,078.07 $1,931,576.00 $2,388,457.00 $456,881.00 23.65
+End of Report
+Printed: 02/11/2026 10:36:28 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 77 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.010 Salaries $194,423.20 $196,250.92 $201,009.80 $208,967.00 $210,241.00 $1,274.00 0.61
+1000.0000.2600.52080.010 Custodian Benefits $53,127.43 $52,480.60 $41,596.62 $57,506.00 $78,332.00 $20,826.00 36.22
+1000.0000.2600.52380.010 Retirement $1,677.39 $1,716.00 $1,415.20 $10,448.00 $11,353.00 $905.00 8.66
+1000.0000.2600.53000.010 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.010 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54300.010 Purchased Repairs/Maint $96,340.60 $128,554.36 $129,487.93 $117,387.00 $96,459.00 ($20,928.00) (17.83)
+1000.0000.2600.55200.010 Insurance $32,679.04 $20,520.21 $43,509.00 $47,860.00 $47,860.00 $0.00 0.00
+1000.0000.2600.55320.010 Telephone $9,217.33 $10,135.01 $11,222.40 $9,494.00 $11,559.00 $2,065.00 21.75
+1000.0000.2600.55800.010 Travel $0.00 $45.56 $0.00 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.010 Supplies $31,415.80 $22,761.80 $19,793.53 $29,600.00 $31,483.00 $1,883.00 6.36
+1000.0000.2600.56011.010 Materials for Repair $2,321.61 $6,592.30 $6,362.42 $10,100.00 $10,100.00 $0.00 0.00
+1000.0000.2600.56013.010 Major Maintenance $4,980.32 $2,355.00 $26,047.33 $16,705.00 $13,820.00 ($2,885.00) (17.27)
+1000.0000.2600.56220.010 Electricity - Durham $86,520.41 $87,261.02 $79,413.34 $144,000.00 $144,000.00 $0.00 0.00
+1000.0000.2600.56240.010 Heating Fuel $17,413.11 $20,105.35 $27,892.98 $13,000.00 $28,500.00 $15,500.00 119.23
+Program: OVERHEAD - 0000 $530,116.24 $548,778.13 $587,750.55 $665,325.00 $683,965.00 $18,640.00 2.80
+Function: OPERATION OF PLANT - 2600 $530,116.24 $548,778.13 $587,750.55 $665,325.00 $683,965.00 $18,640.00 2.80
+Cost Center: DURHAM COMMUNITY - 010 $530,116.24 $548,778.13 $587,750.55 $665,325.00 $683,965.00 $18,640.00 2.80
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 78 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.020 Custodial Salaries $144,126.69 $170,157.14 $172,513.31 $257,246.00 $214,884.00 ($42,362.00) (16.47)
+1000.0000.2600.52080.020 Custodian Benefits $43,174.79 $100,138.60 $72,298.74 $122,678.00 $125,451.00 $2,773.00 2.26
+1000.0000.2600.52380.020 Retirement $910.78 $2,640.94 $1,337.71 $12,862.00 $11,604.00 ($1,258.00) (9.78)
+1000.0000.2600.53000.020 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.020 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54100.020 Water/Sewage $18,957.62 $20,892.23 $34,342.68 $19,512.00 $19,512.00 $0.00 0.00
+1000.0000.2600.54300.020 Purchased Repairs/Maint $39,256.53 $66,441.20 $63,790.44 $46,239.00 $54,090.00 $7,851.00 16.98
+1000.0000.2600.55200.020 Insurance $15,318.31 $20,520.21 $19,987.00 $21,986.00 $21,986.00 $0.00 0.00
+1000.0000.2600.55320.020 Telephone $4,645.51 $5,653.58 $9,384.23 $4,785.00 $9,666.00 $4,881.00 102.01
+1000.0000.2600.55800.020 Travel $0.00 $44.22 $99.40 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.020 Supplies $28,630.04 $24,140.04 $12,063.44 $24,750.00 $26,034.00 $1,284.00 5.19
+1000.0000.2600.56011.020 Materials for Repair $4,715.14 $826.60 $2,922.78 $6,400.00 $6,400.00 $0.00 0.00
+1000.0000.2600.56013.020 Major Maintenance $6,120.56 $2,339.75 $18,891.52 $4,706.00 $29,255.00 $24,549.00 521.65
+1000.0000.2600.56220.020 Electricity $21,453.41 $21,990.85 $36,148.50 $10,000.00 $10,000.00 $0.00 0.00
+1000.0000.2600.56240.020 Heating Fuel $44,779.81 $27,977.85 $39,023.35 $41,000.00 $40,500.00 ($500.00) (1.22)
+Program: OVERHEAD - 0000 $372,089.19 $463,763.21 $482,803.10 $572,422.00 $569,640.00 ($2,782.00) (0.49)
+Function: OPERATION OF PLANT - 2600 $372,089.19 $463,763.21 $482,803.10 $572,422.00 $569,640.00 ($2,782.00) (0.49)
+Cost Center: MORSE STREET - 020 $372,089.19 $463,763.21 $482,803.10 $572,422.00 $569,640.00 ($2,782.00) (0.49)
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 79 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.030 Custodial Salaries $65,224.21 $97,052.51 $82,112.69 $100,353.00 $100,729.00 $376.00 0.37
+1000.0000.2600.52080.030 Custodian Benefits $11,523.07 $21,268.09 $15,219.76 $26,752.00 $36,655.00 $9,903.00 37.02
+1000.0000.2600.52380.030 Retirement $0.00 $0.00 $0.00 $5,018.00 $5,439.00 $421.00 8.39
+1000.0000.2600.53000.030 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.030 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54300.030 Purchased Repairs/Maint $34,487.40 $52,590.76 $62,694.89 $37,764.00 $40,389.00 $2,625.00 6.95
+1000.0000.2600.55200.030 Insurance $9,190.98 $20,520.21 $12,750.00 $14,025.00 $14,025.00 $0.00 0.00
+1000.0000.2600.55320.030 Telephone $2,967.72 $4,082.39 $6,347.21 $3,057.00 $6,537.00 $3,480.00 113.84
+1000.0000.2600.55800.030 Travel $0.00 $37.52 $0.00 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.030 Supplies $18,226.32 $12,283.95 $6,713.44 $12,925.00 $13,652.00 $727.00 5.62
+1000.0000.2600.56011.030 Materials for Repair $3,264.73 $2,064.97 $429.09 $6,700.00 $6,700.00 $0.00 0.00
+1000.0000.2600.56013.030 Major Maintenance $0.00 $15,303.41 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.56050.030 Furniture & Equipment - $2,321.35 $0.00 $0.00 $0.00 $0.00 $0.00 0.00
+Non Instructional PES
+1000.0000.2600.56220.030 Electricity $11,965.22 $12,057.25 $16,163.12 $8,000.00 $8,000.00 $0.00 0.00
+1000.0000.2600.56240.030 Heating Fuel $26,368.55 $27,016.12 $19,448.98 $28,000.00 $21,000.00 ($7,000.00) (25.00)
+Program: OVERHEAD - 0000 $185,539.55 $264,277.18 $221,879.18 $242,852.00 $253,384.00 $10,532.00 4.34
+Function: OPERATION OF PLANT - 2600 $185,539.55 $264,277.18 $221,879.18 $242,852.00 $253,384.00 $10,532.00 4.34
+Cost Center: POWNAL ELEMENTARY - 030 $185,539.55 $264,277.18 $221,879.18 $242,852.00 $253,384.00 $10,532.00 4.34
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 80 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.040 Custodian Salaries $130,629.88 $114,676.96 $109,637.35 $146,409.00 $174,158.00 $27,749.00 18.95
+1000.0000.2600.52080.040 Custodian Benefits $58,148.61 $96,671.60 $43,089.99 $84,153.00 $121,717.00 $37,564.00 44.64
+1000.0000.2600.52380.040 Retirement $7,045.25 $5,574.49 $5,554.06 $7,320.00 $9,405.00 $2,085.00 28.48
+1000.0000.2600.53000.040 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.040 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54100.040 Water/Sewage $9,758.31 $9,658.49 $12,916.25 $10,958.00 $10,958.00 $0.00 0.00
+1000.0000.2600.54300.040 Purchased Repairs/Maint $46,562.42 $83,999.02 $66,641.20 $53,057.00 $57,824.00 $4,767.00 8.98
+1000.0000.2600.55200.040 Insurance $15,318.31 $20,520.21 $19,987.00 $21,986.00 $21,986.00 $0.00 0.00
+1000.0000.2600.55320.040 Telephone $4,211.45 $4,313.92 $4,533.04 $4,337.00 $4,669.00 $332.00 7.66
+1000.0000.2600.55800.040 Travel $0.00 $152.76 $84.00 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.040 Supplies $22,365.80 $23,654.88 $15,084.91 $22,700.00 $23,898.00 $1,198.00 5.28
+1000.0000.2600.56011.040 Material Repair $5,281.83 $2,858.62 $1,804.29 $6,500.00 $6,500.00 $0.00 0.00
+1000.0000.2600.56013.040 Major Maintenance $4,751.94 $14,004.00 $24,485.65 $5,930.00 $17,500.00 $11,570.00 195.11
+1000.0000.2600.56220.040 Electricity $24,324.85 $25,829.82 $37,249.17 $10,000.00 $10,000.00 $0.00 0.00
+1000.0000.2600.56240.040 Heating Fuel $34,062.19 $27,809.11 $21,087.43 $39,000.00 $23,500.00 ($15,500.00) (39.74)
+Program: OVERHEAD - 0000 $362,460.84 $429,723.88 $362,154.34 $412,608.00 $482,373.00 $69,765.00 16.91
+Function: OPERATION OF PLANT - 2600 $362,460.84 $429,723.88 $362,154.34 $412,608.00 $482,373.00 $69,765.00 16.91
+Cost Center: MAST LANDING - 040 $362,460.84 $429,723.88 $362,154.34 $412,608.00 $482,373.00 $69,765.00 16.91
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 81 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.050 Custodian Salaries $159,607.98 $218,450.42 $175,400.21 $245,456.00 $246,731.00 $1,275.00 0.52
+1000.0000.2600.52080.050 Custodian Benefits $60,531.88 $141,292.60 $56,452.90 $106,699.00 $134,482.00 $27,783.00 26.04
+1000.0000.2600.52380.050 Retirement $3,107.40 $2,623.77 $2,909.91 $12,273.00 $13,323.00 $1,050.00 8.56
+1000.0000.2600.53000.050 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.050 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54100.050 Water/Sewage $12,551.51 $11,488.82 $13,481.94 $13,167.00 $13,167.00 $0.00 0.00
+1000.0000.2600.54300.050 Purchased Repair $61,691.90 $81,041.98 $52,319.60 $57,081.00 $67,118.00 $10,037.00 17.58
+1000.0000.2600.55200.050 Insurance $14,297.09 $20,520.21 $18,897.00 $20,787.00 $20,787.00 $0.00 0.00
+1000.0000.2600.55320.050 Telephone $8,916.28 $10,914.77 $9,123.88 $9,183.00 $9,398.00 $215.00 2.34
+1000.0000.2600.55800.050 Travel $0.00 $45.56 $35.50 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.050 Supplies $25,762.34 $25,078.44 $14,746.40 $22,525.00 $23,766.00 $1,241.00 5.51
+1000.0000.2600.56011.050 Materials for Repair $4,258.57 $1,946.18 $4,167.99 $6,950.00 $6,950.00 $0.00 0.00
+1000.0000.2600.56013.050 Major Maintenance $118.00 $4,602.40 $35,314.99 $24,329.00 $24,800.00 $471.00 1.94
+1000.0000.2600.56050.050 Furniture & Equipment - $1,513.85 $0.00 $0.00 $0.00 $0.00 $0.00 0.00
+Non Instructional FMS
+1000.0000.2600.56220.050 Electricity $25,924.67 $26,124.10 $31,113.60 $14,000.00 $14,000.00 $0.00 0.00
+1000.0000.2600.56240.050 Heating Fuel $47,859.21 $53,610.39 $65,791.60 $50,000.00 $67,000.00 $17,000.00 34.00
+Program: OVERHEAD - 0000 $426,140.68 $597,739.64 $479,755.52 $582,708.00 $641,780.00 $59,072.00 10.14
+Function: OPERATION OF PLANT - 2600 $426,140.68 $597,739.64 $479,755.52 $582,708.00 $641,780.00 $59,072.00 10.14
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $426,140.68 $597,739.64 $479,755.52 $582,708.00 $641,780.00 $59,072.00 10.14
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 82 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.300 Custodian Salaries $197,633.91 $184,711.60 $157,315.64 $253,639.00 $245,727.00 ($7,912.00) (3.12)
+1000.0000.2600.51200.300 Salaries of Temporary $5,577.50 $2,662.50 $57,980.74 $37,212.00 $74,424.00 $37,212.00 100.00
+Employees
+1000.0000.2600.52000.300 Employee Benefits $669.65 $0.00 $6,079.39 $5,782.00 $18,445.00 $12,663.00 219.01
+1000.0000.2600.52080.300 Custodian Benefits $66,695.09 $65,673.60 $40,819.92 $109,434.00 $134,810.00 $25,376.00 23.19
+1000.0000.2600.52380.300 Retirement $2,768.08 $1,950.75 $0.00 $12,682.00 $13,269.00 $587.00 4.63
+1000.0000.2600.53000.300 Purchased Professional $0.00 $0.00 $0.00 $118.00 $118.00 $0.00 0.00
+1000.0000.2600.53300.300 Employee Training $0.00 $0.00 $0.00 $125.00 $125.00 $0.00 0.00
+1000.0000.2600.54100.300 Water/Sewage $28,692.52 $17,333.75 $15,338.20 $28,960.00 $28,960.00 $0.00 0.00
+1000.0000.2600.54300.300 Purchased Repair $67,516.39 $112,987.94 $104,628.69 $93,376.00 $106,897.00 $13,521.00 14.48
+1000.0000.2600.55200.300 Insurance $15,318.31 $20,520.21 $21,796.00 $23,976.00 $23,976.00 $0.00 0.00
+1000.0000.2600.55320.300 Telephone $10,071.37 $8,985.13 $11,644.91 $10,373.00 $11,994.00 $1,621.00 15.63
+1000.0000.2600.55800.300 Travel $0.00 $0.00 $0.00 $15.00 $15.00 $0.00 0.00
+1000.0000.2600.56000.300 Supplies $46,921.43 $31,002.79 $28,594.41 $37,200.00 $39,254.00 $2,054.00 5.52
+1000.0000.2600.56011.300 Materials for Repair $8,634.37 $2,302.80 $997.53 $6,168.00 $7,600.00 $1,432.00 23.22
+1000.0000.2600.56013.300 Major Maintenance $2,355.19 $10,380.72 $0.00 $25,045.00 $40,495.00 $15,450.00 61.69
+1000.0000.2600.56220.300 Electricity $46,100.46 $48,384.14 $74,550.37 $42,000.00 $42,000.00 $0.00 0.00
+1000.0000.2600.56240.300 Heating Fuel $97,169.45 $77,846.12 $80,732.48 $91,000.00 $82,000.00 ($9,000.00) (9.89)
+Program: OVERHEAD - 0000 $596,123.72 $584,742.05 $600,478.28 $777,105.00 $870,109.00 $93,004.00 11.97
+Function: OPERATION OF PLANT - 2600 $596,123.72 $584,742.05 $600,478.28 $777,105.00 $870,109.00 $93,004.00 11.97
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 83 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2680.58310.300 Principal-High School $900,000.00 $680,000.00 $680,000.00 $680,000.00 $680,000.00 $0.00 0.00
+Renovation
+1000.0000.2680.58320.300 Interest-High School $327,425.00 $289,000.00 $255,000.00 $221,000.00 $195,500.00 ($25,500.00) (11.54)
+Renovation
+Program: OVERHEAD - 0000 $1,227,425.00 $969,000.00 $935,000.00 $901,000.00 $875,500.00 ($25,500.00) (2.83)
+Function: CAPITAL ENHANCEMENT & IMPROVEMENT - $1,227,425.00 $969,000.00 $935,000.00 $901,000.00 $875,500.00 ($25,500.00) (2.83)
+2680
+Cost Center: FREEPORT HIGH SCHOOL - 300 $1,823,548.72 $1,553,742.05 $1,535,478.28 $1,678,105.00 $1,745,609.00 $67,504.00 4.02
+1000.0000.2600.54300.900 Purchaed Repairs $5,273.03 $2,004.50 $1,230.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.55800.900 Travel $137.35 $0.00 $138.18 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.56000.900 Supplies $4,993.18 $886.62 $166.68 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.56011.900 Materials for Repair $337.63 $904.25 $0.00 $0.00 $0.00 $0.00 0.00
+Program: OVERHEAD - 0000 $10,741.19 $3,795.37 $1,534.86 $0.00 $0.00 $0.00 0.00
+Function: OPERATION OF PLANT - 2600 $10,741.19 $3,795.37 $1,534.86 $0.00 $0.00 $0.00 0.00
+1000.0000.2620.51040.900 Administrator Salary $2,284.30 $90,460.38 $94,500.00 $100,170.00 $105,680.00 $5,510.00 5.50
+1000.0000.2620.51180.900 Salaries $286,471.93 $209,839.13 $236,640.37 $366,326.00 $318,456.00 ($47,870.00) (13.07)
+1000.0000.2620.51200.900 Other Wages $0.00 $0.00 $2,551.68 $0.00 $0.00 $0.00 0.00
+1000.0000.2620.52000.900 Maintenance Benefits $0.00 $73,922.60 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2620.52040.900 Administrator Benefits $482.56 $15,733.99 $17,718.55 $26,151.00 $32,898.00 $6,747.00 25.80
+1000.0000.2620.52080.900 Benefits $84,981.29 $64,100.89 $70,859.05 $145,542.00 $138,749.00 ($6,793.00) (4.67)
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 84 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2620.52340.900 Administrator Retirement $0.00 $3,461.60 $4,724.98 $0.00 $5,284.00 $5,284.00 0.00
+1000.0000.2620.52380.900 Retirement $10,891.75 $8,333.08 $8,507.68 $18,316.00 $17,197.00 ($1,119.00) (6.11)
+1000.0000.2620.53000.900 Purchased Professional ($3,060.35) $632.10 $3,355.54 $5,396.00 $6,066.00 $670.00 12.42
+1000.0000.2620.53300.900 Training & Development $0.00 $175.00 $0.00 $350.00 $350.00 $0.00 0.00
+1000.0000.2620.54300.900 Purchased Repair $32,399.53 $39,697.33 $35,624.11 $40,431.00 $44,666.00 $4,235.00 10.47
+1000.0000.2620.55800.900 Travel $2,622.20 $3,403.18 $2,566.86 $3,382.00 $3,382.00 $0.00 0.00
+1000.0000.2620.56000.900 Supplies $46,267.89 $37,609.26 $41,228.57 $62,341.00 $60,841.00 ($1,500.00) (2.41)
+1000.0000.2620.56260.900 Fleet Fuel $0.00 $0.00 $0.00 $11,342.00 $11,342.00 $0.00 0.00
+1000.0000.2620.57300.900 Equipment $8,944.98 $1,193.17 $54,691.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2620.58100.900 Dues & Fees $170.00 $0.00 $225.00 $350.00 $350.00 $0.00 0.00
+Program: OVERHEAD - 0000 $472,456.08 $548,561.71 $573,193.39 $780,097.00 $745,261.00 ($34,836.00) (4.47)
+Function: MAINTENANCE OF BUILDINGS - 2620 $472,456.08 $548,561.71 $573,193.39 $780,097.00 $745,261.00 ($34,836.00) (4.47)
+1000.0000.2650.54300.900 Repair & Maintenance $0.00 $0.00 $0.00 $11,100.00 $12,000.00 $900.00 8.11
+Services
+1000.0000.2650.54449.900 Lease Purchase of $0.00 $0.00 $0.00 $33,600.00 $70,886.00 $37,286.00 110.97
+Non-Instructional
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $44,700.00 $82,886.00 $38,186.00 85.43
+Function: Vehicle Operation & Maint (non Student $0.00 $0.00 $0.00 $44,700.00 $82,886.00 $38,186.00 85.43
+Transport) - 2650
+1000.0000.2670.55900.900 Crossing Guards $4,165.32 $4,403.19 $4,528.31 $0.00 $0.00 $0.00 0.00
+Program: OVERHEAD - 0000 $4,165.32 $4,403.19 $4,528.31 $0.00 $0.00 $0.00 0.00
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 85 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: Safety - 2670 $4,165.32 $4,403.19 $4,528.31 $0.00 $0.00 $0.00 0.00
+1000.0000.2680.54449.900 Lease Purchase of $0.00 $0.00 $0.00 $0.00 $254,455.00 $254,455.00 0.00
+Non-Instructional
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 $254,455.00 $254,455.00 0.00
+Function: CAPITAL ENHANCEMENT & IMPROVEMENT - $0.00 $0.00 $0.00 $0.00 $254,455.00 $254,455.00 0.00
+2680
+1000.0000.2690.54300.900 Capital Renewal/Track $35,000.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00
+Replacement
+1000.0000.2690.54500.900 Capital Renewal/Tennis $40,000.00 $0.00 $0.00 $0.00 $0.00 $0.00 0.00
+Courts Replacement
+1000.0000.2690.58310.900 Capital Improvements $329,137.27 $364,136.27 $472,229.38 $481,000.00 $482,000.00 $1,000.00 0.21
+Program: OVERHEAD - 0000 $404,137.27 $364,136.27 $472,229.38 $481,000.00 $482,000.00 $1,000.00 0.21
+Function: CAPITAL RENEWAL & RENOVATION - 2690 $404,137.27 $364,136.27 $472,229.38 $481,000.00 $482,000.00 $1,000.00 0.21
+Cost Center: SYSTEM WIDE - 900 $891,499.86 $920,896.54 $1,051,485.94 $1,305,797.00 $1,564,602.00 $258,805.00 19.82
+1000.0000.2600.51180.941 Support Salary $2,750.02 $2,036.50 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.52080.941 Support Benefits $906.57 $735.44 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.52380.941 Custodian Retirement $38.28 $91.62 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.53300.941 Employee Training $0.00 $1,175.17 $0.00 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.54100.941 Water/Sewage $1,270.90 $1,283.91 $1,310.70 $1,271.00 $1,271.00 $0.00 0.00
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 86 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.54300.941 Purchaed Repairs $11,377.89 $12,790.39 $6,372.13 $6,120.00 $16,348.00 $10,228.00 167.12
+1000.0000.2600.55320.941 Telephone $5,804.02 $5,899.85 $6,604.97 $5,978.00 $6,803.00 $825.00 13.80
+1000.0000.2600.55800.941 Travel $0.00 $0.00 $119.42 $0.00 $0.00 $0.00 0.00
+1000.0000.2600.56000.941 Supplies $2,272.92 $2,690.71 $3,609.36 $1,550.00 $1,782.00 $232.00 14.97
+1000.0000.2600.56011.941 Materials for Repair $2,803.96 $2,353.25 $1,788.87 $1,275.00 $2,700.00 $1,425.00 111.76
+1000.0000.2600.56013.941 Major Maintenance $159.31 $92.33 $3,995.29 $5,500.00 $15,020.00 $9,520.00 173.09
+1000.0000.2600.56220.941 Electricity $4,380.76 $4,678.96 $5,245.87 $4,000.00 $4,000.00 $0.00 0.00
+1000.0000.2600.56240.941 Heating Fuel $4,605.82 $3,741.27 $3,933.93 $5,000.00 $4,500.00 ($500.00) (10.00)
+Program: OVERHEAD - 0000 $36,370.45 $37,569.40 $32,980.54 $30,694.00 $52,424.00 $21,730.00 70.80
+Function: OPERATION OF PLANT - 2600 $36,370.45 $37,569.40 $32,980.54 $30,694.00 $52,424.00 $21,730.00 70.80
+Cost Center: CENTRAL OFFICE - 941 $36,370.45 $37,569.40 $32,980.54 $30,694.00 $52,424.00 $21,730.00 70.80
+Grand Total: $4,627,765.53 $4,816,490.03 $4,754,287.45 $5,490,511.00 $5,993,777.00 $503,266.00 9.17
+End of Report
+Printed: 02/11/2026 10:44:09 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 87 of 89
+
+RSU No. 5
+FY27 Article 10 Debt Service- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.5100.58310.900 Principal Payments-State $995,302.00 $995,302.00 $995,302.00 $995,302.00 $995,302.00 $0.00 0.00
+Supported Debt
+1000.0000.5100.58320.900 Interest Payments-State $186,302.54 $144,092.97 $115,761.52 $92,126.00 $76,275.00 ($15,851.00) (17.21)
+Supported Debt
+Program: OVERHEAD - 0000 $1,181,604.54 $1,139,394.97 $1,111,063.52 $1,087,428.00 $1,071,577.00 ($15,851.00) (1.46)
+Function: STATE SUPPORTED DEBT SERVICE - 5100 $1,181,604.54 $1,139,394.97 $1,111,063.52 $1,087,428.00 $1,071,577.00 ($15,851.00) (1.46)
+Cost Center: SYSTEM WIDE - 900 $1,181,604.54 $1,139,394.97 $1,111,063.52 $1,087,428.00 $1,071,577.00 ($15,851.00) (1.46)
+Grand Total: $1,181,604.54 $1,139,394.97 $1,111,063.52 $1,087,428.00 $1,071,577.00 ($15,851.00) (1.46)
+End of Report
+Printed: 02/11/2026 10:35:31 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 88 of 89
+
+RSU No. 5
+FY27 Article 11 All Other Expenditures- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.3100.59100.900 Nutrition Assessment $0.00 $293,245.00 $185,334.00 $139,591.00 $69,796.00 ($69,795.00) (50.00)
+Program: OVERHEAD - 0000 $0.00 $293,245.00 $185,334.00 $139,591.00 $69,796.00 ($69,795.00) (50.00)
+Function: FOOD SERVICES OPERATIONS - 3100 $0.00 $293,245.00 $185,334.00 $139,591.00 $69,796.00 ($69,795.00) (50.00)
+Cost Center: SYSTEM WIDE - 900 $0.00 $293,245.00 $185,334.00 $139,591.00 $69,796.00 ($69,795.00) (50.00)
+Grand Total: $0.00 $293,245.00 $185,334.00 $139,591.00 $69,796.00 ($69,795.00) (50.00)
+End of Report
+Printed: 02/11/2026 10:35:38 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 89 of 89

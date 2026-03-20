@@ -1,0 +1,2710 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/2a6f3ea8-7204-4171-b4bc-f34faf8714f3
+SECTION: /budget/financial-statements
+TITLE: 2016-2017 Report
+TYPE: Finalsite-PDF
+============================================================
+
+REGIONAL SCHOOL UNIT NO. 5
+FINANCIAL REPORT
+JUNE 30, 2017
+
+TABLE OF CONTENTS
+INDEPENDENT AUDITOR’S REPORT ............................................................................................................ 1
+MANAGEMENT’S DISCUSSION AND ANALYSIS ......................................................................................... 3
+BASIC FINANCIAL STATEMENTS
+Statement 1 Statement of Net Position .............................................................................................. 11
+Statement 2 Statement of Activities................................................................................................... 12
+Statement 3 Balance Sheet - Governmental Funds ............................................................................ 13
+Statement 4 Reconciliation of the Balance Sheet of Governmental Funds to
+the Statement of Net Position ........................................................................................ 14
+Statement 5 Statement of Revenues, Expenditures and Changes in Fund
+Balances - Governmental Funds .................................................................................... 15
+Statement 6 Reconciliation of the Statement of Revenues, Expenditures,
+and Changes in Fund Balances of Governmental Funds to the
+Statement of Activities................................................................................................... 16
+Statement 7 Statement of Fiduciary Net Position - Fiduciary Funds ................................................. 17
+Notes to the Basic Financial Statements ..................................................................................................... 18
+REQUIRED SUPPLEMENTARY INFORMATION
+Schedule 1 Budgetary Comparison Schedule - Budget and Actual –
+General Fund – Budgetary Basis ................................................................................... 35
+Schedule 2 Schedule of the District’s Proportionate Share of the Net
+Pension Liability ............................................................................................................ 37
+Schedule 3 Schedule of the District’s Employer Contributions ....................................................... 38
+Notes to the Required Supplementary Information .................................................................................... 39
+OTHER SUPPLEMENTARY INFORMATION
+Schedule 4 Combining Balance Sheet – Non-major Governmental Funds ...................................... 41
+Schedule 5 Combining Statement of Revenues, Expenditures and Changes
+in Fund Balances – Non-major Governmental Funds .................................................... 43
+Schedule 6 Combining Statement of Fiduciary Net Position – Fiduciary
+Funds ............................................................................................................................. 44
+Statement of Cash Receipts, Disbursements and Changes in Cash Balances:
+Schedule 7 Freeport High School Student Activity Funds ............................................................... 45
+Schedule 8 Freeport Middle School Student Activity Funds ........................................................... 47
+Schedule 9 Durham Community School Student Activity Funds ..................................................... 48
+Schedule 10 Pownal Elementary School Activity Funds ................................................................... 49
+Schedule 11 Mast Landing School Activity Funds ............................................................................ 50
+
+INDEPENDENT AUDITOR’S REPORT
+School Board of Directors
+Regional School Unit No. 5
+Freeport, Maine
+Report on the Financial Statements
+We have audited the accompanying financial statements of the governmental activities, each major fund, and the
+aggregate remaining fund information of Regional School Unit No. 5, as of and for the year ended June 30, 2017, and the
+related notes to the financial statements, which collectively comprise the RSU’s basic financial statements as listed in the
+table of contents.
+Management’s Responsibility for the Financial Statements
+Regional School Unit No. 5’s management is responsible for the preparation and fair presentation of these financial
+statements in accordance with accounting principles generally accepted in the United States of America; this includes the
+design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial
+statements that are free from material misstatement, whether due to fraud or error.
+Auditor’s Responsibility
+Our responsibility is to express opinions on these financial statements based on our audit. We conducted our audit in
+accordance with auditing standards generally accepted in the United States of America and the standards applicable to
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United States.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial
+statements. The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material
+misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor
+considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to
+design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the entity’s internal control. Accordingly, we express no such opinion. An audit also includes evaluating
+the appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by
+management, as well as evaluating the overall presentation of the financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit
+opinions.
+Opinions
+In our opinion, the financial statements referred to above present fairly, in all material respects, the respective financial
+position of the governmental activities, each major fund, and the aggregate remaining fund information of Regional
+School Unit No. 5, as of June 30, 2017, and the respective changes in financial position thereof for the year then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Tel: 207-781-3445 Fax: 207-781-3578 6 Fundy Road, Suite 100, Falmouth, Maine 04105 www.btr-cpa.com
+1
+
+Other Matters
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s discussion and
+analysis, the budgetary comparison schedule, and the pension schedules on pages 3 - 10 and 35 - 40 be presented to
+supplement the basic financial statements. Such information, although not a part of the basic financial statements, is
+required by the Governmental Accounting Standards Board, who considers it to be an essential part of financial reporting
+for placing the basic financial statements in an appropriate operational, economic, or historical context. We have applied
+certain limited procedures to the required supplementary information in accordance with auditing standards generally
+accepted in the United States of America, which consisted of inquiries of management about the methods of preparing
+the information and comparing the information for consistency with management’s responses to our inquiries, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial statements. We do not
+express an opinion or provide any assurance on the information because the limited procedures do not provide us with
+sufficient evidence to express an opinion or provide any assurance.
+Other Information
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise
+Regional School Unit No. 5’s basic financial statements. Schedules 4 through 11 are presented for purposes of additional
+analysis and are not a required part of the basic financial statements.
+Schedules 4 through 11 are the responsibility of management and were derived from and relate directly to the underlying
+accounting and other records used to prepare the basic financial statements. Such information has been subjected to the
+auditing procedures applied in the audit of the basic financial statements and certain additional procedures, including
+comparing and reconciling such information directly to the underlying accounting and other records used to prepare the
+basic financial statements or to the basic financial statements themselves, and other additional procedures in accordance
+with auditing standards generally accepted in the United States of America. In our opinion, Schedules 4 through 11 are
+fairly stated in all material respects in relation to the basic financial statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated December 6, 2017, on our
+consideration of Regional School Unit No. 5’s internal control over financial reporting and on our tests of its compliance
+with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The purpose of that report
+is to describe the scope of our testing of internal control over financial reporting and compliance and the results of that
+testing, and not to provide an opinion on internal control over financial reporting or on compliance. That report is an
+integral part of an audit performed in accordance with Government Auditing Standards in considering Regional School
+Unit No. 5’s internal control over financial reporting and compliance.
+Berry Talbot Royer
+Certified Public Accountants
+Falmouth, Maine
+December 6, 2017
+Tel: 207-781-3445 Fax: 207-781-3578 6 Fundy Road, Suite 100, Falmouth, Maine 04105 www.btr-cpa.com
+2
+
+Regional School Unit No. 5
+17 West St
+Freeport, ME 04032
+Management's Discussion and
+Analysis Required Supplementary
+Information
+Year Ended June 30, 2017
+Our discussion and analysis of Regional School Unit No. 5’s (the RSU) financial condition provides a narrative
+overview and analysis of the RSU's financial activities for the fiscal year ending June 30, 2017. It is the belief of
+management that all the information contained herein is accurate in all material respects and reflects fairly the
+financial position and operations of the RSU. This management’s discussion and analysis is designed to offer further
+explanation of the information contained herein. We encourage readers to consider the information that we have
+furnished in the RSU’s basic financial statements that follow this section.
+The management discussion and analysis (MD&A) is an element of the reporting model adopted by the
+Governmental Accounting Standards Board (GASB) in their Statement No. 34, Basic Financial Statements and
+Management's Discussion Analysis for State and Local Governments (currently GASB Codification Section 2200).
+Certain comparative information between the current year and the prior year is included in the MD&A.
+FINANCIAL HIGHLIGHTS
+Financial highlights for the past year include the following:
+Assets of the RSU exceeding its liabilities by $18,186,933.
+Capital assets of the RSU, net of depreciation, totaling $40,443,930.
+OVERVIEW OF THE FINANCIAL STATEMENTS
+This discussion and analysis is intended to serve as an introduction to the RSU's basic financial statements. The
+RSU's basic financial statements have three components: 1) government-wide financial statements, 2) fund financial
+statements, and 3) notes to the financial statements. This report also contains other supplementary information in
+addition to the basic financial statements.
+GOVERNMENT-WIDE STATEMENTS
+Government-wide statements are designed to provide readers with a broad overview of the RSU’s finances, in a
+manner similar to a private-sector company.
+The statement of net position presents information on all of the RSU's assets and liabilities, with the difference
+between the two reported as net position. Over time, increases or decreases in net position may serve as a useful
+indicator of whether the financial position of the RSU is improving or deteriorating.
+Thestatement of activities presents information showing how the RSU’s net position changed during the most recent
+fiscal year. All changes in net position are reported as soon as the underlying event giving rise to the event occurs,
+regardless of the timing of related cash flows. Thus, revenues and expenses are reported in this statement for some
+items that will only result in cash flows in future fiscal periods (for example, accrued salaries).
+3
+
+Additionally, to assess the RSU’s overall health, one needs to consider additional non-financial factors such as the
+condition of school buildings and other facilities.
+Both of the government-wide financial statements distinguish functions of the RSU that are principally supported by
+the local assessments from other functions that are intended to recover a significant portion of their costs through
+user fees and charges.
+In the government-wide financial statements, the RSU's activities are reported in one category:
+Governmental activities: Most of the RSU's basic services are included here, such as regular and special
+education, transportation, and administration. Local assessments, local non-tax revenues, and state
+revenues finance most of these activities.
+FUND FINANCIAL STATEMENTS
+A fund is a grouping of related accounts that is used to maintain control over resources that have been segregated for
+specific activities or objectives. The RSU uses fund accounting to ensure and demonstrate compliance with finance-
+related legal requirements. The RSU's funds can be divided into two categories: government funds, and fiduciary
+funds.
+Governmental funds: Governmental funds are used to account for essentially the same functions reported as
+governmental activities in the governmental-wide financial statements. However, unlike the
+governmental-wide statements, governmental fund financial statements focus on the near-term inflows
+and outflows of spendable resources, as well as on balances of spendable resources available at the end
+of the fiscal year. Such information may be useful in evaluating a government’s near-term financing
+requirements. Because the focus of governmental funds is narrower than that of the governmental-wide
+financial statements, it is useful to compare the information presented for governmental funds with
+similar information presented for governmental activities in the governmental-wide financial
+statements. By doing so, readers may better understand the long-term impact of the RSU’s near-term
+financing decisions. Both the governmental fund balance sheet and the governmental fund statement of
+revenues, expenditures, and changes in fund balances provide a reconciliation to facilitate this
+comparison between governmental funds and governmental activities.
+Fiduciary funds: Fiduciary funds are used to account for resources held for the benefit of parties outside the
+RSU. Fiduciary funds are not reflected in the governmental-wide financial statement because the
+resources of those funds are not available to support the RSU’s own programs.
+4
+
+FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE
+Net position may serve over time as a useful indicator of a government's financial position. As can be seen in the
+following table, RSU assets exceeded liabilities by $18,186,933 for the fiscal year ended June 30, 2017.
+Table 1
+Fiscal Year Ended June 30, 2017
+Statement of Net Position
+Governmental Activities
+2017 2016
+Current and other assets $ 10,773,490 $ 14,199,242
+Capital assets 40,443,930 34,043,799
+Total assets 51,217,420 48,243,041
+Deferred outflows of resources 565,089 640,916
+Current and long-term liabilities 33,533,518 34,771,784
+Deferred inflows of resources 62,058 107,999
+Net position
+Investment in capital assets 12,251,057 10,345,611
+Restricted 3,568,777 27,792
+Unrestricted 2,367,099 3,630,771
+Total net position $ 18,186,933 $ 14,004,174
+Most of the RSU's net position is invested in capital assets (buildings, land, and equipment). The remaining
+unrestricted net position is a combination of restricted and unrestricted amounts. Restricted balances are amounts set
+aside by management to finance future purchases or capital projects planned by the RSU.
+The chart below provides a graphic depiction of the distribution of the 2017 net book value of fixed assets (capital
+assets, net of depreciation) by asset class.
+2017 Net Book Value of Fixed Assets by Class
+Building and
+improvements
+Land
+Land
+improvements
+Construction in
+Equipment
+Progress
+Transportation
+Chart A – Net Book Value of Fixed Asset Classes
+5
+
+Table 2 presents a summary of the RSU's changes in net position for the fiscal year ended June 30, 2017.
+Table 2
+Fiscal Year ended June 30, 2017
+Changes in Net Position
+Governmental Activities
+2017 2 ,016
+Revenues
+Program revenues:
+Charges for services $ 1,170,220 $ 1,190,066
+Operating grants and contributions 4,611,689 2,408,264
+General revenues:
+Town assessments 23,998,023 23,732,886
+Subsidies 5,931,162 5,664,650
+Interest earned 41,303 18,782
+Miscellaneous 137,308 143,078
+Total revenues 35,889,705 33,157,726
+Expenses
+Student and staff support 2,845,868 2,625,379
+School administration 1,457,205 1,361,759
+Facilities maintenance 3,894,674 3,248,224
+Career and technical education 542,110 512,000
+Crossing guards 941 1,022
+Regular instruction 12,338,889 11,592,163
+Other instruction 730,219 657,084
+System administration 738,454 698,299
+Transportation services 1,193,894 1,437,322
+Debt service 522,955 446,147
+Special education services 4,367,531 4,226,931
+Capital improvement and fuel expenses - -
+Adult education 155,757 157,568
+Community education 614,408 708,069
+Program expenditures 839,822 812,781
+On-behalf payments 1,465,223 1,451,254
+Total expenses 31,707,950 29,936,002
+Increase (Decrease) in Net Position $ 4,181,755 $ 3,221,724
+6
+
+Table 3 shows the total cost of each of the RSU's major functional activities.
+Table 3
+Fiscal Year ended June 30, 2017
+Net Cost of Governmental Activities
+Total Cost of Net Cost of
+Services Services
+Function/Program:
+Instruction and support $ 20,824,617 $ (19,959,440)
+Transportation 1,193,894 (1,193,894)
+Facilities maintenance 3,894,674 (3,894,674)
+Administration 2,195,659 (2,195,659)
+Debt service 522,955 (522,955)
+Capital Improvement and Fuel Expenses - 2,147,033
+Other 3,076,151 (306,452)
+Total governmental activities $ 31,707,950 $ (25,926,041)
+General Fund Revenues Budget to Actual Summary
+Budget Actual Variance
+Revenues:
+Town assessments $ 23,998,023 $ 23,998,023 $ -
+Intergovernmental 5,992,159 6,109,939 117,780
+Charges for Services 100,056 44,845 (55,211)
+Other 117,391 148,391 31,000
+$ 30,207,629 $ 30,301,198 $ 93,569
+The following chart depicts program revenues by source.
+2017 Revenues by Source
+Town assessments
+Intergovernmental
+Other Charges for Services
+Chart B – Revenues by Source
+7
+
+General Fund Expenditures Budget to Actual Summary
+Budget Actual Variance
+Expenditures:
+Student and staff support $ 2,884,814 $ 2,838,363 $ 46,451
+School administration 1,466,738 1,464,256 2,482
+Facilities maintenance 5,451,454 5,379,904 71,550
+Crossing guard 542,111 542,110 1
+Career and technical education 1,400 941 459
+Regular instruction 11,688,185 11,668,072 20,113
+Other instruction 738,862 728,906 9,956
+System administration 764,704 736,759 27,945
+Transportation services 1,462,706 1,449,789 12,917
+Debt service 1,671,693 1,671,693 -
+Special education services 4,010,776 3,994,089 16,687
+Capital Improvement and Fuel Expenses 20,705 20,705 -
+Adult education 244,957 194,759 50,198
+$ 30,949,105 $ 30,690,346 $ 258,759
+Chart C graphically depicts expenditures by function.
+2017 Expenditures by Function
+System Transportation
+Other instruction administration services
+Debt service
+Regular instruction
+Special education
+services
+Capital Improvement
+and Fuel Expenses
+Adult education
+Student and staff
+support
+Career and technical
+education School
+Crossing guard
+administration
+Facilities
+maintenance
+Chart C – Expenditures by Function
+FINANCIAL ANALYSIS OF THE RSU'S FUNDS
+As of June 30, 2017, the RSU's governmental funds balance totaled $7,429,285.
+As noted earlier, the RSU uses fund accounting to ensure and demonstrate compliance with finance-related legal
+requirements. The financial performance of the RSU as a whole is reflected in its governmental funds.
+Governmental funds: The focus of the RSU's governmental funds is to provide information on near-term inflows,
+outflows, and balances available for spending. Governmental funds report the differences between their assets and
+liabilities as fund balances. Reserved amounts reflect that which is not available to be spent while undesignated
+amounts reflect amounts that are.
+Budgetary highlights: The RSU holds an annual district budget meeting in May of each year for purposes of voting
+on the budget as recommended by the Board of Directors for the upcoming school year.
+8
+
+CAPITAL ASSETS
+At June 30, 2017, the RSU had $40,443,930 invested in a broad range of capital assets, including land, buildings,
+furniture and equipment.
+Table 4
+Governmental Activities Capital Assets
+(Net of Depreciation)
+2017 2016
+Land $ 447,285 $ 447,285
+Land improvements 409,818 384,185
+Building and building improvements 35,836,982 24,941,983
+Equipment and vehicles 1,374,115 1,430,528
+Construction in progress 2,375,730 6,839,818
+$ 40,443,930 $ 34,043,799
+DEBT ADMINISTRATION
+At the end of the year RSU had a total of $27,976,653 of general obligation long-term debt. In addition, the capital
+lease purchase obligations for copiers totaled $27,480.
+The following is a summary of long-term debt transactions and capital lease obligations of the RSU for the year
+ended June 30, 2017.
+Table 5
+Fiscal Year Ended June 30, 2017
+General Long Term Debt and Lease Obligations
+General Long-term Debt and
+Lease Obligations
+2017 2016
+Debt payable at July 1 $ 30,314,565 $ 18,992,732
+Debt additions 42,105 12,894,278
+Debt retired (2,352,537) (1,572,445)
+Debt payable at June 30 $ 28,004,133 $ 30,314,565
+9
+
+ECONOMIC FACTORS AND NEXT YEAR'S BUDGET AND RATES
+Administration, staff, and the Board worked creatively to create a responsible operating budget for the 2017-2018
+school year. The increase over the previous year’s budget was $1,302,013. The 2017-2018 budget includes the
+increase in early intervention classes (PreK), increase to district-wide all-day Kindergarten, additional Math
+intervention, technology equipment, and professional development throughout the district. Local assessments for the
+approved 2017-2018 budget are broken down as follows: Durham $4,957,199; Freeport $17,355,332; and Pownal
+$2,819,449.
+Construction on additions, renovations, and improvements to the Freeport High School building, grounds and
+facilities that were approved by voters on November 5, 2013 are coming to a close. The contractor is currently
+working on punch list items and expects to be completed by the end of the December school break. The new addition
+opened in January of 2017 and the renovations to the existing building were completed August of 2017. On January
+20, 2017 the voters of RSU5 approved a referendum for a track and turf field project at Freeport High School.
+Members of the Tri Town Track and Field group have fundraised approximately $2,300,000 for the $4,100,000
+project. Construction of the new track and turf field began in May 2017. The contractors will be coming back in
+June of 2018 to put the final coat on the track, at which time the full scope of the track and turf field project will be
+complete.
+CONTACTING THE DISTRICT'S FINANCIAL MANAGEMENT
+This financial report is designed to provide our citizens, taxpayers, parents, students, investors and creditors with a
+general overview of the RSU's finances and demonstrate The District's accountability for the money it receives. If
+you have questions about any of the information provided in this report or wish to request additional financial
+information, please contact RSU No. 5 Business Office at 17 West Street, Freeport, ME 04032.
+10
+
+BASIC FINANCIAL STATEMENTS
+
+Statement 1
+REGIONAL SCHOOL UNIT NO. 5
+STATEMENT OF NET POSITION
+JUNE 30, 2017
+Governmental
+Activities
+ASSETS:
+Cash/investments $ 10,380,042
+Cash held by third party 56,070
+Accounts receivable 307,283
+Inventories 29,956
+Due from fiduciary funds 139
+Capital assets:
+Land 447,285
+Construction in progress 2,375,730
+Other capital assets, net of depreciation 37,620,915
+Total capital assets 40,443,930
+TOTAL ASSETS 51,217,420
+DEFERRED OUTFLOWS OF RESOURCES
+Pensions 565,089
+LIABILITIES:
+Accounts payable 1,225,368
+Accrued salaries and benefits 2,118,836
+Current portion of long-term debt, (including current
+portion of bond premiums of $106,916) 2,286,630
+Total current liabilities 5,630,834
+Long-term liabilities
+Compensated absences payable 870,468
+Accrued interest 185,388
+Long-term debt, (including long-term portion of
+bond premiums of $821,330) 26,645,749
+Net pension liability 201,079
+Total non-current liabilities 27,902,684
+TOTAL LIABILITIES 33,533,518
+DEFERRED INFLOWS OF RESOURCES
+Pensions 62,058
+NET POSITION:
+Net investment in capital assets 12,251,057
+Restricted 3,568,777
+Unrestricted 2,367,099
+TOTAL NET POSITION $ 18,186,933
+11
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 2
+REGIONAL SCHOOL UNIT NO. 5
+STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2017
+Net (Expense)
+Revenue and
+Changes in Net
+Program Revenues Position
+Operating
+Charges for Grants and Governmental
+Expenses Services Contributions Activities
+FUNCTIONS
+Primary government
+Governmental activities
+Student and staff support $ 2,845,868 $ - $ - $ (2,845,868)
+School administration 1,457,205 - - (1,457,205)
+Facilities maintenance 3,894,674 - - (3,894,674)
+Career and technical education 542,110 - - (542,110)
+Crossing guards 941 - - (941)
+Regular instruction 12,338,889 129,605 333,415 (11,875,869)
+Other instruction 730,219 - - (730,219)
+System administration 738,454 - - (738,454)
+Transportation services 1,193,894 - - (1,193,894)
+Debt service 522,955 - - (522,955)
+Special education services 4,367,531 42,510 359,647 (3,965,374)
+Adult education 155,757 - 44,901 (110,856)
+Capital Improvements and Fuel Expenses - - 2,147,033 2,147,033
+Community education 614,408 673,634 - 59,226
+Program expenditures 839,822 324,471 261,470 (253,881)
+MainePERS on-behalf payments 1,465,223 - 1,465,223 -
+Total governmental activities 31,707,950 1,170,220 4,611,689 (25,926,041)
+TOTAL PRIMARY GOVERNMENT $ 31,707,950 $ 1,170,220 $ 4,611,689
+General revenues and special items:
+Taxes:
+Local assessments - K - 12 23,898,023
+Local assessments - adult education 100,000
+State allocation 5,931,162
+Investment earnings 41,303
+Miscellaneous 137,308
+30,107,796
+Change in net position 4,181,755
+Net Position - July 1, 2016 14,005,178
+Net Position - June 30, 2017 $ 18,186,933
+12
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 3
+REGIONAL SCHOOL UNIT NO. 5
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+JUNE 30, 2017
+High School Other Total
+Renovation Tri-Town Track Governmental Governmental
+General Fund Project & Field Project Funds Funds
+ASSETS:
+Cash/investments $ 3,175,241 $ 5,376,001 $ - $ 1,828,801 $ 10,380,043
+Cash held by third party 56,070 - - - 56,070
+Accounts receivable 43,141 - - 264,143 307,284
+Due from other funds 4,587,388 - 2,131,480 191,773 6,910,641
+Inventories - - - 29,956 29,956
+TOTAL ASSETS $ 7,861,840 $ 5,376,001 $ 2,131,480 $ 2,314,673 $ 17,683,994
+LIABILITIES AND FUND BALANCES:
+Liabilities:
+Accounts payable $ 268,469 $ 892,460 $ - $ 64,442 $ 1,225,371
+Accrued salaries and benefits 2,090,870 - - 27,966 2,118,836
+Due to other funds 2,323,254 2,597,120 - 1,990,128 6,910,502
+Total liabilities 4,682,593 3,489,580 - 2,082,536 10,254,709
+Fund balances:
+Nonspendable - - - 29,956 29,956
+Restricted for:
+Special revenues - - - 475,769 475,769
+Capital projects funds - 1,886,421 2,131,480 - 4,017,901
+Committed for:
+Capital improvements
+and fuel oil expenditures 1,144,175 - - - 1,144,175
+Assigned for:
+Use of fund balance 1,175,801 - - - 1,175,801
+Unassigned (deficit) 859,271 - - (273,588) 585,683
+Total fund balances 3,179,247 1,886,421 2,131,480 232,137 7,429,285
+TOTAL LIABILITIES AND FUND BALANCES: $ 7,861,840 $ 5,376,001 $ 2,131,480 $ 2,314,673 $ 17,683,994
+The reconciliation of the ending fund balances of governmental
+funds to the net position in the statement of net position is
+presented on a separate schedule on the next page.
+13
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 4
+REGIONAL SCHOOL UNIT NO. 5
+RECONCILIATION OF THE BALANCE SHEET OF GOVERNMENTAL FUNDS
+TO THE STATEMENT OF NET POSITION
+AS OF JUNE 30, 2015
+Net change in fund balances - total governmental funds (from Statement 3) $ 7,429,285
+Amounts reported for governmental activities in the Statement of
+Net Position (Statement 1) are different because (see Note 2 of Notes
+to the Required Supplementary Information, also):
+Capital assets used in governmental activities are not
+financial resources and therefore are not reported
+in the funds. 40,443,930
+Long-term liabilities, including bonds payable, are not
+due and payable in the current period and therefore
+are not reported in the funds.
+Bonds payable $ (27,976,653)
+Bond premiums (928,245)
+Capital leases payable (27,480)
+Compensated absences payable (870,468)
+Accrued interest (185,388) (29,988,234)
+Adjustments related to pensions
+Unamortized deferred outflows of resources - pensions 565,089
+Unamortized deferred inflows of resources - pensions (62,058)
+Net pension liability (201,079) 301,952
+Net position of governmental activities (see Statement 1) $ 18,186,933
+14
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 5
+REGIONAL SCHOOL UNIT NO. 5
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCES
+GOVERNMENTAL FUNDS
+FOR THE YEAR ENDED JUNE 30, 2017
+High School Other Total
+Renovation Tri-Town Track Governmental Governmental
+General Fund Project & Field Project Funds Funds
+REVENUES:
+Local assessments $ 23,998,023 $ - $ - $ - $ 23,998,023
+Intergovernmental 6,109,939 - - 939,854 7,049,793
+Charges for services - - - 1,035,500 1,035,500
+Interest earned 11,082 30,220 - - 41,302
+Intergovernmental on-behalf payments 1,465,223 - - - 1,465,223
+Donations - - 2,147,033 - 2,147,033
+Miscellaneous 137,309 - - 14,705 152,014
+Total revenues 31,721,576 30,220 2,147,033 1,990,059 35,888,888
+EXPENDITURES:
+Student and staff support 2,880,468 - - - 2,880,468
+School administration 1,464,256 - - - 1,464,256
+Facilities maintenance 5,379,904 - - - 5,379,904
+Career and technical education 542,110 - - - 542,110
+Crossing guard 941 - - - 941
+Regular instruction 11,668,072 - - 372,091 12,040,163
+Other instruction 728,906 - - - 728,906
+System administration 736,759 - - - 736,759
+Transportation services 1,449,789 - - - 1,449,789
+Debt service 1,671,693 - - - 1,671,693
+Special education services 3,994,089 - - 359,647 4,353,736
+Adult education 155,757 - - - 155,757
+Capital Improvements and Fuel Expenses 20,705 5,967,695 15,553 - 6,003,953
+Program expenditures - - - 1,452,108 1,452,108
+Maine state retirement on-behalf payments 1,465,223 - - - 1,465,223
+Total expenditures 32,158,672 5,967,695 15,553 2,183,846 40,325,766
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES (437,096) (5,937,475) 2,131,480 (193,787) (4,436,878)
+OTHER FINANCING SOURCES (USES):
+Bond and capital lease proceeds 42,105 - - - 42,105
+Transfers in (out) (214,374) - - 214,374 -
+(172,269) - - 214,374 42,105
+EXCESS OF REVENUES AND OTHER SOURCES
+OVER (UNDER) EXPENDITURES AND
+OTHER USES (609,365) (5,937,475) 2,131,480 20,587 (4,394,773)
+FUND BALANCES - JULY 1, 2016 3,788,612 7,823,896 - 211,550 11,824,058
+FUND BALANCES - JUNE 30, 2017 $ 3,179,247 $ 1,886,421 $ 2,131,480 $ 232,137 $ 7,429,285
+The reconciliation of the net change in fund balances of governmental
+funds to the change in net position in the statement of activities is
+presented on a separate schedule on the next page.
+15
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 6
+REGIONAL SCHOOL UNIT NO. 5
+RECONCILIATION OF THE STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN
+FUND BALANCES OF GOVERNMENTAL FUNDS TO THE STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED JUNE 30, 2017
+Net change in fund balances - total governmental funds (from Statement 5) $ (4,394,773)
+Amounts reported for governmental activities in the statement of
+activities (Statement 2) are different because (see Note 2 in Notes to
+the Required Supplementary Information, also):
+Governmental funds report capital outlays as expenditures. However, in
+the statement of activities, the cost of those assets is allocated over their
+their estimated useful lives and reported as depreciation expense. This
+is the amount by which capital additions exceeded depreciation in the
+current period:
+Capital additions $ 7,555,978
+Depreciation (1,155,847) 6,400,131
+Capital lease proceeds provide current financial resources to governmental
+funds, but issuing debt increases long-term liabilities in the statement of net
+position. Repayment of principal is an expenditure in the governmental
+funds, but the repayments reduce long-term liabilities in the statement of
+net position. This is the amount by which repayments exceeded proceeds
+in the current period:
+Capital lease proceeds (42,105)
+Capital lease repayments 197,303
+Long-term debt repayment 2,155,234 2,310,432
+Certain expenses reported in the Statement of Activities, such as accrued
+compensated absences, do not use current financial resources and,
+therefore, are not reported as expenditures in the governmental funds.
+Change in accrued compensated absences (197,010)
+Change in deferred bond premiums 114,262
+Change in accrued interest 13,624
+District pension contribution 485,260
+Cost of benefits earned net of employee contributions (550,171) (134,035)
+Change in net position of governmental activities (see Statement 2) $ 4,181,755
+16
+The Accompanying Notes are an Integral Part of these Statements.
+
+Statement 7
+REGIONAL SCHOOL UNIT NO. 5
+STATEMENT OF FIDUCIARY NET POSITION
+FIDUCIARY FUNDS
+JUNE 30, 2017
+Agency Funds
+ASSETS:
+Cash/investments $ 332,369
+LIABILITIES:
+Due to other funds 139
+Due to other groups 332,230
+332,369
+NET POSITION:
+Held in trust for other purposes $ -
+17
+The Accompanying Notes are an Integral Part of these Statements.
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The Reporting Entity
+Regional School Unit No. 5(RSU #5)is a Quasi-Municipal Corporation having received its Certificate of Organization
+on July 1, 2009, pursuant to Title 20-A and Chapter 103 of the Maine Revised Statutes, as amended. The Regional
+School's territory includes the Towns of Freeport, Durham, and Pownal, Maine. It provides the educational needs for
+grades kindergarten through 12 for the residents of these communities. RSU #5 has an eleven member Board of
+Directors,of which sixare residents of Freeport, three from Durham, and two from Pownal.
+In evaluating RSU #5as a reporting entity, management has addressed all potential component units for which RSU #5
+may or may not be financially accountable and, as such, be includable within RSU #5’s basic financial statements. In
+accordance with the Government Accounting Standards Board (GASB), RSU #5(the primary government) is financially
+accountable if it appoints a voting majority ofthe organization’s governing board and (1) it is able to impose its will on
+the organization or (2) there is a potential for the organization to provide specific financial benefit to or impose specific
+financial burden on RSU #5. Additionally, the primarygovernment is required to consider other organizations for which
+the nature and significance of their relationship with the primary government are such that exclusion would cause the
+reporting entity’s basic financial statements to be misleading or incomplete. Based on the application of these criteria,
+RSU #5has not identified any component units that should be included in the financial statements.
+The GASB is the authoritative standard-setting body for the establishment of governmental accounting and financial
+reporting principles.
+The financial statements of RSU #5 have been prepared in accordance with U.S. generally accepted accounting principles
+(GAAP) as applied to governmental units. The following is a summary of the more significant policies.
+Basis of Presentation
+Government-Wide Financial Statements
+The government-wide financial statements, comprised of the statement of net position and the statement of activities,
+report information on all the non-fiduciary activities of RSU #5.The statement of net position presents the financial
+condition of the governmental activities of RSU #5 at fiscal yearend. The statement of activities points out the extent to
+which the direct expenses of a given function are offset by program revenues. Direct expenses are those that are
+specifically associated with a service, program or department and are therefore clearly identifiable to a particular
+function. Program revenues include charges paid by the recipients of the goods or services offered by the programsand
+grants and contributions that are restricted to meeting the operational or capital requirements of a particular program.
+Revenues not classified as program revenues are presented as general revenues. The comparison of program revenues
+and direct expenses identifies the extent to which each program is self-financing or draws from the general revenues of
+RSU #5.
+Fund Financial Statements
+Fund financial statements report detailed information about RSU #5. Since the focus is on major funds rather than
+reporting funds by type, each major fund is presented in a separate column. GASB sets forth minimum criteria
+(percentages of the assets, liabilities, revenues or expenditures/expenses of either fund category or the governmental and
+enterprise combined) for the determination of major funds. Nonmajor funds are aggregated and presented in a single
+column. Fiduciary funds are reported by fund type.
+18
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES(Continued)
+Measurement FocusandBasis of Accounting
+The accounting and reporting treatment applied to a fund is determined by its measurement focusand basis of accounting.
+Measurement focus indicates the type of resources being measured, such as current financial resources or economic
+resources.
+The government-wide statements are prepared using the economic resources measurement focus and the accrual basis of
+accounting. Revenues are recorded when earned and expenses are recorded at the time the liability is incurred, regardless
+of when the related cash flow takes place. Revenues from grants, entitlements, and donations are recognized in the fiscal
+year in which all eligibility requirements have been met.
+Governmental fund financial statements are reported using the current financial resources measurement focus and the
+modified accrual basis of accounting. Revenues are recognized (recorded) in the accounting period in which they
+become susceptible to accrual, that is, when they become both measurable and available to finance expenditures of the
+current fiscal period. “Measurable” means the amount of the transaction can be determined, and “available” means
+collectible within 60 days after the end of the fiscal year. Revenue sources susceptible to accrual include
+intergovernmental revenues and investment earnings. Special grant program revenues are recognized in accordance with
+the terms of the grants, generally at the time program funds are expended. Expenditures are recognized when the
+corresponding liabilities are incurred, except for principal and interest on general long-term debt, which are recognized
+when due, and compensated absences, which are recognized when paid to the employees. Allocations of cost, such as
+depreciation, are not recognized in governmental funds.
+Fiduciary funds are reportedusing the economic resources measurement focus.
+Fund Accounting
+RSU#5 uses individual funds to maintain its financial records during the year in order to aid financial management and to
+demonstrate legal compliance. Each fund is accounted for by providing a separate set of self-balancing accounts that
+comprise its assets, liabilities, reserves, fund equity, revenues and expenditures/expenses. Governmental resources are
+allocated to and accounted for in individual funds based upon the purposes for which they are to be spent and the means
+by which spending activities are controlled. The various funds are reported by generic classification within the financial
+statements.
+The following fundsare used by RSU #5:
+Governmental Funds:
+Governmental funds are identified as either general, special revenue, or capital projects, based upon the following
+guidelines.
+The General Fundis the operating fund of RSU #5and is always classified as a major fund. It is used to account for all
+financial resources except those required to be accounted for in another fund.
+Special Revenue Fundsare used to account for the proceeds of specific sources (other than major capital projects or
+expendable trusts) that are legally restricted to expenditures for specified purposes.
+Capital Projects Fundsare used to account for financial resources to be used for acquisition or construction of major
+capital facilities (other than those financed by proprietary funds and trust funds). The High School Renovation Project
+and the Tri-Town Track and Field Project aremajor capital projectsfunds. Eachfund isused to account for activity that
+is related to the specificproject.
+19
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES(Continued)
+FiduciaryFunds (Not included in the government-wide statements):
+Private-purpose Trust and Agency Fundsare used to account for assets held by RSU #5 in a trustee capacity or as an
+agent for individuals, private organizations and/or other funds. Agency funds are custodial in nature (assets equal
+liabilities) and do not involve measurement of results of operations. These funds are not incorporated into the
+government-wide statements.
+Cash and Investments
+RSU #5's cash and cash equivalents are considered to be cash on hand, demand deposits,and short-term investments with
+original maturities of three months or less from the date of acquisition. Deposits can only be made in financial
+institutions insured by the FDIC. RSU #5's policy authorizes investments in obligations of the U. S. Treasuryand U. S.
+Agencies, repurchase agreements, certain certificates of deposit,and certain money market funds. RSU #5invests its
+funds in an effort to ensure preservation of capital, remain sufficiently liquid and attain a reasonable market rate of return.
+Investments are reported at fair value except for money market investments that have a remaining maturity at time of
+purchase of one year or less stated at amortized cost.
+Cash Held by Third Parties
+Cash held by third parties includes amounts held in trust for RSU #5by the Maine School Management Association’s
+(MSMA) Unemployment Compensation Trust Fund (UCTF).
+Receivables
+Accounts receivable in all funds report amounts that have arisen in the ordinary course of business.Governmental fund
+type receivables consist primarily of amounts due from the state or federal governments. These intergovernmental
+receivables are generally collected within 90 days of the end of the fiscal year and are considered collectible. As such, no
+allowance for doubtful accounts is recorded.
+Inventories
+School lunch inventories are valued at the lower of cost (first-in, first-out basis) or net realizable value.
+Capital Assets
+Capital assets, which include property, plant and equipment, are defined by RSU #5as assets withan initial individual
+cost of more than $5,000 and an estimated useful life in excess of one year. These assets are reported in the
+governmental column in the government-wide financial statements. Such assets are reported at cost or estimated
+historicalcost. Additions, improvements and other capital outlays that significantly extend the useful life of an asset are
+capitalized. Other costs incurred for repairs and maintenance are expensed as incurred. Depreciation on all assets, other
+than land, is provided on the straight-line basis over theirestimated useful lives. Estimated useful life is management’s
+estimate of how long the asset is expected to meet service demands.
+Straight-line depreciation is used based on the following estimated useful lives:
+Land Improvements.............................................11to 30 years
+Buildings and Building Improvements..................6to 50 years
+Furniture and Equipment.......................................3to 20years
+Vehicles.................................................................8 to15years
+In the fund financial statements, fixed assets used in governmental fund operations are accounted for as capital outlay
+expenditures upon acquisition. Fixed assets are not capitalized and the related depreciation is not reported in the fund
+financial statements.
+20
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES(Continued)
+Long-Term Obligations
+In the government-wide financial statements, long-term debt and other long-term obligations are reported as liabilities in
+the applicable governmental activities statement of net position. Bond premiums and discounts are deferred and
+amortized over the life of the bonds based on the percentage of the each year’sinterest expense to the total interest
+expense.
+In the fund financial statements, governmental fund types recognize bond premiums and discounts during the current
+period. The face amount of debt is reported as other financing sources. Premiums received on debt issuances are
+reported as other financing sources while discounts on debt issuances are reported as other financing uses.
+Deferred Outflows/Inflows of Resources
+In addition to assets, the statementof financial position will sometimes report a separate section for deferred outflows of
+resources. This separate financial statement element, deferred outflows of resources, represents a consumption of net
+position that applies to a future period(s) and so will not be recognized as an outflow of resources (expense/expenditure)
+until then. RSU #5has deferred outflows of resources of $565,089related to a pension obligation as of June 30, 2017.
+In addition to liabilities, the statement of financial position will sometimes report a separate section for deferred inflows
+of resources. This separate financial statement element, deferred inflows of resources, represents an acquisition of net
+position that applies to a future period(s) and so will not be recognized as an inflow of resources (revenue) until that time.
+RSU #5has deferred inflows of resources of $62,058related to a pension obligation as of June 30, 2017.
+Pensions
+For purposes of measuring the net pension liability, deferred outflows of resources and deferred inflows of resources
+related to pension, and pension expense, information about the fiduciary net position of the MainePERS State Employee
+and Teacher Plan (the Plan), the Participating Local District Plan (PLD), and additions to/deductions from the Plan and
+PLD’s fiduciary net position have been determined on the same basis as they are reported by the Plan and the PLD. The
+Plan and PLD’s net pension liability, deferred inflows of resources and deferred outflows of resources related to pensions
+were measured at June 30, 2016, the latest measurement data available.
+Net Positionand Fund Equity Classifications
+Net positionisrequired to be classified in the government-wide statements into the following three components:
+Net Investment in Capital Assets-This component consists of capital assets, net of accumulated depreciation, reduced by
+the outstanding balances of any bonds, notes, or other borrowings that are attributable to the acquisition, construction, or
+improvements of those assets.
+Capital assets $ 48,206,603
+Accumulated depreciation (7,762,673)
+Bonds, notes, and leases payable (27,145,548)
+Accrued interest (179,736)
+Accrued bond premiums (867,589)
+Net investment in capital assets $ 12,251,057
+Restricted-This component consists of constraints placed on the use of net positionwhich areexternally imposed by
+debt covenants, grantors, contributors, or laws or regulations of other governments, or constraints imposed by law
+through constitutional provisions or enabling legislation.
+21
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES(Continued)
+Net Position and Fund Equity Classifications(Continued)
+Unrestricted-This component consists of net position that does not meet the definition of “restricted” or “net investment
+in capital assets”.
+Fund Balance
+In the fund financial statements, governmental fund balance is presented in five possible categories that comprise a
+hierarchy based on the extent to which RSU#5 is bound to honor constraints on the specific purposes for which those
+funds can be spent. The categories are as follows:
+Nonspendable-includes amounts that cannot be spent because they are not in spendable form or legally or contractually
+required to be maintained intact. RSU #5 classifies inventory per Statement 3, for the school lunch program under this
+category.
+Restricted - represents those portions of fund equity on which constraints have been placed by creditors, grantors,
+contributors, laws or regulations of other governments, constitutional provisions, or enabling legislation.
+Committed-describes the portion of the fund balance that represents resources whose use is constrained by limitations
+that the government imposes upon itself at its highest level of decision making and that remain binding unless removed in
+the same manner.
+Assigned-reflects the amounts constrained by the RSU #5’s“intent” to be used for specific purposes, but are neither
+restricted nor committed. The School Boardhasthe authority to assign amounts to be used for specific purposes.
+Unassigned-represents amounts that are available for any purpose.
+RSU #5 has no formal revenue spending policy for programs with multiple revenue sources. For purposes of fund
+balance classification, expenditures are to be spent from restricted fund balance first, followed in order by committed
+fund balance, assigned fund balance and lastly unassigned fund balance.
+Interfund Transactions
+During the course of operations, numerous transactions occur between individual funds for goods provided or services
+rendered. These receivables and payables are classified as “due from other funds” or “due to other funds” on the
+combined balance sheet of the governmental funds and fiduciary funds. As a general rule, the effect of interfund activity
+has been eliminated from the government-wide statements.
+Operating transfers are used to move unrestricted resources from various funds to finance programs that the Districtmust
+account for in other funds in accordance with budgetary authorizations.
+Compensated Absences
+Pursuant to the terms of the contractagreements, employees can accumulate earned but unused vacation and sick pay
+benefits. All vested sick and vacation pay is accrued when incurred in the government-wide financial statements.A
+liability for these amounts is reported in the governmental funds only if they have matured, for example, as aresult of
+employee retirement.
+Estimates
+Management uses estimates and assumptions in preparing these financial statements in accordance with accounting
+principles generally accepted in the United States of America. These estimates and assumptions affect the reported
+amounts of assets, liabilities, the disclosure of contingent liabilities, and the reported revenues and expenses.
+22
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE2: DEPOSITS AND INVESTMENTS
+Custodial Credit Risk
+Custodial credit risk is the risk that, in the event of the bank’s failure, RSU #5 will not be able to recover the value of its
+deposits and investments that are in the possession of an outside party.
+Deposits
+RSU #5 does not have a deposit policy for custodial credit risk. As of June 30, 2017, RSU #5 reported deposits of
+$10,712,412 with a bank balance of $11,108,315. Of RSU #5’s bank balances, $3,520,408 was covered by FDIC
+insurance and $7,587,907was exposed to custodial credit risk. $4,700,000 of the balance exposed to custodial credit
+risk was collateralizedby government securities held by the pledging bank, but not in RSU#5’s nameand the balance of
+$2,887,907was uninsured and uncollateralized. The majority of the uninsured and uncollateralized balance is for capital
+projects that will be completed by the spring of 2018.
+Cash Held by Third Parties
+RSU #5 owns assets held by Maine School Management Association. These amounts are invested by the custodians in
+money market accounts or similar very low risk investment vehicles that invest in US government obligations.
+Management believes the custodial credit risk of these assets to be low. As of June 30, 2017, the carrying value of
+amounts held by the MSMA Unemployment Compensation Trust Fund was$56,070. Carrying value approximates fair
+value. None of the underlying securities are in RSU #5’s name.
+NOTE3: INTERFUND RECEIVABLES/PAYABLES AND TRANSFERS
+Individual interfund receivables and payable balances at June 30, 2017were as follows:
+Interfund Interfund
+Receivables Payables
+General fund $ 4,587,388 $ 2,323,254
+High school renovation project - 2,597,120
+Nonmajor special revenue 191,773 1,990,128
+Nonmajor capital project 2,131,480 -
+Agency funds - 139
+$ 6,910,641 $ 6,910,641
+The purpose of interfund loans is to charge revenues and expenditures to the appropriate fund when that activity is
+accounted for through the centralized checking account. The balances represent each fund’s portion of the centralized
+account.
+23
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE3: INTERFUND RECEIVABLES/PAYABLES AND TRANSFERS(Continued)
+Transfers
+Interfund transfers for the year ended June 30,2017consisted of the following:
+Transfers In Transfers Out
+General fund $ - $ 214,374
+Nonmajor special revenue 214,374 -
+$ 214,374 $ 214,374
+Operating transfers are used to move unrestricted resources from various funds to finance programs that the Districtmust
+account for in other funds in accordance with budgetary authorizations.
+NOTE4: CAPITAL ASSETS
+Capital asset activity during the fiscal year:
+Balance Balance
+6/30/2016 Additions Retirements 6/30/2017
+Capital assets not being depreciated
+Land $ 447,285 $ - $ - $ 447,285
+Construction in progress 6,839,818 (4,464,088) - 2,375,730
+Total capital assets not being depreciated 7,287,103 (4,464,088) - 2,823,015
+Capital assets being depreciated
+Land improvements 454,453 48,655 - 503,108
+Buildings and improvements 30,243,628 11,801,735 - 42,045,363
+Transportation 1,083,371 98,097 - 1,181,468
+Equipment 1,582,070 71,579 - 1,653,649
+Total capital assets being depreciated 33,363,522 12,020,066 - 45,383,588
+Total capital assets 40,650,625 7,555,978 - 48,206,603
+Less: Accumulated depreciation
+Land improvements 70,268 23,022 - 93,290
+Buildings and improvements 5,301,645 906,736 - 6,208,381
+Transportation 512,617 99,873 - 612,490
+Equipment 722,296 126,216 - 848,512
+Total accumulated depreciation 6,606,826 1,155,847 - 7,762,673
+Total net capital assets $ 34,043,799 $ 6,400,131 $ - $ 40,443,930
+24
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE4: CAPITAL ASSETS(Continued)
+Depreciation was charged to functions as follows:
+Depreciation was charged to functions as follows:
+Operations and maintenance $ 940,016
+Transportation 97,361
+School lunch 7,954
+Instructions 108,821
+Administration 1,695
+Total depreciation $ 1,155,847
+Included in the capital assets above are capital assets that were obtained with capital leases. They are as follows:
+Accumulated
+Cost Depreciation
+Instruction $ 82,468 $ 31,613
+NOTE 5: CHANGES IN LONG-TERM LIABILITIES
+The following is a summary of long-term liability activityofRSU #5for the year ended June 30, 2017:
+Amounts Due
+Beginning Ending Within One
+Governmental Activities Balance Additions Reductions Balance Year
+Bonds and notes payable
+General obligation bonds $ 30,131,887 $ - $ (2,155,234) $ 27,976,653 $ 2,152,234
+Capital leases payable 182,678 42,105 (197,303) 27,480 27,480
+Total bonds and notes payable 30,314,565 42,105 (2,352,537) 28,004,133 2,179,714
+Compensated absences 673,458 197,010 - 870,468 -
+$ 30,988,023 $ 239,115 $ (2,352,537) $ 28,874,601 $ 2,179,714
+25
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 6: LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS
+Long-Term Debt Obligations
+General long-term debt payable consists of the following:
+Town of Freeport
+2008 General Obligation Bond-Freeport High School Heating; maturing on
+7/15/2017; annual principal payments of $55,000; interest rate of 2.92%;
+authorized and issued $570,000. $ 55,000
+Town of Freeport
+2011 General Obligation Refunding Bond - Middle School; maturing on
+11/15/2022; annual principal payments of $144,432 - $147,955; variable interest
+rate between 4% and 5%; original authorized and issued $3,285,000.
+577,727
+Town of Freeport
+2011 General Obligation Refunding Bond - High School; maturing on
+11/15/2022; annual principal payments of $215,000 - $220,000; variable interest
+rate between 4% and 5%; original authorized and issued $4,491,000.
+1,315,000
+Town of Freeport
+2011 General Obligation Refunding Bond - Admin Office; maturing on
+11/15/2022; annual principal payments of $11,250 - $12,500; variable interest
+rate between 4% and 5%; original authorized and issued $250,000. 60,000
+Maine Municipal Bond Bank
+2003 Durham Roof; maturing on 11/1/2018; annual principal payments of
+$40,000; variable interest rate between 2.08% and 4.23%; authorized and
+issued $600,000. 80,000
+Maine Municipal Bond Bank
+2009 Durham New Building; maturing on 11/1/2029; annual principal payments
+of $108,835; variable interest rate from 2.08% to 5.58%; authorized and issued
+$2,176,696. 1,414,855
+Maine Municipal Bond Bank
+2009 Series C Durham Elementary New Building; maturing on 8/27/2029;
+annual principal payments of $886,467; interest rate of 3.78%; authorized
+and issued $17,729,348. 11,524,071
+US Bank
+2015 General Obligation Bond-Freeport High School Renovation Project;
+maturing on November 1, 2035; annual principal payments of $680,000;
+variable interest rate between 2.50% and 5.00%; authorized $14,638,009
+and issued $13,638,000. 12,950,000
+$ 27,976,653
+26
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 6: LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS(Continued)
+Long-Term Debt Obligations(Continued)
+The annual requirement to amortize debt outstanding as of June 30, 2017is as follows:
+Year Ending
+June 30 Principal Interest Total
+2018 $ 2,152,234 $ 1,062,306 $ 3,214,540
+2019 2,097,234 982,975 3,080,209
+2020 2,057,234 905,435 2,962,669
+2021 2,055,983 818,375 2,874,358
+2022 1,911,552 717,539 2,629,091
+2023-2027 8,596,510 2,479,565 11,076,075
+2028-2032 6,385,906 927,412 7,313,318
+2033-2036 2,720,000 174,420 2,894,420
+$ 27,976,653 $ 8,068,027 $ 36,044,680
+Interest expense was $1,143,475for the year.
+The payments to the Town of Freeport represent thereimbursements for the Freeport School Department bonds payable
+that were outstanding as of July 1, 2009, when the Freeport School Department joined Regional School Unit No. 5.
+Under a provision of state law, the State of Maine reimburses RSU #5for a portion of the financing costs of various
+approved school construction projects. RSU #5's State aid subsidy is dependent upon continued annual appropriation by
+the State legislature. State aid for annual principal and interest payments for various school debt obligations were
+received for the year ended June 30, 2017.
+Capital Lease Obligations
+RSU #5leases capital assets under agreements that are classified as capital leases. The future minimum lease payments
+required under the capitalleases and the present value of the net minimum lease payments as of June 30, 2017, are as
+follows:
+Year Ending
+June 30, Amount
+Total minimum lease payments 2018 28,357
+Amount representing interest (877)
+Present value of net minimum lease payments 27,480
+Current maturities of capital lease obligations (27,480)
+Long-term capital lease obligations $ -
+27
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE7: CONTINGENT LIABILITIES
+Grant Funds
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by grantor agencies,
+principally the Federal government. Any disallowed claims, including amounts already collected, may constitute a
+liability of the applicable funds. The amount, if any, of expenditures which may be disallowed bythe grantor cannot be
+determined at this time although RSU #5expects such amounts, if any, to be immaterial.
+Litigation
+RSU #5 is subject to certain legal proceedings and claims which arise in the ordinary course of conducting its activities.
+In the opinion of management, RSU #5 has defensible positions and any ultimate liabilities are covered by insurance or
+will not materially affect the financial position of RSU #5.
+NOTE8: OTHER DISCLOSURES
+Risk Management
+RSU #5 is exposed to various risks of loss related to torts, theft of, damage to, and destruction of assets, errors and
+omissions; and natural disasters for which RSU #5either carries commercial insurance, or participates in a public entity
+risk pool. Currently, RSU #5participates in severalpublic entity risk pools sponsored by the Maine SchoolManagement
+Association. Based on the coverage provided by the pools, as well as coverage provided by commercial insurance
+purchased, RSU #5is not aware of any material actual or potential claim liabilities which should be recorded at June 30,
+2017. There were no significant reductions in insurance coverage from that of the prior year. Settled claims have not
+exceeded insurance coverage for any of the past three fiscal years. The amount of unpaid claims was $0 at June 30, 2017.
+NOTE9: DEFINED BENEFIT PENSION PLAN
+General Information about the Pension Plan
+Plan Description
+The MainePERS State Employee and Teacher Plan (the Plan) is a multiple-employer cost sharing plan with a special
+funding situation. As of June 30, 2016there were 236employers, including the State of Maine, participating in the plan.
+The State of Maine is also a non-employer contributing entity in that the State pays the initial unfunded actuarial liability
+on behalf of teachers, while school districts contribute the normal cost, calculated actuarially, for their teacher members.
+The Participating Local District (PLD) Plan is a multiple-employer cost sharing plan. Eligible employers (districts) are
+defined in Maine statute. As of June 30, 2016there were 283employers in the plan.
+The plans are administered by the Maine Public Employees Retirement System (MainePERS)
+28
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE9: DEFINED BENEFIT PENSION PLAN (Continued)
+General Information about the Pension Plan(Continued)
+Pension Benefits
+Benefit terms are established in Maine statute; in the case of the PLD Consolidated Plan, an advisory group, also
+established by statute, reviews the terms of the plan and periodically makes recommendations to the Legislature to amend
+the terms. MainePERS's retirement programs provide defined retirement benefits based on members' average final
+compensation and service credit earned as of retirement. Vesting (i.e., eligibility for benefits upon reaching qualification)
+occurs upon the earning of five years of service credit (effective October 1, 1999, the prior ten year requirement was
+reduced by legislative action to five years for State employees and teachers; separate legislation enacted the same reduced
+requirement for employees of PLDs). In some cases, vesting occurs on the earning of one year of service credit
+immediately preceding retirement at or after normal retirement age. Normal retirement age for State employees and
+teachers is age 60, 62 or 65. The normal retirement age is determined by whether a member had met certain creditable
+service requirements on specific dates, as established by statute. For PLD members, normal retirement age is 60or 65.
+The monthly benefit of members who retire before normal retirement age by virtue of having at least 25 years of service
+credit is reduced by a statutorily prescribed factor for each year of age that a member is below her/his normal retirement
+age at retirement. The System also provides disability and death benefits which are established by statute for State
+employee and teacher members andby contract with other participating employers under applicable statutory provisions.
+Upon termination of membership, members' accumulated employee contributions are refundable with interest, credited in
+accordance with statute. Withdrawal of accumulated contributions results in forfeiture of all benefits and membership
+rights. The annual rate of interest credited to members' accounts is set by the System's Board of Trustees and is currently
+5.0%.
+Member and Employer Contributions
+Retirement benefits are funded by contributions from members and employers and by earnings on investments. Disability
+and death benefits are funded by employer normal cost contributions and by investment earnings. Member and employer
+contribution rates are each a percentageof applicable member compensation. Member contribution rates are defined by
+law or Board rule and depend on the terms of the plan under which a member is covered. Employer contribution rates are
+determined through actuarial valuations.
+Financial Reporting
+Both the SET Plan and the PLD Plan issues stand-alone financial reports which can be found at:
+http://www.mainepers.org/Publications/Publications.htm#Annual Reports
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions
+The net pension liability, deferred inflows of resources and deferred outflows of resources related to pensions were
+measured at June 30, 2016, the latest measurement date available, and the total pension liability used to calculate the net
+pension liability was determined by an actuarial valuation as of that date. These amounts are reported on the RSU’s
+financial statements as of June 30, 2017. The RSU’s deferred outflows of resources related to pensions balance, as of the
+measurement date, was increased by contributions to pensions made in the current fiscal year. These amounts were
+adjusted accordingly as reductions to expenses in the Statement of Activities.
+29
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE9: DEFINED BENEFIT PENSION PLAN(Continued)
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions(Continued)
+At June 30, 2017, the RSU reported a liability for its proportionate share of the net pension liability that reflected a
+reduction for State pension support provided to the RSU. The amount recognized by the RSUas its proportionate share
+of the net pension liability, the related State support, and the total portion of the net pension liability that was associated
+with the RSUwere as follows:
+RSU #5's proportionate share of the net
+pension liability $ 142,835
+State's proportionate share of the net pension
+liability associated with RSU #5 20,689,663
+Total $ 20,832,498
+The RSU’s proportion of the net pension liability was based on a projection of the RSU’s long-term share of
+contributions to the pension plan relative to the projected contributions of all participating school districts and the State,
+actuarially determined. At June 30, 2016, for the SET plan, the RSU’sproportion was 0.008086%, which was a decrease
+of 0.001507% from its proportion measured as of June 30, 2015. At June 30, 2016, for the PLD plan, the District’s
+proportion was 0.010962%, which was a decrease of 0.000236% from its proportion measured as of June 30, 2015.
+For the year ended June 30, 2017, the RSUrecognized pension expense of $1,530,132and revenue of $1,465,223for
+support provided by the State related to the SET plan, resulting in a net pension expense of $64,909. At June 30, 2017,
+the RSUreported deferred outflows of resources and deferred inflows of resources related to pensions from the following
+sources:
+SET Plan PLD Plan Net of Both Plans
+Deferred Deferred Deferred Deferred Deferred Deferred
+Outflows of Inflows of Outflows of Inflows of Outflows of Inflows of
+Resources Resources Resources Resources Resources Resources
+Differences between expected and
+actual experiance $ 2,762 $ 270 $ 706 $ 3,747 $ 3,468 $ 4,017
+Change of assumptions 3,668 6,244 - 6,244 3,668
+Net difference between projected and
+actual earnings on pension plan
+investments 45,611 18,689 21,523 8,958 67,134 27,647
+Changes in proportion and differences
+between employer contributions and
+proportionate share of contributions (1) 21,522 2,984 5,204 2,983 26,726
+RSU #5's contributions subsequent to the
+measurement date 485,260 - - - 485,260 -
+Total $ 533,632 $ 44,149 $ 31,457 $ 17,909 $ 565,089 $ 62,058
+Differences due to changes in assumptions about future economic or demographic factors or other inputs were recognized
+in pension expense using a straight-line amortization method over a closed period equal to the average expected
+remaining service lives of active and inactive members in each plan.
+30
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE9: DEFINED BENEFIT PENSION PLAN(Continued)
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions(Continued)
+RSU contributions to the Plan subsequent to the measurement date, totaling $485,260,are reported as deferred outflows
+of resources related to pensions and will be recognized as a reduction of the net pension liability in the next fiscal year.
+Other amounts reported as deferred outflows of resources and deferred inflows of resources related to pensions will be
+recognized in pension expense as follows:
+SET Plan PLD Plan Total
+Fiscal year 2018 $ (11,790) $ 3,453 $ (8,337)
+Fiscal year 2019 (3,905) (238) (4,143)
+Fiscal year 2020 12,846 6,979 19,825
+Fiscal year 2021 7,072 3,357 10,429
+Total $ 4,223 $ 13,551 $ 17,774
+Actuarial Methods and Assumptions
+The collective total pension liability for the Plans was determined by an actuarial valuation as of June 30,2016and 2015,
+using the following methods and assumptions applied to all periods included in the measurement.
+The Entry Age Normal actuarial funding method is used to determine costs. Under this funding method, the total
+employer contribution rate consists of two elements: the normal cost rate and the unfunded actuarial liability (UAL) rate.
+The individual entry age normal method is used to determine liabilities. Under the individual entry age normal method, a
+normal cost rate is calculated for each employee. This rate is determined by taking the value, as of age at entry into the
+plan, of the member's projected future benefits, and dividing it by the value, also as of the member's entry age, of his or
+her expected future salary. The normal cost for each employee is the product of his or her pay and his or her normal cost
+rate. The normal cost for the group is the sum of the normal costs for all members.
+Experience gains and losses, i.e., decreases or increases in liabilities and/or in assets when actual experience differs from
+the actuarial assumptions, affect the unfunded actuarial accrued liability.
+Asset Valuation Method
+The actuarial valuation employs a technique for determining the actuarial value of assets which dampens the swing in the
+market value. The specific technique adopted in this valuation recognizes in a given year one-third of the investment
+return that is different from the actuarial assumption for investment return.
+Amortization
+The IUAL of the Planis amortized on a level percentage of payroll over the amortization period then in effect under
+statutory and constitutional requirements. All other gains, losses, and changes are amortized over ten-year periods
+beginning on the date as of which they occur.
+The net pension liability of the PLD Consolidated Plan is amortized on a level percentage of payroll using a method
+where a separate twenty-year closed period is established annually for the gain or loss for that year.
+31
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+Note 9: DEFINED BENEFIT PENSION PLAN (continued)
+Actuarial Methods and Assumptions(Continued)
+Amortization(continued)
+Significant actuarial assumptions employed by the actuary for funding purposes,as of June 30, 2016,and June 30, 2015,
+are as follows:
+Investment Rate of Return-For both Plans,6.875% per annum, compounded (2016); 7.125%(2015)
+Inflation Rate -For both Plans, 2.75% (2016); 3.50% (2015)
+Salary Increases, Merit and Inflation - State employees, 2.75% to 8.75% (2016); Teachers, 2.75% to 14.50%
+(2016); State employees, 3.50% to 10.50%(2015); Teachers, 3.50% to 13.50% (2015); members of the consolidated
+plan for PLDs, 2.75% to 9.00%(2016); 3.50% to 9.50% (2015).
+Cost of Living Benefit Increases –2.20% (2016); 2.55% (2015)
+Mortality Rates–For 2016: For active employee members and non-disabled retirees of the Plans, the RP2014Total
+Dataset Healthy Annuitant Mortality Table, for males and females, is used. For all recipients of disability benefits,
+the RP2014Total Dataset DisabledTable,for males and females,is used. For 2015: For active members and non-
+disabled retirees of the Plans, the RP2000 Tables projected forward to 2015 using Scale AA are used; for active
+members and non-disabled retirees of the teachers' plan, the ages are set back two years.
+The long-term expected rate of return on pension plan assets was determined using a building-block method in which
+best-estimate ranges of expected future real rates of return (expected returns, net of pensionplan investment expense and
+inflation) are developed for each major class of assets. These ranges are combined to produce the long-term expected rate
+of return by weighting the expected future real rates of return by the target asset allocation percentageand by adding
+expected inflation. Best estimates of arithmetic real rates of return for each major asset class included in the pension
+plan's target asset allocation as of June 30, 2016are summarized in the following table:
+Long-Term
+Expected Real
+Target Rate of
+Allocation Return
+US equities 20% 5.7%
+Non-US equities 20% 5.5%
+Private equity 10% 7.6%
+Real assets:
+Real estate 10% 5.2%
+Infrastructure 10% 5.3%
+Hard assets 5% 5.0%
+Fixed income 25% 2.9%
+32
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+Note 9: DEFINED BENEFIT PENSION PLAN (continued)
+Actuarial Methods and Assumptions(Continued)
+Discount Rate
+The discount rate used to measure the collective total pension liability was 6.875% for 2016for each of the plans and
+7.125% for 2015. The projection of cash flows used to determine the discount rate assumed that plan member
+contributions will be made at the current contribution rate and that employer and non-employer entity contributions will
+be made at contractually required rates, actuarially determined. Based on these assumptions, the pension plan's fiduciary
+net position was projected to be available to make all projected future benefit payments to current plan members.
+Therefore, the long-term expected rate of return on pension plan investments was applied to all periods of projected
+benefit payments to determine the total pension liability.
+Sensitivity of the RSU’s Proportionate Share ofthe Net Pension Liability to Changes in the Discount Rates
+The following table presents the RSU’s proportionate share of the net pension liabilitycalculatedusing the discount rate
+of 6.875%, as well as what the RSU’s proportionate share of the net pension liability would be if it were calculated using
+a discount rate that is 1 percentage point lower (5.875%) or 1percentage point higher(7.875%) than the current rate.
+Current
+1% Decrease Discount Rate 1% Increase
+(5.875%) (6.875%) (7.875%)
+SET Plan:
+RSU #5's proportionate share of the
+net pension liability $ 228,714 $ 142,835 $ 71,254
+PLD Plan
+Net pension liability 96,675 58,244 22,063
+Total $ 325,389 $ 201,079 $ 93,317
+Pension Plan Fiduciary Net Position
+Detailed information about the pension plan’s fiduciary net position is available in the separately issued MainePERS
+financial report.
+33
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2017
+NOTE 10: COMPONENTS OF FUND BALANCE
+As of June 30, 2017, fund balance components consisted of the following:
+Nonspendable Restricted Committed Assigned Unassigned
+General Fund:
+Capital reserve $ - $ - $ 1,044,175 $ - $ -
+Fuel reserve - - 100,000 - -
+Use of fund balance - - - 1,175,801 -
+Unassigned - - - - 859,271
+School lunch program 29,956 - - - (273,588)
+Other governmental funds:
+Special revenues
+Local entitlement grant - 129 - - -
+Getting to proficiency gra - 20,337 - - -
+Student aspirations - 30,428 - - -
+Donations - 42,754 - - -
+Laptop protection - 27,763 - - -
+SAMSHA - 101 - - -
+Mentoring - 10,497 - - -
+Dollars for scholars - 1,879 - - -
+Performing arts center - 30,316 - - -
+Adult education - 30,658 - - -
+Community education - 280,907 - - -
+Capital projects
+High school renovation p - 1,886,421 - - -
+Tri-Town track and field p - 2,131,480 - - -
+Total $ 29,956 $ 4,493,670 $ 1,144,175 $ 1,175,801 $ 585,683
+NOTE 11: DEFICIT FUND BALANCE
+RSU #5’s Special Revenue School Lunch Program is carrying forward a fund deficit as of June 30, 2017. This deficit
+will be funded by future operations.
+NOTE 12: PURPOSE OF STUDENT ACTIVITY FUNDS
+The purpose of the Student Activity Funds is to maintain accountability of the various extracurricular activities for the
+students of Regional School Unit No. 5.
+NOTE 13: SUBSEQUENT EVENTS
+In June 2017, the School Committee approved 8 lease-purchase agreements each for the purchase of a school bus with
+the Gorham Savings Leasing Group, for 3-year terms at a fixed rate of 3.0%. Total amount financed will be $694,212.
+In preparing these financial statements, RSU #5 has evaluated events and transactions for potential recognition or
+disclosure through December 6, 2017, the date the financial statements were available to be issued.
+34
+
+REQUIRED SUPPLEMENTARY INFORMATION
+
+Schedule 1
+REGIONAL SCHOOL UNIT NO. 5
+BUDGETARY COMPARISON SCHEDULE
+BUDGET AND ACTUAL - GENERAL FUND - BUDGETARY BASIS
+YEAR ENDED JUNE 30, 2017
+Variance
+Original Positive
+Budget Final Budget Actual (Negative)
+REVENUES:
+Town assessments (includes adult
+education of $100,000) $ 23,998,023 $ 23,998,023 $ 23,998,023 $ -
+State shared revenues:
+General 5,910,258 5,910,258 5,931,162 20,904
+State agency client 32,000 32,000 91,366 59,366
+Medicaid Reimbursement 5,000 5,000 42,510 37,510
+Adult education subsidy 44,901 44,901 44,901 -
+5,992,159 5,992,159 6,109,939 117,780
+Charges for Services - Adult Education 100,056 100,056 44,845 (55,211)
+Other:
+Interest earnings 4,900 4,900 11,082 6,182
+Miscellaneous 112,491 112,491 137,309 24,818
+117,391 117,391 148,391 31,000
+TOTAL REVENUES 30,207,629 30,207,629 30,301,198 93,569
+EXPENDITURES-BY FUNCTIONS:
+Student and staff support 3,034,814 2,884,814 2,838,363 46,451
+School administration 1,501,738 1,466,738 1,464,256 2,482
+Facilities maintenance 4,601,454 5,451,454 5,379,904 71,550
+Career and technical education 542,107 542,111 542,110 1
+Crossing guard 1,400 1,400 941 459
+Regular instruction 12,088,185 11,688,185 11,668,072 20,113
+Other instruction 738,862 738,862 728,906 9,956
+System administration 784,704 764,704 736,759 27,945
+Transportation services 1,522,706 1,462,706 1,449,789 12,917
+Debt service 1,671,693 1,671,693 1,671,693 -
+Special education services 4,195,780 4,010,776 3,994,089 16,687
+Other outlays:
+Capital improvements and fuel expenses 20,705 20,705 20,705 -
+Adult education 244,957 244,957 194,759 50,198
+TOTAL EXPENDITURES-BY FUNCTIONS 30,949,105 30,949,105 30,690,346 258,759
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES (741,476) (741,476) (389,148) 352,328
+35
+See Notes to Required Supplementary Information.
+
+Schedule 1 Continued
+REGIONAL SCHOOL UNIT NO. 5
+BUDGETARY COMPARISON SCHEDULE
+BUDGET AND ACTUAL - GENERAL FUND - BUDGETARY BASIS
+YEAR ENDED JUNE 30, 2017
+Variance
+Original Positive
+Budget Final Budget Actual (Negative)
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES $ (741,476) $ (741,476) $ (389,148) $ 352,328
+OTHER FINANCING SOURCES (USES):
+Transfer out to school lunch program (225,229) (225,229) (225,229) -
+BUDGETARY SURPLUS (DEFICIT) $ (966,705) $ (966,705) $ (614,377) $ 352,328
+COMPONENTS OF THE SCHOOL'S
+BUDGETARY SURPLUS (DEFICIT)
+Committed
+Capital improvement reserve $ (20,705) $ (20,705) $ 911,295
+Assigned
+Use of fund balance (946,000) (946,000) 229,801
+Unassigned - - (1,755,473)
+$ (966,705) $ (966,705) $ (614,377)
+36
+See Notes to Required Supplementary Information.
+
+2
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+YTILIBAIL
+NOISNEP
+TEN
+EHT
+FO
+ERAHS
+ETANOITROPORP
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+REHCAET
+DNA
+EEYOLPME
+ETATS
+SREPENIAM
+500ST
+:DI
+REYOLPME
+s'5#
+USR
+etanoitroporp
+s'etatS
+yraicudif
+nalP
+ten
+eht
+fo
+erahs
+etanoitroporp
+s'5#
+USR
+s'5#
+USR
+a
+sa
+noitisop
+ten
+ytilibail
+noisnep
+s'5#
+USR
+ten
+eht
+fo
+erahs
+etanoitroporp
+fo
+noitroporp
+fo
+egatnecrep
+fo
+egatnecrep
+a
+sa
+-derevoc
+ytilibail
+noisnep
+ten
+eht
+fo
+erahs
+ten
+eht
+eht
+roF
+noisnep
+latot
+eht
+-derevoc
+sti
+eeyolpme
+htiw
+detaicossa
+noisnep
+noisnep
+raeY
+lacsiF
+ytilibail
+lloryap
+eeyolpme
+lloryap
+latoT
+5#
+USR
+ytilibail
+ytilibail
+dednE
+%12.67
+%30.1
+764,648,31
+$
+894,238,02
+$
+366,986,02
+$
+538,241
+$
+%680800.0
+6102
+%81.18
+%40.1
+493,993,21
+690,106,41
+975,174,41
+715,921
+%395900.0
+5102
+%19.38
+%79.0
+381,063,21
+175,958,11
+006,937,11
+179,911
+%501110.0
+4102
+%58.67
+%04.2
+089,825,11
+403,184,5
+023,402,5
+489,672
+%224710.0
+3102
+,delipmoc
+si
+dnert
+raey-01
+lluf
+a
+litnu
+,revewoH
+.sraey
+net
+rof
+noitamrofni
+wohs
+ot
+dednetni
+si
+eludehcs
+sihT
+:etoN
+.elbaliava
+si
+noitamrofni
+hcihw
+rof
+sraey
+esoht
+rof
+noitamrofni
+tneserp
+lliw
+5#
+USR
+.noitamrofnI
+yratnemelppuS
+deriuqeR
+ot
+setoN
+eeS
+37
+
+3
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+SNOITUBIRTNOC
+REYOLPME
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+REHCAET
+DNA
+EEYOLPME
+ETATS
+SREPENIAM
+500ST
+:DI
+REYOLPME
+s'5#
+USR
+s'5#
+USR
+ni snoitubirtnoc
+a
+sa
+snoitubirtnoc
+s'5#
+USR
+s'5#
+USR
+eht ot
+noitaler
+sti
+fo
+egatnecrep
+-derevoc
+noitubirtnoc
+yllautcartnoc
+yllautcartnoC
+eht
+roF
+eeyolpme-derevoc
+eeyolpme
+ycneicifed
+deriuqer
+deriuqer
+raeY
+lacsiF
+lloryap
+lloryap
+)ssecxe(
+snoitubirtnoc
+snoitubirtnoc
+dednE
+:nalP
+TES
+%54.3
+764,648,31
+$
+-
+$
+955,774
+$
+955,774
+$
+6102
+%77.2
+493,993,21
+-
+269,343
+269,343
+5102
+%67.2
+381,063,21
+-
+214,143
+214,143
+4102
+%11.0
+089,825,11
+-
+781,21
+781,21
+3102
+:nalP
+DLP
+%09.8
+208,75
+-
+441,5
+441,5
+6102
+%08.7
+286,85
+-
+775,4
+775,4
+5102
+%05.6
+516,17
+-
+556,4
+556,4
+4102
+%03.5
+117,75
+-
+950,3
+950,3
+3102
+latoT
+%74.3
+962,409,31
+-
+307,284
+307,284
+6102
+%08.2
+670,854,21
+-
+935,843
+935,843
+5102
+%87.2
+897,134,21
+-
+760,643
+760,643
+4102
+%31.0
+196,685,11
+-
+642,51
+642,51
+3102
+lluf
+a
+litnu
+,revewoH
+.sraey
+net
+rof
+noitamrofni
+wohs
+ot
+dednetni
+si
+eludehcs
+sihT
+:etoN
+hcihw
+rof
+sraey
+esoht
+rof
+noitamrofni
+tneserp
+lliw
+5#
+USR
+,delipmoc
+si
+dnert
+raey-01
+.elbaliava
+si
+noitamrofni
+.noitamrofnI
+yratnemelppuS
+deriuqeR
+ot
+setoN
+eeS
+38
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2017
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Budgetary Accounting
+Budgets are adopted for the general fund only. Formal budgetary integration is employed as a management control
+device during the year for the general fund. The budget is presented on the modified accrual basis of accounting which is
+consistent with generally acceptedaccounting principles. A comparison of budget to actual is presented in these financial
+statements.
+NOTE 2: RECONCILIATION OF BUDGETARY VS. FUND FINANCIAL STATEMENTS
+As required by generally accepted accounting principles (GAAP), RSU #5 has reported a revenue and expenditure for
+Maine State Retirement contributions in the amount of $1,465,223 made by the State of Maine on behalf of
+RSU #5. Since the amount has not been budgeted, there is a difference in reporting on a budgetary basis of accounting vs.
+reporting under accounting principles generally accepted in the United States of America. The amount has been included
+as an intergovernmental revenue and expenditure inthe General Fund on Statement 5. There is no effect on the fund
+balance at the end of the year.
+Adult Education Enrichment revenues and expenditures have been reported on the budgetary basis statements but are
+reported as a special revenue fund on the GAAP statements. The transfer from Adult Education Enrichment to the Adult
+Education Program to cover the shortfall is reported on the GAAP statements but not on the budgetary basis statements.
+Capital lease proceeds and expenditures have been reported on the GAAP statements but not on the budgetary basis
+statements. There is no effect on the fund balance at the end of the year.
+Explanation of the Differences between General Fund Budgetary Comparison Schedule Revenues and Expenditures
+(Schedule1) and General Fund GAAP Revenues and Expenditures (Statement 5) are as follows:
+Revenues
+Total Revenues as reported on Budgetary Comparison Schedule
+Budget and Actual- Budgetary Basis (Schedule 1) $ 30,301,198
+Differences-budget to GAAP
+Adult Education Enrichment Programs (44,845)
+On behalf payments for Maine State Retirement Contributions
+made by the State of Maine 1,465,223
+Total Revenues as reported on Statement of Revenues, Expenditures
+and Changes in Fund Balances-Governmental Funds (Statement 5) $ 31,721,576
+Expenditures
+Total Expenditures as reported on Budgetary Comparison Schedule
+Budget and Actual- Budgetary Basis (Schedule 1) $ 30,690,346
+Differences-budget to GAAP
+Adult Education Enrichment Programs (39,002)
+Capital lease purchases 42,105
+On behalf payments for Maine State Retirement Contributions
+made by the State of Maine 1,465,223
+Total Expenditures as reported on Statement of Revenues, Expenditures,
+and Changes in Fund Balances-Governmental Funds (Statement 5) $ 32,158,672
+39
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2017
+NOTE 2: RECONCILIATION OF BUDGETARY VS. FUND FINANCIAL STATEMENTS(Continued)
+Other Financing Sources (Uses)
+Total Other Financing Sources (Uses) as reported on Budgetary Comparison
+Schedule - Budget and Actual- Budgetary Basis (Schedule 1) $ (225,229)
+Differences-budget to GAAP
+Transfer from Adult Education Enrichment to the Adult Education Program 10,855
+Capital Lease Proceeds 42,105
+Total Other Financing Sources (Uses) as reported on Statement of
+Revenues, Expenditures, and Changes in Fund Balances -
+Governmental Funds (Statement 5) $ (172,269)
+NOTE 3: BUDGETED USE OF SURPLUS
+For the year ended June 30, 2017, RSU #5 budgeted a deficit of $966,705 and planned to use the General Fund’s fund
+balance to cover the deficit. Actual revenues and expenditures, however, resulted in a deficit of $614,377.
+NOTE 4: BUDGET TRANSFERS
+During the year, expenditures exceeded appropriations in articles 3 -Facilities Maintenance and 4 –Career and
+Technical Education. The following budget transfers were authorized by the Finance Committee.
+Facilities maintenance $ 850,000
+Career and technical education 4
+Student and staff support (150,000)
+School administration (35,000)
+Regular instruction (400,000)
+System administration (20,000)
+Transportation services (60,000)
+Special education services (185,004)
+$ -
+40
+
+OTHER SUPPLEMENTARY INFORMATION
+
+4
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+-
+TEEHS
+ECNALAB
+GNINIBMOC
+7102
+,03
+ENUJ
+STESSA stnuoccA
+morf
+euD
+/hsaC
+stessA
+latoT
+seirotnevnI
+elbavieceR
+sdnuF
+rehtO
+stnemtsevnI
+sdnuF
+euneveR
+laicepS
+257,49
+$
+-
+$
+257,49
+$
+-
+$
+-
+$
+degatnavdasid
+A1
+eltiT
+015,15
+-
+015,15
+-
+-
+tnarg
+tnemeltitne
+lacol
+AEDI
+404,01
+-
+404,01
+-
+-
+tnarg
+loohcserp
+AEDI
+892,12
+-
+-
+892,12
+-
+ycneiciforp
+ot
+gnitteG
+290,24
+-
+290,24
+-
+-
+ytilauq
+rehcaet
+gnivorpmI
+565,13
+-
+-
+729,22
+836,8
+snoitaripsa
+tnedutS
+978,24
+-
+-
+978,24
+-
+snoitanoD
+152,03
+-
+-
+152,03
+-
+noitcetorp
+potpaL
+101
+-
+-
+101
+-
+AHSMAS
+794,01
+-
+-
+794,01
+-
+gnirotneM
+978,1
+-
+-
+978,1
+-
+sralohcs
+rof
+sralloD
+613,03
+-
+-
+613,03
+-
+retnec
+stra
+gnimrofreP
+526,13
+-
+-
+526,13
+-
+tnemhcirnE
+noitacudE
+tludA
+844,470,1
+-
+-
+-
+844,470,1
+noitacude
+ytinummoC
+650,148
+659,92
+583,56
+-
+517,547
+margorp
+noitirtun
+loohcS
+376,413,2
+$
+659,92
+$
+341,462
+$
+377,191
+$
+108,828,1
+$
+seuneveR
+laicepS
+latoT
+41
+
+)deunitnoC(
+4
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+-
+TEEHS
+ECNALAB
+GNINIBMOC
+7102
+,03
+ENUJ
+ECNALAB
+DNUF
+DNA
+SEITILIBAIL
+latoT
+dna
+seitilibaiL
+rehtO
+ot
+euD
+deurccA
+stnuoccA
+ecnalaB
+dnuF
+ecnalaB
+dnuF
+sdnuF
+seiralaS
+elbayaP
+sdnuF
+euneveR
+laicepS
+257,49
+$
+-
+$
+776,67
+$
+570,81
+$
+-
+$
+degatnavdasid
+A1
+eltiT
+015,15
+921
+568,33
+-
+615,71
+tnarg
+tnemeltitne
+lacol
+AEDI
+404,01
+-
+404,01
+-
+-
+tnarg
+loohcserp
+AEDI
+892,12
+733,02
+-
+-
+169
+ycneiciforp
+ot
+gnitteG
+290,24
+-
+388,9
+-
+902,23
+ytilauq
+rehcaet
+gnivorpmI
+565,13
+824,03
+-
+-
+731,1
+snoitaripsa
+tnedutS
+978,24
+457,24
+-
+-
+521
+snoitanoD
+152,03
+367,72
+-
+-
+884,2
+noitcetorp
+potpaL
+101
+101
+-
+-
+-
+AHSMAS
+794,01
+794,01
+-
+-
+-
+gnirotneM
+978,1
+978,1
+-
+-
+-
+sralohcs
+rof
+sralloD
+613,03
+613,03
+-
+-
+-
+retnec
+stra
+gnimrofreP
+526,13
+856,03
+-
+-
+769
+tnemhcirnE
+noitacudE
+tludA
+844,470,1
+709,082
+647,777
+522,9
+075,6
+noitacude
+ytinummoC
+650,148
+)236,342(
+355,180,1
+666
+964,2
+margorp
+noitirtun
+loohcS
+376,413,2
+$
+731,232
+$
+821,099,1
+$
+669,72
+$
+244,46
+$
+seuneveR
+laicepS
+latoT
+42
+
+5
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+-
+SECNALAB
+DNUF
+NI
+SEGNAHC
+DNA
+SERUTIDNEPXE
+,SEUNEVER
+FO
+TNEMETATS
+GNINIBMOC
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+7102
+,03
+ENUJ
+DEDNE
+RAEY
+EHT
+ROF dnuF
+dnuF
+seuneveR
+margorP
+secnalaB
+dnE
+secnalaB
+margorP
+nI
+srefsnarT
+-nrevogretnI
+fo
+gninnigeB
+raeY
+fo
+serutidnepxE
+)tuO(
+rehtO
+latnem
+raeY
+sdnuF
+euneveR
+laicepS
+-
+$
+770,191
+$
+-
+$
+-
+$
+770,191
+$
+-
+$
+degatnavdasid
+A1
+eltiT
+921
+269,843
+-
+-
+269,843
+921
+tnarg
+tnemeltitne
+lacol
+AEDI
+-
+586,01
+-
+-
+586,01
+-
+tnarg
+loohcserp
+AEDI
+733,02
+440,13
+-
+-
+817,32
+366,72
+ycneiciforp
+ot
+gnitteG
+-
+149,301
+-
+-
+149,301
+-
+ytilauq
+rehcaet
+gnivorpmI
+824,03
+629,9
+-
+913,11
+-
+530,92
+snoitaripsa
+tnedutS
+457,24
+278
+-
+063,3
+-
+662,04
+snoitanoD
+367,72
+359,72
+-
+269,03
+-
+457,42
+noitcetorp
+potpaL
+101
+-
+-
+-
+-
+101
+AHSMAS
+794,01
+-
+-
+-
+-
+794,01
+gnirotneM
+978,1
+-
+-
+-
+-
+978,1
+sralohcs
+rof
+sralloD
+613,03
+082,7
+-
+064,6
+-
+631,13
+retnec
+stra
+gnimrofreP
+856,03
+300,93
+)558,01(
+548,44
+-
+176,53
+tnemhcirnE
+dE
+tludA
+709,082
+804,416
+-
+436,376
+-
+186,122
+noitacude
+ytinummoC
+)236,342(
+796,897
+922,522
+626,972
+074,162
+)062,112(
+margorp
+noitirtun
+loohcS
+731,232
+$
+848,381,2
+$
+473,412
+$
+602,050,1
+$
+358,939
+$
+255,112
+$
+seuneveR
+laicepS
+latoT
+43
+
+6
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+-
+NOITISOP
+TEN
+YRAICUDIF
+FO
+TNEMETATS
+GNINIBMOC
+SDNUF
+YRAICUDIF
+7102
+,03
+ENUJ
+sdnuF
+ycnegA
+sdnuF
+ytivitcA
+tnedutS
+lanwoP
+mahruD
+ytinummoC
+gnidnaL
+tsaM
+yratnemelE
+yratnemelE
+elddiM
+tropeerF
+hgiH
+tropeerF
+noitacudE
+latoT
+loohcS
+loohcS
+loohcS
+loohcS
+loohcS
+llabtooF
+)11
+eludehcS(
+)01
+eludehcS(
+)9
+eludehcS(
+)8
+eludehcS(
+)7
+eludehcS(
+:STESSA
+963,233
+$
+803,42
+$
+626,11
+$
+476,54
+$
+730,35
+$
+790,391
+$
+726,4
+$
+tnemtsevni/hsaC
+:SEITILIBAIL
+931
+-
+-
+-
+-
+-
+931
+sdnuf
+rehto
+ot
+euD
+032,233
+803,42
+626,11
+476,54
+730,35
+790,391
+884,4
+spuorg
+rehto
+ot
+euD
+963,233
+803,42
+626,11
+476,54
+730,35
+790,391
+726,4
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+-
+$
+NOITISOP
+TEN
+LATOT
+44
+
+Schedule 7
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT HIGH SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+5210 Grant $ 413 $ 218 $ 364 $ 267
+Amnest International 161 13,000 12,850 311
+Art Club 187 100 - 287
+Arthur Albert Smth Scholarshlip 160 - - 160
+Athletics 47,875 128,270 120,626 55,519
+Band 5,085 1,147 2,574 3,658
+Bradley Fellowship - 2,985 1,180 1,805
+Ceramics 346 - - 346
+Chorus 1,263 470 1,120 613
+Chrome BookRepair 200 132 - 332
+Class of 2008 1,015 - 1,015 -
+Class 2012 1,021 - - 1,021
+Class 2013 791 311 - 1,102
+Class 2014 5,183 1,924 5,000 2,107
+Class 2015 5,453 - - 5,453
+Class 2016 21,203 100 6,996 14,307
+Class 2017 11,861 33,107 35,825 9,143
+Class 2018 6,911 18,888 10,112 15,687
+Class 2019 6,309 5,437 2,453 9,293
+Class 2020 new - 4,599 3,105 1,494
+Custodians new - 159 - 159
+Drama/Musical 6,141 8,278 8,780 5,639
+Engineering Class 2,143 179 - 2,322
+English 134 - - 134
+Environment Club(EARTH) 904 460 74 1,290
+Fishing Club 2,109 - - 2,109
+Foreign Language 32 - - 32
+Friends of FHS 440 - - 440
+Gay/Straight All 676 - 97 579
+General Fund 872 - 872 -
+GEMS new - 185 - 185
+Homecoming 4,133 1,538 678 4,993
+JMG 4,119 4,912 5,261 3,770
+Laptop 132 - 132 -
+Latin Club 34 3,043 3,020 57
+Library 689 80 30 739
+Math Team 132 368 280 220
+Math Department - 244 - 244
+Melmac Scholarship 3,000 2,000 2,000 3,000
+Subtotal 141,127 232,134 224,444 148,817
+45
+
+Schedule 7 (Continued)
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT HIGH SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+Model UN $ 157 $ 9,340 $ 7,831 $ 1,666
+National Honor Society 56 - 20 36
+NYC Trip 683 - - 683
+One Act Plays 1,298 3,069 1,846 2,521
+PG 2014 1,924 - 1,924 -
+Photography 1,608 - - 1,608
+Principal's Contingency 8,470 6,140 5,274 9,336
+PG 6 2013 311 - 311 -
+PTSO 1,697 2,599 2,730 1,566
+Quebec Trip 25 200 150 75
+Recycling Service Project 490 - - 490
+Scholarships 5,690 7,531 13,200 21
+Science 326 - - 326
+Science Olympiad 357 - 348 9
+Social Studies 142 - - 142
+Staff Wellness Initiative 399 - - 399
+Stem Lab - 2,767 2,747 20
+Student Council 346 1,733 679 1,400
+Student Needs Fund 256 - - 256
+Student Services 2,207 13,940 15,161 986
+Summer School 9,421 2,650 - 12,071
+Sunshine Fund 141 580 480 241
+Thomas Boat Grant 31 - - 31
+Thomas Max Scholarship 150 - - 150
+Videography 94 - 48 46
+World Quest 575 - 575 -
+Yearbook 7,067 14,237 11,103 10,201
+Sub-total 43,921 64,786 64,427 44,280
+Grand Total $ 185,048 $ 296,920 $ 288,871 $ 193,097
+46
+
+Schedule 8
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT MIDDLE SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+Athletics $ 109 $ 79 $ - $ 188
+Band-Students 130 2,073 2,106 97
+Bradley Grant 591 - 591 -
+Class 2016 161 - - 161
+Class 2017 - 350 350 -
+Class 2018 - 9,261 9,261 -
+Class 2019 - 16,391 16,041 350
+Coffee Fund - 384 384 -
+Drama 5,214 9,138 8,650 5,702
+Fab Friday 2,365 10,256 10,787 1,834
+Favreau-Technology 1,658 - - 1,658
+FLS & Choices 36 100 32 104
+Gardening Club 339 - 104 235
+General Fund 5,118 7,270 8,605 3,783
+GT 913 100 100 913
+Guidance 494 - 70 424
+Interact Club 20 740 508 252
+JMG 844 2,066 2,000 910
+Library 215 2,289 2,082 422
+Lisa Roney 100 - - 100
+Magazine Drive 17 10,394 5,868 4,543
+Math Prof Dev - 2,496 - 2,496
+Mrs. Pritchard's Class 51 - - 51
+Musical Performances 7,393 - - 7,393
+O'Brien-Science 1,135 980 1,000 1,115
+OM-DI 1,615 742 - 2,357
+Parent Team 4,394 6,212 5,391 5,215
+Peer Helpers 118 - - 118
+Postage 657 937 684 910
+Project Adventure 266 - 142 124
+Project Ascent - 302 302 -
+Puffin Fund 1,827 1,000 - 2,827
+Robotics Grant 222 - - 222
+Scholarship Fund 1,179 1,052 1,074 1,157
+Space Camp 1,152 28,756 27,264 2,644
+Sports Boosters 5,299 - 1,252 4,047
+Sunshine Fund 133 248 324 57
+Touch Tank 11 - - 11
+Travel Club 279 32,314 32,035 558
+Yearbook 485 1,292 1,718 59
+$ 44,540 $ 147,222 $ 138,725 $ 53,037
+47
+
+Schedule 9
+REGIONAL SCHOOL UNIT NO. 5
+DURHAM COMMUNITY SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+Computer $ 454 $ - $ - $ 454
+Dance 1,121 1,871 1,674 1,318
+Drama 3,132 1,475 837 3,770
+Exxon Mobil 99 - - 99
+Field Work 2,243 - - 2,243
+Garden - 158 77 81
+Grade 8 1,192 2,594 3,029 757
+JMG 804 703 512 995
+Library 488 1,100 1,393 195
+Math 423 75 224 274
+Music 1,668 685 429 1,924
+Outing Club 1,014 3,427 3,133 1,308
+PTA Field Wrk support (270) 582 240 72
+Reimbursement 1,404 1,893 1,351 1,946
+School Activity 1,018 10,422 11,143 297
+Sports Gate 1,207 - - 1,207
+Student Council 1,537 809 693 1,653
+Telecommunications 0 4,066 - 2,283 1,783
+Trips 21,623 12,760 9,929 24,454
+Yearbook 665 2,259 2,080 844
+$ 43,888 $ 40,813 $ 39,027 $ 45,674
+48
+
+Schedule 10
+REGIONAL SCHOOL UNIT NO. 5
+POWNAL ELEMENTARY SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+Assembly Fund $ 217 $ - $ - $ 217
+Class Of 2014 467 4,781 3,637 1,611
+Class Of 2015 179 - - 179
+Drama 52 - - 52
+Eco Maine 88 - - 88
+Fpd Grant 600 500 500 600
+Fun Account 1,612 1,491 1,592 1,511
+Garden 39 - - 39
+General 1,001 2,253 1,618 1,636
+Library 508 118 122 504
+Library Grant 28 7,000 4,234 2,794
+Postage - 355 355 -
+Snacks 642 - - 642
+Summer Day Camp 369 - - 369
+Water/Soda Account 39 80 42 77
+Wellness 1,070 - 150 920
+Yearbook 421 121 338 204
+Youth Soccer 271 262 350 183
+$ 7,603 $ 16,961 $ 12,938 $ 11,626
+49
+
+Schedule 11
+REGIONAL SCHOOL UNIT NO. 5
+MAST LANDING SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2017
+Balance Balance
+6/30/2016 Receipts Disbursements 6/30/2017
+Bradley Foundation $ 2,783 $ - $ 1,281 $ 1,502
+Cole Grant 7 - - 7
+Drama 1,440 2,068 791 2,717
+Fpad Grant 1,307 4,075 2,302 3,080
+Fuel Up 1,384 - 900 484
+Guidance 29 - - 29
+Library 436 1,716 1,178 974
+Music/Art 212 492 523 181
+Office 330 7,180 6,495 1,015
+PTC 16,516 29,679 32,139 14,056
+School Store 97 136 - 233
+Wellness 80 - 50 30
+$ 24,621 $ 45,346 $ 45,659 $ 24,308
+50

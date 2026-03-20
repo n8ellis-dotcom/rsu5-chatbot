@@ -1,0 +1,205 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/5e88d73d-6e02-4182-b4f2-22bfae62e0dc
+SECTION: /budget/financial-statements
+TITLE: Community Recreation/Adult Education
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1500.0000.0000.41114.400 RSU5 AE Local Contribution $112,000.00 ($224,000.00) ($112,000.00) $0.00 ($66,509.31) ($45,490.69) $0.00 ($45,490.69) 40.62%
+1500.0000.0000.43240.400 Adult Ed State Revenue $21,000.00 ($63,000.00) ($42,000.00) $0.00 ($43,208.13) $1,208.13 $0.00 $1,208.13 -2.88%
+1500.0000.0000.45201.400 16/20 Transfer $5,000.00 ($10,000.00) ($5,000.00) $0.00 $0.00 ($5,000.00) $0.00 ($5,000.00) 100.00%
+1500.0000.0000.45202.400 TRANSFER IN FROM ADULT $0.00 ($12,352.31) ($12,352.31) $0.00 $0.00 ($12,352.31) $0.00 ($12,352.31) 100.00%
+ENRICHMENT
+Program: OVERHEAD - 0000 $138,000.00 ($309,352.31) ($171,352.31) $0.00 ($109,717.44) ($61,634.87) $0.00 ($61,634.87) 35.97%
+1500.6000.2000.51010.400 GED Teacher Salary $0.00 $0.00 $0.00 $180.00 $622.50 ($622.50) $0.00 ($622.50) 0.00%
+1500.6000.2000.51040.400 AE Literacy Teacher Salary $13,050.00 $0.00 $13,050.00 $132.00 $630.22 $12,419.78 $1,600.50 $10,819.28 82.91%
+1500.6000.2000.52010.400 GED Teacher Benefits $0.00 $0.00 $0.00 $14.62 $49.52 ($49.52) $0.00 ($49.52) 0.00%
+1500.6000.2000.52040.400 AE Literacy Teacher Benefits $0.00 $0.00 $0.00 $10.86 $223.90 ($223.90) $145.44 ($369.34) 0.00%
+1500.6000.2000.56000.400 Supplies $0.00 $4,500.00 $4,500.00 $0.00 $4,124.00 $376.00 $0.00 $376.00 8.36%
+1500.6000.2300.51040.400 AE Director Salary $64,702.00 $0.00 $64,702.00 $0.00 $9,826.18 $54,875.82 $0.00 $54,875.82 84.81%
+1500.6000.2300.51180.400 AE Support Staff Salaries $13,925.60 $0.00 $13,925.60 $0.00 $0.00 $13,925.60 $0.00 $13,925.60 100.00%
+1500.6000.2300.52040.400 AE Director Benefits $7,821.21 $0.00 $7,821.21 $15.38 $2,864.07 $4,957.14 $69.18 $4,887.96 62.50%
+1500.6000.2300.52340.400 AE Director Retirement $0.00 $0.00 $0.00 $0.00 $377.32 ($377.32) $0.00 ($377.32) 0.00%
+1500.6000.2300.53110.400 AE Contracted Services $0.00 $12,000.00 $12,000.00 $0.00 $5,034.40 $6,965.60 $0.00 $6,965.60 58.05%
+1500.6000.2300.53300.400 AE Employee Training & $5,500.00 ($4,500.00) $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+Development
+1500.6000.2300.55400.400 AE Advertising $2,300.00 $0.00 $2,300.00 $0.00 $500.00 $1,800.00 $0.00 $1,800.00 78.26%
+1500.6000.2300.55800.400 AE Employee Travel $0.00 $0.00 $0.00 $0.00 $210.38 ($210.38) $0.00 ($210.38) 0.00%
+1500.6000.2300.56000.400 AE Supplies $0.00 $5,000.00 $5,000.00 $0.00 $4,073.66 $926.34 $0.00 $926.34 18.53%
+1500.6000.2300.58100.400 AE Dues & Fees $2,500.00 $0.00 $2,500.00 $0.00 $0.00 $2,500.00 $0.00 $2,500.00 100.00%
+Program: Adult Education Programs - 6000 $109,798.81 $17,000.00 $126,798.81 $352.86 $28,536.15 $98,262.66 $1,815.12 $96,447.54 76.06%
+1500.6060.1000.51010.400 College Transitions Teacher Salary $5,000.00 $0.00 $5,000.00 $419.10 $6,739.70 ($1,739.70) $0.00 ($1,739.70) -34.79%
+1500.6060.1000.51020.400 Salaries Paid to Instructional Aides $12,354.00 $0.72 $12,354.72 $393.05 $3,551.52 $8,803.20 $192.32 $8,610.88 69.70%
+or Assistants
+1500.6060.1000.51040.400 Salaries Paid to Administrators $42,536.00 $0.98 $42,536.98 $2,191.26 $8,765.04 $33,771.94 $9,781.71 $23,990.23 56.40%
+1500.6060.1000.52010.400 College Transitions Teacher $375.00 $0.00 $375.00 $133.97 $2,146.25 ($1,771.25) $0.00 ($1,771.25) -472.33%
+Benefits
+1500.6060.1000.52020.400 Employee Benefits for Aides or $926.00 $0.00 $926.00 $31.69 $280.54 $645.46 $15.84 $629.62 67.99%
+Assistants
+1500.6060.1000.52040.400 Employee Benefits for $10,061.00 $1.01 $10,062.01 $591.29 $2,730.15 $7,331.86 $2,746.33 $4,585.53 45.57%
+Administrators
+1500.6060.1000.52340.400 Retirement for Administrators $1,268.00 $0.00 $1,268.00 $84.14 $336.56 $931.44 $375.59 $555.85 43.84%
+1500.6060.1000.53300.400 College Transitions Employee $500.00 $0.00 $500.00 $0.00 $0.00 $500.00 $0.00 $500.00 100.00%
+Training & Dev
+1500.6060.1000.55800.400 College Transitions Employee $500.00 $0.00 $500.00 $0.00 $0.00 $500.00 $0.00 $500.00 100.00%
+Travel
+1500.6060.1000.56100.400 College Transitions Program $0.00 $500.00 $500.00 $0.00 $36.75 $463.25 $0.00 $463.25 92.65%
+Supplies
+Program: College Transitions - 6060 $73,520.00 $502.71 $74,022.71 $3,844.50 $24,586.51 $49,436.20 $13,111.79 $36,324.41 49.07%
+1500.6500.1000.51010.400 HISET Teacher Salary $12,250.00 $0.00 $12,250.00 $581.60 $9,589.70 $2,660.30 $4,000.00 ($1,339.70) -10.94%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 1
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1500.6500.1000.51040.400 Salaries Paid to Administrators $14,341.00 $0.60 $14,341.60 $0.00 $0.00 $14,341.60 $0.00 $14,341.60 100.00%
+1500.6500.1000.51180.400 HISET Support Staff Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $673.12 ($673.12) 0.00%
+1500.6500.1000.52010.400 HISET Teacher Benefits $918.00 $0.00 $918.00 $147.13 $2,172.20 ($1,254.20) $370.80 ($1,625.00) -177.02%
+1500.6500.1000.52040.400 Employee Benefits for $2,691.00 ($0.20) $2,690.80 $0.00 $0.00 $2,690.80 $0.00 $2,690.80 100.00%
+Administrators
+1500.6500.1000.52080.400 HISET Support Staff Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $63.29 ($63.29) 0.00%
+1500.6500.1000.53300.400 HISET Employee Training & $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+Development
+1500.6500.1000.55800.400 HISET Employee Travel $0.00 $500.00 $500.00 $0.00 $0.00 $500.00 $0.00 $500.00 100.00%
+1500.6500.1000.56100.400 HISET Program Supplies $1,000.00 $0.00 $1,000.00 $0.00 $145.78 $854.22 $0.00 $854.22 85.42%
+Program: High School Completion/GED - 6500 $31,200.00 $1,500.40 $32,700.40 $728.73 $11,907.68 $20,792.72 $5,107.21 $15,685.51 47.97%
+1500.6600.1000.51010.400 Salaries Paid to Professionals-AE $4,900.00 $0.00 $4,900.00 $1,934.55 $12,388.61 ($7,488.61) $8,475.00 ($15,963.61) -325.79%
+Literacy
+1500.6600.1000.51040.400 Salaries Paid to Administrators $7,170.00 $0.80 $7,170.80 $0.00 $0.00 $7,170.80 $0.00 $7,170.80 100.00%
+1500.6600.1000.51180.400 Salary for Regular Employee - office $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $673.12 ($673.12) 0.00%
+1500.6600.1000.52010.400 Employee Benefits for Professionals $367.00 $0.00 $367.00 $203.42 $1,787.70 ($1,420.70) $794.35 ($2,215.05) -603.56%
+1500.6600.1000.52040.400 Employee Benefits for $1,345.00 $0.00 $1,345.00 $0.00 $0.00 $1,345.00 $0.00 $1,345.00 100.00%
+Administrators
+1500.6600.1000.52080.400 Employee Benefits for Regular $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $63.36 ($63.36) 0.00%
+Employees
+1500.6600.1000.52310.400 Retirement - Professionals $0.00 $0.00 $0.00 $0.00 $36.71 ($36.71) $0.00 ($36.71) 0.00%
+1500.6600.1000.53300.400 Prof Empl Train & Dev Services $1,000.00 $0.00 $1,000.00 $0.00 $311.36 $688.64 $0.00 $688.64 68.86%
+1500.6600.1000.55800.400 Travel $500.00 $0.00 $500.00 $0.00 $158.00 $342.00 $0.00 $342.00 68.40%
+1500.6600.1000.56100.400 Instructional Supplies $1,000.00 $0.00 $1,000.00 $393.07 $525.89 $474.11 $630.47 ($156.36) -15.64%
+Program: Local Literacy - 6600 $16,282.00 $0.80 $16,282.80 $2,531.04 $15,208.27 $1,074.53 $10,636.30 ($9,561.77) -58.72%
+Fund: ADULT EDUCATION - 1500 $368,800.81 ($290,348.40) $78,452.41 $7,457.13 ($29,478.83) $107,931.24 $30,670.42 $77,260.82 98.48%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 2
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6150.0000.0000.41317.400 Adult Ed User Fees $0.00 ($38,134.36) ($38,134.36) $0.00 $0.00 ($38,134.36) $0.00 ($38,134.36) 100.00%
+Program: OVERHEAD - 0000 $0.00 ($38,134.36) ($38,134.36) $0.00 $0.00 ($38,134.36) $0.00 ($38,134.36) 100.00%
+6150.6200.1000.51010.400 AE Enrichment Salaries $0.00 $7,282.05 $7,282.05 $0.00 $225.00 $7,057.05 $0.00 $7,057.05 96.91%
+6150.6200.1000.52010.400 AE Enrichment Benefits $0.00 $0.00 $0.00 $0.00 $17.75 ($17.75) $0.00 ($17.75) 0.00%
+6150.6200.1000.59000.400 AE Refunds $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+6150.6200.2300.51040.400 AE Director Salary $0.00 $0.00 $0.00 $4,389.08 $37,238.17 ($37,238.17) $2,194.54 ($39,432.71) 0.00%
+6150.6200.2300.51180.400 AE Support Staff Salaries $0.00 $0.00 $0.00 $0.00 $3,268.25 ($3,268.25) $8,404.00 ($11,672.25) 0.00%
+6150.6200.2300.52040.400 AE Director Benefits $150.00 $0.00 $150.00 $1,215.09 $10,535.75 ($10,385.75) $754.61 ($11,140.36)-7426.91%
+6150.6200.2300.52080.400 AE Support Staff Benefits $0.00 $0.00 $0.00 $0.00 $250.01 ($250.01) $3,474.88 ($3,724.89) 0.00%
+6150.6200.2300.52340.400 Retirement $0.00 $0.00 $0.00 $168.54 $1,429.94 ($1,429.94) $84.27 ($1,514.21) 0.00%
+6150.6200.2300.53110.400 Contracted Services $0.00 $17,000.00 $17,000.00 $0.00 $950.60 $16,049.40 $0.00 $16,049.40 94.41%
+6150.6200.2300.56000.400 Supplies $0.00 $500.00 $500.00 $0.00 $84.99 $415.01 $0.00 $415.01 83.00%
+6150.6200.2300.59100.400 Tranfer to Adult Ed Fund 1500 $0.00 $12,352.31 $12,352.31 $0.00 $0.00 $12,352.31 $0.00 $12,352.31 100.00%
+Program: AE Enrichment Programs - 6200 $150.00 $38,134.36 $38,284.36 $5,772.71 $54,000.46 ($15,716.10) $14,912.30 ($30,628.40) -80.00%
+Fund: AE ENRICHMENT - 6150 $150.00 $0.00 $150.00 $5,772.71 $54,000.46 ($53,850.46) $14,912.30 ($68,762.76)-45841.84%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 3
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6501.8000.0000.51020.900 Laugh & Learn school staff salaries $0.00 $130,956.00 $130,956.00 $17,271.48 $106,925.73 $24,030.27 $67,231.86 ($43,201.59) -32.99%
+6501.8000.0000.51180.900 Salaries of Regular Employees $0.00 $47,223.28 $47,223.28 $113.59 $20,710.79 $26,512.49 $4,038.72 $22,473.77 47.59%
+6501.8000.0000.51200.900 salaries - temp employees $0.00 $14,564.16 $14,564.16 $0.00 $0.00 $14,564.16 $0.00 $14,564.16 100.00%
+6501.8000.0000.52020.900 support staff benefits $0.00 $0.00 $0.00 $2,161.31 $13,218.89 ($13,218.89) $9,356.41 ($22,575.30) 0.00%
+6501.8000.0000.52080.900 admin benefits $0.00 $7,544.60 $7,544.60 $8.93 $3,906.72 $3,637.88 $380.40 $3,257.48 43.18%
+6501.8000.0000.52320.900 Retirement Instructional Aides or $0.00 $0.00 $0.00 $0.00 $868.41 ($868.41) $0.00 ($868.41) 0.00%
+Assistants
+6501.8000.0000.52520.900 training and development $0.00 $5,000.00 $5,000.00 $99.00 $1,251.00 $3,749.00 $0.00 $3,749.00 74.98%
+6501.8000.0000.53000.900 purchased - contracted services $0.00 $5,000.00 $5,000.00 $972.36 $972.36 $4,027.64 $0.00 $4,027.64 80.55%
+6501.8000.0000.55800.900 travel $0.00 $3,000.00 $3,000.00 $14.69 $93.94 $2,906.06 $0.00 $2,906.06 96.87%
+6501.8000.0000.56000.900 supplies $0.00 $1,000.00 $1,000.00 $0.00 $2,199.57 ($1,199.57) $0.00 ($1,199.57) -119.96%
+6501.8000.0000.56101.900 instructional supplies used in $0.00 $2,000.00 $2,000.00 $129.09 $1,852.84 $147.16 $402.29 ($255.13) -12.76%
+programming
+6501.8000.0000.58100.900 dues and fees for licensing $0.00 $1,000.00 $1,000.00 $0.00 $906.65 $93.35 $0.00 $93.35 9.34%
+6501.8000.0000.59000.900 program refunds $0.00 $8,000.00 $8,000.00 $0.00 $0.00 $8,000.00 $0.00 $8,000.00 100.00%
+Program: COMMUNITY SERVICE PROGRAMS - 8000 $0.00 $225,288.04 $225,288.04 $20,770.45 $152,906.90 $72,381.14 $81,409.68 ($9,028.54) -4.01%
+Fund: LAUGH & LEARN - 6501 $0.00 $225,288.04 $225,288.04 $20,770.45 $152,906.90 $72,381.14 $81,409.68 ($9,028.54) -4.01%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 4
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6502.8000.0000.51020.900 staff salaries - counselors $0.00 $37,000.00 $37,000.00 $0.00 $37,219.24 ($219.24) $0.00 ($219.24) -0.59%
+6502.8000.0000.51180.900 Salaries of regular employees-office $0.00 $8,333.52 $8,333.52 $20.05 $3,654.85 $4,678.67 $673.12 $4,005.55 48.07%
+6502.8000.0000.51200.900 salaries - temp employees $0.00 $2,427.36 $2,427.36 $0.00 $1,089.41 $1,337.95 $0.00 $1,337.95 55.12%
+6502.8000.0000.52020.900 staff benefits - counselors $0.00 $0.00 $0.00 $0.00 $2,290.39 ($2,290.39) $0.00 ($2,290.39) 0.00%
+6502.8000.0000.52080.900 benefits of regular employees-office $0.00 $1,331.40 $1,331.40 $1.57 $689.41 $641.99 $63.36 $578.63 43.46%
+6502.8000.0000.52520.900 training & development $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+6502.8000.0000.53000.900 purch contr serv-humans and $0.00 $5,500.00 $5,500.00 $420.00 $1,948.00 $3,552.00 $0.00 $3,552.00 64.58%
+comp/organizations
+6502.8000.0000.55800.900 travel $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+6502.8000.0000.56000.900 supplies - supplies used in office $0.00 $1,000.00 $1,000.00 $0.00 $730.70 $269.30 $0.00 $269.30 26.93%
+6502.8000.0000.56101.900 instructional supplies - supplies $0.00 $1,000.00 $1,000.00 $0.00 $502.66 $497.34 $0.00 $497.34 49.73%
+used in programs
+6502.8000.0000.58100.900 dues and fees - licensing $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+6502.8000.0000.59000.900 program refunds $0.00 $3,000.00 $3,000.00 $0.00 $1,255.00 $1,745.00 $0.00 $1,745.00 58.17%
+Program: COMMUNITY SERVICE PROGRAMS - 8000 $0.00 $62,592.28 $62,592.28 $441.62 $49,379.66 $13,212.62 $736.48 $12,476.14 19.93%
+Fund: CAMP SEASIDE - 6502 $0.00 $62,592.28 $62,592.28 $441.62 $49,379.66 $13,212.62 $736.48 $12,476.14 19.93%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 5
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6800.0000.0000.41800.900 Community Ed / Rec User Fees $0.00 $0.00 $0.00 $0.00 ($1,135.00) $1,135.00 $0.00 $1,135.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 ($1,135.00) $1,135.00 $0.00 $1,135.00 0.00%
+6800.8000.0000.51020.900 Com Ed Support Staff Salaries $65,511.86 $0.00 $65,511.86 $4,206.73 $27,124.78 $38,387.08 $2,942.34 $35,444.74 54.10%
+6800.8000.0000.51040.900 Administrator Salary $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $17,635.36 ($17,635.36) 0.00%
+6800.8000.0000.51180.900 Salaries of regular employees-office $103,812.80 $0.00 $103,812.80 $7,859.16 $68,055.66 $35,757.14 $29,464.32 $6,292.82 6.06%
+6800.8000.0000.51200.900 Com Ed Other Salaries $46,123.20 $0.00 $46,123.20 $3,030.00 $35,518.06 $10,605.14 $425.00 $10,180.14 22.07%
+6800.8000.0000.51500.900 Com Ed Childcare Salaries $192,448.19 $0.00 $192,448.19 $1,994.52 $6,243.79 $186,204.40 $24,255.20 $161,949.20 84.15%
+6800.8000.0000.52000.900 Com Ed Childcare Benefits $0.00 $0.00 $0.00 $401.60 $3,762.08 ($3,762.08) $2,328.64 ($6,090.72) 0.00%
+6800.8000.0000.52020.900 Com Ed Support Staff Benefits $0.00 $0.00 $0.00 $339.20 $2,589.37 ($2,589.37) $242.51 ($2,831.88) 0.00%
+6800.8000.0000.52040.900 Administrator Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $5,969.99 ($5,969.99) 0.00%
+6800.8000.0000.52080.900 Benefits of regular employees - $0.00 $0.00 $0.00 $2,805.26 $24,220.15 ($24,220.15) $9,816.36 ($34,036.51) 0.00%
+office
+6800.8000.0000.52300.900 Retirement $0.00 $0.00 $0.00 $0.00 $40.93 ($40.93) $0.00 ($40.93) 0.00%
+6800.8000.0000.52340.900 Administrator Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $677.20 ($677.20) 0.00%
+6800.8000.0000.52520.900 Comm Ed Training & Development $0.00 $1,000.00 $1,000.00 $0.00 $0.00 $1,000.00 $0.00 $1,000.00 100.00%
+6800.8000.0000.53000.900 Com Ed Contracted Services $0.00 $225,000.00 $225,000.00 $11,524.81 $103,299.27 $121,700.73 $8,309.00 $113,391.73 50.40%
+6800.8000.0000.54000.900 Com Ed Purchased Services $0.00 $0.00 $0.00 $0.00 $5,877.72 ($5,877.72) $0.00 ($5,877.72) 0.00%
+6800.8000.0000.55800.900 Travel $0.00 $500.00 $500.00 $28.62 $408.89 $91.11 $0.00 $91.11 18.22%
+6800.8000.0000.56000.900 Com Ed Supplies $0.00 $5,000.00 $5,000.00 $492.54 $3,775.94 $1,224.06 $0.00 $1,224.06 24.48%
+6800.8000.0000.56101.900 Com Ed Program Supplies $0.00 $40,000.00 $40,000.00 $159.74 $39,143.92 $856.08 $1,758.77 ($902.69) -2.26%
+6800.8000.0000.56400.900 Com Ed Printing Postage $0.00 $10,000.00 $10,000.00 $0.00 $1,255.32 $8,744.68 $0.00 $8,744.68 87.45%
+Advertising
+6800.8000.0000.58100.900 Com Ed Dues & Fees $0.00 $2,000.00 $2,000.00 $0.00 $1,321.50 $678.50 $157.50 $521.00 26.05%
+6800.8000.0000.59000.900 Com Ed Refunds $0.00 $5,000.00 $5,000.00 $0.00 $505.00 $4,495.00 $0.00 $4,495.00 89.90%
+Program: COMMUNITY SERVICE PROGRAMS - 8000 $407,896.05 $288,500.00 $696,396.05 $32,842.18 $323,142.38 $373,253.67 $103,982.19 $269,271.48 38.67%
+Fund: CE- RECREATION - 6800 $407,896.05 $288,500.00 $696,396.05 $32,842.18 $322,007.38 $374,388.67 $103,982.19 $270,406.48 38.83%
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 6
+
+RSU No. 5
+Community Recreation - Adult Ed - L&L - C Seaside
+From Date: 2/1/2023 To Date: 2/28/2023
+Fiscal Year: 2022-2023 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: $776,846.86 $286,031.92 $1,062,878.78 $67,284.09 $548,815.57 $514,063.21 $231,711.07 $282,352.14 26.56%
+End of Report
+Printed: 03/01/2023 11:28:25 AM Report: rptGLGenRptwBudgetAdj 2022.3.18 Page: 7

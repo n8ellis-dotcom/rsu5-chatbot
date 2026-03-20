@@ -1,0 +1,1352 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/9be3da50-51d9-4448-bf38-615ec03f5d02
+SECTION: /budget/fy27
+TITLE: 2026-2027 Superintendent's Recommended Budget (Articles)
+TYPE: Finalsite-PDF
+============================================================
+
+RSU5
+Superintendent’s Proposed
+FY 27 Budget
+January 28, 2026
+Page 1 of 89
+
+RSU 5
+2026-2027 SUPERINTENDENT'S PROPOSED BUDGET
+Adopted Proposed
+2025-2026 2026-2027 Difference Difference
+Article # Description Budget Budget $ %
+Article 1 Regular Instruction $19,356,261 $19,873,193 $ 516,932 2.67%
+Article 2 Special Education $ 6,513,451 $ 7,510,422 $ 996,971 15.31%
+Article 3 Career & Technical Education $ 307,645 $ 307,645 $ - 0.00%
+Article 4 Other Instruction (Co-Curricular & Athletics) $ 1,119,087 $ 1,172,539 $ 53,452 4.78%
+Article 5 Student & Staff Support $ 4,644,307 $ 4,906,366 $ 262,059 5.64%
+Article 6 System Administration $ 1,263,587 $ 1,308,008 $ 44,421 3.52%
+Article 7 School Administration $ 2,514,485 $ 2,638,024 $ 123,539 4.91%
+Article 8 Transportation & Buses $ 1,931,576 $ 2,388,457 $ 456,881 23.65%
+Article 9 Facilities Maintenance $ 5,490,511 $ 5,993,777 $ 503,266 9.17%
+Article 10 Debt Service & Other Commitments $ 1,087,428 $ 1,071,577 $ (15,851) -1.46%
+Article 11 All Other Expenses (Nutrition) $ 139,591 $ 69,796 $ (69,795) -50.00%
+Total Articles 1-11 Budget $44,367,929 $47,239,804 $2,871,875 6.47%
+Adult Education $ 88,000 $ 88,000 $ - 0.00%
+Total Operating Budget $44,455,929 $47,327,804 $2,871,875 6.46%
+Cost Centers
+010 = Durham Community School
+020 = Morse Street School
+030 = Pownal Elementary School
+040 = Mast Landing School
+050 = Freeport Middle School
+300 = Freeport High School
+900 = District Wide
+950 = K-8
+990 = 9-12
+Page 2 of 89
+Proposed 01.28.2026
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.51010.010 Teacher Salary $1,965,610 $2,162,930 $2,432,453 $2,547,024 $2,712,435 $165,411 6.49
+1000.1100.1000.51020.010 Ed Tech Salaries $75,147 $103,637 $101,737 $160,739 $109,725 ($51,014) (31.74)
+1000.1100.1000.51230.010 Salaries-Subs $62,373 $81,617 $147,669 $87,330 $104,025 $16,695 19.12
+1000.1100.1000.51500.010 Stipends $0 $0 $0 $3,031 $3,443 $412 13.59
+1000.1100.1000.52000.010 Stipend Benefit $0 $0 $0 $102 $116 $14 13.73
+1000.1100.1000.52010.010 Teacher Benefits $401,404 $515,320 $583,700 $615,313 $656,470 $41,157 6.69
+1000.1100.1000.52020.010 Ed Tech Benefits $17,238 $14,019 $16,451 $71,931 $67,260 ($4,671) (6.49)
+1000.1100.1000.52030.010 Benefits-Subs $4,620 $5,321 $9,191 $2,821 $9,810 $6,989 247.75
+1000.1100.1000.52300.010 Retirement $0 $0 $0 $135 $154 $19 14.07
+1000.1100.1000.52310.010 Retirement $82,761 $93,800 $107,739 $113,852 $121,246 $7,394 6.49
+1000.1100.1000.52320.010 Retirement $2,894 $4,540 $3,749 $7,174 $5,298 ($1,876) (26.15)
+1000.1100.1000.52330.010 Retirement $170 $922 $2,856 $3,904 $2,330 ($1,574) (40.32)
+1000.1100.1000.53400.010 Professional Services $18,774 $23,399 $34,250 $24,321 $24,291 ($30) (0.12)
+1000.1100.1000.54300.010 Copiers- Equipment Maint $9,255 $13,928 $7,958 $15,600 $15,600 $0 0.00
+1000.1100.1000.54330.010 Software $6,373 $8,424 $8,762 $12,651 $14,129 $1,478 11.68
+1000.1100.1000.55800.010 Travel $2,243 $1,287 $2,168 $5,000 $5,000 $0 0.00
+1000.1100.1000.56100.010 Supplies $61,010 $65,553 $74,803 $73,793 $77,331 $3,538 4.79
+1000.1100.1000.56110.010 Equipment & Furniture, $0 $0 $9,642 $5,330 $6,124 $794 14.90
+Instructional
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 3 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.56400.010 Books $12,184 $15,676 $14,767 $13,200 $13,200 $0 0.00
+1000.1100.1000.57300.010 Equipment $8,100 $7,079 $0 $0 $0 $0 0.00
+1000.1100.1000.58100.010 Dues & Fees $200 $379 $0 $472 $472 $0 0.00
+Program: ELEMENTARY PROGRAMS - 1100 $2,730,359 $3,117,831 $3,557,895 $3,763,723 $3,948,459 $184,736 4.91
+1000.1120.1000.51010.010 Teacher Salaries $325,416 $354,784 $379,104 $414,293 $444,784 $30,491 7.36
+1000.1120.1000.51020.010 Ed Tech Salaries $26,993 $27,798 $25,572 $28,221 $43,401 $15,180 53.79
+1000.1120.1000.52010.010 Teacher Benefits $73,466 $75,751 $92,498 $106,411 $114,275 $7,864 7.39
+1000.1120.1000.52020.010 Ed Tech Benefits $9,553 $9,231 $2,273 $5,453 $11,966 $6,513 119.44
+1000.1120.1000.52310.010 Retirement $12,565 $15,333 $16,891 $18,519 $19,882 $1,363 7.36
+1000.1120.1000.52320.010 Retirement $1,011 $1,199 $1,035 $1,261 $2,095 $834 66.14
+Program: K-2 INSTRUCTION - 1120 $449,003 $484,096 $517,373 $574,158 $636,403 $62,245 10.84
+1000.4200.1000.53000.010 JMG $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+Program: ALT (AT RISK) ED PROGRAMS - 4200 $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+1000.4900.1000.51501.010 GaTE Art Advisor Stipend - $636 $0 $0 $0 $0 $0 0.00
+DCS
+1000.4900.1000.51502.010 GaTE Music Advisor $587 $0 $0 $0 $0 $0 0.00
+Stipend - DCS
+1000.4900.1000.52001.010 GaTE Art Stipend Benefits - $98 $0 $0 $0 $0 $0 0.00
+DCS
+1000.4900.1000.52002.010 GaTE Music Stipend $170 $0 $0 $0 $0 $0 0.00
+Benefits - DCS
+1000.4900.1000.52301.010 GaTE Art Stipend $24 $0 $0 $0 $0 $0 0.00
+Retirement - DCS
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 4 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4900.1000.52302.010 GaTE Music Stipend $23 $0 $0 $0 $0 $0 0.00
+Retirement - DCS
+Program: GIFTED & TALENTED - 4900 $1,538 $0 $0 $0 $0 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $3,205,900 $3,628,927 $4,102,268 $4,364,881 $4,611,862 $246,981 5.66
+Cost Center: DURHAM COMMUNITY - 010 $3,205,900 $3,628,927 $4,102,268 $4,364,881 $4,611,862 $246,981 5.66
+1000.1100.1000.51010.020 Teacher Salary $1,119,834 $1,109,569 $1,291,609 $1,195,284 $1,377,907 $182,623 15.28
+1000.1100.1000.51020.020 Ed Tech Salaries $73,791 $95,367 $96,498 $134,574 $102,514 ($32,060) (23.82)
+1000.1100.1000.51230.020 Substitute Wages $90,540 $69,364 $81,524 $74,220 $86,109 $11,889 16.02
+1000.1100.1000.52010.020 Teacher Benefits $205,631 $243,265 $295,156 $248,768 $292,118 $43,350 17.43
+1000.1100.1000.52020.020 Ed Tech Benefits $28,128 $27,656 $27,774 $65,781 $63,706 ($2,075) (3.15)
+1000.1100.1000.52030.020 Substitute Benefits $7,382 $3,938 $4,518 $2,397 $8,120 $5,723 238.76
+1000.1100.1000.52310.020 Retirement $42,542 $49,047 $57,380 $53,429 $61,592 $8,163 15.28
+1000.1100.1000.52320.020 Retirement $6,497 $6,829 $2,828 $6,015 $4,949 ($1,066) (17.72)
+1000.1100.1000.52330.020 Retirement $13 $298 $1,370 $3,318 $1,929 ($1,389) (41.86)
+1000.1100.1000.53400.020 Professional Servics $4,074 $5,129 $7,079 $7,810 $7,201 ($609) (7.80)
+1000.1100.1000.54300.020 Copiers-Equipment Maint $6,075 $8,806 $15,468 $13,000 $13,000 $0 0.00
+1000.1100.1000.54330.020 Software $4,687 $3,607 $2,645 $4,050 $1,050 ($3,000) (74.07)
+1000.1100.1000.55800.020 Travel $558 $721 $1,017 $700 $700 $0 0.00
+1000.1100.1000.56100.020 Instructional Supplies $42,412 $46,471 $39,985 $42,982 $40,972 ($2,010) (4.68)
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 5 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.56400.020 BOOKS $6,404 $9,423 $9,169 $8,200 $7,800 ($400) (4.88)
+1000.1100.1000.57300.020 Equipment $1,472 $0 $0 $0 $0 $0 0.00
+Program: ELEMENTARY PROGRAMS - 1100 $1,640,040 $1,679,492 $1,934,021 $1,860,528 $2,069,667 $209,139 11.24
+1000.1120.1000.51010.020 Salaries $316,022 $255,377 $270,496 $314,027 $255,102 ($58,925) (18.76)
+1000.1120.1000.51020.020 Ed Tech Salaries $75,933 $53,561 $66,228 $63,334 $65,183 $1,849 2.92
+1000.1120.1000.52010.020 Benefits $35,772 $44,460 $45,075 $81,864 $84,690 $2,826 3.45
+1000.1120.1000.52020.020 Ed Tech Benefit $12,433 $8,880 $9,730 $11,383 $17,086 $5,703 50.10
+1000.1120.1000.52310.020 Retirement $11,407 $11,138 $11,844 $14,037 $11,403 ($2,634) (18.76)
+1000.1120.1000.52320.020 Retirement $1,880 $2,251 $2,648 $2,831 $3,147 $316 11.16
+Program: K-2 INSTRUCTION - 1120 $453,448 $375,666 $406,020 $487,476 $436,611 ($50,865) (10.43)
+Function: REGULAR INSTRUCTION - 1000 $2,093,488 $2,055,158 $2,340,041 $2,348,004 $2,506,278 $158,274 6.74
+Cost Center: MORSE STREET - 020 $2,093,488 $2,055,158 $2,340,041 $2,348,004 $2,506,278 $158,274 6.74
+1000.1100.1000.51010.030 Teacher Salaries $558,586 $592,246 $562,329 $726,219 $662,647 ($63,572) (8.75)
+1000.1100.1000.51020.030 Ed Tech Salaries $33,042 $44,491 $52,179 $47,154 $47,263 $109 0.23
+1000.1100.1000.51230.030 Sub Salaries $14,623 $16,140 $20,638 $17,270 $20,632 $3,362 19.47
+1000.1100.1000.52010.030 Teacher Benefits $99,418 $110,078 $95,904 $129,905 $139,319 $9,414 7.25
+1000.1100.1000.52020.030 Ed Tech Benefits $1,443 $1,715 $2,105 $8,344 $12,348 $4,004 47.99
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 6 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.52030.030 Sub Benefits $1,140 $1,239 $2,328 $558 $1,946 $1,388 248.75
+1000.1100.1000.52310.030 Retirement $25,772 $26,866 $24,893 $32,462 $29,620 ($2,842) (8.75)
+1000.1100.1000.52320.030 Retirement $1,265 $1,994 $2,020 $2,108 $2,282 $174 8.25
+1000.1100.1000.52330.030 Retirement $32 $216 $325 $772 $462 ($310) (40.16)
+1000.1100.1000.53400.030 Professional Services $7,623 $9,774 $10,827 $12,967 $14,687 $1,720 13.26
+1000.1100.1000.54300.030 Copiers Repairs/Maint $6,657 $7,256 $6,210 $9,700 $9,700 $0 0.00
+1000.1100.1000.54330.030 Software $4,531 $5,780 $4,536 $5,610 $4,636 ($974) (17.36)
+1000.1100.1000.55800.030 Travel $1,126 $1,322 $1,396 $2,000 $1,600 ($400) (20.00)
+1000.1100.1000.56100.030 Instructional Supplies $18,273 $18,749 $23,157 $18,405 $17,990 ($415) (2.25)
+1000.1100.1000.56110.030 Equipment & Furniture, $1,230 $3,532 $1,689 $2,303 $2,620 $317 13.76
+Instructional
+1000.1100.1000.56400.030 Books $2,817 $3,978 $3,185 $3,200 $3,000 ($200) (6.25)
+1000.1100.1000.58100.030 Dues and Fees $0 $0 $200 $200 $200 $0 0.00
+Program: ELEMENTARY PROGRAMS - 1100 $777,578 $845,376 $813,919 $1,019,177 $970,952 ($48,225) (4.73)
+1000.1120.1000.51010.030 Teacher Salaries $113,825 $119,668 $126,109 $132,314 $145,313 $12,999 9.82
+1000.1120.1000.51020.030 Ed Tech Salaries $15,492 $14,637 $14,611 $29,432 $29,232 ($200) (0.68)
+1000.1120.1000.52010.030 Teacher Benefits $20,397 $21,572 $27,000 $32,713 $35,257 $2,544 7.78
+1000.1120.1000.52020.030 Ed Tech Benefits $13,329 $4,651 $370 $5,537 $8,023 $2,486 44.90
+1000.1120.1000.52310.030 Retirement $11,528 $6,065 $5,460 $5,914 $6,495 $581 9.82
+1000.1120.1000.52320.030 Retirement $601 $565 $653 $1,316 $1,411 $95 7.22
+Program: K-2 INSTRUCTION - 1120 $175,173 $167,159 $174,203 $207,226 $225,731 $18,505 8.93
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 7 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: REGULAR INSTRUCTION - 1000 $952,751 $1,012,534 $988,122 $1,226,403 $1,196,683 ($29,720) (2.42)
+Cost Center: POWNAL ELEMENTARY - 030 $952,751 $1,012,534 $988,122 $1,226,403 $1,196,683 ($29,720) (2.42)
+1000.1100.1000.51010.040 Teacher Salaries $1,347,636 $1,382,270 $1,535,641 $1,771,344 $1,673,143 ($98,201) (5.54)
+1000.1100.1000.51020.040 Ed Tech Salaries $52,423 $80,865 $64,207 $29,472 ($12) ($29,484) (100.04)
+1000.1100.1000.51230.040 Substitute Wages $32,974 $40,866 $73,040 $43,727 $52,387 $8,660 19.80
+1000.1100.1000.51500.040 Stipends $0 $0 $0 $2,400 $2,400 $0 0.00
+1000.1100.1000.52000.040 Stipend Benefits $0 $0 $0 $81 $81 $0 0.00
+1000.1100.1000.52010.040 Teacher Benefits $312,985 $341,645 $344,789 $443,878 $441,487 ($2,391) (0.54)
+1000.1100.1000.52020.040 Ed Tech Benefits $8,360 $11,233 $2,316 $6,118 ($1,002) ($7,120) (116.38)
+1000.1100.1000.52030.040 Substitute Benefits $2,178 $2,303 $5,551 $1,412 $4,940 $3,528 249.86
+1000.1100.1000.52300.040 Retirement - Stipends $0 $0 $0 $107 $107 $0 0.00
+1000.1100.1000.52310.040 Retirement $58,257 $62,426 $71,171 $79,179 $74,789 ($4,390) (5.54)
+1000.1100.1000.52320.040 Retirement $898 $2,113 $1,251 $1,328 $0 ($1,328) (100.00)
+1000.1100.1000.52330.040 Retirement $321 $195 $384 $1,955 $1,173 ($782) (40.00)
+1000.1100.1000.53400.040 Purchased Professional $15,932 $13,963 $19,027 $19,078 $17,395 ($1,683) (8.82)
+1000.1100.1000.54300.040 Copiers Repair/Maint $3,870 $7,952 $15,333 $11,800 $11,800 $0 0.00
+1000.1100.1000.54330.040 Software $4,009 $5,129 $5,893 $6,542 $6,147 ($395) (6.04)
+1000.1100.1000.55800.040 Travel $559 $245 $707 $1,810 $1,810 $0 0.00
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 8 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.56100.040 Instructional Supplies $36,694 $37,130 $40,255 $40,747 $41,663 $916 2.25
+1000.1100.1000.56110.040 Equipment & Furniture, $0 $0 $0 $6,554 $3,806 ($2,748) (41.93)
+Instructional
+1000.1100.1000.56400.040 Books $5,868 $6,274 $8,806 $8,214 $6,000 ($2,214) (26.96)
+1000.1100.1000.57300.040 Equipment $7,524 $4,967 $15,887 $0 $0 $0 0.00
+1000.1100.1000.58100.040 Dues and Fees $0 $150 $0 $0 $0 $0 0.00
+Program: ELEMENTARY PROGRAMS - 1100 $1,890,488 $1,999,726 $2,204,258 $2,475,747 $2,338,114 ($137,633) (5.56)
+Function: REGULAR INSTRUCTION - 1000 $1,890,488 $1,999,726 $2,204,258 $2,475,747 $2,338,114 ($137,633) (5.56)
+Cost Center: MAST LANDING - 040 $1,890,488 $1,999,726 $2,204,258 $2,475,747 $2,338,114 ($137,633) (5.56)
+1000.1100.1000.51010.050 Teacher Salaries $1,778,437 $1,878,258 $1,981,698 $2,154,906 $2,193,163 $38,257 1.78
+1000.1100.1000.51020.050 Ed Tech Salaries $93,896 $97,911 $110,106 $104,576 $44,491 ($60,085) (57.46)
+1000.1100.1000.51230.050 Substitute Wages $44,854 $51,024 $102,489 $54,596 $70,751 $16,155 29.59
+1000.1100.1000.51500.050 Stipends $0 $0 $1,405 $5,250 $5,250 $0 0.00
+1000.1100.1000.52000.050 Stipend Benefits $0 $0 $40 $176 $176 $0 0.00
+1000.1100.1000.52010.050 Teacher Benefits $376,462 $462,548 $478,973 $554,470 $608,630 $54,160 9.77
+1000.1100.1000.52020.050 Ed Tech Benefits $21,740 $21,627 $14,125 $14,815 ($2,792) ($17,607) (118.85)
+1000.1100.1000.52030.050 Substitute Benefits $3,927 $3,200 $6,025 $1,763 $6,672 $4,909 278.45
+1000.1100.1000.52300.050 Retirement $0 $0 $63 $235 $235 $0 0.00
+1000.1100.1000.52310.050 Retirement $67,969 $84,045 $88,301 $96,324 $96,771 $447 0.46
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 9 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1100.1000.52320.050 Retirement $3,380 $4,064 $4,479 $4,685 $2,149 ($2,536) (54.13)
+1000.1100.1000.52330.050 Retirement $448 $555 $578 $2,440 $1,585 ($855) (35.04)
+1000.1100.1000.53400.050 Purchased Professional $21,665 $22,955 $20,666 $21,688 $21,188 ($500) (2.31)
+1000.1100.1000.54300.050 Copiers Repair/Maint $6,566 $23,103 $9,474 $16,100 $16,100 $0 0.00
+1000.1100.1000.54330.050 Software $5,706 $6,137 $3,761 $3,820 $3,620 ($200) (5.24)
+1000.1100.1000.55800.050 Travel $2,365 $2,364 $2,248 $3,500 $3,500 $0 0.00
+1000.1100.1000.56100.050 Instructional Supplies $43,581 $43,131 $36,951 $43,313 $66,369 $23,056 53.23
+1000.1100.1000.56110.050 Equipment & Furniture, $0 $0 $0 $22,782 $21,750 ($1,032) (4.53)
+Instructional
+1000.1100.1000.56400.050 Books $9,538 $12,000 $11,957 $13,200 $13,200 $0 0.00
+1000.1100.1000.57300.050 Equipment $18,474 $21,454 $21,058 $0 $0 $0 0.00
+1000.1100.1000.58100.050 Dues & Fees $1,466 $2,111 $1,035 $2,120 $2,120 $0 0.00
+Program: ELEMENTARY PROGRAMS - 1100 $2,500,475 $2,736,487 $2,895,433 $3,120,759 $3,174,928 $54,169 1.74
+1000.4200.1000.53000.050 JMG $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+Program: ALT (AT RISK) ED PROGRAMS - 4200 $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+1000.4900.1000.51501.050 GaTE Art Advisor Stipend - $636 $0 $0 $0 $0 $0 0.00
+FMS
+1000.4900.1000.51502.050 GaTE Music Advisor $424 $0 $0 $0 $0 $0 0.00
+Stipend - FMS
+1000.4900.1000.52001.050 GaTE Art Stipend Benefits - $162 $0 $0 $0 $0 $0 0.00
+FMS
+1000.4900.1000.52002.050 GaTE Music Advisor $124 $0 $0 $0 $0 $0 0.00
+Benefits - FMS
+1000.4900.1000.52301.050 GaTE Art Stipend $24 $0 $0 $0 $0 $0 0.00
+Retirement - FMS
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 10 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4900.1000.52302.050 GaTE Music Advisor $16 $0 $0 $0 $0 $0 0.00
+Retirement - FMS
+Program: GIFTED & TALENTED - 4900 $1,387 $0 $0 $0 $0 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $2,526,861 $2,763,487 $2,922,433 $3,147,759 $3,201,928 $54,169 1.72
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $2,526,861 $2,763,487 $2,922,433 $3,147,759 $3,201,928 $54,169 1.72
+1000.1200.1000.51010.300 Teacher Salaries $2,977,757 $3,190,467 $3,490,645 $3,672,467 $3,775,742 $103,275 2.81
+1000.1200.1000.51020.300 Ed Tech Salaries $111,031 $87,618 $81,822 $8,576 $59,232 $50,656 590.67
+1000.1200.1000.51230.300 Substitute Wages $61,140 $109,556 $129,695 $117,225 $111,146 ($6,079) (5.19)
+1000.1200.1000.51500.300 Stipends $674 $2,760 $2,264 $19,546 $22,808 $3,262 16.69
+1000.1200.1000.52000.300 Stipend Benefits $24 $49 $55 $657 $766 $109 16.59
+1000.1200.1000.52010.300 Teacher Benefits $641,733 $715,203 $777,671 $848,424 $926,831 $78,407 9.24
+1000.1200.1000.52020.300 Ed Tech Benefits $24,641 $9,328 $12,301 $4,657 $23,222 $18,565 398.65
+1000.1200.1000.52030.300 Substitute Benefits $3,695 $7,540 $8,645 $3,786 $10,481 $6,695 176.84
+1000.1200.1000.52300.300 Retirement $26 $120 $101 $874 $1,020 $146 16.70
+1000.1200.1000.52310.300 Retirement $113,709 $141,591 $153,663 $164,159 $168,776 $4,617 2.81
+1000.1200.1000.52320.300 Retirement $4,271 $3,637 $3,401 $773 $2,859 $2,086 269.86
+1000.1200.1000.52330.300 Retirement $656 $824 $1,087 $5,240 $2,490 ($2,750) (52.48)
+1000.1200.1000.53000.300 School Resource Officer $34,000 $35,413 $36,237 $39,000 $41,500 $2,500 6.41
+1000.1200.1000.53400.300 Purchased Professional $44,601 $24,009 $44,909 $49,497 $39,536 ($9,961) (20.12)
+Services
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 11 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.1200.1000.54300.300 Copier Repair/Maint $40,598 $42,093 $42,597 $40,000 $40,000 $0 0.00
+1000.1200.1000.54330.300 Software $0 $1,168 $0 $200 $200 $0 0.00
+1000.1200.1000.55800.300 Travel $1,399 $268 $877 $1,500 $1,500 $0 0.00
+1000.1200.1000.56100.300 Instructional Supplies High $55,902 $56,736 $50,631 $54,490 $57,499 $3,009 5.52
+School
+1000.1200.1000.56110.300 Equipment & Furniture, $0 $0 $0 $4,769 $12,373 $7,604 159.45
+Instructional
+1000.1200.1000.56400.300 Books High School $8,331 $5,616 $8,820 $21,780 $12,665 ($9,115) (41.85)
+1000.1200.1000.57300.300 Equipment High School $17,646 $15,216 $5,201 $0 $0 $0 0.00
+1000.1200.1000.58100.300 Dues and Fees $215 $275 $654 $1,264 $1,784 $520 41.14
+Program: SECONDARY PROGRAMS - 1200 $4,142,050 $4,449,486 $4,851,276 $5,058,884 $5,312,430 $253,546 5.01
+1000.4200.1000.53000.300 JMG $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+Program: ALT (AT RISK) ED PROGRAMS - 4200 $25,000 $27,000 $27,000 $27,000 $27,000 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $4,167,050 $4,476,486 $4,878,276 $5,085,884 $5,339,430 $253,546 4.99
+Cost Center: FREEPORT HIGH SCHOOL - 300 $4,167,050 $4,476,486 $4,878,276 $5,085,884 $5,339,430 $253,546 4.99
+1000.4100.1000.53000.900 Purchased Professional $0 $0 $6,182 $0 $0 $0 0.00
+Services
+1000.4100.1000.53300.900 Employee Training & $0 $1,200 $0 $0 $0 $0 0.00
+Development
+1000.4100.1000.55800.900 Travel - district wide $0 $0 $171 $0 $0 $0 0.00
+Program: ELL - 4100 $0 $1,200 $6,353 $0 $0 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $0 $1,200 $6,353 $0 $0 $0 0.00
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 12 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Cost Center: SYSTEM WIDE - 900 $0 $1,200 $6,353 $0 $0 $0 0.00
+1000.4100.1000.51010.950 Teachers Salary $35,051 $116,794 $180,208 $185,619 $122,731 ($62,888) (33.88)
+1000.4100.1000.52010.950 Teacher Benefits $2,398 $14,501 $30,526 $14,153 ($14,715) ($28,868) (203.97)
+1000.4100.1000.52310.950 Retirement $1,346 $5,221 $8,040 $8,297 $5,486 ($2,811) (33.88)
+1000.4100.1000.53000.950 Purchased Professional $0 $5,699 $0 $3,150 $16,800 $13,650 433.33
+Services
+1000.4100.1000.53400.950 Professional Services $0 $167 $0 $0 $0 $0 0.00
+1000.4100.1000.55800.950 Travel $263 $617 $0 $100 $100 $0 0.00
+1000.4100.1000.56000.950 Supplies $0 $133 $0 $0 $0 $0 0.00
+1000.4100.1000.56100.950 Instructional Supplies $509 $0 $0 $250 $525 $275 110.00
+Program: ELL - 4100 $39,567 $143,132 $218,775 $211,569 $130,927 ($80,642) (38.12)
+1000.4900.1000.51010.950 Teacher Salaries $201,446 $214,473 $214,397 $244,329 $178,585 ($65,744) (26.91)
+1000.4900.1000.51500.950 Stipends $6,142 $7,788 $8,021 $13,388 $13,388 $0 0.00
+1000.4900.1000.52000.950 Stipends $963 $1,403 $1,553 $450 $450 $0 0.00
+1000.4900.1000.52010.950 Teacher Benefits $37,079 $36,835 $46,663 $57,183 $35,525 ($21,658) (37.87)
+1000.4900.1000.52300.950 Retirement $247 $362 $373 $598 $598 $0 0.00
+1000.4900.1000.52310.950 Retirement $7,627 $9,462 $9,458 $10,921 $7,983 ($2,938) (26.90)
+1000.4900.1000.53000.950 Purchased Professional $2,239 $0 $87 $4,038 $4,038 $0 0.00
+Services
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 13 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4900.1000.53400.950 Professional Services $0 $1,273 $1,539 $2,014 $8,489 $6,475 321.50
+Testing
+1000.4900.1000.53440.950 GaTE K-8 Professional $0 $70 $984 $2,629 $2,579 ($50) (1.90)
+Servies
+1000.4900.1000.55800.950 Travel $124 $298 $128 $920 $1,000 $80 8.70
+1000.4900.1000.56100.950 GaTE K-8 Instructional $2,128 $1,816 $1,243 $1,145 $1,845 $700 61.14
+Supplies
+1000.4900.1000.56400.950 GaTE K-8 Books $407 $1,207 $881 $1,200 $1,200 $0 0.00
+1000.4900.1000.58100.950 Dues and Fees $1,394 $2,273 $2,303 $4,955 $4,955 $0 0.00
+Program: GIFTED & TALENTED - 4900 $259,797 $277,261 $287,630 $343,770 $260,635 ($83,135) (24.18)
+Function: REGULAR INSTRUCTION - 1000 $299,364 $420,393 $506,405 $555,339 $391,562 ($163,777) (29.49)
+Cost Center: K-8 - 950 $299,364 $420,393 $506,405 $555,339 $391,562 ($163,777) (29.49)
+1000.4100.1000.51010.990 Teacher Salaries $174,712 $152,830 $87,298 $92,936 $99,209 $6,273 6.75
+1000.4100.1000.52010.990 Teacher Benefits $25,423 $14,978 $27,245 $20,861 $22,388 $1,527 7.32
+1000.4100.1000.52310.990 Retirement $6,697 $6,805 $3,881 $4,154 $4,435 $281 6.76
+1000.4100.1000.53000.990 Purchased Professional $0 $4,687 $0 $3,150 $16,803 $13,653 433.43
+Services
+1000.4100.1000.55800.990 Travel-Other $0 $0 $0 $100 $100 $0 0.00
+1000.4100.1000.56100.990 Instructional Supplies $305 $0 $0 $250 $525 $275 110.00
+Program: ELL - 4100 $207,137 $179,300 $118,424 $121,451 $143,460 $22,009 18.12
+1000.4900.1000.51010.990 Teacher Salaries $11,204 $11,742 $12,662 $13,587 $96,727 $83,140 611.91
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 14 of 89
+
+RSU No. 5
+FY27 Article 1 Regular Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4900.1000.51500.990 Stipends $0 $0 $0 $300 $300 $0 0.00
+1000.4900.1000.52000.990 Stipends $0 $0 $0 $10 $10 $0 0.00
+1000.4900.1000.52010.990 Teacher Benefits $2,805 $2,896 $3,735 $4,693 $30,674 $25,981 553.61
+1000.4900.1000.52300.990 Retirement $0 $0 $0 $13 $13 $0 0.00
+1000.4900.1000.52310.990 Retirement $430 $525 $564 $607 $4,324 $3,717 612.36
+1000.4900.1000.53000.990 Purchase Professional $442 $0 $38 $38 $38 $0 0.00
+Services
+1000.4900.1000.53440.990 GaTE HS Professional $2,242 $0 $4,668 $11,190 $11,190 $0 0.00
+Services
+1000.4900.1000.56100.990 GaTE HS Instructional $0 $0 $0 $105 $350 $245 233.33
+Supplies
+1000.4900.1000.58100.990 GaTE Dues & Fees - Sec $0 $0 $0 $250 $250 $0 0.00
+Program: GIFTED & TALENTED - 4900 $17,124 $15,163 $21,666 $30,793 $143,876 $113,083 367.24
+Function: REGULAR INSTRUCTION - 1000 $224,261 $194,463 $140,090 $152,244 $287,336 $135,092 88.73
+Cost Center: 9-12 - 990 $224,261 $194,463 $140,090 $152,244 $287,336 $135,092 88.73
+Grand Total: $15,360,163 $16,552,374 $18,088,244 $19,356,261 $19,873,193 $516,932 2.67
+End of Report
+Printed: 01/26/2026 9:41:58 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 15 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2200.1000.51010.010 Teacher Salaries $215,268 $237,538 $259,502 $279,351 $380,596 $101,245 36.24
+1000.2200.1000.51020.010 Ed Tech Salaries $182,366 $184,480 $185,550 $131,428 $198,454 $67,026 51.00
+1000.2200.1000.52010.010 Teacher Benefits $47,545 $44,161 $65,353 $64,261 $98,590 $34,329 53.42
+1000.2200.1000.52020.010 Ed Tech Benefits $54,758 $50,186 $65,662 $38,027 $101,413 $63,386 166.69
+1000.2200.1000.52310.010 Retirement $8,266 $10,619 $11,556 $12,487 $17,013 $4,526 36.25
+1000.2200.1000.52320.010 Retirement $5,595 $5,965 $6,053 $5,875 $9,581 $3,706 63.08
+1000.2200.1000.56100.010 Instructional Supplies $0 $0 $135 $100 $3,075 $2,975 2,975.00
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $513,798 $532,949 $593,811 $531,529 $808,722 $277,193 52.15
+1000.2300.1000.51010.010 Teacher Salaries $50,008 $53,465 $58,883 $65,036 $69,588 $4,552 7.00
+1000.2300.1000.51020.010 Ed Tech Salaries $84,104 $68,548 $75,898 $164,880 $64,813 ($100,067) (60.69)
+1000.2300.1000.52010.010 Teacher Benefits $18,141 $18,604 $23,318 $27,184 $29,204 $2,020 7.43
+1000.2300.1000.52020.010 Ed Tech Benefits $20,370 $12,437 $14,497 $91,805 $36,567 ($55,238) (60.17)
+1000.2300.1000.52310.010 Retirement $1,920 $2,390 $2,622 $2,907 $3,111 $204 7.02
+1000.2300.1000.52320.010 Retirement $5,510 $2,908 $3,225 $7,370 $3,129 ($4,241) (57.54)
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $180,053 $158,352 $178,442 $359,182 $206,412 ($152,770) (42.53)
+Function: REGULAR INSTRUCTION - 1000 $693,851 $691,301 $772,252 $890,711 $1,015,134 $124,423 13.97
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 16 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2110.51010.010 Social Worker Salary $72,465 $75,443 $86,169 $92,509 $106,226 $13,717 14.83
+1000.2800.2110.52010.010 Social Worker Benefits $9,018 $9,534 $12,247 $13,954 $15,199 $1,245 8.92
+1000.2800.2110.52310.010 Retirement $2,783 $3,372 $3,837 $4,135 $4,748 $613 14.82
+Program: OTHER SPECIAL PROGRAMS - 2800 $84,265 $88,349 $102,253 $110,598 $126,173 $15,575 14.08
+Function: Attendance & Social Work - 2110 $84,265 $88,349 $102,253 $110,598 $126,173 $15,575 14.08
+1000.2800.2140.53440.010 Professional Services $0 $0 $0 $1,750 $1,750 $0 0.00
+1000.2800.2140.55800.010 Travel $530 $0 $0 $267 $267 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $530 $0 $0 $2,017 $2,017 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $530 $0 $0 $2,017 $2,017 $0 0.00
+1000.2800.2150.51010.010 Speech & Audiology $112,855 $117,031 $132,525 $140,943 $224,243 $83,300 59.10
+Salaries
+1000.2800.2150.52010.010 Speech & Audiology $13,497 $14,122 $17,436 $20,252 $50,940 $30,688 151.53
+Benefits
+1000.2800.2150.52310.010 Retirement $4,333 $5,231 $5,902 $6,300 $10,024 $3,724 59.11
+Program: OTHER SPECIAL PROGRAMS - 2800 $130,686 $136,384 $155,862 $167,495 $285,207 $117,712 70.28
+Function: SPEECH & AUDIOLOGY - 2150 $130,686 $136,384 $155,862 $167,495 $285,207 $117,712 70.28
+1000.2800.2160.51010.010 OT Salary $72,307 $76,811 $82,858 $91,931 $98,735 $6,804 7.40
+1000.2800.2160.52010.010 OT Benefits $13,248 $13,860 $16,667 $19,858 $21,300 $1,442 7.26
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 17 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2160.52310.010 Retirement $2,848 $3,441 $7,310 $4,109 $4,413 $304 7.40
+1000.2800.2160.55800.010 Travel $210 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $88,614 $94,112 $106,835 $115,948 $124,498 $8,550 7.37
+Function: OT - 2160 $88,614 $94,112 $106,835 $115,948 $124,498 $8,550 7.37
+Cost Center: DURHAM COMMUNITY - 010 $997,946 $1,010,146 $1,137,203 $1,286,769 $1,553,029 $266,260 20.69
+1000.2200.1000.51010.020 Teacher Salaries $75,274 $65,389 $114,345 $81,764 $111,999 $30,235 36.98
+1000.2200.1000.51020.020 Ed Tech Salaries $15,694 $52,982 $45,073 $245,132 $34,840 ($210,292) (85.79)
+1000.2200.1000.52010.020 Teacher Benefits $23,694 $21,009 $28,051 $30,381 $33,402 $3,021 9.94
+1000.2200.1000.52020.020 Ed Tech Benefits $5,787 $12,631 $10,445 $84,047 $17,159 ($66,888) (79.58)
+1000.2200.1000.52310.020 Retirement $10,514 $11,284 $5,092 $3,655 $5,006 $1,351 36.96
+1000.2200.1000.52320.020 Retirement $351 $2,381 $1,945 $10,957 $1,682 ($9,275) (84.65)
+1000.2200.1000.56100.020 Instructional Supplies $0 $0 $169 $500 $4,725 $4,225 845.00
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $131,314 $165,676 $205,119 $456,436 $208,813 ($247,623) (54.25)
+1000.2300.1000.51010.020 Teacher Salaries $133,740 $140,970 $149,936 $161,744 $133,281 ($28,463) (17.60)
+1000.2300.1000.51020.020 Ed Tech Salaries $78,317 $73,323 $160,774 $0 $225,114 $225,114 0.00
+1000.2300.1000.52010.020 Teacher Benefits $34,808 $33,802 $42,184 $48,167 $26,882 ($21,285) (44.19)
+1000.2300.1000.52020.020 Ed Tech Benefits $5,971 $13,846 $22,471 $0 $94,146 $94,146 0.00
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 18 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2300.1000.52310.020 Retirement $4,989 $6,163 $6,635 $7,230 $5,958 ($1,272) (17.59)
+1000.2300.1000.52320.020 Retirement $5,305 $6,211 $7,024 $0 $10,868 $10,868 0.00
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $263,130 $274,314 $389,024 $217,141 $496,249 $279,108 128.54
+Function: REGULAR INSTRUCTION - 1000 $394,444 $439,990 $594,143 $673,577 $705,062 $31,485 4.67
+1000.2800.2110.51010.020 Social Worker Salary $36,728 $38,165 $43,813 $46,838 $50,032 $3,194 6.82
+1000.2800.2110.52010.020 Social Worker Benefits $7,931 $7,282 $9,261 $10,732 $11,504 $772 7.19
+1000.2800.2110.52310.020 Retirement $1,404 $1,714 $1,951 $2,094 $2,236 $142 6.78
+Program: OTHER SPECIAL PROGRAMS - 2800 $46,063 $47,161 $55,025 $59,664 $63,772 $4,108 6.89
+Function: Attendance & Social Work - 2110 $46,063 $47,161 $55,025 $59,664 $63,772 $4,108 6.89
+1000.2800.2140.53440.020 Professional Services $0 $0 $0 $1,750 $1,750 $0 0.00
+1000.2800.2140.55800.020 Travel $125 $0 $0 $266 $266 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $125 $0 $0 $2,016 $2,016 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $125 $0 $0 $2,016 $2,016 $0 0.00
+1000.2800.2150.51010.020 Speech & Audiology $101,762 $108,063 $124,511 $134,223 $144,745 $10,522 7.84
+Salaries
+1000.2800.2150.52010.020 Speech & Audiology $14,038 $14,878 $18,239 $21,074 $22,624 $1,550 7.36
+Benefits
+1000.2800.2150.52310.020 Retirement $3,908 $4,831 $5,545 $6,000 $6,470 $470 7.83
+Program: OTHER SPECIAL PROGRAMS - 2800 $119,707 $127,772 $148,295 $161,297 $173,839 $12,542 7.78
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 19 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: SPEECH & AUDIOLOGY - 2150 $119,707 $127,772 $148,295 $161,297 $173,839 $12,542 7.78
+1000.2800.2160.51010.020 OT Salary $69,710 $56,546 $61,412 $74,169 $80,558 $6,389 8.61
+1000.2800.2160.52010.020 OT Benefits $7,926 $5,514 $5,935 $8,570 $9,066 $496 5.79
+1000.2800.2160.52310.020 Retirement $2,738 $2,528 $5,647 $3,315 $3,601 $286 8.63
+1000.2800.2160.55800.020 Travel $56 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $80,430 $64,588 $72,994 $86,104 $93,275 $7,171 8.33
+Function: OT - 2160 $80,430 $64,588 $72,994 $86,104 $93,275 $7,171 8.33
+Cost Center: MORSE STREET - 020 $640,769 $679,511 $870,457 $982,658 $1,037,964 $55,306 5.63
+1000.2200.1000.51010.030 Teacher Salaries $89,235 $40,240 $2,770 $46,926 $104,347 $57,421 122.37
+1000.2200.1000.51020.030 Ed Tech Salaries $6,881 $204 $31,875 $30,251 $30,826 $575 1.90
+1000.2200.1000.52010.030 Teacher Benefits $21,119 $1,727 ($66) $5,889 $31,367 $25,478 432.64
+1000.2200.1000.52020.030 Ed Tech Benefits $7,579 $7,592 $1,061 $12,480 $15,945 $3,465 27.76
+1000.2200.1000.52310.030 Retirement $2,954 $1,674 $123 $2,098 $4,664 $2,566 122.31
+1000.2200.1000.52320.030 Retirement $265 $0 $1,268 $1,352 $1,488 $136 10.06
+1000.2200.1000.56100.030 Instructional Supplies $0 $0 $0 $100 $3,075 $2,975 2,975.00
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $128,032 $51,436 $37,032 $99,096 $191,712 $92,616 93.46
+Function: REGULAR INSTRUCTION - 1000 $128,032 $51,436 $37,032 $99,096 $191,712 $92,616 93.46
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 20 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2110.51010.030 Social Worker Salary $26,240 $34,822 $38,925 $40,615 $42,849 $2,234 5.50
+1000.2800.2110.52010.030 Social Worker Benefits $564 $703 $1,021 $2,712 $2,784 $72 2.65
+1000.2800.2110.52310.030 Retirement $1,118 $1,557 $1,733 $1,816 $1,915 $99 5.45
+Program: OTHER SPECIAL PROGRAMS - 2800 $27,922 $37,081 $41,680 $45,143 $47,548 $2,405 5.33
+Function: Attendance & Social Work - 2110 $27,922 $37,081 $41,680 $45,143 $47,548 $2,405 5.33
+1000.2800.2140.53440.030 Professional Services $0 $0 $0 $1,750 $1,750 $0 0.00
+1000.2800.2140.55800.030 Travel $125 $0 $0 $266 $266 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $125 $0 $0 $2,016 $2,016 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $125 $0 $0 $2,016 $2,016 $0 0.00
+1000.2800.2150.51010.030 Speech & Audiology $38,868 $8,024 $31,738 $32,897 $35,781 $2,884 8.77
+Salaries
+1000.2800.2150.52010.030 Speech & Audiology $8,449 $1,099 $5,799 $13,061 $14,005 $944 7.23
+Benefits
+1000.2800.2150.52310.030 Retirement $1,493 $359 $1,413 $1,471 $1,599 $128 8.70
+Program: OTHER SPECIAL PROGRAMS - 2800 $48,809 $9,481 $38,950 $47,429 $51,385 $3,956 8.34
+Function: SPEECH & AUDIOLOGY - 2150 $48,809 $9,481 $38,950 $47,429 $51,385 $3,956 8.34
+1000.2800.2160.51010.030 OT Salary $18,052 $21,160 $24,333 $26,266 $28,210 $1,944 7.40
+1000.2800.2160.52010.030 OT Benefits $3,257 $3,821 $4,864 $6,501 $6,933 $432 6.65
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 21 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2160.52310.030 Retirement $698 $946 $2,248 $1,174 $1,261 $87 7.41
+1000.2800.2160.55800.030 Travel $0 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $22,006 $25,926 $31,446 $33,991 $36,454 $2,463 7.25
+Function: OT - 2160 $22,006 $25,926 $31,446 $33,991 $36,454 $2,463 7.25
+Cost Center: POWNAL ELEMENTARY - 030 $226,895 $123,925 $149,108 $227,675 $329,115 $101,440 44.55
+1000.2200.1000.51010.040 Teacher Salaries $83,664 $87,028 $91,933 $95,791 $178,324 $82,533 86.16
+1000.2200.1000.51020.040 Ed Tech Salaries $57,055 $78,357 $172,502 $151,957 $98,304 ($53,653) (35.31)
+1000.2200.1000.52010.040 Teacher Benefits $18,881 $19,457 $24,314 $28,178 $36,217 $8,039 28.53
+1000.2200.1000.52020.040 Ed Tech Benefits $9,219 $1,980 $28,881 $64,956 $42,248 ($22,708) (34.96)
+1000.2200.1000.52310.040 Retirement $3,205 $3,899 $4,080 $4,282 $7,971 $3,689 86.15
+1000.2200.1000.52320.040 Retirement $2,591 $6,314 $9,073 $6,792 $4,746 ($2,046) (30.12)
+1000.2200.1000.56100.040 Instructional Supplies $0 $0 $0 $100 $4,325 $4,225 4,225.00
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $174,616 $197,035 $330,784 $352,056 $372,135 $20,079 5.70
+1000.2300.1000.51010.040 Teacher Salaries $126,000 $141,139 $219,400 $205,047 $188,007 ($17,040) (8.31)
+1000.2300.1000.51020.040 Ed Tech Salaries $32,549 $28,763 $30,729 $33,459 $89,903 $56,444 168.70
+1000.2300.1000.52010.040 Teacher Benefits $10,131 $19,419 $46,884 $47,990 $57,298 $9,308 19.40
+1000.2300.1000.52020.040 Ed Tech Benefits $8,209 $8,584 $9,215 $13,281 $56,829 $43,548 327.90
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 22 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2300.1000.52310.040 Retirement $4,826 $6,165 $9,606 $9,166 $8,404 ($762) (8.31)
+1000.2300.1000.52320.040 Retirement $1,250 $1,286 $1,374 $1,496 $4,340 $2,844 190.11
+1000.2300.1000.53400.040 Other Professional Services $0 $38,137 $0 $0 $0 $0 0.00
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $182,964 $243,492 $317,207 $310,439 $404,781 $94,342 30.39
+Function: REGULAR INSTRUCTION - 1000 $357,580 $440,527 $647,990 $662,495 $776,916 $114,421 17.27
+1000.2800.2110.51010.040 Social Worker Salary $36,559 $38,375 $43,813 $46,838 $50,032 $3,194 6.82
+1000.2800.2110.52010.040 Social Worker Benefits $7,930 $7,283 $9,260 $10,732 $11,504 $772 7.19
+1000.2800.2110.52310.040 Retirement $1,404 $1,715 $1,951 $2,094 $2,236 $142 6.78
+1000.2800.2110.55800.040 Travel $0 $0 $0 $300 $300 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $45,893 $47,373 $55,024 $59,964 $64,072 $4,108 6.85
+Function: Attendance & Social Work - 2110 $45,893 $47,373 $55,024 $59,964 $64,072 $4,108 6.85
+1000.2800.2140.53440.040 Professional Services $0 $0 $17,554 $1,750 $1,750 $0 0.00
+1000.2800.2140.55800.040 Travel $0 $0 $0 $267 $267 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $0 $17,554 $2,017 $2,017 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $0 $0 $17,554 $2,017 $2,017 $0 0.00
+1000.2800.2150.51010.040 Speech & Audiology $46,712 $0 $33,833 $34,569 $75,425 $40,856 118.19
+Salaries
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 23 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2150.52010.040 Speech & Audiology $11,110 $0 $6,843 $16,398 $32,280 $15,882 96.85
+Benefits
+1000.2800.2150.52310.040 Retirement $1,794 $0 $1,507 $1,545 $3,371 $1,826 118.19
+1000.2800.2150.55800.040 Travel $0 $0 $0 $100 $100 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $59,616 $0 $42,183 $52,612 $111,176 $58,564 111.31
+Function: SPEECH & AUDIOLOGY - 2150 $59,616 $0 $42,183 $52,612 $111,176 $58,564 111.31
+1000.2800.2160.51010.040 OT Salary $12,950 $11,335 $12,948 $13,978 $15,150 $1,172 8.38
+1000.2800.2160.52010.040 OT Benefits $1,029 $834 $950 $1,011 $1,049 $38 3.76
+1000.2800.2160.52310.040 Retirement $497 $507 $577 $625 $677 $52 8.32
+1000.2800.2160.55800.040 Travel $0 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $14,476 $12,676 $14,475 $15,664 $16,926 $1,262 8.06
+Function: OT - 2160 $14,476 $12,676 $14,475 $15,664 $16,926 $1,262 8.06
+Cost Center: MAST LANDING - 040 $477,565 $500,576 $777,226 $792,752 $971,107 $178,355 22.50
+1000.2200.1000.51010.050 Teacher Salaries $175,876 $126,156 $138,531 $151,740 $163,788 $12,048 7.94
+1000.2200.1000.51020.050 Ed Tech Salaries $121,329 $91,162 $61,852 $128,846 $98,465 ($30,381) (23.58)
+1000.2200.1000.52010.050 Teacher Benefits $40,678 $32,994 $42,154 $47,844 $51,431 $3,587 7.50
+1000.2200.1000.52020.050 Ed Tech Benefits $21,232 $21,312 $21,675 $49,701 $59,711 $10,010 20.14
+1000.2200.1000.52310.050 Retirement $6,754 $5,639 $6,169 $6,783 $7,321 $538 7.93
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 24 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2200.1000.52320.050 Retirement $4,277 $3,807 $2,765 $5,759 $4,753 ($1,006) (17.47)
+1000.2200.1000.56100.050 Instructional Supplies $0 $0 $354 $600 $4,825 $4,225 704.17
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $370,146 $281,070 $273,500 $391,273 $390,294 ($979) (0.25)
+1000.2300.1000.51010.050 Teacher Salaries $70,852 $138,632 $150,858 $163,774 $176,446 $12,672 7.74
+1000.2300.1000.51020.050 Ed Tech Salaries $176,408 $198,151 $166,216 $218,584 $158,348 ($60,236) (27.56)
+1000.2300.1000.52010.050 Teacher Benefits $13,709 $23,332 $29,831 $34,115 $36,651 $2,536 7.43
+1000.2300.1000.52020.050 Ed Tech Benefits $26,549 $27,702 $38,448 $61,503 $65,152 $3,649 5.93
+1000.2300.1000.52310.050 Retirement $2,712 $6,202 $6,718 $7,321 $7,887 $566 7.73
+1000.2300.1000.52320.050 Retirement $9,199 $10,146 $7,268 $9,771 $7,644 ($2,127) (21.77)
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $299,429 $404,164 $399,339 $495,068 $452,128 ($42,940) (8.67)
+Function: REGULAR INSTRUCTION - 1000 $669,576 $685,234 $672,838 $886,341 $842,422 ($43,919) (4.96)
+1000.2800.2110.51010.050 Social Worker Salary $81,298 $85,029 $96,992 $103,925 $111,099 $7,174 6.90
+1000.2800.2110.52010.050 Social Worker Benefits $16,048 $14,691 $18,735 $21,216 $22,772 $1,556 7.33
+1000.2800.2110.52310.050 Retirement $3,122 $3,801 $4,319 $4,645 $4,966 $321 6.91
+Program: OTHER SPECIAL PROGRAMS - 2800 $100,468 $103,521 $120,046 $129,786 $138,837 $9,051 6.97
+Function: Attendance & Social Work - 2110 $100,468 $103,521 $120,046 $129,786 $138,837 $9,051 6.97
+1000.2800.2140.53440.050 Professional Services $0 $0 $0 $1,500 $1,500 $0 0.00
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 25 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2140.55800.050 Travel $74 $0 $0 $267 $267 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $74 $0 $0 $1,767 $1,767 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $74 $0 $0 $1,767 $1,767 $0 0.00
+1000.2800.2150.51010.050 Speech & Audiology $41,835 $50,242 $43,130 $46,255 $49,414 $3,159 6.83
+Salaries
+1000.2800.2150.52010.050 Speech & Audiology $8,566 $9,264 $12,198 $13,076 $14,027 $951 7.27
+Benefits
+1000.2800.2150.52310.050 Retirement $1,606 $2,246 $1,921 $2,068 $2,209 $141 6.82
+1000.2800.2150.55800.050 Travel $0 $0 $189 $100 $100 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $52,006 $61,752 $57,438 $61,499 $65,750 $4,251 6.91
+Function: SPEECH & AUDIOLOGY - 2150 $52,006 $61,752 $57,438 $61,499 $65,750 $4,251 6.91
+1000.2800.2160.51010.050 OT Salary $7,718 $7,828 $8,948 $9,601 $10,253 $652 6.79
+1000.2800.2160.52010.050 OT Benefits $1,714 $1,758 $2,153 $2,617 $2,783 $166 6.34
+1000.2800.2160.52310.050 Retirement $297 $350 $398 $429 $458 $29 6.76
+1000.2800.2160.55800.050 Travel $0 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $9,729 $9,936 $11,499 $12,697 $13,544 $847 6.67
+Function: OT - 2160 $9,729 $9,936 $11,499 $12,697 $13,544 $847 6.67
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $831,852 $860,444 $861,821 $1,092,090 $1,062,320 ($29,770) (2.73)
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 26 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2100.1000.51210.300 Tutor Salaries/ESY $471 $0 $0 $14,426 $0 ($14,426) (100.00)
+1000.2100.1000.52010.300 Benefits $30 $0 $0 $645 $0 ($645) (100.00)
+1000.2100.1000.52310.300 Retirement $56 $0 $0 $485 $0 ($485) (100.00)
+1000.2100.1000.53440.300 Purchased Professional $610 $1,065 $1,715 $1,250 $0 ($1,250) (100.00)
+Program: REGULAR CLASSROOM PLACEMENT - 2100 $1,167 $1,065 $1,715 $16,806 $0 ($16,806) (100.00)
+1000.2200.1000.51010.300 Teacher Salaries $146,733 $166,465 $223,046 $142,284 $157,245 $14,961 10.51
+1000.2200.1000.51020.300 Ed Tech Salaries $48,180 $9,985 $0 $67,590 $47,309 ($20,281) (30.01)
+1000.2200.1000.51210.300 Tutor Wages $0 $480 $270 $0 $0 $0 0.00
+1000.2200.1000.52010.300 Teacher Benefits $36,942 $39,434 $66,676 $40,645 $43,804 $3,159 7.77
+1000.2200.1000.52020.300 Ed Tech Benefits $18,523 $1,731 $0 $26,609 $20,839 ($5,770) (21.68)
+1000.2200.1000.52310.300 Retirement $5,635 $6,906 $9,935 $6,360 $7,029 $669 10.52
+1000.2200.1000.52320.300 Retirement $1,855 $176 $0 $3,021 $2,284 ($737) (24.40)
+1000.2200.1000.56100.300 Instructional Supplies $0 $0 $552 $600 $4,825 $4,225 704.17
+Program: RESOURCE CLASSROOM PLACEMENT - 2200 $257,868 $225,176 $300,480 $287,109 $283,335 ($3,774) (1.31)
+1000.2300.1000.51010.300 Teacher Salaries $142,288 $121,190 $72,584 $175,562 $254,684 $79,122 45.07
+1000.2300.1000.51020.300 Ed Tech Salaries $68,262 $112,044 $116,964 $127,282 $121,682 ($5,600) (4.40)
+1000.2300.1000.52010.300 Teacher Benefits $24,506 $18,954 $35,147 $41,720 $73,908 $32,188 77.15
+1000.2300.1000.52020.300 Ed Tech Benefits $18,768 $26,019 $19,626 $49,863 $64,455 $14,592 29.26
+1000.2300.1000.52310.300 Retirement $5,464 $5,290 $3,232 $7,848 $11,384 $3,536 45.06
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 27 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2300.1000.52320.300 Retirement $1,514 $4,597 $4,901 $5,689 $5,874 $185 3.25
+1000.2300.1000.56100.300 Instructional Supplies $0 $438 $1 $0 $0 $0 0.00
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $260,802 $288,531 $252,455 $407,964 $531,987 $124,023 30.40
+1000.2810.1000.51010.300 Summer School Teacher $0 $0 $0 $0 $5,720 $5,720 0.00
+(9-12)
+1000.2810.1000.51020.300 Summer School Ed Tech $0 $0 $0 $0 $4,800 $4,800 0.00
+(9-12)
+1000.2810.1000.52010.300 Summer School Teacher $0 $0 $0 $0 $593 $593 0.00
+(9-12)
+1000.2810.1000.52020.300 Summer School Ed Tech $0 $0 $0 $0 $497 $497 0.00
+(9-12)
+1000.2810.1000.52310.300 Summer School Teacher $0 $0 $0 $0 $256 $256 0.00
+(9-12)
+1000.2810.1000.52320.300 Summer School Ed Tech $0 $0 $0 $0 $215 $215 0.00
+(9-12)
+1000.2810.1000.56100.300 Summer School Supplies $0 $0 $0 $0 $50 $50 0.00
+(9-12)
+Program: ESY Coord - LE - 2810 $0 $0 $0 $0 $12,131 $12,131 0.00
+Function: REGULAR INSTRUCTION - 1000 $519,837 $514,772 $554,650 $711,879 $827,453 $115,574 16.24
+1000.2800.2110.51010.300 Social Worker Salary $59,515 $63,611 $73,561 $80,192 $87,121 $6,929 8.64
+1000.2800.2110.52010.300 Social Worker Benefits $8,665 $8,856 $11,365 $12,977 $13,989 $1,012 7.80
+1000.2800.2110.52310.300 Retirement $2,280 $2,723 $3,276 $3,585 $3,894 $309 8.62
+1000.2800.2110.53440.300 Professional Services $0 $563 $451 $2,600 $5,100 $2,500 96.15
+Program: OTHER SPECIAL PROGRAMS - 2800 $70,460 $75,753 $88,653 $99,354 $110,104 $10,750 10.82
+Function: Attendance & Social Work - 2110 $70,460 $75,753 $88,653 $99,354 $110,104 $10,750 10.82
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 28 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2140.53440.300 Professional Services $0 $0 $0 $1,500 $1,500 $0 0.00
+1000.2800.2140.55800.300 Travel $83 $0 $0 $267 $267 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $83 $0 $0 $1,767 $1,767 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $83 $0 $0 $1,767 $1,767 $0 0.00
+1000.2800.2150.51010.300 Speech & Audiology $41,815 $50,242 $43,126 $46,255 $49,414 $3,159 6.83
+Salaries
+1000.2800.2150.52010.300 Speech & Audiology $8,565 $9,693 $12,197 $13,076 $14,027 $951 7.27
+Benefits
+1000.2800.2150.52310.300 Retirement $1,606 $2,246 $1,920 $2,068 $2,209 $141 6.82
+Program: OTHER SPECIAL PROGRAMS - 2800 $51,986 $62,181 $57,244 $61,399 $65,650 $4,251 6.92
+Function: SPEECH & AUDIOLOGY - 2150 $51,986 $62,181 $57,244 $61,399 $65,650 $4,251 6.92
+1000.2800.2160.51010.300 OT Salary $6,475 $5,562 $6,474 $6,989 $7,575 $586 8.38
+1000.2800.2160.52010.300 OT Benefits $514 $416 $475 $506 $525 $19 3.75
+1000.2800.2160.52310.300 Retirement $249 $249 $288 $312 $339 $27 8.65
+1000.2800.2160.55800.300 Travel $0 $0 $0 $50 $50 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $7,238 $6,227 $7,237 $7,857 $8,489 $632 8.04
+Function: OT - 2160 $7,238 $6,227 $7,237 $7,857 $8,489 $632 8.04
+Cost Center: FREEPORT HIGH SCHOOL - 300 $649,603 $658,932 $707,784 $882,256 $1,013,463 $131,207 14.87
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 29 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2140.55800.900 Psychologist Travel - $0 $301 $1,345 $0 $0 $0 0.00
+District Wide
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $301 $1,345 $0 $0 $0 0.00
+Function: PSYCHOLOGICAL - 2140 $0 $301 $1,345 $0 $0 $0 0.00
+1000.2800.2150.55800.900 Travel - Speech District $0 $611 $0 $0 $0 $0 0.00
+Wide
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $611 $0 $0 $0 $0 0.00
+Function: SPEECH & AUDIOLOGY - 2150 $0 $611 $0 $0 $0 $0 0.00
+1000.2800.2160.55800.900 Travel - OT - District Wide $0 $29 $43 $0 $0 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $29 $43 $0 $0 $0 0.00
+Function: OT - 2160 $0 $29 $43 $0 $0 $0 0.00
+1000.2800.2170.55800.900 Travel - PT - District Wide $0 $304 $399 $0 $0 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $304 $399 $0 $0 $0 0.00
+Function: PT - 2170 $0 $304 $399 $0 $0 $0 0.00
+1000.2800.2190.51010.900 BCBA Salary $0 $0 $77,905 $84,967 $92,164 $7,197 8.47
+1000.2800.2190.52010.900 BCBA Benefits $0 $0 $12,001 $27,249 $29,341 $2,092 7.68
+1000.2800.2190.52310.900 BCBA Retirement $0 $0 $3,469 $3,798 $4,120 $322 8.48
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 30 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2190.53000.900 Purchased Professional $0 $52,313 $0 $0 $0 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $0 $52,313 $93,375 $116,014 $125,625 $9,611 8.28
+Function: OTHER SUPPORT SERVICES - 2190 $0 $52,313 $93,375 $116,014 $125,625 $9,611 8.28
+1000.2500.2330.51010.900 Instructional Strategist $243,085 $188,509 $250,824 $268,529 $289,046 $20,517 7.64
+Salaries
+1000.2500.2330.51040.900 Admin Salaries $126,757 $127,681 $143,015 $147,250 $155,350 $8,100 5.50
+1000.2500.2330.51180.900 Support Wages $53,189 $38,430 $58,729 $63,542 $68,628 $5,086 8.00
+1000.2500.2330.52010.900 Instructional Strategist $33,630 $28,636 $61,896 $60,421 $64,655 $4,234 7.01
+Benefits
+1000.2500.2330.52040.900 Admin Benefits $11,669 $18,963 $4,273 $19,254 $22,740 $3,486 18.11
+1000.2500.2330.52080.900 Support Benefits $22,600 $17,392 $25,642 $28,875 $30,939 $2,064 7.15
+1000.2500.2330.52310.900 Retirement $9,334 $8,404 $10,861 $12,003 $12,920 $917 7.64
+1000.2500.2330.52340.900 Retirement $4,466 $5,707 $6,210 $6,582 $6,944 $362 5.50
+1000.2500.2330.52380.900 Retirement $1,333 $1,918 $2,976 $3,177 $3,431 $254 7.99
+1000.2500.2330.53000.900 Legal $21,472 $14,281 $15,668 $20,000 $20,000 $0 0.00
+1000.2500.2330.53200.900 Telephone $39 $0 $165 $240 $240 $0 0.00
+1000.2500.2330.53300.900 Prof Empl Train & Dev $0 $0 $0 $0 $2,500 $2,500 0.00
+Services
+1000.2500.2330.53400.900 Contracted Services $0 $54,475 $525 $0 $0 $0 0.00
+1000.2500.2330.53401.900 Admin Purchased Services $0 $7,319 $13,946 $15,000 $15,000 $0 0.00
+1000.2500.2330.53440.900 Purchased Professional $6,666 $0 $0 $0 $0 $0 0.00
+1000.2500.2330.55310.900 Postage $15 $1,986 $3,000 $4,000 $4,500 $500 12.50
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410 :
+rptGLGenBudgetRptUsingDefinition
+Page 31 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2500.2330.55350.900 Adori Special Ed Software $0 $3,768 $4,368 $4,500 $5,000 $500 11.11
+1000.2500.2330.55800.900 Travel $2,982 $404 $3,106 $4,000 $4,000 $0 0.00
+1000.2500.2330.56000.900 Supplies $4,524 $6,232 $2,682 $9,800 $4,300 ($5,500) (56.12)
+1000.2500.2330.58100.900 Dues & Fees $856 $578 $749 $865 $865 $0 0.00
+1000.2500.2330.59000.900 Contingency $220,000 $0 $0 $0 $0 $0 0.00
+Program: ADMINISTRATION - 2500 $762,616 $524,683 $608,633 $668,038 $711,058 $43,020 6.44
+Function: SPECIAL AREA ADMINISTRATION - 2330 $762,616 $524,683 $608,633 $668,038 $711,058 $43,020 6.44
+Cost Center: SYSTEM WIDE - 900 $762,616 $578,241 $703,794 $784,052 $836,683 $52,631 6.71
+1000.2100.1000.51210.950 Tutor Salaries/ESY $12,525 $12,786 $27,558 $16,011 $0 ($16,011) (100.00)
+1000.2100.1000.52010.950 Benefit $271 $507 $3,404 $715 $0 ($715) (100.00)
+1000.2100.1000.52310.950 Retirement $492 $463 $1,165 $538 $0 ($538) (100.00)
+1000.2100.1000.53440.950 Purchased Professional $1,424 $1,518 $2,076 $1,250 $0 ($1,250) (100.00)
+Program: REGULAR CLASSROOM PLACEMENT - 2100 $14,712 $15,274 $34,203 $18,514 $0 ($18,514) (100.00)
+1000.2400.1000.53440.950 Tutoring Services - $9,110 $0 $3,478 $7,500 $7,500 $0 0.00
+Hospital/Homebound ELEM
+Program: Homebound/Hospital - 2400 $9,110 $0 $3,478 $7,500 $7,500 $0 0.00
+1000.2810.1000.51010.950 Summer School Teacher $0 $0 $0 $0 $17,159 $17,159 0.00
+(K-8)
+1000.2810.1000.51020.950 Summer School Ed Tech $0 $0 $0 $0 $14,400 $14,400 0.00
+(K-8)
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 32 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2810.1000.52010.950 Summer School Teacher $0 $0 $0 $0 $1,777 $1,777 0.00
+(K-8)
+1000.2810.1000.52020.950 Summer School Ed Tech $0 $0 $0 $0 $1,492 $1,492 0.00
+(K-8)
+1000.2810.1000.52310.950 Summer School Teacher $0 $0 $0 $0 $766 $766 0.00
+(K-8)
+1000.2810.1000.52320.950 Summer School Ed Tech $0 $0 $0 $0 $644 $644 0.00
+(K-8)
+1000.2810.1000.56100.950 Summer School Supplies $0 $0 $0 $0 $50 $50 0.00
+(K-8)
+Program: ESY Coord - LE - 2810 $0 $0 $0 $0 $36,288 $36,288 0.00
+Function: REGULAR INSTRUCTION - 1000 $23,821 $15,274 $37,681 $26,014 $43,788 $17,774 68.32
+1000.2800.2110.53440.950 MAINECARE SEED- $910 $0 $0 $0 $2,500 $2,500 0.00
+SOCIAL WORK
+Program: OTHER SPECIAL PROGRAMS - 2800 $910 $0 $0 $0 $2,500 $2,500 0.00
+Function: Attendance & Social Work - 2110 $910 $0 $0 $0 $2,500 $2,500 0.00
+1000.2800.2140.51010.950 Psychological Services $71,220 $45,644 $99,887 $105,388 $111,184 $5,796 5.50
+Salary K-8
+1000.2800.2140.52010.950 Psych Services Benefit $9,616 $5,591 $17,709 $22,008 $23,547 $1,539 6.99
+1000.2800.2140.52310.950 Retirement $2,735 $2,040 $4,448 $4,711 $4,970 $259 5.50
+1000.2800.2140.53000.950 Purchased Professional $0 $147,764 $0 $0 $0 $0 0.00
+1000.2800.2140.55800.950 Travel $133 $0 $0 $0 $0 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $83,704 $201,039 $122,045 $132,107 $139,701 $7,594 5.75
+Function: PSYCHOLOGICAL - 2140 $83,704 $201,039 $122,045 $132,107 $139,701 $7,594 5.75
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 33 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2800.2150.53000.950 Purchased Professional $0 $117,415 $0 $0 $0 $0 0.00
+1000.2800.2150.53440.950 MAINECARE SEED- $76 $309 $873 $0 $0 $0 0.00
+SPEECH/HEARING
+Program: OTHER SPECIAL PROGRAMS - 2800 $76 $117,724 $873 $0 $0 $0 0.00
+Function: SPEECH & AUDIOLOGY - 2150 $76 $117,724 $873 $0 $0 $0 0.00
+1000.2800.2170.51010.950 PT Salary $43,265 $42,632 $67,920 $71,995 $75,955 $3,960 5.50
+1000.2800.2170.52010.950 PT Benefits $11,547 $9,870 $17,452 $20,058 $21,501 $1,443 7.19
+1000.2800.2170.52310.950 PT Retirement $2,322 $2,046 $3,025 $3,218 $3,395 $177 5.50
+1000.2800.2170.53440.950 MAINECARE SEED- $0 $0 $119 $0 $0 $0 0.00
+AUDIOLOGY
+1000.2800.2170.55800.950 Travel $243 $0 $0 $300 $300 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $57,378 $54,549 $88,515 $95,571 $101,151 $5,580 5.84
+Function: PT - 2170 $57,378 $54,549 $88,515 $95,571 $101,151 $5,580 5.84
+1000.2500.2330.53440.950 MAINECARE SEED- $45,032 $2,603 $10,344 $54,500 $60,000 $5,500 10.09
+BEHAVORIAL DAY
+Program: ADMINISTRATION - 2500 $45,032 $2,603 $10,344 $54,500 $60,000 $5,500 10.09
+Function: SPECIAL AREA ADMINISTRATION - 2330 $45,032 $2,603 $10,344 $54,500 $60,000 $5,500 10.09
+Cost Center: K-8 - 950 $210,922 $391,189 $259,457 $308,192 $347,140 $38,948 12.64
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 34 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2300.1000.55630.990 Secondary Private Tuition $0 $0 $0 $0 $195,000 $195,000 0.00
+Program: SELF CONTAINED CLASS PLACEMENT - 2300 $0 $0 $0 $0 $195,000 $195,000 0.00
+1000.2400.1000.53440.990 Tutoring Services - $0 $7,727 $8,373 $7,500 $7,500 $0 0.00
+Hospital/Homebound SEC
+Program: Homebound/Hospital - 2400 $0 $7,727 $8,373 $7,500 $7,500 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $0 $7,727 $8,373 $7,500 $202,500 $195,000 2,600.00
+1000.2800.2140.51010.990 Psychological Services $71,220 $45,644 $99,888 $105,388 $111,184 $5,796 5.50
+Salary 9-12
+1000.2800.2140.52010.990 Psych Services Benefit $9,617 $5,591 $17,710 $22,008 $23,547 $1,539 6.99
+1000.2800.2140.52310.990 Retirement $2,735 $2,040 $4,448 $4,711 $4,970 $259 5.50
+1000.2800.2140.53440.990 MAINECARE SEED- $0 $1,767 $43 $0 $0 $0 0.00
+PSYCHOLOGICAL
+Program: OTHER SPECIAL PROGRAMS - 2800 $83,573 $55,042 $122,089 $132,107 $139,701 $7,594 5.75
+Function: PSYCHOLOGICAL - 2140 $83,573 $55,042 $122,089 $132,107 $139,701 $7,594 5.75
+1000.2800.2150.53440.990 MAINECARE SEED- $430 $412 $0 $0 $0 $0 0.00
+SPEECH/HEARING
+1000.2800.2150.55800.990 Travel $23 $0 $0 $0 $0 $0 0.00
+Program: OTHER SPECIAL PROGRAMS - 2800 $453 $412 $0 $0 $0 $0 0.00
+Function: SPEECH & AUDIOLOGY - 2150 $453 $412 $0 $0 $0 $0 0.00
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 35 of 89
+
+RSU No. 5
+FY27 Article 2 Special Education- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.2500.2330.53440.990 MAINE CARE SEED- $16,748 $18,699 $16,480 $17,400 $17,400 $0 0.00
+BEHAVORIAL DAY
+Program: ADMINISTRATION - 2500 $16,748 $18,699 $16,480 $17,400 $17,400 $0 0.00
+Function: SPECIAL AREA ADMINISTRATION - 2330 $16,748 $18,699 $16,480 $17,400 $17,400 $0 0.00
+Cost Center: 9-12 - 990 $100,773 $81,879 $146,942 $157,007 $359,601 $202,594 129.04
+Grand Total: $4,898,941 $4,884,843 $5,613,793 $6,513,451 $7,510,422 $996,971 15.31
+End of Report
+Printed: 01/26/2026 9:42:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 36 of 89
+
+RSU No. 5
+FY27 Article 3 CTE- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.3000.1000.55640.300 MVR 10 Assessment $184,596 $272,017 $289,668 $307,645 $307,645 $0 0.00
+Program: CAREER & TECH ED - 3000 $184,596 $272,017 $289,668 $307,645 $307,645 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $184,596 $272,017 $289,668 $307,645 $307,645 $0 0.00
+Cost Center: FREEPORT HIGH SCHOOL - 300 $184,596 $272,017 $289,668 $307,645 $307,645 $0 0.00
+Grand Total: $184,596 $272,017 $289,668 $307,645 $307,645 $0 0.00
+End of Report
+Printed: 01/26/2026 9:41:51 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 37 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4300.1000.51010.010 Summer School Teacher $0 $0 $0 $8,352 $8,937 $585 7.00
+Salary - DCS
+1000.4300.1000.51020.010 Summer School ET Wages $0 $0 $0 $4,050 $4,050 $0 0.00
+- DCS
+1000.4300.1000.52010.010 Summer School Teacher $0 $0 $0 $281 $894 $613 218.15
+Benefits - DCS
+1000.4300.1000.52020.010 Summer School ET Benefits $0 $0 $0 $136 $405 $269 197.79
+- DCS
+1000.4300.1000.52310.010 Summer School Teacher $0 $0 $0 $373 $399 $26 6.97
+Retirement - DCS
+1000.4300.1000.52320.010 Summer School ET $0 $0 $0 $181 $181 $0 0.00
+Retirement - DCS
+Program: SUMMER SCHOOL - 4300 $0 $0 $0 $13,373 $14,866 $1,493 11.16
+1000.9100.1000.51180.010 Support Wages - DCS $229 $420 $200 $0 $0 $0 0.00
+1000.9100.1000.51500.010 Stipends $33,146 $24,885 $25,167 $30,841 $29,441 ($1,400) (4.54)
+1000.9100.1000.52000.010 Benefits $5,078 $4,674 $4,277 $1,036 $989 ($47) (4.54)
+1000.9100.1000.52080.010 Support Benefits - DCS $2 $16 $6 $0 $0 $0 0.00
+1000.9100.1000.52300.010 Retirement $1,064 $998 $1,116 $1,379 $1,316 ($63) (4.57)
+1000.9100.1000.52380.010 Retirement for Regular $0 $20 $13 $0 $0 $0 0.00
+Employees
+1000.9100.1000.56000.010 Supplies $727 $1,043 $1,020 $1,250 $1,250 $0 0.00
+1000.9100.1000.58100.010 Dues & Fees $810 $765 $1,500 $1,422 $1,867 $445 31.29
+Program: CO-CURRICULAR K-8 - 9100 $41,056 $32,821 $33,299 $35,928 $34,863 ($1,065) (2.96)
+1000.9200.1000.51500.010 EXTRA-CURRICULAR $4,090 $4,090 $2,180 $37,477 $37,477 $0 0.00
+STIPENDS - DCS
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 38 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9200.1000.52000.010 EXTRA-CURR STIPEND $873 $721 $365 $1,259 $1,259 $0 0.00
+BENEFITS
+1000.9200.1000.52300.010 EXTRA-CURR STIPEND $157 $183 $97 $1,675 $1,675 $0 0.00
+RETIREMENT
+Program: EXTRA-CURRICULAR K-8 - 9200 $5,120 $4,993 $2,642 $40,411 $40,411 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $46,176 $37,814 $35,941 $89,712 $90,140 $428 0.48
+Cost Center: DURHAM COMMUNITY - 010 $46,176 $37,814 $35,941 $89,712 $90,140 $428 0.48
+1000.4300.1000.51010.020 Summer School Teacher $0 $0 $0 $0 $7,150 $7,150 0.00
+Salary - MSS
+1000.4300.1000.51020.020 Summer School ET Wages $0 $4,564 $0 $0 $0 $0 0.00
+- MSS
+1000.4300.1000.52010.020 Summer School Teacher $0 $0 $0 $0 $240 $240 0.00
+Benefits - MSS
+1000.4300.1000.52310.020 Summer School Teacher $0 $0 $0 $0 $320 $320 0.00
+Retirement - MSS
+Program: SUMMER SCHOOL - 4300 $0 $4,564 $0 $0 $7,710 $7,710 0.00
+Function: REGULAR INSTRUCTION - 1000 $0 $4,564 $0 $0 $7,710 $7,710 0.00
+Cost Center: MORSE STREET - 020 $0 $4,564 $0 $0 $7,710 $7,710 0.00
+1000.4300.1000.51020.030 Summer School ET Wages $0 $0 $0 $1,950 $3,873 $1,923 98.62
+- PES
+1000.4300.1000.52020.030 Summer School ET Benefits $0 $0 $0 $66 $387 $321 486.36
+- PES
+1000.4300.1000.52320.030 Summer School ET $0 $0 $0 $87 $173 $86 98.85
+Retirement - PES
+Program: SUMMER SCHOOL - 4300 $0 $0 $0 $2,103 $4,433 $2,330 110.79
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 39 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9100.1000.51500.030 Stipends $6,321 $3,966 $2,672 $5,944 $5,944 $0 0.00
+1000.9100.1000.52000.030 Stipend Benefits $815 $229 $355 $200 $200 $0 0.00
+1000.9100.1000.52300.030 MPERS Employer $243 $177 $119 $266 $266 $0 0.00
+Contribution
+Program: CO-CURRICULAR K-8 - 9100 $7,379 $4,372 $3,146 $6,410 $6,410 $0 0.00
+1000.9200.1000.51500.030 Extra-Curricular Stipends - $2,016 $2,166 $2,416 $2,116 $2,116 $0 0.00
+PES
+1000.9200.1000.52000.030 Extra-Curricular Stipends $262 $284 $313 $71 $71 $0 0.00
+Benefits - PES
+1000.9200.1000.52300.030 Extra-Curricular Stipends $77 $97 $108 $95 $95 $0 0.00
+Retirements - PES
+Program: EXTRA-CURRICULAR K-8 - 9200 $2,355 $2,547 $2,837 $2,282 $2,282 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $9,734 $6,920 $5,983 $10,795 $13,125 $2,330 21.58
+Cost Center: POWNAL ELEMENTARY - 030 $9,734 $6,920 $5,983 $10,795 $13,125 $2,330 21.58
+1000.9100.1000.51500.040 Stipends $11,055 $9,998 $10,590 $11,190 $11,190 $0 0.00
+1000.9100.1000.52000.040 Stipend Benefits $2,629 $2,216 $1,946 $376 $376 $0 0.00
+1000.9100.1000.52300.040 RETIREMENT $331 $343 $363 $500 $500 $0 0.00
+1000.9100.1000.58100.040 Dues & Fees $275 $0 $378 $560 $560 $0 0.00
+Program: CO-CURRICULAR K-8 - 9100 $14,290 $12,558 $13,277 $12,626 $12,626 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $14,290 $12,558 $13,277 $12,626 $12,626 $0 0.00
+Cost Center: MAST LANDING - 040 $14,290 $12,558 $13,277 $12,626 $12,626 $0 0.00
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 40 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.4300.1000.51010.050 Summer School Teacher $0 $340 $0 $0 $0 $0 0.00
+Salary - FMS
+Program: SUMMER SCHOOL - 4300 $0 $340 $0 $0 $0 $0 0.00
+1000.9100.1000.51500.050 Stipends $54,113 $51,760 $45,351 $35,164 $33,828 ($1,336) (3.80)
+1000.9100.1000.52000.050 Stipend Benefits $7,462 $8,575 $7,748 $1,181 $1,137 ($44) (3.73)
+1000.9100.1000.52300.050 Retirement $1,843 $1,604 $1,481 $1,572 $1,512 ($60) (3.82)
+1000.9100.1000.56100.050 Instructional Supplies $3,867 $3,899 $3,514 $3,900 $3,900 $0 0.00
+1000.9100.1000.58100.050 Dues & Fees $1,903 $2,349 $1,515 $2,350 $2,350 $0 0.00
+Program: CO-CURRICULAR K-8 - 9100 $69,188 $68,187 $59,610 $44,167 $42,727 ($1,440) (3.26)
+1000.9200.1000.51180.050 Support Salary $314 $0 $0 $0 $0 $0 0.00
+1000.9200.1000.51230.050 Other Wages $400 $125 $175 $0 $0 $0 0.00
+1000.9200.1000.51500.050 Stipends-Coaches $88,798 $92,845 $104,342 $81,816 $83,996 $2,180 2.66
+1000.9200.1000.52000.050 Benefits $10,720 $10,256 $11,284 $2,749 $2,822 $73 2.66
+1000.9200.1000.52030.050 Other Benefits $25 $9 $11 $0 $0 $0 0.00
+1000.9200.1000.52080.050 Support Benefits $111 $0 $0 $0 $0 $0 0.00
+1000.9200.1000.52300.050 Retirement $1,723 $2,083 $2,466 $3,657 $3,754 $97 2.65
+1000.9200.1000.52380.050 Retirement for Regular $12 $0 $0 $0 $0 $0 0.00
+Employees
+1000.9200.1000.53000.050 Game Officials $13,751 $17,164 $19,593 $28,282 $30,511 $2,229 7.88
+1000.9200.1000.56100.050 Program Supplies $25,962 $21,796 $28,093 $28,977 $29,565 $588 2.03
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 41 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9200.1000.58100.050 Dues and Fees $17,621 $18,865 $17,909 $18,243 $21,005 $2,762 15.14
+Program: EXTRA-CURRICULAR K-8 - 9200 $159,437 $163,144 $183,872 $163,724 $171,653 $7,929 4.84
+Function: REGULAR INSTRUCTION - 1000 $228,625 $231,670 $243,482 $207,891 $214,380 $6,489 3.12
+1000.9200.2330.51010.050 Athletic Director Salary - $43,085 $33,180 $34,830 $36,729 $38,749 $2,020 5.50
+1000.9200.2330.51180.050 Athletic Office Support Staff $1,935 $6,461 $7,977 $7,112 $7,200 $88 1.24
+Wages -
+1000.9200.2330.52010.050 Athletic Director Benefits - $7,062 $5,107 $5,768 $13,381 $13,549 $168 1.26
+1000.9200.2330.52080.050 Athletic Office Support Staff $138 $517 $3,814 $1,627 $2,298 $671 41.24
+Benefits -
+1000.9200.2330.52310.050 Athletic Director Retirement $630 $1,475 $1,549 $1,642 $1,732 $90 5.48
+-
+1000.9200.2330.52340.050 Athletic Dir Retirement $620 $0 $0 $0 $0 $0 0.00
+Program: EXTRA-CURRICULAR K-8 - 9200 $53,471 $46,740 $53,937 $60,491 $63,528 $3,037 5.02
+Function: SPECIAL AREA ADMINISTRATION - 2330 $53,471 $46,740 $53,937 $60,491 $63,528 $3,037 5.02
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $282,096 $278,410 $297,419 $268,382 $277,908 $9,526 3.55
+1000.4300.1000.51010.300 Summer School Teacher $0 $0 $2,095 $8,686 $9,294 $608 7.00
+Salary - FHS
+1000.4300.1000.51210.300 Summer School Tutor $3,386 $7,801 $3,501 $0 $0 $0 0.00
+Wages - FHS
+1000.4300.1000.52010.300 Summer School Teacher $301 $355 $815 $292 $929 $637 218.15
+Benefits - FHS
+1000.4300.1000.52310.300 Summer School Teacher $40 $118 $221 $388 $415 $27 6.96
+Retirement - FHS
+Program: SUMMER SCHOOL - 4300 $3,728 $8,274 $6,632 $9,366 $10,638 $1,272 13.58
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 42 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9500.1000.51500.300 Stipends $70,001 $73,499 $81,904 $105,262 $106,762 $1,500 1.43
+1000.9500.1000.52000.300 Stipend Benefits $10,786 $10,469 $13,477 $3,537 $3,587 $50 1.41
+1000.9500.1000.52300.300 Retirement $2,396 $2,913 $3,238 $4,705 $4,772 $67 1.42
+1000.9500.1000.53400.300 Co-Curricular Purch $0 $4,205 $4,372 $4,377 $4,000 ($377) (8.61)
+Professional
+1000.9500.1000.55800.300 Co-Curricular Travel $0 $0 $276 $200 $300 $100 50.00
+1000.9500.1000.56100.300 Instructional Supplies $5,535 $2,482 $2,905 $2,770 $2,320 ($450) (16.25)
+1000.9500.1000.58100.300 Dues and Fees $8,961 $8,974 $10,103 $10,865 $11,627 $762 7.01
+Program: CO-CURRICULAR 9-12 - 9500 $97,679 $102,543 $116,275 $131,716 $133,368 $1,652 1.25
+1000.9600.1000.51500.300 Stipends-Coaches $148,772 $152,572 $158,972 $180,688 $180,688 $0 0.00
+1000.9600.1000.52000.300 Stipend Benefits $15,866 $15,499 $18,114 $6,071 $6,071 $0 0.00
+1000.9600.1000.52300.300 Retirement $2,978 $3,480 $3,322 $8,077 $8,077 $0 0.00
+1000.9600.1000.53000.300 Game Officials $43,524 $46,762 $46,824 $59,524 $60,670 $1,146 1.93
+1000.9600.1000.55000.300 Purchased Services $35,209 $13,792 $13,161 $15,711 $15,303 ($408) (2.60)
+1000.9600.1000.55800.300 Travel $572 $625 $888 $1,270 $1,270 $0 0.00
+1000.9600.1000.56000.300 Supplies $41,746 $42,053 $50,633 $48,044 $53,292 $5,248 10.92
+1000.9600.1000.56100.300 Instructional Supplies $0 $0 $115 $0 $0 $0 0.00
+1000.9600.1000.58100.300 Dues and Fees $46,311 $49,969 $52,062 $54,260 $65,133 $10,873 20.04
+Program: EXTRA-CURRICULAR 9-12 - 9600 $334,979 $324,751 $344,089 $373,645 $390,504 $16,859 4.51
+Function: REGULAR INSTRUCTION - 1000 $436,386 $435,569 $466,996 $514,727 $534,510 $19,783 3.84
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 43 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9600.2330.51010.300 Athletic Director Salary - $100,619 $77,420 $81,270 $85,701 $90,415 $4,714 5.50
+FHS
+1000.9600.2330.51060.300 Athletic Trainer Salary $0 $64,575 $66,150 $70,119 $73,976 $3,857 5.50
+1000.9600.2330.51180.300 Athletic Office Support Staff $7,095 $14,784 $15,235 $16,595 $16,800 $205 1.24
+Wages - FHS
+1000.9600.2330.52010.300 Athletic Director Benefits - $16,665 $11,916 $13,458 $20,598 $22,394 $1,796 8.72
+FHS
+1000.9600.2330.52060.300 Athletic Trainer Benefits $0 $13,784 $23,303 $20,670 $21,995 $1,325 6.41
+1000.9600.2330.52080.300 Athletic Office Support Staff $505 $1,261 $8,495 $3,795 $5,362 $1,567 41.29
+Benefits - FHS
+1000.9600.2330.52310.300 Athletic Director Retirement $1,559 $3,442 $3,614 $3,831 $4,042 $211 5.51
+- FHS
+1000.9600.2330.52340.300 Athletic Dir Retirement $1,450 $0 $0 $0 $0 $0 0.00
+Program: EXTRA-CURRICULAR 9-12 - 9600 $127,892 $187,183 $211,525 $221,309 $234,984 $13,675 6.18
+Function: SPECIAL AREA ADMINISTRATION - 2330 $127,892 $187,183 $211,525 $221,309 $234,984 $13,675 6.18
+Cost Center: FREEPORT HIGH SCHOOL - 300 $564,277 $622,752 $678,520 $736,036 $769,494 $33,458 4.55
+1000.9100.1000.51500.950 Stipends Paid $2,544 $1,272 $1,381 $1,486 $1,486 $0 0.00
+1000.9100.1000.52000.950 Employee Benefits $202 $105 $120 $50 $50 $0 0.00
+Program: CO-CURRICULAR K-8 - 9100 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Cost Center: K-8 - 950 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Grand Total: $919,318 $964,393 $1,032,642 $1,119,087 $1,172,539 $53,452 4.78
+End of Report
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 44 of 89

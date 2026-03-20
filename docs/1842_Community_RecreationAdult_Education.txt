@@ -1,0 +1,91 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/3f368e6d-9e14-45b9-858f-05fa2148f580
+SECTION: /budget/financial-statements
+TITLE: Community Recreation/Adult Education
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Community Recreation - Adult Education
+From Date: 9/1/2021 To Date: 9/30/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1500.0000.0000.41114.400 RSU5 Local Assessment $0.00 ($112,000.00) ($112,000.00) ($8,157.33) ($22,472.79) ($89,527.21) $0.00 ($89,527.21) 79.94%
+1500.0000.0000.43240.400 Adult Ed State Revenue $0.00 ($19,251.01) ($19,251.01) $0.00 $0.00 ($19,251.01) $0.00 ($19,251.01) 100.00%
+1500.0000.0000.45201.400 16/20 Transfer $0.00 ($6,015.85) ($6,015.85) $0.00 $0.00 ($6,015.85) $0.00 ($6,015.85) 100.00%
+Program: OVERHEAD - 0000 $0.00 ($137,266.86) ($137,266.86) ($8,157.33) ($22,472.79) ($114,794.07) $0.00 ($114,794.07) 83.63%
+1500.6000.2000.51010.400 GED Teacher Salary $0.00 $8,112.00 $8,112.00 $0.00 $0.00 $8,112.00 $0.00 $8,112.00 100.00%
+1500.6000.2000.51040.400 AE Literacy Teacher Salary $0.00 $10,437.50 $10,437.50 $1,831.25 $2,381.25 $8,056.25 $36,625.00 ($28,568.75) -273.71%
+1500.6000.2000.52010.400 GED Teacher Benefits $0.00 $793.74 $793.74 $0.00 $0.00 $793.74 $0.00 $793.74 100.00%
+1500.6000.2000.52040.400 AE Literacy Teacher Benefits $0.00 $843.21 $843.21 $142.50 $184.60 $658.61 $2,875.48 ($2,216.87) -262.91%
+1500.6000.2300.51040.400 AE Director Salary $0.00 $62,214.06 $62,214.06 $7,178.55 $16,749.95 $45,464.11 $45,464.18 ($0.07) 0.00%
+1500.6000.2300.51180.400 AE Support Staff Salaries $0.00 $31,845.71 $31,845.71 $3,006.06 $6,701.71 $25,144.00 $10,658.44 $14,485.56 45.49%
+1500.6000.2300.52040.400 AE Director Benefits $0.00 $17,908.33 $17,908.33 $2,095.71 $4,877.38 $13,030.95 $13,302.21 ($271.26) -1.51%
+1500.6000.2300.52080.400 AE Support Staff Benefits $0.00 $13,265.24 $13,265.24 $991.11 $2,283.72 $10,981.52 $5,630.32 $5,351.20 40.34%
+1500.6000.2300.52340.400 AE Director Retirement $0.00 $2,588.11 $2,588.11 $275.64 $643.16 $1,944.95 $1,745.73 $199.22 7.70%
+1500.6000.2300.53300.400 AE Employee Training & $0.00 $1,150.00 $1,150.00 $0.00 $0.00 $1,150.00 $0.00 $1,150.00 100.00%
+Development
+1500.6000.2300.55800.400 AE Employee Travel $0.00 $400.00 $400.00 $78.20 $132.52 $267.48 $0.00 $267.48 66.87%
+1500.6000.2300.56000.400 AE Supplies $0.00 $2,000.00 $2,000.00 $0.00 $0.00 $2,000.00 $446.15 $1,553.85 77.69%
+1500.6000.2300.58100.400 AE Dues & Fees $0.00 $907.00 $907.00 $907.00 $907.00 $0.00 $0.00 $0.00 0.00%
+Program: Adult Education Programs - 6000 $0.00 $152,464.90 $152,464.90 $16,506.02 $34,861.29 $117,603.61 $116,747.51 $856.10 0.56%
+Fund: ADULT EDUCATION - 1500 $0.00 $15,198.04 $15,198.04 $8,348.69 $12,388.50 $2,809.54 $116,747.51 ($113,937.97) -749.69%
+Printed: 10/13/2021 1:21:45 PM Report: rptGLGenRptwBudgetAdj 2021.3.10 Page: 1
+
+RSU No. 5
+Community Recreation - Adult Education
+From Date: 9/1/2021 To Date: 9/30/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6150.6200.1000.59000.400 AE Refunds $0.00 $3,000.00 $3,000.00 $0.00 $0.00 $3,000.00 $0.00 $3,000.00 100.00%
+6150.6200.2300.51040.400 AE Director Salary $0.00 $20,738.02 $20,738.02 $0.00 $0.00 $20,738.02 $0.00 $20,738.02 100.00%
+6150.6200.2300.52040.400 AE Director Benefits $0.00 $5,969.44 $5,969.44 $3,091.39 $7,209.03 ($1,239.59) $19,588.60 ($20,828.19) -348.91%
+6150.6200.2300.52340.400 Retirement $0.00 $862.70 $862.70 $91.89 $214.41 $648.29 $581.97 $66.32 7.69%
+6150.6200.2300.53000.400 Purchased Prof Services $0.00 $18,694.63 $18,694.63 $0.00 $0.00 $18,694.63 $0.00 $18,694.63 100.00%
+6150.6200.2300.53110.400 Contracted Services $0.00 $3,073.33 $3,073.33 $0.00 $0.00 $3,073.33 $0.00 $3,073.33 100.00%
+6150.6200.2300.53300.400 Employee Training & Development $0.00 $1,394.67 $1,394.67 $0.00 $0.00 $1,394.67 $0.00 $1,394.67 100.00%
+6150.6200.2300.56000.400 Supplies $0.00 $10,000.00 $10,000.00 $0.00 $0.00 $10,000.00 $0.00 $10,000.00 100.00%
+Program: AE Enrichment Programs - 6200 $0.00 $63,732.79 $63,732.79 $3,183.28 $7,423.44 $56,309.35 $20,170.57 $36,138.78 56.70%
+Fund: AE ENRICHMENT - 6150 $0.00 $63,732.79 $63,732.79 $3,183.28 $7,423.44 $56,309.35 $20,170.57 $36,138.78 56.70%
+Printed: 10/13/2021 1:21:45 PM Report: rptGLGenRptwBudgetAdj 2021.3.10 Page: 2
+
+RSU No. 5
+Community Recreation - Adult Education
+From Date: 9/1/2021 To Date: 9/30/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6800.0000.0000.41990.000 User Fees $0.00 $0.00 $0.00 ($226.00) ($32,698.85) $32,698.85 $0.00 $32,698.85 0.00%
+6800.0000.0000.41991.000 Sponsorships and Grants $0.00 $0.00 $0.00 $0.00 ($180.00) $180.00 $0.00 $180.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 ($226.00) ($32,878.85) $32,878.85 $0.00 $32,878.85 0.00%
+6800.8000.0000.51020.900 Com Ed Support Staff Salaries $0.00 $50,632.80 $50,632.80 $6,206.37 $33,600.67 $17,032.13 $37,145.33 ($20,113.20) -39.72%
+6800.8000.0000.51180.900 Comm Ed Admin Salaries $0.00 $0.00 $0.00 $11,763.89 $28,400.03 ($28,400.03) $75,639.87 ($104,039.90) 0.00%
+6800.8000.0000.51200.900 Com Ed Other Salaries $0.00 $10,619.36 $10,619.36 $5,705.20 $66,066.71 ($55,447.35) $22,342.40 ($77,789.75) -732.53%
+6800.8000.0000.51500.900 Com Ed Childcare Salaries $0.00 $13,240.17 $13,240.17 $14,296.78 $14,296.78 ($1,056.61) $150,345.40 ($151,402.01)-1143.51%
+6800.8000.0000.52000.900 Com Ed Childcare Benefits $0.00 $2,103.71 $2,103.71 $3,458.96 $11,318.41 ($9,214.70) $31,425.09 ($40,639.79)-1931.82%
+6800.8000.0000.52020.900 Com Ed Support Staff Benefits $0.00 $3,897.41 $3,897.41 $482.67 $3,303.80 $593.61 $2,917.39 ($2,323.78) -59.62%
+6800.8000.0000.52080.900 Com Ed Admin Benefits $0.00 $0.00 $0.00 $4,192.89 $9,836.92 ($9,836.92) $26,691.52 ($36,528.44) 0.00%
+6800.8000.0000.52300.900 Retirement $0.00 $0.00 $0.00 $153.45 $270.38 ($270.38) $1,758.74 ($2,029.12) 0.00%
+6800.8000.0000.52320.900 Retirement $0.00 $0.00 $0.00 $0.00 $33.62 ($33.62) $0.00 ($33.62) 0.00%
+6800.8000.0000.52520.900 Comm Ed Training & Development $0.00 $1,345.28 $1,345.28 $0.00 $0.00 $1,345.28 $0.00 $1,345.28 100.00%
+6800.8000.0000.53000.900 Com Ed Contracted Services $0.00 $82,974.84 $82,974.84 $7,285.53 $36,797.55 $46,177.29 $5,662.50 $40,514.79 48.83%
+6800.8000.0000.54000.900 Com Ed Purchased Services $0.00 $14,656.77 $14,656.77 $0.00 $3,895.08 $10,761.69 $0.00 $10,761.69 73.42%
+6800.8000.0000.56000.900 Com Ed Supplies $0.00 $4,418.19 $4,418.19 $398.25 $668.97 $3,749.22 $679.40 $3,069.82 69.48%
+6800.8000.0000.56101.900 Com Ed Program Supplies $0.00 $63,294.68 $63,294.68 $4,133.51 $10,715.29 $52,579.39 $5,313.93 $47,265.46 74.68%
+6800.8000.0000.56400.900 Com Ed Printing Postage $0.00 $4,086.11 $4,086.11 $1,413.47 $1,413.47 $2,672.64 $1,413.47 $1,259.17 30.82%
+Advertising
+6800.8000.0000.58100.900 Com Ed Dues & Fees $0.00 $6,282.09 $6,282.09 $575.00 $717.00 $5,565.09 $0.00 $5,565.09 88.59%
+Program: COMMUNITY SERVICE PROGRAMS - 8000 $0.00 $257,551.41 $257,551.41 $60,065.97 $221,334.68 $36,216.73 $361,335.04 ($325,118.31) -126.23%
+Fund: CE- RECREATION - 6800 $0.00 $257,551.41 $257,551.41 $59,839.97 $188,455.83 $69,095.58 $361,335.04 ($292,239.46) -113.47%
+Printed: 10/13/2021 1:21:45 PM Report: rptGLGenRptwBudgetAdj 2021.3.10 Page: 3
+
+RSU No. 5
+Community Recreation - Adult Education
+From Date: 9/1/2021 To Date: 9/30/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: $0.00 $336,482.24 $336,482.24 $71,371.94 $208,267.77 $128,214.47 $498,253.12 ($370,038.65) -109.97%
+End of Report
+Printed: 10/13/2021 1:21:45 PM Report: rptGLGenRptwBudgetAdj 2021.3.10 Page: 4

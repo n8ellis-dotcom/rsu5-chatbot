@@ -1,0 +1,84 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/3775e043-e5c0-4711-b9b1-bbbdeb8a18f7
+SECTION: /budget/financial-statements
+TITLE: Grant Reporting
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2010.0000.0000.41920.000 MLTI DEVICE PROTECTION PLAN $0.00 $0.00 $0.00 $0.00 ($140.00) $140.00 $0.00 $140.00 0.00%
+- REVENUE
+2010.0000.2230.54320.900 Contracted Services $0.00 $0.00 $0.00 $213.06 $213.06 ($213.06) $0.00 ($213.06) 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $213.06 $73.06 ($73.06) $0.00 ($73.06) 0.00%
+Fund: TECHNOLOGY - MLTI DEVICE PROTECTION PLAN - 2010 $0.00 $0.00 $0.00 $213.06 $73.06 ($73.06) $0.00 ($73.06) 0.00%
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 1
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2170.8900.0000.53000.900 Contracted Services $0.00 $0.00 $0.00 $2,180.00 $2,180.00 ($2,180.00) $1,400.00 ($3,580.00) 0.00%
+Program: Other Community Service - 8900 $0.00 $0.00 $0.00 $2,180.00 $2,180.00 ($2,180.00) $1,400.00 ($3,580.00) 0.00%
+Fund: PERFORMING ARTS CENTER - 2170 $0.00 $0.00 $0.00 $2,180.00 $2,180.00 ($2,180.00) $1,400.00 ($3,580.00) 0.00%
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 2
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2300.0000.0000.44517.000 Title I Revenue $0.00 $0.00 $0.00 $0.00 ($15,488.05) $15,488.05 $0.00 $15,488.05 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 ($15,488.05) $15,488.05 $0.00 $15,488.05 0.00%
+2300.1100.1000.51010.950 Teacher Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $188,375.96 ($188,375.96) 0.00%
+2300.1100.1000.51020.950 Ed Tech Salaries $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $10,679.14 ($10,679.14) 0.00%
+2300.1100.1000.52010.950 Teacher Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $31,280.66 ($31,280.66) 0.00%
+2300.1100.1000.52020.950 Ed Tech Benefits $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $1,541.66 ($1,541.66) 0.00%
+2300.1100.1000.52310.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $33,227.55 ($33,227.55) 0.00%
+2300.1100.1000.52320.950 MEPERS Fed Retirement $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $410.08 ($410.08) 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $265,515.05 ($265,515.05) 0.00%
+Fund: TITLE 1A - 2300 $0.00 $0.00 $0.00 $0.00 ($15,488.05) $15,488.05 $265,515.05 ($250,027.00) 0.00%
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 3
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2470.2100.0000.44562.000 Local Entitlement - Revenue $0.00 $0.00 $0.00 $0.00 ($51,709.23) $51,709.23 $0.00 $51,709.23 0.00%
+2470.2100.1000.51020.950 Ed Tech Salaries $0.00 $0.00 $0.00 $706.23 $1,637.58 ($1,637.58) $172,312.19 ($173,949.77) 0.00%
+2470.2100.1000.52020.950 Ed Tech Benefits $0.00 $0.00 $0.00 $400.10 $329.25 ($329.25) $31,109.69 ($31,438.94) 0.00%
+2470.2100.1000.52320.950 MPERS ET Fed Retire $0.00 $0.00 $0.00 $27.12 $62.89 ($62.89) $19,520.94 ($19,583.83) 0.00%
+Program: REGULAR CLASSROOM PLACEMENT - 2100 $0.00 $0.00 $0.00 $1,133.45 ($49,679.51) $49,679.51 $222,942.82 ($173,263.31) 0.00%
+Fund: LOCAL ENTITLEMENT - 2470 $0.00 $0.00 $0.00 $1,133.45 ($49,679.51) $49,679.51 $222,942.82 ($173,263.31) 0.00%
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 4
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2690.0000.0000.44520.000 Title IIA - Teacher Quality $0.00 $0.00 $0.00 $0.00 ($9,903.00) $9,903.00 $0.00 $9,903.00 0.00%
+Program: OVERHEAD - 0000 $0.00 $0.00 $0.00 $0.00 ($9,903.00) $9,903.00 $0.00 $9,903.00 0.00%
+2690.1100.1000.53000.950 Title II Contracted Services $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $29,172.00 ($29,172.00) 0.00%
+Program: ELEMENTARY PROGRAMS - 1100 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $29,172.00 ($29,172.00) 0.00%
+Fund: TITLE IIA - 2690 $0.00 $0.00 $0.00 $0.00 ($9,903.00) $9,903.00 $29,172.00 ($19,269.00) 0.00%
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 5
+
+RSU No. 5
+Grants
+From Date: 8/1/2021 To Date: 8/31/2021
+Fiscal Year: 2021-2022 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: $0.00 $0.00 $0.00 $3,526.51 ($72,817.50) $72,817.50 $519,029.87 ($446,212.37) 0.00%
+End of Report
+Printed: 09/14/2021 12:30:41 PM Report: rptGLGenRptwBudgetAdj 2021.2.15 Page: 6

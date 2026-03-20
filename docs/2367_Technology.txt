@@ -1,0 +1,293 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/36094210-d6f3-4988-912a-a8739e206af9
+SECTION: /board-of-directors-and-policies/board-of-directors
+TITLE: Technology
+TYPE: Finalsite-PDF
+============================================================
+
+Technology Goals 2024-2025 Review
+Department of Technology
+Goal Strategies and Action Steps Timeline Evidence of Effectiveness
+(Responsibility)
+Enhance the Expanding Relationships 2024-2025 School Year
+• Regularly attend grade-level or
+integration of Across Buildings and
+department meetings to understand
+technology into Departments - Half of the
+teachers’ needs and challenges.
+teaching and learning technology team has been with
+by fostering stronger RSU 5 for less than 15 months
+collaboration between (as of the start of the school • Designate team members as
+the technology team year), with an additional member liaisons for specific schools or
+and educators, departments to establish consistent
+ensuring an active communication and support.
+presence in
+classrooms, and
+supporting • Host informal “Tech Talks” as
+professional growth opportunities arise to discuss
+opportunities for staff emerging tools and strategies.
+to effectively leverage
+digital tools.
+• Recognize and celebrate
+educators who innovate with
+technology.
+• Organize “Tech Drop-In”
+opportunities where team members
+visit buildings to provide real-time
+support and gather feedback.
+
+Facilitate Classroom Ongoing 2024-2025
+Partner with teachers to pilot new
+Engagement School Year
+technology tools in their classrooms
+and gather feedback for refinement.
+• Develop quick, practical
+“Technology Spotlights” (1-5 minute
+demonstrations or presentations)
+that the technology team can share
+during staff meetings or PLCs.
+Develop Professional Ongoing 2024-2025 • Conduct surveys or focus groups
+Development Opportunities School Year to identify staff training needs and
+interests.
+• Plan a mix of professional
+development formats, such as
+workshops, on-demand tutorials,
+and one-on-one coaching sessions,
+aligned with curriculum goals.
+• Investigate feasibility of
+differentiated PD tracks (e.g.,
+beginner, intermediate, advanced)
+to meet varying skill levels.
+• Develop an online repository of
+recorded sessions, guides, and
+resources for staff to access on
+demand.
+Reflection
+Progress toward enhancing the integration of technology has been slower than anticipated. While some improvement has
+been made in fostering collaboration between the technology team and educators, there are still significant gaps in the
+support we have been able to provide. I have struggled with time and bandwidth constraints, and the rest of our team has
+
+more of a background in traditional IT, hardware support, and technology infrastructure, which has limited our ability to
+maintain a consistent presence in classrooms and provide the level of ongoing support needed for educators to fully
+leverage digital tools.
+Although we have made some efforts to offer professional development opportunities, the reach and impact have been
+insufficient. Many staff members have expressed a need for more tailored, in-depth training and guidance, but the
+technology department simply hasn’t had the capacity to meet these demands.
+Looking ahead, it’s clear that much more work is needed to make technology a truly embedded part of the instructional
+process. As we work to improve district infrastructure and security over this summer, I hope to further prioritize increasing
+my presence with educators, not just in terms of training but through consistent, proactive engagement in the classroom.
+
+Technology Goals 2024-2025 Review
+Department of Technology
+Goal Strategies and Action Steps Timeline Evidence of Effectiveness
+(Responsibility)
+Expand Newsletter Creation and 2024-2025 School Year • Develop clear, engaging, and
+communication from Contributions relevant write-ups for various
+the technology newsletter editions, focusing on
+department for topics that align with district
+professional growth priorities.
+and to foster
+transparency with • Collaborate with colleagues,
+district stakeholders, including instructional staff and
+staff, and the broader administrators, to gather insights
+school community. and identify valuable areas of
+focus.
+• Provide practical technology
+tips, resources, and strategies for
+educators, students, and families.
+• Solicit feedback from newsletter
+readers to continuously refine and
+improve the relevance and quality
+of the contributions.
+• Plan regular Technology-only
+newsletter for internal
+stakeholders.
+Reflection
+
+Progress toward expanding communication from the technology department has been mixed this year. While we have made
+strides in increasing transparency and outreach, much of this work was reactive rather than proactive. The PowerSchool
+data breach earlier in the year required an immediate and sustained communication effort, and while it ultimately
+strengthened our connection with stakeholders and reinforced the importance of clear, timely updates, it was not the
+intentional, forward-facing communication I had originally planned to implement.
+Outside of that incident, consistent communication with staff and the broader school community has improved, but remains
+a challenge. Competing priorities and limited time have made it difficult to develop and maintain regular, proactive
+communication channels. Although I’ve taken steps to be more visible and responsive, particularly around security-related
+issues, there is still room for improvement when it comes to broader professional growth messaging and stakeholder
+engagement.
+I hope to build on the communication practices that emerged during the crisis response and develop a more structured
+approach that supports both transparency and ongoing professional dialogue. With greater focus and planning, I believe we
+can create more predictable, accessible communication that better supports the needs of our community.
+
+Technology Goals 2025-2026
+Department of Technology
+Goal Strategies and Action Steps Timeline Evidence of Effectiveness
+Responsibility
+Complete Access Project Planning & Assessment July 2025-July 2026 Completion Metrics
+Control Projects ● Prioritize locations by current ● 100% of designated
+across the district, systems in place (or lack thereof), exterior doors across
+ensuring that 100% of security risk and frequency of all district buildings are
+exterior doors staff/student use. equipped with
+designated for entry ● Develop a phased implementation functioning badge
+are secured with plan. readers by the project
+badge readers and deadline.
+integrated into the Installation & Integration ● District access control
+centralized access ● Schedule phased installation software reflects full
+management system. (building-by-building or integration across all
+This will improve region-by-region). sites.
+building security, ● Coordinate with custodial and ● Verification checklists
+standardize entry facilities staff to minimize signed off by
+procedures, and school-day disruptions. Technology
+reduce reliance on ● Integrate all badge readers into the Department, Schools,
+physical keys. district’s central access control and Facilities after
+software. installation and testing
+● Implement redundancy and phases.
+fail-safe procedures (e.g., backup
+power for badge systems). Operational Efficiency
+● Reduction in the
+Testing & Training number of physical
+● Test all installed doors for master keys issued to
+functionality, reliability, and staff, with documented
+emergency override procedures. decrease tracked by
+● Conduct system-level testing to Facilities.
+confirm real-time synchronization ● All new staff
+
+with central access logs. onboarding includes
+● Train building administrators and badge assignment
+office staff on issuing/revoking instead of key
+badges. distribution.
+● Provide training materials and ● Badge logs showing
+quick reference guides to all staff. staff usage of badge
+entry upon
+Communication & Rollout implementation.
+● Share clear rollout timelines with
+each building. Security Outcomes
+● Communicate new entry protocols ● Ability to remotely
+to staff and outline expectations disable lost or stolen
+for daily use. badges immediately,
+● Provide FAQs and support reducing potential
+channels for staff troubleshooting. security risks.
+● Documented decrease
+in incidents related to
+unauthorized building
+entry.
+● Positive feedback from
+building administrators
+on improved ability to
+monitor and track
+building access.
+Accountability & Reporting
+● Monthly
+system-generated
+access reports
+reviewed by
+Technology Director
+for trends, anomalies,
+or concerns.
+● Buildings confirm
+during annual building
+
+safety reviews that
+badge access
+procedures are
+embedded in daily
+operations.
+
+Technology Goals 2025-2026
+Department of Technology
+Goal Strategies and Action Steps Timeline Evidence of
+Responsibility Effectiveness
+Complete the Assessment & Planning September 2025-July
+Technical Outcomes
+replacement of the 2026
+Wi-Fi and network ● Conduct wireless heatmaps at
+● Freeport High
+infrastructure at Freeport High School to identify
+School Wi-Fi
+Freeport High School, coverage gaps and bandwidth
+survey
+ensuring reliable, bottlenecks.
+high-speed ● Perform an audit of existing switches, post-installation
+shows 100%
+connectivity that firewalls, and Wi-Fi access points
+instructional space
+meets current and across all buildings, noting age,
+coverage with
+future instructional warranty status, and performance
+signal strength
+needs. issues.
+● Develop equipment lifecycle meeting district
+standards.
+Develop and standards (e.g., 5–7 years for
+● Network
+Document a switches/firewalls, 4–5 years for APs).
+monitoring reports
+district-wide
+demonstrate at
+replacement plan for Implementation at Freeport High School
+least a 25%
+Wi-Fi, networking, and
+firewall equipment for ● Replace all outdated switches with increase in
+all other school modern, high-capacity models throughput
+buildings, with clear supporting PoE (Power over capacity and
+timelines and budget Ethernet). reduction in
+projections. ● Deploy new Wi-Fi access points downtime.
+district-standardized for density, ● Firewall logs show
+capacity, and security. improved traffic
+● Replace or upgrade firewall to ensure filtering and threat
+compliance with content filtering and prevention with
+cybersecurity requirements. reduced latency.
+● Conduct end-to-end testing
+
+(coverage, throughput, security). Operational Outcomes
+District-Wide Replacement Plan ● Documented
+district-wide plan
+● Use audit results to create a formally adopted
+district-wide infrastructure into the RSU 5
+replacement cycle, broken into Technology Plan
+phases by building. with clear budget
+● Prioritize buildings with oldest or implications.
+most problematic equipment. ● Lifecycle
+● Align replacement plan with replacement
+projected enrollment growth, schedule
+curriculum needs, and technology published and
+integration goals. referenced in
+● Present plan for review. annual budget
+process.
+Communication & Training ● Vendor service
+agreements in
+● Share replacement progress updates
+place for proactive
+with school staff, administrators, and
+maintenance and
+families.
+support.
+● Provide professional development for
+IT staff on new systems (e.g., firewall
+configuration, AP management
+User Experience
+dashboards).
+Outcomes
+● Ensure building-level administrators
+understand how to report network ● Teacher and
+concerns effectively. student surveys
+report significant
+improvement in
+classroom Wi-Fi
+reliability.
+● Principals report
+fewer instructional
+disruptions tied to
+
+network issues.
+Accountability & Review
+● Quarterly review of
+network health and
+replacement plan,
+updated based on
+emerging needs
+and technology
+standards.
+● Evidence
+documented in
+district technology
+reports and shared
+with stakeholders.

@@ -1,0 +1,2243 @@
+n on pension plan assets was determined using a building-block method in which
+best-estimate ranges of expected future real rates of return (expected returns, net of pension plan investment expense and
+inflation) are developed for each major class of assets. These ranges are combined to produce the long-term expected rate
+of return by weighting the expected future real rates of return by the target asset allocation percentage and by adding
+expected inflation. Best estimates of arithmetic real rates of return for each major asset class included in the pension
+plan's target asset allocation as of June 30, 2023 are summarized in the following table:
+Long-Term
+Expected Real
+Rate of
+Target Allocation Return
+Public equities 30.0% 6.0%
+US Government 10.0% 2.6%
+Private equity 12.5% 7.6%
+Real assets:
+Real estate 10.0% 5.2%
+Infrastructure 10.0% 5.3%
+Natural Resources 5.0% 5.0%
+Traditional credit 5.0% 3.2%
+Alternative credit 10.0% 7.4%
+Diversifiers 7.5% 5.0%
+Discount Rate
+The discount rate used to measure the collective total pension liability was 6.50% for 2023 and 2022 for each of the
+plans. The projection of cash flows used to determine the discount rate assumed that plan member contributions will be
+made at the current contribution rate and that employer and non-employer entity contributions will be made at
+contractually required rates, actuarially determined. Based on these assumptions, the fiduciary net position was projected
+to be available to make all projected future benefit payments to current plan members. Therefore, the long-term expected
+rate of return on pension plan investments was applied to all periods of projected benefit payments to determine the total
+pension liability.
+35
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 9: DEFINED BENEFIT PENSION PLAN (Continued)
+Actuarial Methods and Assumptions (Continued)
+Sensitivity of the RSU’s Proportionate Share of the Net Pension Liability to Changes in the Discount Rates
+The following table presents the RSU’s proportionate share of the net pension liability calculated using the discount rate
+of 6.50%, as well as what the RSU’s proportionate share of the net pension liability would be if it were calculated using a
+discount rate that is 1 percentage point lower (5.50%) or 1 percentage point higher (7.50%) than the current rate.
+Current
+1% Decrease Discount Rate 1% Increase
+(5.50%) (6.50%) (7.50%)
+SET Plan:
+RSU #5's proportionate share of the
+net pension liability $ 835,463 $ 4 24,905 $ 83,138
+PLD Plan
+Net pension (asset) liability 232,313 8 4,784 (36,916)
+Total $ 1,067,776 $ 509,689 $ 46,222
+Pension Plan Fiduciary Net Position
+Detailed information about the pension plan’s fiduciary net position is available in the separately issued MainePERS
+financial report.
+NOTE 10 OTHER POST-EMPLOYMENT BENEFITS PLAN
+General Information about the GLI OPEB Plan
+GLI OPEB Plan Description
+The RSU participates in the Group Life Insurance Plan for Retired State Employees and Teachers administered by
+MainePERS. It is a multiple-employer cost-sharing plan with a special funding situation. As of June 30, 2023, there
+were 234 employers, including the State of Maine, participating in the plan. The State of Maine is also a non-employer
+contributing entity in that the State pays contributions for retired public-school teachers in the plan.
+GLI OPEB Plan Benefits
+The OPEB plan provides basic group life insurance benefits, during retirement, to retirees who participated in the group
+life insurance plan prior to retirement for a minimum of 10 years (the 10-year participation requirement does not apply to
+recipients of disability retirement benefits).
+The level of coverage in retirement is initially set to an amount equal to the retiree’s average final compensation. The
+initial amount of basic life is then subsequently reduced at the rate of 15% per year to the greater of 40% of the initial
+amount or $2,500.
+36
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 10 OTHER POST-EMPLOYMENT BENEFITS PLAN (Continued)
+GLI OPEB Plan Funding Policy
+Premium rates are those determined by MainePERS’s Board of Trustees to be actuarially sufficient to pay anticipated
+claims. The premiums for retiree life insurance coverage are factored into the premiums paid for basic coverage while
+participants are active members. Premiums for basic life insurance coverage for retired teachers are paid by the State of
+Maine as the total dollar amount of each year’s annual required contribution.
+GLI OPEB Plan Financial Reporting
+MainePERS issues annual financial reports for the Group Life Insurance Plan which can be found online at:
+http://www.mainepers.org/Publications/Publications.htm#Annual Reports
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to OPEB
+GLI OPEB Plan
+The net OPEB liability, deferred inflows of resources and deferred outflows of resources related to OPEB were measured
+at June 30, 2023, the latest measurement date available, and the total OPEB liability used to calculate the net pension
+liability was determined by an actuarial valuation as of that date. These amounts are reported on the RSU’s financial
+statements as of June 30, 2024.
+The RSU currently has no proportionate share of the collective net OPEB liability. Therefore, at June 30, 2023, the RSU
+reported a liability of $0 for its proportionate share of the net OPEB liability. The State’s proportionate share of the net
+OPEB liability associated with the RSU was $319,457. Likewise, for the year ended June 30, 2024, the RSU recognized
+no OPEB expense (related to the MainePERS GLI OPEB Plan).
+OPEB Plan Reporting
+GLI OPEB Plan
+Normally, additional disclosures about actuarial methods and assumptions as well as required supplementary information
+relating to the RSU’s proportionate share of the collective net OPEB liability and a schedule of the RSU’s contributions
+to the OPEB Plan would be presented. However, due to the RSU having no liability nor contributions to the plan, these
+disclosures and schedules would provide no useful information and, thus, have been omitted.
+Detailed information about the OPEB plan is available in the separately issued MainePERS financial report.
+General Information about the Health Insurance OPEB Plan
+Health Insurance OPEB Plan Description
+The RSU sponsors a post-retirement benefit plan providing health insurance to retiring employees. The plan is a single-
+employer defined benefit OPEB plan administered by the Maine Education Association Benefits Trust (MEABT). The
+State Legislature has the authority to establish and amend the benefit terms and financing requirements. No assets are
+accumulated in a trust that meets the criteria of paragraph 4 of GASB Statement No. 75.
+37
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 10 OTHER POST-EMPLOYMENT BENEFITS PLAN (Continued)
+(cid:3)
+General Information about the Health Insurance OPEB Plan
+Health Insurance OPEB Plan Benefits
+MEABT provides healthcare insurance benefits for retirees and their dependents. The employee must have participated
+in the MEABT health plan for the 12 months prior to retirement, and have 10 years of continuous active service and
+enrollment in the health plan (under age 50), or 5 years of continuous active service and enrollment in the health plan
+(age 50 or above), in order to be eligible for postretirement benefits. The retiree is eligible for a State subsidy of 60%
+(effective November 1, 2023) and 55% (effective July 1, 2021) of the blended single premium for the retiree only. Under
+State law, the blended premium is determined by blending rates for active members and retired members. The retiree
+pays 40% (effective November 1, 2023) and 45% (effective July 1, 2021) of the blended premium rate for coverage
+elected. Spouses must contribute 100% of the blended premium amounts. Thus, the total premium is paid for by both the
+State and the retiree and/or spouse.
+At June 30, 2023, the following were covered by benefit terms:
+(cid:3)
+Inactive employees or beneficiaries currently receiving benefit payments 116
+Inactive employee entitled to but not yet receiving benefit payments -
+Active employees 308
+Total 4 24
+(cid:3)
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to OPEB
+Health Insurance OPEB Plan
+The RSU’s total OPEB liability of $5,387,892 was measured as of June 30, 2023, and was determined by an actuarial
+valuation as of that date.
+Changes in the Total OPEB Liability
+Balance at June 30, 2022 $ 5,417,356
+Changes for the year:
+Service Cost 86,008
+Interest 190,883
+Changes of benefit terms -
+Differences between expected and actual experience -
+Changes in assumptions or other inputs (82,013)
+Benefit payments (224,342)
+Net changes ( 29,464)
+Balance at June 30, 2023 $ 5,387,892
+Change in assumptions reflects a change in the discount rate from 3.54% to 3.65%.
+38
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 10: Other Post-Employment Benefits Plans (Continued)
+Health Insurance OPEB Plan (Continued)
+For the year ended June 30, 2024, the RSU recognized a reduction of OPEB expense of $88,917. At June 30, 2024, the
+RSU reported deferred outflows of resources and deferred inflows of resources related to OPEB from the following
+sources:
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Differences between expected and actual experience $ 357,778 $ 59,143
+Changes in Assumptions and other inputs 191,999 101,012
+Differences between expected and actual earnings
+on OPEB plan investments - -
+Total $ 549,777 $ 1 60,155
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to OPEB will be
+recognized in OPEB expense as follows:
+Year Ended
+June 30:
+2025 $ 8 3,727
+2026 114,441
+2027 7 5,067
+2028 6 6,774
+2029 6 1,330
+Thereafter ( 11,717)
+$ 3 89,622
+Actuarial Assumptions and Other Inputs
+The total OPEB liability in the June 30, 2023 actuarial valuation was determined using the following assumptions and
+other inputs, applied to all periods included in the measurement, unless otherwise specified:
+Inflation Not reported
+Salary increases 2.75% - 13.03% per year
+Discount rate 3.65% per annum
+Healthcare cost trend rates - Pre-Medicare Initial trend of 7.95% applied in FY2023 grading over 19 years to
+4.00%
+Healthcare cost trend rates - Medicare
+Initial trend of 0.00% applied in FY2023 and 5.62% applied in
+FYE 2024 grading over 18 years to 4.29%
+Retirees’ share of the benefit related costs 40% of the blended premium rate with a State subsidy for the
+remaining 60% of the blended premium rate; prior to November
+1, 2023, 45% of the blended premium rate with a State subsidy
+for the remaining 55% of the blended premium rate
+Mortality rates were based on the 2010 Public Plan Teacher Benefits Weighted Healthy Retiree Mortality Table, for
+males and females, projected generationally using the RPEC_2020 model.
+39
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 10: Other Post-Employment Benefits Plans (Continued)
+Actuarial Assumptions and Other Inputs (Continued)
+The actuarial assumptions used in the June 30, 2023 valuation were based on the results of an actuarial experience study
+for the period June 30, 2015 through June 30, 2020.
+Discount Rate
+The rate used to measure the total OPEB liability was 3.65% per annum. Since the plan is pay as you go and is not
+funded, the discount rate was based upon the Bond Buyer 20-Bond GO Index. This rate is assumed to be an index rate
+for 20-year, tax-exempt general obligation municipal bonds with an average rating of AA/Aa or higher.
+Sensitivity of the Total Health OPEB Liability to Changes in the Discount Rate
+The following presents the RSU’s total Health OPEB liability calculated using the discount rate of 3.65%, as well as
+what the RSU’s total OPEB liability would be if it were calculated using a discount rate that is 1 percentage-point lower
+(2.65%) or 1 percentage-point higher (4.65%) than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+(2.65%) (3.65%) (4.65%)
+Total OPEB Liability $ 6,208,691 $ 5,387,892 $ 4,721,683
+Sensitivity of the Total OPEB Liability to Changes in the Healthcare Cost Trend Rates
+The following presents the RSU’s total OPEB liability calculated using the healthcare cost trend rates, as well as what
+the RSU’s total OPEB liability would be if it were calculated using healthcare cost trend rates that are 1 percentage-
+point lower or 1 percentage-point higher than the current healthcare cost trend rates:
+Healthcare
+Cost Trend
+1% Decrease Rates 1% Increase
+Total OPEB Liability $ 4,631,724 $ 5,387,892 $ 6,334,393
+40
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 11: COMPONENTS OF FUND BALANCE
+As of June 30, 2024, fund balance components consisted of the following:
+Nonspendable Restricted Committed Assigned Unassigned
+General Fund:
+Capital reserve $ - $ - $ 500,175 $ - $ -
+Fuel reserve - - 100,000 - -
+Tennis court reserve - - 110,000 - -
+Use of fund balance - - - 2,243,100 -
+Unassigned - - - - 5,535,377
+Adult Education - - - 49,832 -
+Other governmental funds:
+Special revenues
+Getting to proficiency grant - 11,337 - - -
+OCFS child care provider - 73,477 - - -
+Student aspirations - 35,258 - - -
+Donations - 40,012 - - -
+Local grants - 17,750 - - -
+Erate - 39,971 - - -
+Track and field activity - - - - (1,532)
+Laptop protection - 49,402 - - -
+SAMSHA - 101 - - -
+Mentoring - 10,497 - - -
+Dollars for scholars - 3,669 - - -
+Performing arts center - 34,965 - - -
+School Nutrition 14,423 835,921 - - -
+Community education - 253,918 - - -
+Odyssey of the mind - 499 - - -
+Freeport High School Activity Funds - 189,854 - - -
+Freeport Middle School Activity Funds - 69,581 - - -
+Durham Community School Activity Funds - 50,851 - - -
+Pownal Elementary School Activity Funds - 9,180 - - -
+Mast Landing School Activity Funds - 17,039 - - -
+Morse Street School Activity Funds - 4,796 - - -
+Capital projects
+Tri-town track & field project - - 210,000 - -
+Total $ 14,423 $ 1,748,078 $ 920,175 $ 2,292,932 $ 5,533,845
+NOTE 12: DEFICIT FUND BALANCE
+RSU #5’s Special Revenue Track and Field Activity Fund is carrying forward a fund deficit as of June 30, 2024. The
+Special Revenue Tri-Town Track & Field Project’s deficit fund balance will be funded by donations to be received in
+future years.
+NOTE 13: PURPOSE OF STUDENT ACTIVITY FUNDS
+The purpose of the Student Activity Funds is to maintain accountability of the various extracurricular activities for the
+students of Regional School Unit No. 5.
+41
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+JUNE 30, 2024
+NOTE 14: NONMAJOR FUND TO MAJOR FUND
+GASB sets forth minimum criteria (percentages of the assets, liabilities, revenues or expenditures/expenses of either fund
+category or the governmental and enterprise combined) for the determination of major funds. The School Nutrition Fund
+is reported as a major fund this year and as a nonmajor fund in the prior year. GASB Standard No. 100 changes the
+presentation of Statement 5 and Schedule 9 as follows.
+Reporting Units Affected by
+Restatements of Beginning Balances
+Funds
+School Nonmajor
+General Fund Nutrition Fund Governmental
+Beginning Fund Balances, as previously reported $ 7,747,062 $ - $ 1,644,229
+Change from nonmajor to major - 519,186 (519,186)
+Beginning Fund Balances, as restated $ 7,747,062 $ 519,186 $ 1,125,043
+NOTE 15: SUBSEQUENT EVENTS
+In preparing these financial statements, RSU #5 has evaluated events and transactions for potential recognition or
+disclosure through March 31, 2025, the date the financial statements were available to be issued.
+42
+
+REQUIRED SUPPLEMENTARY INFORMATION
+
+Schedule 1
+REGIONAL SCHOOL UNIT NO. 5
+BUDGETARY COMPARISON SCHEDULE
+BUDGET AND ACTUAL - GENERAL FUND - BUDGETARY BASIS
+YEAR ENDED JUNE 30, 2024
+Variance
+Original Positive
+Budget Final Budget Actual (Negative)
+REVENUES:
+Town assessments (includes adult
+education of $112,000) $ 30,486,336 $ 30,486,336 $ 30,486,336 $ -
+State shared revenues:
+General 7,409,322 7,409,322 7,590,606 181,284
+State agency client 35,000 35,000 29,244 (5,756)
+Adult education subsidy 35,000 35,000 44,063 9 ,063
+Adult education grants - - 27,357 27,357
+7,479,322 7,479,322 7,691,270 211,948
+Other:
+Interest earnings 100,000 100,000 450,618 350,618
+Miscellaneous 149,911 149,911 144,294 (5,617)
+249,911 249,911 594,912 345,001
+TOTAL REVENUES 38,215,569 38,215,569 38,772,518 556,949
+EXPENDITURES-BY FUNCTIONS:
+Student and staff support 3,867,554 3,907,554 3,902,531 5 ,023
+School administration 2,067,029 2,067,029 2,055,923 1 1,106
+Facilities maintenance 5,184,819 5,184,819 4,870,047 314,772
+Career and technical education 272,017 272,017 272,017 -
+Regular instruction 17,072,759 16,938,077 16,639,806 298,271
+Other instruction 1,044,071 1,044,071 951,215 9 2,856
+System administration 1,074,251 1,074,251 1,069,315 4 ,936
+Transportation services 1,551,608 1,646,290 1,604,070 4 2,220
+Debt service 1,139,395 1,139,395 1,139,395 -
+Special education services 5,366,821 5,366,821 4,982,404 384,417
+Other outlays:
+Adult education 251,284 251,284 166,128 85,156
+TOTAL EXPENDITURES-BY FUNCTIONS 38,891,608 38,891,608 37,652,851 1,238,757
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES (676,039) (676,039) 1,119,667 1,795,706
+43
+
+Schedule 1 (Continued)
+REGIONAL SCHOOL UNIT NO. 5
+BUDGETARY COMPARISON SCHEDULE
+BUDGET AND ACTUAL - GENERAL FUND - BUDGETARY BASIS
+YEAR ENDED JUNE 30, 2024
+Variance
+Original Positive
+Budget Final Budget Actual (Negative)
+EXCESS OF REVENUES OVER (UNDER)
+EXPENDITURES $ (676,039) $ (676,039) $ 1,119,667 $ 1,795,706
+OTHER FINANCING SOURCES (USES):
+Transfer out to track and field reserve (35,000) (35,000) (35,000) -
+Transfer out to school lunch program (293,245) (293,245) (293,245) -
+TOTAL OTHER FINANCING
+SOURCES (USES) (328,245) (328,245) (328,245) -
+BUDGETARY SURPLUS (DEFICIT) $ (1,004,284) $ (1,004,284) $ 791,422 $ 1,795,706
+COMPONENTS OF THE SCHOOL'S
+BUDGETARY SURPLUS (DEFICIT)
+Restricted
+Adult Education $ (104,284) $ (104,284) $ 17,293
+Committed
+Tennis Court 40,000 40,000 40,000
+Assigned
+Use of fund balance (940,000) (940,000) 1,334,500
+Unassigned - - (600,371)
+$ (1,004,284) $ (1,004,284) $ 791,422
+The Accompanying Notes are an Integral Part of these Statements.
+44
+
+2
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+YTILIBAIL
+NOISNEP
+TEN
+EHT
+FO
+ERAHS
+ETANOITROPORP
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+REHCAET
+DNA
+EEYOLPME
+ETATS
+SREPENIAM
+500ST
+:DI
+REYOLPME
+*
+sraeY
+neT
+tsaL
+eht
+roF
+s'5#
+USR
+etanoitroporp
+s'etatS
+yraicudif
+nalP
+ten
+eht
+fo
+erahs
+etanoitroporp
+s'5#
+USR
+s'5#
+USR
+a
+sa
+noitisop
+ten
+ytilibail
+noisnep
+s'5#
+USR
+ten
+eht
+fo
+erahs
+etanoitroporp
+fo
+noitroporp
+fo
+egatnecrep
+fo
+egatnecrep
+a
+sa
+-derevoc
+ytilibail
+noisnep
+ten
+eht
+fo
+erahs
+ten
+eht
+raeY
+lacsiF
+noisnep
+latot
+eht
+-derevoc
+sti
+eeyolpme
+htiw
+detaicossa
+noisnep
+noisnep
+dednE
+ytilibail
+lloryap
+eeyolpme
+lloryap
+latoT
+5#
+USR
+ytilibail
+ytilibail
+03
+enuJ
+%30.68
+%91.2
+737,663,91
+$
+272,449,81
+$
+763,915,81
+$
+509,424
+$
+%700820.0
+4202
+%97.58
+%77.2
+660,155,71
+935,380,81
+092,795,71
+942,684
+%647230.0
+3202
+%09.09
+%15.0
+207,124,71
+302,719,01
+815,828,01
+586,88
+%584010.0
+2202
+%30.18
+%35.0
+275,363,61
+666,516,02
+795,925,02
+960,68
+%272500.0
+1202
+%37.28
+%74.1
+884,636,51
+362,439,71
+967,307,71
+494,032
+%427510.0
+0202
+%09.28
+%31.1
+696,488,41
+425,903,61
+569,041,61
+955,861
+%194210.0
+9102
+%87.08
+%49.0
+696,488,41
+855,710,71
+921,878,61
+924,931
+%995900.0
+8102
+%12.67
+%30.1
+764,648,31
+890,770,81
+362,439,71
+538,241
+%680800.0
+7102
+%81.18
+%40.1
+493,993,21
+690,106,41
+975,174,41
+715,921
+%395900.0
+6102
+%19.38
+%79.0
+381,063,21
+175,958,11
+006,937,11
+179,911
+%501110.0
+5102
+.roirp
+shtnom
+evelwt
+era
+setad
+tnemerusaem
+tub
+,raey
+lacsif
+gnitroper
+eht
+tcelfer
+sredaeh
+etaD
+*
+.stnemetatS
+eseht
+fo
+traP
+largetnI
+na
+era
+setoN
+gniynapmoccA
+ehT
+45
+
+Schedule 3
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S EMPLOYER CONTRIBUTIONS
+MAINEPERS STATE EMPLOYEE AND TEACHER PLAN
+EMPLOYER ID: TS005
+For the Last Ten Fiscal Years *
+RSU #5's
+contributions in RSU #5's
+relation to the RSU #5's RSU #5's contributions as a
+Fiscal Year Contractually contractually contribution covered- percentage of its
+Ended required required deficiency employee covered-employee
+June 30 contributions contributions (excess) payroll payroll
+2024 $ 938,775 $ 938,775 $ - $ 19,649,766 4.78%
+2023 828,078 828,078 - 19,366,737 4.28%
+2022 754,891 754,891 - 17,551,066 4.30%
+2021 783,118 783,118 - 17,421,702 4.50%
+2020 714,513 714,513 - 16,363,572 4.37%
+2019 655,671 655,671 - 15,636,488 4.19%
+2018 590,922 590,922 - 14,884,696 3.97%
+2017 488,206 488,206 - 14,161,782 3.45%
+2016 477,559 477,559 - 13,846,467 3.45%
+2015 343,962 343,962 - 12,399,394 2.77%
+* Date headers reflect both the reporting fiscal year and the measurement date.
+The Accompanying Notes are an Integral Part of these Statements.
+46
+
+Schedule 4
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S PROPORTIONATE SHARE OF THE NET PENSION LIABILITY
+MAINEPERS PARTICIPATING LOCAL DISTRICT CONSOLIDATED PLAN
+EMPLOYER ID: P0325
+For the Last Ten Fiscal Years *
+RSU #5's
+proportionate
+share of the net
+RSU #5's RSU #5's pension (asset) Plan fiduciary
+proportion of proportionate RSU #5's liability as a net position as a
+Fiscal Year the net share of the net covered- percentage of its percentage of
+Ended pension pension (asset) employee covered-employee the total pension
+June 30 liability liability payroll payroll liability
+2024 0.026570% $ 84,784 $ 240,962 35.19% 92.34%
+2023 0.026257% 69,800 211,146 33.06% 93.26%
+2022 0.016883% (5,426) 114,364 -4.74% 100.86%
+2021 0.013043% 51,822 84,249 61.51% 88.35%
+2020 0.011300% 34,537 69,124 49.96% 90.62%
+2019 0.009047% 24,760 52,313 47.33% 91.14%
+2018 0.009263% 37,930 49,975 75.90% 86.43%
+2017 0.010962% 58,244 57,802 100.76% 81.61%
+2016 0.011198% 35,724 58,682 60.88% 88.27%
+2015 0.014247% 21,923 71,615 30.61% 94.10%
+* Date headers reflect the reporting fiscal year, but measurement dates are twleve months prior.
+The Accompanying Notes are an Integral Part of these Statements.
+47
+
+Schedule 5
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF THE DISTRICT'S EMPLOYER CONTRIBUTIONS
+MAINEPERS PARTICIPATING LOCAL DISTRICT CONSOLIDATED PLAN
+EMPLOYER ID: P0325
+For the Last Ten Years *
+RSU #5's
+contributions in RSU #5's
+relation to the RSU #5's RSU #5's contributions as a
+Fiscal Year Contractually contractually contribution covered- percentage of its
+Ended required required deficiency employee covered-employee
+June 30 contributions contributions (excess) payroll payroll
+2024 $ 27,050 $ 27,050 $ - $ 266,500 10.15%
+2023 20,482 20,482 - 240,962 8.50%
+2022 21,748 21,748 - 211,146 10.30%
+2021 11,551 11,551 - 114,364 10.10%
+2020 8,425 8,425 - 84,249 10.00%
+2019 6,912 6,912 - 69,124 10.00%
+2018 5,022 5,022 - 52,313 9.60%
+2017 4,748 4,748 - 49,975 9.50%
+2016 5,144 5,144 - 57,802 8.90%
+2015 4,577 4,577 - 58,682 7.80%
+* Date headers reflect both the reporting fiscal year and the measurement date.
+The Accompanying Notes are an Integral Part of these Statements.
+48
+
+6
+eludehcS
+5 .ON
+TINU
+LOOHCS
+LANOIGER
+YTILIBAIL
+BEPO
+TEN
+EHT
+FO ERAHS
+ETANOITROPORP
+S'TCIRTSID
+EHT
+FO
+ELUDEHCS
+NALP
+BEPO
+ECNARUSNI
+EFIL
+PUORG
+SREPENIAM
+500ST
+:DI
+REYOLPME
+*
+sraeY
+xiS
+tsaL
+eht
+roF
+s'5#
+USR
+etanoitroporp
+s'etatS
+yraicudif
+nalP
+ten
+eht
+fo
+erahs
+etanoitroporp
+s'5#
+USR
+a sa
+noitisop
+ten
+sa
+ytilibail
+BEPO
+s'5#
+USR
+ten
+eht
+fo erahs
+s'5#
+USR
+fo
+noitroporp
+fo
+egatnecrep
+sti
+fo
+egatnecrep
+a
+-derevoc
+ytilibail
+BEPO
+etanoitroporp
+ten
+eht
+raeY
+lacsiF
+BEPO
+latot
+eht
+eeyolpme-derevoc
+eeyolpme
+htiw
+detaicossa
+ten
+eht
+fo
+erahs
+BEPO
+dednE
+ytilibail
+lloryap
+lloryap
+latoT
+5#
+USR
+ytilibail
+BEPO
+ytilibail
+03
+enuJ
+%79.65
+%00.0
+737,663,91
+$
+754,913
+$
+754,913
+$
+-
+$
+%00.0
+4202
+%93.25
+%00.0
+660,155,71
+107,453
+107,453
+-
+%00.0
+3202
+%09.26
+%00.0
+207,124,71
+000,781
+000,781
+-
+%00.0
+2202
+%04.55
+%00.0
+275,363,61
+269,504
+269,504
+-
+%00.0
+1202
+%22.94
+%00.0
+884,636,51
+700,863
+700,863
+-
+%00.0
+0202
+%40.84
+%00.0
+696,488,41
+187,543
+187,543
+-
+%00.0
+9102
+%92.74
+%00.0
+696,488,41
+766,413
+766,413
+-
+%00.0
+8102
+.roirp
+shtnom
+evelwt
+era
+setad
+tnemerusaem
+tub
+,raey
+lacsif
+gnitroper
+eht
+tcelfer
+sredaeh
+etaD
+*
+.sraey
+net rof
+noitamrofni
+wohs
+ot
+dednetni
+si
+eludehcs
+sihT
+s'tcirtsiD
+eht ecnis
+sraey
+esoht
+ot elbatubirtta
+si detneserp
+atad
+ehT
+.8102
+,03
+enuJ
+dedne
+raey
+lacsif
+eht
+;noitatnemelpmi
+57 BSAG
+fo
+raey
+tsrif
+.elbaliava
+semoceb
+noitamrofni
+wen
+sa yllaunna
+detadpu
+eb
+lliw
+eludehcs
+ehT
+.stnemetatS
+eseht
+fo
+traP
+largetnI
+na
+era
+setoN
+gniynapmoccA
+ehT
+49
+
+Schedule 7
+REGIONAL SCHOOL UNIT NO. 5
+SCHEDULE OF CHANGES IN THE THE DISTRICT'S TOTAL HEALTH PLAN
+OPEB LIABILITY AND RELATED RATIOS
+MAINE EDUCATION ASSOCIATION BENEFITS TRUST HEALTH INSURANCE OPEB PLAN
+For the Six Years *
+2024 2023 2022 2021 2020
+A Service cost $ 86,008 $ 101,429 $ 102,052 $ 60,413 $ 51,685
+B Interest 190,883 105,088 105,228 177,829 183,097
+C Benefit term changes - - - (487,902) -
+D Experience differences - 500,890 - (138,003) -
+E Assumption changes (82,013) 10,462 38,067 196,049 275,638
+F Benefit payments (224,342) (127,817) (154,024) (184,078) (155,027)
+G Net change (29,464) 590,052 91,323 (375,692) 355,393
+H Beginning liability 5,417,356 4,827,304 4,735,981 5,111,673 4,756,280
+I Ending liability $ 5,387,892 $ 5,417,356 $ 4,827,304 $ 4,735,981 $ 5,111,673
+J Covered payroll $12,969,476 $12,653,147 $12,990,573 $12,673,729 $13,663,820
+K Payroll percentage 41.5% 42.8% 37.2% 37.4% 37.4%
+2019
+A Service cost $ 54,674
+B Interest 174,430
+C Benefit term changes -
+D Experience differences -
+E Assumption changes (215,005)
+F Benefit payments (149,669)
+G Net change (135,570)
+H Beginning liability 4,891,850
+I Ending liability $ 4,756,280
+J Covered payroll $13,298,122
+K Payroll percentage 35.8%
+* Date headers reflect the reporting fiscal year, but measurement dates are twleve months prior.
+A Service cost related to the District
+B Interest, which includes interest on service cost
+C Changes in the Plan's benefit terms
+D Differences between expected and actual experience
+E Changes of assumptions
+F Benefit payments, including refunds of member contributions
+G Net change in total OPEB liability (sum of A through F)
+H Total OPEB liability at the beginning of the fiscal year.
+I Total OPEB liability at the end of the fiscal year.
+J Covered-employee payroll
+K Total OPEB liability as a percentage of covered-employee payroll.
+This schedule is intended to show information for ten years.
+The data presented is attributable to those years since the District's
+first year of GASB 75 implementation; the fiscal year ended June 30, 2019.
+The schedule will be updated annually as new information becomes available.
+The Accompanying Notes are an Integral Part of these Statements.
+50
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2024
+NOTE 1: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Budgetary Accounting
+Budgets are adopted for the general fund only. Formal budgetary integration is employed as a management control
+device during the year for the general fund. The budget is presented on the modified accrual basis of accounting which
+is consistent with generally accepted accounting principles. A comparison of budget to actual is presented in these
+financial statements.
+NOTE 2: RECONCILIATION OF BUDGETARY VS. FUND FINANCIAL STATEMENTS
+As required by generally accepted accounting principles (GAAP), RSU #5 has reported a revenue and expenditure for
+Maine State Retirement contributions in the amount of $2,382,582 made by the State of Maine on behalf of
+RSU #5. Since the amount has not been budgeted, there is a difference in reporting on a budgetary basis of accounting
+vs. reporting under accounting principles generally accepted in the United States of America. The amount has been
+included as an intergovernmental revenue and expenditure in the General Fund on Statement 5. There is no effect on the
+fund balance at the end of the year.
+Capital lease proceeds and expenditures of $132,750 have been reported on the GAAP statements but not on the
+budgetary basis statements. There is no effect on the fund balance at the end of the year.
+Explanation of the Differences between General Fund Budgetary Comparison Schedule Revenues and Expenditures
+(Schedule 1) and General Fund GAAP Revenues and Expenditures (Statement 5) are as follows:
+Revenues
+Total Revenues as reported on Budgetary Comparison Schedule
+Budget and Actual- Budgetary Basis (Schedule 1) $ 38,772,518
+Differences-budget to GAAP
+On behalf payments for Maine State Retirement Contributions
+made by the State of Maine 2,382,582
+Total Revenues as reported on Statement of Revenues, Expenditures
+and Changes in Fund Balances-Governmental Funds (Statement 5) $ 41,155,100
+Expenditures
+Total Expenditures as reported on Budgetary Comparison Schedule
+Budget and Actual- Budgetary Basis (Schedule 1) $ 37,652,851
+Differences-budget to GAAP
+Capital lease purchases 132,750
+On behalf payments for Maine State Retirement Contributions
+made by the State of Maine 2,382,582
+Total Expenditures as reported on Statement of Revenues, Expenditures,
+and Changes in Fund Balances-Governmental Funds (Statement 5) $ 40,168,183
+Other Financing Sources (Uses)
+Total Other Financing Sources (Uses) as reported on Budgetary Comparison
+Schedule - Budget and Actual- Budgetary Basis (Schedule 1) $ (328,245)
+Differences-budget to GAAP
+Capital Lease Proceeds 132,750
+Total Other Financing Sources (Uses) as reported on Statement of
+Revenues, Expenditures, and Changes in Fund Balances -
+Governmental Funds (Statement 5) $ (195,495)
+51
+
+REGIONAL SCHOOL UNIT NO. 5
+NOTES TO THE REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2024
+NOTE 3: BUDGETED USE OF SURPLUS
+For the year ended June 30, 2024, RSU #5 budgeted a deficit of $1,004,284 and planned to use the General Fund and the
+Adult Education’s fund balance to cover the deficit. Actual revenues and expenditures, however, resulted in excess
+revenues of $791,422.
+NOTE 4: ORIGINAL AND FINAL BUDGET DIFFERENCES
+The budget line transfers were from Regular Instruction ($134,682) to Student and Staff Support of $40,000 and
+Transportation of $94,682.
+52
+
+OTHER SUPPLEMENTARY INFORMATION
+
+8
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+-
+TEEHS
+ECNALAB
+GNINIBMOC
+4202
+,03
+ENUJ
+STESSA stnuoccA
+morf
+euD
+/hsaC
+stessA
+latoT
+seirotnevnI
+elbavieceR
+sdnuF
+rehtO
+stnemtsevnI
+sdnuF euneveR
+laicepS
+312,74
+$
+-
+$
+312,74
+$
+-
+$
+-
+$
+degatnavdasid
+A1 eltiT
+031,452
+-
+031,452
+-
+-
+tnarg
+tnemeltitne lacol
+AEDI
+627,4
+-
+627,4
+-
+-
+loohcserP
+-
+-
+-
+-
+-
+ssensselemoh
+tneduts gnitneverP
+733,11
+-
+-
+733,11
+-
+ycneiciforp ot
+gnitteG
+-
+-
+-
+-
+-
+tnarg
+ITLM
+-
+-
+-
+-
+-
+hceT htiw
+hcaeT
+722,52
+-
+722,52
+-
+-
+stnarg
+etats
+noitcurtsni
+evitceffe gnitroppuS
+774,37
+-
+-
+774,37
+-
+redivorP
+eraC dlihC
+SFCO
+553,02
+-
+553,02
+-
+-
+3#
+RESSE
+-
+-
+-
+-
+-
+hceT
+SML
+-
+-
+-
+-
+-
+tnarG laugnilitluM
+790,3
+-
+790,3
+-
+-
+ssoL gninraeL
+PRA
+-
+-
+-
+-
+-
+egaugnaL
+hsilgnE
+III eltiT
+852,53
+-
+-
+165,82
+796,6
+snoitaripsa
+tnedutS
+210,04
+-
+-
+210,04
+-
+snoitanoD
+057,71
+-
+-
+057,71
+-
+stnarG
+lacoL
+179,93
+-
+-
+179,93
+-
+etarE
+-
+-
+-
+-
+-
+ytivitcA dleif
+& kcarT
+091,35
+-
+-
+091,35
+-
+noitcetorp
+potpaL
+101
+-
+-
+101
+-
+AHSMAS
+794,01
+-
+-
+794,01
+-
+gnirotneM
+966,3
+-
+-
+966,3
+-
+sralohcs rof
+sralloD
+086,63
+-
+-
+086,63
+-
+retnec stra gnimrofreP
+600,178
+-
+-
+069,9
+640,168
+noitacudE ytinummoC
+690,1
+-
+-
+690,1
+-
+tnemhcirne
+noitacudE
+tludA
+994
+-
+-
+-
+994
+dniM eht fo
+yessydO
+661,191
+-
+-
+669
+002,091
+sdnuF
+ytivitcA
+loohcS hgiH
+tropeerF
+814,17
+-
+-
+-
+814,17
+sdnuF
+ytivitcA
+loohcS elddiM
+tropeerF
+158,05
+-
+-
+549
+609,94
+sdnuF
+ytivitcA
+loohcS
+ytinummoC
+mahruD
+691,9
+-
+-
+-
+691,9
+sdnuF
+ytivitcA
+loohcS
+yratnemelE
+lanwoP
+930,71
+-
+-
+-
+930,71
+sdnuF
+ytivitcA
+loohcS gnidnaL
+tsaM
+697,4
+-
+-
+-
+697,4
+sdnuF
+ytivitcA
+loohcS teertS
+esroM
+757,398,1
+-
+847,453
+212,823
+797,012,1
+seuneveR
+laicepS
+latoT
+sdnuF tcejorP
+latipaC
+000,012
+-
+-
+000,012
+-
+tcejorp
+dleif & kcart
+nwot-irT
+000,012
+-
+-
+000,012
+-
+stcejorP latipaC
+latoT
+757,301,2
+$
+-
+$
+847,453
+$
+212,835
+$
+797,012,1
+$
+sdnuf
+latnemnrevog
+rojam-non
+latoT
+53
+
+)deunitnoC(
+8
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+-
+TEEHS
+ECNALAB
+GNINIBMOC
+4202
+,03
+ENUJ
+ECNALAB
+DNUF
+DNA
+SEITILIBAIL
+latoT
+dna
+seitilibaiL
+ecnalaB
+dnuF
+rehtO
+ot
+euD
+deurccA
+stnuoccA
+ecnalaB
+dnuF
+)ticifeD(
+sdnuF
+seiralaS
+elbayaP
+sdnuF euneveR
+laicepS
+312,74
+$
+-
+$
+791,72
+$
+610,02
+$
+-
+$
+degatnavdasid
+A1 eltiT
+031,452
+-
+744,512
+127,71
+269,02
+tnarg
+tnemeltitne lacol
+AEDI
+627,4
+-
+828,2
+898,1
+-
+loohcserP
+-
+-
+-
+-
+-
+ssensselemoh
+tneduts gnitneverP
+733,11
+733,11
+-
+-
+-
+ycneiciforp ot
+gnitteG
+-
+-
+-
+-
+-
+tnarg
+ITLM
+-
+-
+-
+-
+-
+hceT htiw
+hcaeT
+722,52
+-
+722,52
+-
+-
+stnarg
+etats
+noitcurtsni
+evitceffe gnitroppuS
+774,37
+774,37
+-
+-
+-
+redivorP
+eraC dlihC
+SFCO
+553,02
+-
+262,02
+-
+39
+3#
+RESSE
+-
+-
+-
+-
+-
+hceT
+SML
+-
+-
+-
+-
+-
+tnarG laugnilitluM
+790,3
+-
+790,3
+-
+-
+ssoL gninraeL
+PRA
+-
+-
+-
+-
+-
+egaugnaL
+hsilgnE
+III eltiT
+852,53
+852,53
+-
+-
+-
+snoitaripsa
+tnedutS
+210,04
+210,04
+-
+-
+-
+snoitanoD
+057,71
+057,71
+-
+-
+-
+stnarG
+lacoL
+179,93
+179,93
+-
+-
+-
+etarE
+-
+)235,1(
+235,1
+-
+-
+ytivitcA dleif
+& kcarT
+091,35
+204,94
+-
+-
+887,3
+noitcetorp
+potpaL
+101
+101
+-
+-
+-
+AHSMAS
+794,01
+794,01
+-
+-
+-
+gnirotneM
+966,3
+966,3
+-
+-
+-
+sralohcs rof
+sralloD
+086,63
+569,43
+-
+517,1
+-
+retnec stra gnimrofreP
+600,178
+819,352
+758,485
+407,42
+725,7
+noitacudE ytinummoC
+690,1
+-
+-
+690,1
+-
+tnemhcirne
+noitacudE
+tludA
+994
+994
+-
+-
+-
+dniM eht fo
+yessydO
+661,191
+458,981
+712,1
+-
+59
+sdnuF
+ytivitcA
+loohcS hgiH
+tropeerF
+814,17
+185,96
+765
+-
+072,1
+sdnuF
+ytivitcA
+loohcS elddiM
+tropeerF
+158,05
+158,05
+-
+-
+-
+sdnuF
+ytivitcA
+loohcS
+ytinummoC
+mahruD
+691,9
+081,9
+-
+-
+61
+sdnuF
+ytivitcA
+loohcS
+yratnemelE
+lanwoP
+930,71
+930,71
+-
+-
+-
+sdnuF
+ytivitcA
+loohcS gnidnaL
+tsaM
+697,4
+697,4
+-
+-
+-
+sdnuF
+ytivitcA
+loohcS teertS
+esroM
+757,398,1
+526,019
+132,288
+051,76
+157,33
+seuneveR
+laicepS
+latoT
+sdnuF tcejorP
+latipaC
+000,012
+000,012
+-
+-
+-
+tcejorp
+dleif & kcart
+nwot-irT
+000,012
+000,012
+-
+-
+-
+stcejorP latipaC
+latoT
+757,301,2
+$
+526,021,1
+$
+132,288
+$
+051,76
+$
+157,33
+$
+sdnuf
+latnemnrevog
+rojam-non
+latoT
+54
+
+9
+eludehcS
+5
+.ON
+TINU
+LOOHCS
+LANOIGER
+- SECNALAB
+DNUF
+NI
+SEGNAHC
+DNA
+SERUTIDNEPXE
+,SEUNEVER
+FO
+TNEMETATS
+GNINIBMOC
+SDNUF
+LATNEMNREVOG
+ROJAM-NON
+4202
+,03
+ENUJ
+DEDNE
+RAEY
+EHT
+ROF
+dnuF
+dnuF
+dnE
+secnalaB
+seuneveR
+margorP
+secnalaB
+raeY
+fo
+margorP
+nI
+srefsnarT
+-nrevogretnI
+fo
+gninnigeB
+)ticifeD(
+serutidnepxE
+)tuO(
+rehtO
+latnem
+raeY
+sdnuF euneveR
+laicepS
+-
+$
+906,642
+$
+-
+$
+-
+$
+906,642
+$
+-
+$
+degatnavdasid
+A1 eltiT
+-
+460,677
+-
+-
+460,677
+-
+tnarg
+tnemeltitne lacol
+AEDI
+-
+162,21
+-
+-
+162,21
+-
+loohcserP
+-
+013,93
+-
+-
+013,93
+-
+ssensselemoh
+tneduts gnitneverP
+733,11
+-
+-
+-
+-
+733,11
+ycneiciforp ot
+gnitteG
+-
+079,59
+-
+-
+079,59
+-
+tnarg
+ITLM
+-
+094,3
+-
+-
+094,3
+-
+hceT htiw
+hcaeT
+-
+616,401
+-
+-
+616,401
+-
+stnarg
+etats
+noitcurtsni
+evitceffe gnitroppuS
+774,37
+868,96
+-
+-
+-
+543,341
+redivorP eraC dlihC
+SFCO
+-
+394,59
+-
+-
+394,59
+-
+3#
+RESSE
+-
+005,9
+-
+-
+005,9
+-
+hceT
+SML
+-
+185,921
+-
+-
+185,921
+-
+tnarG laugnilitluM
+-
+744,41
+-
+-
+744,41
+-
+ssoL gninraeL
+PRA
+-
+491,4
+-
+-
+491,4
+-
+egaugnaL hsilgnE
+III eltiT
+852,53
+-
+-
+04
+-
+812,53
+snoitaripsa
+tnedutS
+210,04
+-
+-
+-
+-
+210,04
+snoitanoD
+057,71
+000,51
+-
+-
+-
+057,23
+stnarg
+lacoL
+179,93
+-
+-
+-
+-
+179,93
+etarE
+)235,1(
+-
+-
+-
+-
+)235,1(
+ytivitcA dleif dna
+kcarT
+204,94
+808,61
+-
+302,33
+-
+700,33
+noitcetorp
+potpaL
+101
+-
+-
+-
+-
+101
+AHSMAS
+794,01
+-
+-
+-
+-
+794,01
+gnirotneM
+966,3
+-
+-
+-
+-
+966,3
+sralohcs rof
+sralloD
+569,43
+455,7
+-
+831,31
+-
+183,92
+retnec stra gnimrofreP
+681,915
+-
+-
+-
+-
+681,915
+noitirtuN
+loohcS
+819,352
+189,769
+)024,72(
+458,130,1
+-
+564,712
+noitacudE ytinummoC
+-
+590,28
+024,72
+576,45
+-
+-
+tnemhcirne
+noitacudE
+tludA
+994
+811,4
+-
+045,3
+-
+770,1
+dniM eht fo
+yessydO
+458,981
+820,842
+-
+824,132
+-
+454,602
+sdnuF
+ytivitcA
+loohcS hgiH
+tropeerF
+185,96
+674,58
+-
+182,29
+-
+677,26
+sdnuF
+ytivitcA
+loohcS elddiM
+tropeerF
+158,05
+742,32
+-
+046,81
+-
+854,55
+sdnuF
+ytivitcA
+loohcS
+ytinummoC
+mahruD
+081,9
+316,4
+-
+593,6
+-
+893,7
+sdnuF
+ytivitcA
+loohcS yratnemelE
+lanwoP
+930,71
+864,81
+-
+743,91
+-
+061,61
+sdnuF
+ytivitcA
+loohcS gnidnaL
+tsaM
+697,4
+459,25
+-
+152,25
+-
+994,5
+sdnuF
+ytivitcA
+loohcS teertS
+esroM
+118,924,1
+547,721,3
+-
+297,655,1
+535,135,1
+922,964,1
+seuneveR laicepS
+latoT
+sdnuF tcejorP
+latipaC
+000,012
+-
+000,53
+-
+-
+000,571
+tcejorp
+dleif & kcart
+nwot-irT
+000,012
+-
+000,53
+-
+-
+000,571
+stcejorP latipaC
+latoT
+ytitne
+gnitroper
+laicnanif nihtiw
+egnahC
+)681,915(
+-
+-
+-
+-
+)681,915(
+)dnuf rojam ot rojamnon(
+526,021,1
+$
+547,721,3
+$
+000,53
+$
+297,655,1
+$
+535,135,1
+$
+340,521,1
+$
+sdnuf
+latnemnrevog
+rojam-non
+latoT
+55
+
+Schedule 10
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT HIGH SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+Art Club $ 989 $ - $ 339 $ 6 50
+Athletics 7,951 22,005 26,753 3 ,203
+Band 2 02 500 53 6 49
+Boost 20,863 3,344 11,717 1 2,490
+Bradley Fellowship 6,518 475 6,109 8 84
+Bridges 63 - 37 2 6
+Ceramics 591 - - 5 91
+Chorus 2 00 270 - 4 70
+Class 2017 8 ,428 - 8,428 -
+Class 2018 4 ,275 - 4,275 -
+Class 2019 4 ,452 - 4,452 -
+Class 2020 9 ,386 - - 9 ,386
+Class 2021 1 ,994 - - 1 ,994
+Class 2022 9 ,620 - - 9 ,620
+Class 2023 13,100 100 662 1 2,538
+Class 2024 15,404 29,583 41,193 3 ,794
+Class 2025 1 ,030 18,405 8,625 1 0,810
+Class 2026 9 30 3,483 - 4 ,413
+Class 2027 - 3,033 967 2 ,066
+Clynk 3 ,142 52 92 3 ,102
+Drama/Musical 24,264 16,573 3,830 3 7,007
+Endeavor 3,192 - 1,085 2 ,107
+Environment Club(EARTH) 34 - - 3 4
+Fishing Club 2 ,109 - 2,109 -
+FPaD Education Foundation 1,399 - - 1 ,399
+Friends of FHS 4 40 - 440 -
+GEMS 3 71 - 81 2 90
+GTSA 3 55 37 - 3 92
+Homecoming 1 7,562 4,960 919 2 1,603
+JMG 2 ,761 6,565 7,236 2 ,090
+KyleCares 1,115 422 511 1 ,026
+Latin Club (346) 1,916 1,320 2 50
+Library 5 70 - - 5 70
+Math Team 20 - - 2 0
+Melmac Scholarship 3,960 - 2,960 1 ,000
+Model UN 3 86 10,853 9,029 2 ,210
+National Honor Society 36 556 130 462
+Subtotal 167,366 1 23,132 143,352 1 47,146
+56
+
+Schedule 10 (Continued)
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT HIGH SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+One Act Plays $ 1,235 $ - $ 457 $ 778
+Outing Club (50) 300 500 (250)
+Photography 1,608 - - 1,608
+Principal's Contingency 10,873 26,890 24,570 13,193
+Scholarships 6,047 37,684 34,260 9,471
+Senior Projects 759 1,100 1,196 663
+Staff Wellness Initiative 337 - - 337
+Stem Lab 1,368 9,344 7,641 3,071
+Student Council 3,836 2,094 2,164 3,766
+Student Services 3,012 28,867 28,528 3,351
+Sunshine Fund 155 192 332 15
+Videography 86 - - 86
+Yearbook 9,822 1,823 5,027 6,618
+Sub-total 39,088 108,294 104,675 42,707
+Grand Total $ 206,454 $ 231,426 $ 248,027 $ 189,853
+The Accompanying Notes are an Integral Part of these Statements.
+57
+
+Schedule 11
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT MIDDLE SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+Acadia Grant Revenue $ 4,310 $ 3,987 $ 5,212 $ 3,085
+Athletics 779 351 173 957
+Band-Students 397 798 1,022 173
+Bradley Grant 3,101 - 130 2,971
+Class 2027 409 - - 409
+Class 2025 378 - - 378
+Coffee Fund 834 139 195 778
+Drama 1,185 11,343 5,657 6,871
+Fab Friday (296) 7,427 5,828 1,303
+Favreau-Technology 1,688 - - 1,688
+Field Hockey 1,513 1,785 1,118 2,180
+Field Trip 2,935 721 1,756 1,900
+FLS & Choices 556 - 28 528
+Fpad 1,276 - - 1,276
+Gardening Club 235 - - 235
+GT 913 - - 913
+Guidance 273 - - 273
+Interact Club 297 - - 297
+JMG 977 740 1,451 266
+Kieve 3,737 - - 3,737
+Library 1,117 1,354 1,324 1,147
+Magazine Drive 14,230 8,884 5,993 17,121
+MLTI Program 127 4,012 3,803 336
+OM-DI 2,194 - - 2,194
+Postage 1,164 1,122 1,122 1,164
+Project Adventure 124 - - 124
+Puffin Fund 4,770 1,200 - 5,970
+Robotics Grant 222 - - 222
+Scholarship Fund 2,431 200 38 2,593
+School Activity 4,496 9,305 9,804 3,997
+Science Club 1,050 - - 1,050
+Space Camp (23) 38,715 37,644 1,048
+Sports Boosters (508) - - (508)
+Student Sunshine Fund 993 - 53 940
+Sunshine Fund 167 - 140 27
+Touch Tank 103 - - 103
+Travel Club 3,603 197 3,402 398
+Yearbook 1,019 418 - 1,437
+$ 62,776 $ 92,698 $ 85,893 $ 69,581
+The Accompanying Notes are an Integral Part of these Statements.
+58
+
+Schedule 12
+REGIONAL SCHOOL UNIT NO. 5
+DURHAM COMMUNITY SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+Care Team $ 2,563 $ 2,356 $ 1,904 $ 3,015
+Dance 5,946 3,589 1,808 7,727
+Drama 1,235 663 785 1,113
+Exxon Mobil 22 - - 22
+Fieldwork 1,216 - - 1,216
+Garden 881 - 125 756
+Grade 8 922 - - 922
+Jobs For Me Grads 2,079 121 336 1,864
+Library 2,826 1,379 850 3,355
+Math 119 - - 119
+Music 2,359 749 637 2,471
+Outing Club 711 1,900 1,338 1,273
+Pta/Field Work Sup 368 - - 368
+Reimbursement 3,650 20 - 3,670
+School Activity 3,685 4,446 3,258 4,873
+Sports Gate 690 - - 690
+Student Council 749 - - 749
+Telecommunications 25 - - 25
+Trips 24,418 3,047 11,370 16,095
+Yearbook 993 370 837 526
+$ 55,458 $ 18,640 $ 23,248 $ 50,850
+The Accompanying Notes are an Integral Part of these Statements.
+59
+
+Schedule 13
+REGIONAL SCHOOL UNIT NO. 5
+POWNAL ELEMENTARY SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+5th Grade Class $ 505 $ 600 $ 600 $ 505
+Boston Trip - 2,183 1,058 1,125
+Care Team 835 - 291 544
+General 4,672 756 1,652 3,776
+Library 173 - - 173
+Nurse Grant (11) - - (11)
+Outdoor Learning 363 - 363 -
+Power Engineer Grant 613 - 497 116
+Playground - 2,622 - 2,622
+Sunshine Account 165 235 - 400
+Wellness 7 - 77 (70)
+Youth Soccer 76 - 76 -
+$ 7,398 $ 6,396 $ 4,614 $ 9,180
+The Accompanying Notes are an Integral Part of these Statements.
+60
+
+Schedule 14
+REGIONAL SCHOOL UNIT NO. 5
+MAST LANDING SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+4th Grade Class $ (445) $ 7,425 $ 5,005 $ 1,975
+5th Grade Class (1,697) 11,415 8,315 1,403
+Drama 2,432 1,552 298 3,686
+Guidance 59 - - 59
+Library 1,205 - - 1,205
+Music/Art 1,015 200 200 1,015
+Office 13,446 - 5,894 7,552
+Wellness 144 - - 144
+$ 16,159 $ 20,592 $ 19,712 $ 17,039
+The Accompanying Notes are an Integral Part of these Statements.
+61
+
+Schedule 15
+REGIONAL SCHOOL UNIT NO. 5
+MORSE STREET SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2024
+Balance Balance
+6/30/2023 Receipts Disbursements 6/30/2024
+Student Fund $ 3,982 $ 420 $ 811 $ 3,591
+Wellness Office Fund 1,480 51,830 52,142 1,168
+Playground Donation 37 - - 37
+$ 5,499 $ 52,250 $ 52,953 $ 4,796
+The Accompanying Notes are an Integral Part of these Statements.
+62

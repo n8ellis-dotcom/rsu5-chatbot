@@ -1,0 +1,40 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/78d90ef6-3c67-4ea0-bb96-9340e0d1bdef
+SECTION: /budget/budget-2020-2021
+TITLE: 2020-2021 Tax Impact Sheet
+TYPE: Finalsite-PDF
+============================================================
+
+RSU5 2020-2021 SUPERINTENDENT'S RECOMMENDED BUDGET
+Assessed Proposed
+2019-2020 2020-2021 Difference
+RSU Operating Budget
+Total Operating Budget $ 3 4,080,295 $ 3 5,379,170 $ 1 ,298,875
+Adult Education Budget $ 1 12,000 $ 1 12,000 $ -
+Total RSU Operating Budget w/Adult Ed $ 3 4,192,295 $ 3 5,491,170 $ 1 ,298,875 3.80%
+Less: State and Non-Shared Debt
+F-Non-Shared Local Debt $ 1 55,264 $ 1 48,043 $ ( 7,221)
+D- State Supported Debt $ 1 ,270,507 $ 1 ,240,229 $ ( 30,278)
+D-Non-Shared Local Debt $ 1 55,985 $ 1 52,268 $ ( 3,717)
+Total State and Non-Shared Debt $ 1 ,581,756 $ 1 ,540,540 $ ( 41,216)
+Less: Local Revenues
+Shared Revenue* $ 8 05,500 $ 4 12,250 $ ( 393,250)
+State Aid $ 4 ,966,862 $ 5 ,423,213 $ 4 56,350
+Total Revenues $ 5 ,772,362 $ 5 ,835,463 $ 6 3,100
+Less: RSU Plan Required Local Contribution $ 1 7,707,332 $ 1 8,479,438 $ 7 72,106
+Total Additional Local Monies Required $ 9 ,130,844 $ 9 ,635,729 $ 5 04,885
+Net Impact to Taxation Districtwide $ 2 6,838,176 $ 2 8,115,167 $ 1 ,276,991 4.76%
+Additional Local Monies Required Distribution Per RSU Plan
+Durham 21.42% $ 1 ,955,827 $ 2 ,063,973 $ 1 08,147
+Freeport 65.98% $ 6 ,024,531 $ 6 ,357,654 $ 3 33,124
+Pownal 12.60% $ 1 ,150,486 $ 1 ,214,102 $ 6 3,616
+Total Additional Local Monies Required $ 9 ,130,844 $ 9 ,635,729 $ 5 04,886
+*Shared Revenue
+Town of Freeport Hunter Road Field Maintenance $106,000
+Town of Freeport Contribution for Shared Employee $29,750
+State Agency / Medicaid $50,000
+Misc. / Interest $25,000
+Laugh & Learn $5,500
+Contingency $196,000
+Undesignated Fund Balance $0
+Total Shared Revenue $412,250
+2/5/2020

@@ -1,0 +1,208 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/5e87e13c-3853-4abf-94c5-a1cf7f02964d
+SECTION: /budget/financial-statements
+TITLE: Revenue Reporting
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1000.0000.0000.41110.000 Durham Local Additional ($2,898,528.53) $0.00 ($2,898,528.53) ($231,440.08) ($1,851,520.64) ($1,047,007.89) $0.00 ($1,047,007.89) 36.12%
+1000.0000.0000.41111.000 DURHAM REQUIRED LOCAL ($3,434,897.34) $0.00 ($3,434,897.34) ($286,241.45) ($2,289,931.60) ($1,144,965.74) $0.00 ($1,144,965.74) 33.33%
+1000.0000.0000.41112.000 FREEPORT REQUIRED LOCAL ($14,063,859.00) $0.00 ($14,063,859.00) ($1,171,988.25) ($9,375,906.00) ($4,687,953.00) $0.00 ($4,687,953.00) 33.33%
+1000.0000.0000.41113.000 POWNAL REQUIRED LOCAL ($2,075,149.34) $0.00 ($2,075,149.34) $0.00 ($1,210,503.84) ($864,645.50) $0.00 ($864,645.50) 41.67%
+1000.0000.0000.41115.000 FREEPORT LOCAL ADDITIONAL ($8,554,854.99) $0.00 ($8,554,854.99) ($712,904.59) ($5,703,236.72) ($2,851,618.27) $0.00 ($2,851,618.27) 33.33%
+1000.0000.0000.41116.000 POWNAL LOCAL ADDITIONAL ($1,633,694.65) $0.00 ($1,633,694.65) $0.00 ($952,988.49) ($680,706.16) $0.00 ($680,706.16) 41.67%
+1000.0000.0000.41212.000 Durham Local only Debt $0.00 $0.00 $0.00 ($10,103.96) ($80,831.68) $80,831.68 $0.00 $80,831.68 0.00%
+1000.0000.0000.41215.000 Additional Shared Revenue ($139,883.76) $0.00 ($139,883.76) $0.00 $0.00 ($139,883.76) $0.00 ($139,883.76) 100.00%
+1000.0000.0000.41510.000 Interest Revenue ($209,000.00) $0.00 ($209,000.00) ($27,014.07) ($273,606.63) $64,606.63 $0.00 $64,606.63 -30.91%
+1000.0000.0000.41900.000 Local Revenues ($18,600.00) $0.00 ($18,600.00) $0.00 ($2,330.25) ($16,269.75) $0.00 ($16,269.75) 87.47%
+1000.0000.0000.41920.000 CONTRIBUTIONS/GIFTS $0.00 $0.00 $0.00 $0.00 ($3,000.00) $3,000.00 $0.00 $3,000.00 0.00%
+1000.0000.0000.41991.000 MSMA DIVIDENDS/REFUNDS $0.00 $0.00 $0.00 $0.00 ($13,496.00) $13,496.00 $0.00 $13,496.00 0.00%
+1000.0000.0000.43111.000 STATE SUBSIDY ($7,472,992.39) $0.00 ($7,472,992.39) ($537,636.46) ($5,215,680.36) ($2,257,312.03) $0.00 ($2,257,312.03) 30.21%
+1000.0000.0000.43121.000 State Agency Revenue ($20,000.00) $0.00 ($20,000.00) ($5,930.65) ($30,295.04) $10,295.04 $0.00 $10,295.04 -51.48%
+1000.0000.0000.43127.000 Child Development Services ($79,000.00) $0.00 ($79,000.00) ($2,095.83) ($36,568.60) ($42,431.40) $0.00 ($42,431.40) 53.71%
+1000.0000.0000.45000.000 FUND BALANCE FORWARD ($900,000.00) $0.00 ($900,000.00) $0.00 $0.00 ($900,000.00) $0.00 ($900,000.00) 100.00%
+Fund: GENERAL FUND - 1000 ($41,500,460.00) $0.00 ($41,500,460.00) ($2,985,355.34) ($27,039,895.85) ($14,460,564.15) $0.00 ($14,460,564.15) 34.84%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 1
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1500.0000.0000.41114.400 RSU5 AE Local Contribution ($112,000.00) $0.00 ($112,000.00) ($8,157.33) ($73,490.64) ($38,509.36) $0.00 ($38,509.36) 34.38%
+1500.0000.0000.41317.400 Adult Ed User Fees $0.00 $0.00 $0.00 $0.00 $70.00 ($70.00) $0.00 ($70.00) 0.00%
+1500.0000.0000.43240.400 Adult Ed State Revenue ($44,063.16) $0.00 ($44,063.16) $0.00 ($44,552.86) $489.70 $0.00 $489.70 -1.11%
+1500.0000.0000.45202.400 TRANSFER IN FROM ADULT ($8,066.00) $0.00 ($8,066.00) $0.00 $0.00 ($8,066.00) $0.00 ($8,066.00) 100.00%
+ENRICHMENT
+1500.0000.0000.45209.400 TRANSFER IN FROM ($56,146.84) $0.00 ($56,146.84) $0.00 $0.00 ($56,146.84) $0.00 ($56,146.84) 100.00%
+COMMUNITY EDUCATION
+Fund: ADULT EDUCATION - 1500 ($220,276.00) $0.00 ($220,276.00) ($8,157.33) ($117,973.50) ($102,302.50) $0.00 ($102,302.50) 46.44%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 2
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2010.0000.0000.41920.000 MLTI DEVICE PROTECTION PLAN $0.00 $0.00 $0.00 ($166.64) ($28,681.45) $28,681.45 $0.00 $28,681.45 0.00%
+- REVENUE
+Fund: TECHNOLOGY - MLTI DEVICE PROTECTION PLAN - 2010 $0.00 $0.00 $0.00 ($166.64) ($28,681.45) $28,681.45 $0.00 $28,681.45 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 3
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2150.0000.0000.41900.000 Aspirations Revenue $0.00 $0.00 $0.00 ($8.08) ($77.78) $77.78 $0.00 $77.78 0.00%
+Fund: STUDENT ASPIRATIONS - 2150 $0.00 $0.00 $0.00 ($8.08) ($77.78) $77.78 $0.00 $77.78 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 4
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2170.0000.0000.41920.000 PAC - Revenue $0.00 $0.00 $0.00 ($2,101.00) ($15,665.10) $15,665.10 $0.00 $15,665.10 0.00%
+Fund: PERFORMING ARTS CENTER - 2170 $0.00 $0.00 $0.00 ($2,101.00) ($15,665.10) $15,665.10 $0.00 $15,665.10 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 5
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2237.0000.0000.43262.000 MLTI 1:1 Grant Revenue $0.00 $0.00 $0.00 $0.00 ($128,623.00) $128,623.00 $0.00 $128,623.00 0.00%
+Fund: MLTI 1:1 Grant - 2237 $0.00 $0.00 $0.00 $0.00 ($128,623.00) $128,623.00 $0.00 $128,623.00 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 6
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2300.0000.0000.44517.000 Title I Revenue $0.00 $0.00 $0.00 $0.00 ($64,247.59) $64,247.59 $0.00 $64,247.59 0.00%
+Fund: TITLE 1A - 2300 $0.00 $0.00 $0.00 $0.00 ($64,247.59) $64,247.59 $0.00 $64,247.59 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 7
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2615.0000.0000.44531.000 ESSERF/ARP Revenue $0.00 $0.00 $0.00 $0.00 ($76,123.34) $76,123.34 $0.00 $76,123.34 0.00%
+Fund: ESSERF 3 - 2615 $0.00 $0.00 $0.00 $0.00 ($76,123.34) $76,123.34 $0.00 $76,123.34 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 8
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2680.0000.0000.44512.900 Title III $0.00 $0.00 $0.00 ($750.00) ($1,173.97) $1,173.97 $0.00 $1,173.97 0.00%
+Fund: TITLE III - 2680 $0.00 $0.00 $0.00 ($750.00) ($1,173.97) $1,173.97 $0.00 $1,173.97 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 9
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2690.0000.0000.44520.000 Title IIA - Teacher Quality $0.00 $0.00 $0.00 ($24,459.49) ($93,428.69) $93,428.69 $0.00 $93,428.69 0.00%
+Fund: TITLE IIA - 2690 $0.00 $0.00 $0.00 ($24,459.49) ($93,428.69) $93,428.69 $0.00 $93,428.69 0.00%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 10
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6000.0000.0000.41610.900 School Nutrition Revenues ($90,000.00) $0.00 ($90,000.00) $133.91 $531.62 ($90,531.62) $0.00 ($90,531.62) 100.59%
+6000.0000.0000.41620.900 School Nutrition A La Carte ($8,000.00) $0.00 ($8,000.00) $0.00 $0.00 ($8,000.00) $0.00 ($8,000.00) 100.00%
+Revenue
+6000.0000.0000.43250.900 Educ School Nutrition, LUNCH ($13,000.00) $0.00 ($13,000.00) ($97,435.26) ($411,189.69) $398,189.69 $0.00 $398,189.69-3063.00%
+PAID STATE
+6000.0000.0000.43254.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($380.40) ($1,772.00) $1,772.00 $0.00 $1,772.00 0.00%
+REDUCED STATE
+6000.0000.0000.43258.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($23,967.24) ($111,070.02) $111,070.02 $0.00 $111,070.02 0.00%
+BREAKFAST PAID STATE
+6000.0000.0000.44353.900 LOCAL PRODUCE (New 2024) $0.00 $0.00 $0.00 $0.00 ($2,418.37) $2,418.37 $0.00 $2,418.37 0.00%
+6000.0000.0000.44551.900 Educ. School Nutrition, LUNCH ($1,436,501.00) $0.00 ($1,436,501.00) ($13,372.20) ($62,862.09) ($1,373,638.91) $0.00 ($1,373,638.91) 95.62%
+(REG.) Paid Meals
+6000.0000.0000.44553.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($20,018.47) ($93,998.83) $93,998.83 $0.00 $93,998.83 0.00%
+(S.A.) Free and Redu
+6000.0000.0000.44554.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($12,497.58) ($58,074.51) $58,074.51 $0.00 $58,074.51 0.00%
+BREAKFAST
+6000.0000.0000.45201.900 School Nutrition Transfer In ($185,334.00) $0.00 ($185,334.00) $0.00 $0.00 ($185,334.00) $0.00 ($185,334.00) 100.00%
+Fund: SCHOOL NUTRITION - 6000 ($1,732,835.00) $0.00 ($1,732,835.00) ($167,537.24) ($740,853.89) ($991,981.11) $0.00 ($991,981.11) 57.25%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 11
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6150.0000.0000.41317.400 Adult Ed User Fees ($25,000.00) $0.00 ($25,000.00) ($3,025.00) ($42,043.00) $17,043.00 $0.00 $17,043.00 -68.17%
+Fund: AE ENRICHMENT - 6150 ($25,000.00) $0.00 ($25,000.00) ($3,025.00) ($42,043.00) $17,043.00 $0.00 $17,043.00 -68.17%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 12
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6501.0000.0000.41990.000 L&L User Fees= paid by registr and ($382,745.00) $0.00 ($382,745.00) $0.00 ($250,970.10) ($131,774.90) $0.00 ($131,774.90) 34.43%
+tuition
+Fund: LAUGH & LEARN - 6501 ($382,745.00) $0.00 ($382,745.00) $0.00 ($250,970.10) ($131,774.90) $0.00 ($131,774.90) 34.43%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 13
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6502.0000.0000.41990.000 user fees paid by program ($84,500.00) $0.00 ($84,500.00) ($13,596.08) ($88,375.08) $3,875.08 $0.00 $3,875.08 -4.59%
+registrations
+Fund: CAMP SEASIDE - 6502 ($84,500.00) $0.00 ($84,500.00) ($13,596.08) ($88,375.08) $3,875.08 $0.00 $3,875.08 -4.59%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 14
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6800.0000.0000.41510.000 INTEREST $0.00 $0.00 $0.00 $0.00 ($4,756.41) $4,756.41 $0.00 $4,756.41 0.00%
+6800.0000.0000.41920.000 Scholarship Funds $0.00 $0.00 $0.00 ($75.00) ($2,865.00) $2,865.00 $0.00 $2,865.00 0.00%
+6800.0000.0000.41990.000 User Fees ($530,066.84) $0.00 ($530,066.84) ($20,463.84) ($301,865.62) ($228,201.22) $0.00 ($228,201.22) 43.05%
+6800.0000.0000.41991.000 Sponsorships and Grants ($9,000.00) $0.00 ($9,000.00) $0.00 ($17,265.00) $8,265.00 $0.00 $8,265.00 -91.83%
+Fund: CE- RECREATION - 6800 ($539,066.84) $0.00 ($539,066.84) ($20,538.84) ($326,752.03) ($212,314.81) $0.00 ($212,314.81) 39.39%
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 15
+
+RSU No. 5
+Revenues
+From Date: 2/1/2025 To Date: 2/28/2025
+Fiscal Year: 2024-2025 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: ($44,484,882.84) $0.00 ($44,484,882.84) ($3,225,695.04) ($29,014,884.37) ($15,469,998.47) $0.00 ($15,469,998.47) 34.78%
+End of Report
+Printed: 03/10/2025 8:13:10 AM Report: rptGLGenRptwBudgetAdj 2024.1.38 Page: 16

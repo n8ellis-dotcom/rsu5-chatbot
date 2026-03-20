@@ -1,0 +1,1299 @@
+1000.9600.1000.58100.300 Dues and Fees $46,311 $49,969 $52,062 $54,260 $65,133 $10,873 20.04
+Program: EXTRA-CURRICULAR 9-12 - 9600 $334,979 $324,751 $344,089 $373,645 $390,504 $16,859 4.51
+Function: REGULAR INSTRUCTION - 1000 $436,386 $435,569 $466,996 $514,727 $534,510 $19,783 3.84
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 43 of 89
+
+RSU No. 5
+FY27 Article 4 Other Instruction- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.9600.2330.51010.300 Athletic Director Salary - $100,619 $77,420 $81,270 $85,701 $90,415 $4,714 5.50
+FHS
+1000.9600.2330.51060.300 Athletic Trainer Salary $0 $64,575 $66,150 $70,119 $73,976 $3,857 5.50
+1000.9600.2330.51180.300 Athletic Office Support Staff $7,095 $14,784 $15,235 $16,595 $16,800 $205 1.24
+Wages - FHS
+1000.9600.2330.52010.300 Athletic Director Benefits - $16,665 $11,916 $13,458 $20,598 $22,394 $1,796 8.72
+FHS
+1000.9600.2330.52060.300 Athletic Trainer Benefits $0 $13,784 $23,303 $20,670 $21,995 $1,325 6.41
+1000.9600.2330.52080.300 Athletic Office Support Staff $505 $1,261 $8,495 $3,795 $5,362 $1,567 41.29
+Benefits - FHS
+1000.9600.2330.52310.300 Athletic Director Retirement $1,559 $3,442 $3,614 $3,831 $4,042 $211 5.51
+- FHS
+1000.9600.2330.52340.300 Athletic Dir Retirement $1,450 $0 $0 $0 $0 $0 0.00
+Program: EXTRA-CURRICULAR 9-12 - 9600 $127,892 $187,183 $211,525 $221,309 $234,984 $13,675 6.18
+Function: SPECIAL AREA ADMINISTRATION - 2330 $127,892 $187,183 $211,525 $221,309 $234,984 $13,675 6.18
+Cost Center: FREEPORT HIGH SCHOOL - 300 $564,277 $622,752 $678,520 $736,036 $769,494 $33,458 4.55
+1000.9100.1000.51500.950 Stipends Paid $2,544 $1,272 $1,381 $1,486 $1,486 $0 0.00
+1000.9100.1000.52000.950 Employee Benefits $202 $105 $120 $50 $50 $0 0.00
+Program: CO-CURRICULAR K-8 - 9100 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Function: REGULAR INSTRUCTION - 1000 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Cost Center: K-8 - 950 $2,746 $1,377 $1,501 $1,536 $1,536 $0 0.00
+Grand Total: $919,318 $964,393 $1,032,642 $1,119,087 $1,172,539 $53,452 4.78
+End of Report
+Printed: 01/26/2026 9:48:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 44 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2110.51010.010 Social Worker Salaries $0 $39,103 $48,445 $47,046 $50,269 $3,223 6.85
+1000.0000.2110.52010.010 Social Worker Benefits $0 $9,467 $5,444 $13,101 $14,055 $954 7.28
+1000.0000.2110.52310.010 Social Worker Retirement $0 $1,744 $2,072 $2,103 $2,247 $144 6.85
+Program: OVERHEAD - 0000 $0 $50,315 $55,962 $62,250 $66,571 $4,321 6.94
+Function: Attendance & Social Work - 2110 $0 $50,315 $55,962 $62,250 $66,571 $4,321 6.94
+1000.0000.2120.51010.010 Guidance Salaries $107,081 $151,137 $110,823 $154,209 $166,388 $12,179 7.90
+1000.0000.2120.52010.010 Benefits $10,209 $10,438 $10,894 $11,936 $12,321 $385 3.23
+1000.0000.2120.52310.010 Retirement $4,100 $6,760 $4,930 $6,830 $7,364 $534 7.82
+1000.0000.2120.53000.010 Professional Services $226 $67 $300 $300 $300 $0 0.00
+1000.0000.2120.54330.010 Software $333 $333 $275 $334 $334 $0 0.00
+1000.0000.2120.55810.010 Travel - Guidance $0 $0 $0 $200 $200 $0 0.00
+1000.0000.2120.56100.010 Supplies $239 $525 $474 $1,450 $1,450 $0 0.00
+1000.0000.2120.57300.010 Equipment $464 $750 $0 $0 $0 $0 0.00
+1000.0000.2120.58100.010 Dues & Fees $473 $384 $558 $758 $758 $0 0.00
+Program: OVERHEAD - 0000 $123,125 $170,394 $128,254 $176,017 $189,115 $13,098 7.44
+Function: COUNSELING - 2120 $123,125 $170,394 $128,254 $176,017 $189,115 $13,098 7.44
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 45 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2130.51010.010 Nurse Salary $73,165 $75,001 $88,966 $91,021 $97,392 $6,371 7.00
+1000.0000.2130.51200.010 Nurse Substitute - DCS $0 $1,459 $2,082 $0 $0 $0 0.00
+1000.0000.2130.52000.010 Employee Benefits $0 $100 $159 $0 $0 $0 0.00
+1000.0000.2130.52010.010 Nurse Benefits $18,421 $14,359 $12,168 $20,799 $22,330 $1,531 7.36
+1000.0000.2130.52300.010 Retirement - Stipends $0 $11 $12 $0 $0 $0 0.00
+1000.0000.2130.52310.010 Retirement $2,783 $3,352 $3,785 $4,069 $4,353 $284 6.98
+1000.0000.2130.53000.010 Professional Services $319 $279 $269 $300 $300 $0 0.00
+1000.0000.2130.54310.010 Repairs & Maintenance $0 $75 $0 $135 $135 $0 0.00
+1000.0000.2130.55800.010 Travel $0 $25 $9 $0 $0 $0 0.00
+1000.0000.2130.56000.010 Supplies $1,209 $1,396 $1,436 $1,701 $1,868 $167 9.82
+1000.0000.2130.58100.010 Dues & Fees $0 $0 $150 $180 $180 $0 0.00
+Program: OVERHEAD - 0000 $95,897 $96,059 $109,037 $118,205 $126,558 $8,353 7.07
+Function: HEALTH SERVICES - 2130 $95,897 $96,059 $109,037 $118,205 $126,558 $8,353 7.07
+1000.0000.2213.51500.010 Stipends-Acad Leadership $43,191 $43,432 $42,671 $32,962 $32,962 $0 0.00
+and LCC
+1000.0000.2213.52000.010 Stipend Benefits - DCS $7,384 $6,842 $7,073 $1,108 $1,108 $0 0.00
+1000.0000.2213.52300.010 Stipend Retirement - DCS $1,659 $1,933 $1,903 $1,473 $1,473 $0 0.00
+1000.0000.2213.52510.010 Tuition Reimbursement $70 $0 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $52,303 $52,207 $51,647 $35,543 $35,543 $0 0.00
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $52,303 $52,207 $51,647 $35,543 $35,543 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 46 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2220.51010.010 Librarian Salary $75,594 $79,693 $85,373 $93,415 $99,755 $6,340 6.79
+1000.0000.2220.51020.010 Ed Tech Salaries $12,125 $12,785 $13,605 $20,799 $13,936 ($6,863) (33.00)
+1000.0000.2220.52010.010 Librarian Benefits $18,223 $16,322 $18,649 $20,876 $22,406 $1,530 7.33
+1000.0000.2220.52020.010 Ed Tech Salaries $4,197 $3,351 $3,736 $7,251 $6,308 ($943) (13.01)
+1000.0000.2220.52310.010 Retirement $2,903 $3,408 $3,813 $4,176 $4,459 $283 6.78
+1000.0000.2220.52320.010 Ed Tech Retirement $464 $573 $606 $930 $673 ($257) (27.63)
+1000.0000.2220.54330.010 Software $1,043 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56000.010 Supplies $1,297 $0 $0 $0 $0 $0 0.00
+1000.0000.2220.56100.010 Supplies $0 $1,291 $1,291 $1,300 $1,300 $0 0.00
+1000.0000.2220.56400.010 Books $10,974 $9,513 $9,954 $10,456 $10,057 ($399) (3.82)
+Program: OVERHEAD - 0000 $126,821 $128,211 $138,345 $160,703 $160,394 ($309) (0.19)
+Function: LIBRARY SERVICES - 2220 $126,821 $128,211 $138,345 $160,703 $160,394 ($309) (0.19)
+1000.0000.2230.51500.010 Stipends $0 $0 $0 $2,972 $2,972 $0 0.00
+1000.0000.2230.52000.010 Benefits $0 $0 $0 $100 $100 $0 0.00
+1000.0000.2230.52300.010 Stipend Retirement $0 $0 $0 $133 $133 $0 0.00
+Program: OVERHEAD - 0000 $0 $0 $0 $3,205 $3,205 $0 0.00
+Function: INSTRUCTION RELATED TECHNOLOGY - $0 $0 $0 $3,205 $3,205 $0 0.00
+2230
+Cost Center: DURHAM COMMUNITY - 010 $398,146 $497,186 $483,245 $555,923 $581,386 $25,463 4.58
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 47 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2110.51010.020 Social Worker Salaries $0 $22,514 $25,264 $26,915 $28,395 $1,480 5.50
+1000.0000.2110.52010.020 Social Worker Benefits $0 $3,627 $4,582 $5,768 $6,158 $390 6.76
+1000.0000.2110.52310.020 Social Worker Retirement $0 $1,006 $1,125 $1,203 $1,269 $66 5.49
+Program: OVERHEAD - 0000 $0 $27,147 $30,972 $33,886 $35,822 $1,936 5.71
+Function: Attendance & Social Work - 2110 $0 $27,147 $30,972 $33,886 $35,822 $1,936 5.71
+1000.0000.2120.51010.020 Guidance Salaries $91,712 $75,001 $80,347 $86,169 $92,073 $5,904 6.85
+1000.0000.2120.52010.020 Benefits $21,749 $19,436 $24,430 $27,867 $29,931 $2,064 7.41
+1000.0000.2120.52310.020 Retirement $3,522 $3,352 $3,578 $3,852 $4,116 $264 6.85
+1000.0000.2120.53000.020 Purchased Professional $300 $392 $300 $400 $400 $0 0.00
+1000.0000.2120.54330.020 Software $333 $333 $275 $334 $500 $166 49.70
+1000.0000.2120.56100.020 Supplies $134 $265 $341 $1,100 $1,100 $0 0.00
+1000.0000.2120.56400.020 Books $42 $232 $349 $350 $350 $0 0.00
+1000.0000.2120.58100.020 Dues & Fees $0 $0 $0 $300 $300 $0 0.00
+Program: OVERHEAD - 0000 $117,792 $99,012 $109,620 $120,372 $128,770 $8,398 6.98
+Function: COUNSELING - 2120 $117,792 $99,012 $109,620 $120,372 $128,770 $8,398 6.98
+1000.0000.2130.51010.020 Nurse Salary $76,828 $80,487 $94,862 $99,078 $106,074 $6,996 7.06
+1000.0000.2130.51200.020 Nurse Substitute - MSS $1,050 $851 $2,602 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 48 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2130.52000.020 Employee Benefits $86 $47 $215 $0 $0 $0 0.00
+1000.0000.2130.52010.020 Nurse Benefits $4,640 $4,656 $2,663 $6,700 $6,926 $226 3.37
+1000.0000.2130.52300.020 Retirement - Stipends $0 $16 $12 $0 $0 $0 0.00
+1000.0000.2130.52310.020 Retirement $2,950 $3,598 $4,099 $4,429 $4,741 $312 7.04
+1000.0000.2130.53000.020 Purchased Professional $323 $80 $0 $600 $600 $0 0.00
+1000.0000.2130.54310.020 Repairs & Maintenance $70 $135 $0 $135 $135 $0 0.00
+1000.0000.2130.56000.020 Supplies $802 $970 $815 $1,012 $1,096 $84 8.30
+1000.0000.2130.58100.020 Dues & Fees $0 $0 $300 $360 $360 $0 0.00
+Program: OVERHEAD - 0000 $86,750 $90,840 $105,568 $112,314 $119,932 $7,618 6.78
+Function: HEALTH SERVICES - 2130 $86,750 $90,840 $105,568 $112,314 $119,932 $7,618 6.78
+1000.0000.2213.51500.020 Stipends-Acad Leadership $22,995 $23,075 $26,201 $17,224 $17,224 $0 0.00
+and LCC
+1000.0000.2213.52000.020 Stipend Benefits - MSS $3,261 $4,722 $5,736 $579 $579 $0 0.00
+1000.0000.2213.52300.020 Stipend Retirement - MSS $961 $1,032 $1,169 $770 $770 $0 0.00
+Program: OVERHEAD - 0000 $27,217 $28,829 $33,106 $18,573 $18,573 $0 0.00
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $27,217 $28,829 $33,106 $18,573 $18,573 $0 0.00
+1000.0000.2220.51010.020 Librarian Salary $32,098 $35,827 $34,903 $38,952 $42,283 $3,331 8.55
+1000.0000.2220.51020.020 Ed Tech Salaries $18,032 $32,372 $20,459 $13,866 $20,904 $7,038 50.76
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 49 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2220.52010.020 Librarian Benefits $13,508 $12,766 $9,003 $12,840 $13,797 $957 7.45
+1000.0000.2220.52020.020 Library Ed Tech Benefit $5,687 $10,307 $5,605 $4,834 $9,462 $4,628 95.74
+1000.0000.2220.52310.020 Retirement $1,268 $1,614 $1,560 $1,741 $1,890 $149 8.56
+1000.0000.2220.52320.020 Retirement $694 $1,522 $911 $620 $1,009 $389 62.74
+1000.0000.2220.54330.020 Software $1,043 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56100.020 Instructional Supplies $327 $198 $349 $350 $350 $0 0.00
+1000.0000.2220.56400.020 Books $6,270 $6,609 $6,702 $6,069 $5,754 ($315) (5.19)
+Program: OVERHEAD - 0000 $78,926 $102,490 $80,811 $80,772 $96,949 $16,177 20.03
+Function: LIBRARY SERVICES - 2220 $78,926 $102,490 $80,811 $80,772 $96,949 $16,177 20.03
+Cost Center: MORSE STREET - 020 $310,685 $348,318 $360,076 $365,917 $400,046 $34,129 9.33
+1000.0000.2120.51010.030 Guidance Salaries $33,431 $40,321 $45,229 $46,654 $49,821 $3,167 6.79
+1000.0000.2120.52010.030 Benefits $2,714 $2,708 $1,295 $3,257 $3,359 $102 3.13
+1000.0000.2120.52310.030 Retirement $1,540 $1,802 $1,936 $2,085 $2,227 $142 6.81
+1000.0000.2120.53000.030 Purchased Professional $300 $67 $0 $300 $300 $0 0.00
+1000.0000.2120.54330.030 Software $333 $333 $275 $334 $500 $166 49.70
+1000.0000.2120.56100.030 Supplies $229 $331 $277 $750 $750 $0 0.00
+1000.0000.2120.56400.030 Books $131 $42 $114 $150 $150 $0 0.00
+1000.0000.2120.57300.030 Equipment $47 $0 $0 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 50 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2120.58100.030 Dues & Fees $0 $0 $0 $276 $0 ($276) (100.00)
+Program: OVERHEAD - 0000 $38,724 $45,605 $49,127 $53,806 $57,107 $3,301 6.14
+Function: COUNSELING - 2120 $38,724 $45,605 $49,127 $53,806 $57,107 $3,301 6.14
+1000.0000.2130.51010.030 Nurse Salary $59,854 $95,304 $55,755 $60,783 $66,156 $5,373 8.84
+1000.0000.2130.51200.030 Nurse Substitute - PES $3,290 $3,721 $3,382 $0 $0 $0 0.00
+1000.0000.2130.52000.030 Employee Benefits $176 $274 $187 $0 $0 $0 0.00
+1000.0000.2130.52010.030 Nurse Benefits $15,864 $20,859 $18,065 $22,146 $23,821 $1,675 7.56
+1000.0000.2130.52300.030 Retirement - Stipends $5 $11 $81 $0 $0 $0 0.00
+1000.0000.2130.52310.030 Retirement $8,759 $8,368 $2,483 $2,717 $2,957 $240 8.83
+1000.0000.2130.53000.030 Purchased Professional $244 $92 $295 $300 $300 $0 0.00
+1000.0000.2130.54310.030 Repairs & Maintenance $0 $0 $66 $135 $135 $0 0.00
+1000.0000.2130.56000.030 Supplies $288 $303 $288 $340 $420 $80 23.53
+1000.0000.2130.58100.030 Dues & Fees $0 $0 $130 $180 $180 $0 0.00
+Program: OVERHEAD - 0000 $88,480 $128,932 $80,733 $86,601 $93,969 $7,368 8.51
+Function: HEALTH SERVICES - 2130 $88,480 $128,932 $80,733 $86,601 $93,969 $7,368 8.51
+1000.0000.2213.51500.030 Stipends-Acad Leadership $5,496 $6,357 $4,678 $5,989 $5,989 $0 0.00
+and LCC
+1000.0000.2213.52000.030 Stipend Benefits - PES $492 $449 $399 $201 $201 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 51 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2213.52300.030 Stipend Retirement - PES $423 $284 $209 $268 $268 $0 0.00
+1000.0000.2213.52510.030 Tuition Reimbursement $0 $2,526 $0 $0 $0 $0 0.00
+1000.0000.2213.53000.030 Purchased Professional $0 $1,091 $0 $0 $0 $0 0.00
+Services
+Program: OVERHEAD - 0000 $6,411 $10,707 $5,285 $6,458 $6,458 $0 0.00
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $6,411 $10,707 $5,285 $6,458 $6,458 $0 0.00
+1000.0000.2220.51010.030 Librarian Salaries $33,016 $36,266 $34,903 $38,952 $42,283 $3,331 8.55
+1000.0000.2220.51020.030 Ed Tech Salaries $0 $0 $0 $1,200 $0 ($1,200) (100.00)
+1000.0000.2220.52010.030 Librarian Benefits $13,612 $12,770 $9,003 $12,840 $13,797 $957 7.45
+1000.0000.2220.52020.030 Ed Tech Benefits $0 $0 $0 $40 $0 ($40) (100.00)
+1000.0000.2220.52310.030 Retirement $1,300 $1,621 $1,560 $1,741 $1,890 $149 8.56
+1000.0000.2220.52320.030 Retirement $0 $0 $0 $54 $0 ($54) (100.00)
+1000.0000.2220.54330.030 Software $1,043 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56100.030 Instructional Supplies $221 $249 $323 $350 $210 ($140) (40.00)
+1000.0000.2220.56400.030 Books & Periodicals $2,226 $2,648 $2,757 $2,837 $2,605 ($232) (8.18)
+Program: OVERHEAD - 0000 $51,419 $54,829 $49,865 $59,514 $62,285 $2,771 4.66
+Function: LIBRARY SERVICES - 2220 $51,419 $54,829 $49,865 $59,514 $62,285 $2,771 4.66
+1000.0000.2230.51010.030 Teacher Salaries $375 $0 $0 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 52 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2230.52010.030 Teacher Benefits $8 $0 $0 $0 $0 $0 0.00
+1000.0000.2230.52310.030 Retirement $14 $0 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $397 $0 $0 $0 $0 $0 0.00
+Function: INSTRUCTION RELATED TECHNOLOGY - $397 $0 $0 $0 $0 $0 0.00
+2230
+Cost Center: POWNAL ELEMENTARY - 030 $185,432 $240,072 $185,011 $206,379 $219,819 $13,440 6.51
+1000.0000.2110.51010.040 Social Worker Salaries $0 $22,514 $24,669 $25,385 $26,781 $1,396 5.50
+1000.0000.2110.52010.040 Social Worker Benefits $0 $3,628 $4,572 $5,719 $6,106 $387 6.77
+1000.0000.2110.52310.040 Social Worker Retirement $0 $1,006 $1,099 $1,135 $1,197 $62 5.46
+Program: OVERHEAD - 0000 $0 $27,148 $30,340 $32,239 $34,084 $1,845 5.72
+Function: Attendance & Social Work - 2110 $0 $27,148 $30,340 $32,239 $34,084 $1,845 5.72
+1000.0000.2120.51010.040 Guidance Salaries $99,930 $82,534 $92,372 $95,040 $101,060 $6,020 6.33
+1000.0000.2120.52010.040 Benefits $9,251 $5,794 $3,090 $7,149 $7,357 $208 2.91
+1000.0000.2120.52310.040 Retirement $3,831 $3,697 $3,958 $4,248 $4,517 $269 6.33
+1000.0000.2120.53000.040 Purchased Professional $226 $67 $300 $300 $300 $0 0.00
+1000.0000.2120.54330.040 Software $333 $333 $275 $334 $500 $166 49.70
+1000.0000.2120.56100.040 Instructional Supplies $19 $167 $339 $1,100 $1,100 $0 0.00
+1000.0000.2120.56400.040 Guidance Books & $0 $0 $99 $100 $100 $0 0.00
+Periodicals
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 53 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Program: OVERHEAD - 0000 $113,591 $92,592 $100,433 $108,271 $114,934 $6,663 6.15
+Function: COUNSELING - 2120 $113,591 $92,592 $100,433 $108,271 $114,934 $6,663 6.15
+1000.0000.2130.51010.040 Nurse Salary $54,950 $48,102 $68,454 $75,401 $82,985 $7,584 10.06
+1000.0000.2130.51200.040 Nurse Substitute - MLS $9,923 $13,201 $2,212 $0 $0 $0 0.00
+1000.0000.2130.52000.040 Employee Benefits $652 $931 $179 $0 $0 $0 0.00
+1000.0000.2130.52010.040 Nurse Benefits $4,940 $4,769 $5,603 $5,935 $6,180 $245 4.13
+1000.0000.2130.52300.040 Retirement - Stipends $21 $82 $12 $0 $0 $0 0.00
+1000.0000.2130.52310.040 Retirement $2,110 $2,171 $3,048 $3,370 $3,709 $339 10.06
+1000.0000.2130.53000.040 Purchased Professional $184 $245 $0 $300 $300 $0 0.00
+1000.0000.2130.54310.040 Repairs & Maintenance $145 $0 $0 $135 $135 $0 0.00
+1000.0000.2130.56000.040 Supplies $623 $435 $647 $959 $1,056 $97 10.11
+1000.0000.2130.58100.040 Dues & Fees $0 $0 $150 $180 $180 $0 0.00
+Program: OVERHEAD - 0000 $73,548 $69,937 $80,304 $86,280 $94,545 $8,265 9.58
+Function: HEALTH SERVICES - 2130 $73,548 $69,937 $80,304 $86,280 $94,545 $8,265 9.58
+1000.0000.2213.51500.040 Stipends-Acad Leadership $16,110 $22,025 $22,742 $14,601 $14,601 $0 0.00
+and LCC
+1000.0000.2213.52000.040 Stipend Benefits - MLS $2,732 $2,883 $3,757 $491 $491 $0 0.00
+1000.0000.2213.52300.040 Stipend Retirement - MLS $619 $1,007 $1,016 $653 $653 $0 0.00
+Program: OVERHEAD - 0000 $19,461 $25,915 $27,514 $15,745 $15,745 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 54 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $19,461 $25,915 $27,514 $15,745 $15,745 $0 0.00
+1000.0000.2220.51010.040 Librarian Salary $62,924 $67,015 $73,495 $80,158 $86,947 $6,789 8.47
+1000.0000.2220.52010.040 Librarian Benefits $1,267 $1,362 $13,183 $6,089 $6,308 $219 3.60
+1000.0000.2220.52310.040 Retirement $2,319 $3,001 $3,273 $3,583 $3,887 $304 8.48
+1000.0000.2220.54330.040 Software $1,043 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56100.040 Instructional Supplies $94 $347 $337 $350 $350 $0 0.00
+1000.0000.2220.56400.040 Books $7,578 $5,611 $5,732 $5,754 $5,544 ($210) (3.65)
+Program: OVERHEAD - 0000 $75,225 $78,611 $97,339 $97,434 $104,536 $7,102 7.29
+Function: LIBRARY SERVICES - 2220 $75,225 $78,611 $97,339 $97,434 $104,536 $7,102 7.29
+Cost Center: MAST LANDING - 040 $281,825 $294,202 $335,930 $339,969 $363,844 $23,875 7.02
+1000.0000.2110.51010.050 Social Worker Salaries $0 $42,285 $47,575 $51,075 $53,884 $2,809 5.50
+1000.0000.2110.52010.050 Social Worker Benefits $0 $986 $1,466 $3,400 $3,490 $90 2.65
+1000.0000.2110.52310.050 Social Worker Retirement $0 $2,181 $2,438 $2,283 $2,409 $126 5.52
+Program: OVERHEAD - 0000 $0 $45,451 $51,478 $56,758 $59,783 $3,025 5.33
+Function: Attendance & Social Work - 2110 $0 $45,451 $51,478 $56,758 $59,783 $3,025 5.33
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 55 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2120.51010.050 Guidance Salaries $98,349 $84,853 $90,369 $95,791 $101,060 $5,269 5.50
+1000.0000.2120.52010.050 Benefits $18,673 $19,156 $24,454 $28,178 $30,221 $2,043 7.25
+1000.0000.2120.52310.050 Retirement $3,771 $3,793 $4,024 $4,282 $4,517 $235 5.49
+1000.0000.2120.53000.050 Purchased Professional $227 $281 $0 $300 $300 $0 0.00
+1000.0000.2120.54330.050 Software $333 $333 $275 $334 $334 $0 0.00
+1000.0000.2120.56100.050 Instructional Supplies $793 $706 $338 $1,100 $1,100 $0 0.00
+1000.0000.2120.57300.050 Equipment $426 $726 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $122,571 $109,848 $119,461 $129,985 $137,532 $7,547 5.81
+Function: COUNSELING - 2120 $122,571 $109,848 $119,461 $129,985 $137,532 $7,547 5.81
+1000.0000.2130.51010.050 Nurse Salary $72,465 $75,001 $85,006 $91,021 $97,392 $6,371 7.00
+1000.0000.2130.51200.050 Nurse Substitute - FMS $2,245 $2,800 $4,944 $0 $0 $0 0.00
+1000.0000.2130.52000.050 Employee Benefits $81 $204 $400 $0 $0 $0 0.00
+1000.0000.2130.52010.050 Nurse Benefits $5,306 $5,303 $6,037 $6,440 $6,646 $206 3.20
+1000.0000.2130.52300.050 Retirement - Stipends $49 $13 $0 $0 $0 $0 0.00
+1000.0000.2130.52310.050 Retirement $2,783 $3,352 $3,785 $4,069 $4,353 $284 6.98
+1000.0000.2130.53000.050 Purchased Professional $277 $260 $114 $300 $300 $0 0.00
+1000.0000.2130.56000.050 Supplies $737 $841 $807 $994 $1,224 $230 23.14
+1000.0000.2130.58100.050 Dues & Fees $0 $0 $150 $180 $180 $0 0.00
+Program: OVERHEAD - 0000 $83,942 $87,775 $101,243 $103,004 $110,095 $7,091 6.88
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 56 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: HEALTH SERVICES - 2130 $83,942 $87,775 $101,243 $103,004 $110,095 $7,091 6.88
+1000.0000.2213.51500.050 Stipends-Acad Leadership $28,530 $30,534 $26,916 $28,103 $28,103 $0 0.00
+and LCC
+1000.0000.2213.52000.050 Stipend Benefits - FMS $4,630 $5,053 $4,874 $944 $944 $0 0.00
+1000.0000.2213.52300.050 Stipend Retirement - FMS $1,096 $1,365 $1,202 $1,256 $1,256 $0 0.00
+1000.0000.2213.52510.050 Tuition $0 $0 $925 $0 $0 $0 0.00
+Reimbursement-Teacher
+Program: OVERHEAD - 0000 $34,256 $36,951 $33,917 $30,303 $30,303 $0 0.00
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $34,256 $36,951 $33,917 $30,303 $30,303 $0 0.00
+1000.0000.2220.51010.050 Librarian Salaries $75,696 $79,381 $85,819 $91,684 $104,810 $13,126 14.32
+1000.0000.2220.51020.050 Ed Tech Salaries $9,170 $503 $0 $0 $0 $0 0.00
+1000.0000.2220.52010.050 Librarian Benefits $17,522 $18,380 $31,938 $28,045 $30,342 $2,297 8.19
+1000.0000.2220.52020.050 Ed Tech Benefits $780 $8 $0 $0 $0 $0 0.00
+1000.0000.2220.52310.050 Retirement $2,907 $3,548 $3,822 $4,098 $4,685 $587 14.32
+1000.0000.2220.52320.050 Retirement $116 $22 $0 $0 $0 $0 0.00
+1000.0000.2220.54330.050 Software $1,043 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56000.050 Supplies $497 $0 $0 $0 $0 $0 0.00
+1000.0000.2220.56100.050 Instructional Supplies $0 $465 $496 $500 $500 $0 0.00
+1000.0000.2220.56400.050 Books $5,833 $5,886 $6,362 $5,964 $5,964 $0 0.00
+Program: OVERHEAD - 0000 $113,563 $109,469 $129,755 $131,791 $147,801 $16,010 12.15
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 57 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: LIBRARY SERVICES - 2220 $113,563 $109,469 $129,755 $131,791 $147,801 $16,010 12.15
+1000.0000.2230.51010.050 Teacher Salary $14,512 $0 $0 $0 $0 $0 0.00
+1000.0000.2230.51500.050 Stipends $1,272 $1,272 $1,336 $4,458 $4,458 $0 0.00
+1000.0000.2230.52000.050 Stipend Benefits $363 $214 $241 $150 $150 $0 0.00
+1000.0000.2230.52010.050 Teacher Benefits $293 $0 $0 $0 $0 $0 0.00
+1000.0000.2230.52300.050 Retirement $49 $57 $60 $199 $199 $0 0.00
+1000.0000.2230.52310.050 Retirement $557 $0 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $17,046 $1,542 $1,637 $4,807 $4,807 $0 0.00
+Function: INSTRUCTION RELATED TECHNOLOGY - $17,046 $1,542 $1,637 $4,807 $4,807 $0 0.00
+2230
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $371,379 $391,037 $437,491 $456,648 $490,321 $33,673 7.37
+1000.0000.2110.51010.300 Teachers Salaries $12,613 $84,853 $77,905 $84,967 $86,947 $1,980 2.33
+1000.0000.2110.51500.300 Student Support Team $6,660 $6,510 $6,830 $0 $0 $0 0.00
+(SST) Stipends
+1000.0000.2110.52000.300 Student Support Team $773 $977 $1,194 $0 $0 $0 0.00
+(SST) Stipend Benefits
+1000.0000.2110.52010.300 Teacher Benefits $1,845 $19,930 $24,732 $27,828 $29,765 $1,937 6.96
+1000.0000.2110.52300.300 Student Support Team $256 $295 $312 $0 $0 $0 0.00
+(SST) Stipend Retirement
+1000.0000.2110.52310.300 Retirement $2,362 $3,793 $3,469 $3,798 $3,887 $89 2.34
+Program: OVERHEAD - 0000 $24,510 $116,359 $114,442 $116,593 $120,599 $4,006 3.44
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 58 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: Attendance & Social Work - 2110 $24,510 $116,359 $114,442 $116,593 $120,599 $4,006 3.44
+1000.0000.2120.51010.300 Counselor Salaries $258,255 $226,304 $249,287 $264,579 $285,278 $20,699 7.82
+1000.0000.2120.51180.300 Guidance Support Wages $36,717 $65,449 $65,411 $69,921 $64,517 ($5,404) (7.73)
+1000.0000.2120.52010.300 Counselor Benefits $67,665 $53,660 $66,776 $101,077 $108,676 $7,599 7.52
+1000.0000.2120.52080.300 Support Benefits $9,650 $16,827 $18,412 $31,267 $35,268 $4,001 12.80
+1000.0000.2120.52310.300 Retirement $9,847 $10,197 $11,103 $11,827 $12,752 $925 7.82
+1000.0000.2120.52380.300 Retirement $0 $0 $0 $3,496 $3,484 ($12) (0.34)
+1000.0000.2120.53000.300 Purchased Professional $13,458 $14,883 $10,961 $24,602 $17,686 ($6,916) (28.11)
+1000.0000.2120.54330.300 Software $333 $333 $275 $334 $500 $166 49.70
+1000.0000.2120.55810.300 Travel $200 $348 $852 $900 $1,200 $300 33.33
+1000.0000.2120.56100.300 Instructional Supplies $543 $850 $575 $1,750 $1,750 $0 0.00
+1000.0000.2120.58100.300 Dues & Fees $0 $0 $0 $510 $510 $0 0.00
+Program: OVERHEAD - 0000 $396,669 $388,851 $423,652 $510,263 $531,621 $21,358 4.19
+Function: COUNSELING - 2120 $396,669 $388,851 $423,652 $510,263 $531,621 $21,358 4.19
+1000.0000.2130.51010.300 Nurse Salary $70,172 $73,228 $84,059 $91,021 $97,392 $6,371 7.00
+1000.0000.2130.51200.300 Nurse Substitute - FHS $0 $973 $4,814 $0 $0 $0 0.00
+1000.0000.2130.52000.300 Employee Benefits $0 $41 $431 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 59 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2130.52010.300 Nurses Benefits $18,608 $19,696 $24,891 $28,024 $30,103 $2,079 7.42
+1000.0000.2130.52310.300 Retirement $2,695 $3,273 $3,743 $4,069 $4,353 $284 6.98
+1000.0000.2130.53000.300 Purchased Professional $0 $245 $40 $300 $300 $0 0.00
+1000.0000.2130.55800.300 Travel $0 $0 $34 $0 $0 $0 0.00
+1000.0000.2130.56000.300 Supplies $1,553 $1,181 $1,861 $2,058 $2,216 $158 7.68
+1000.0000.2130.58100.300 Dues & Fees $0 $0 $150 $180 $180 $0 0.00
+Program: OVERHEAD - 0000 $93,028 $98,637 $120,023 $125,652 $134,544 $8,892 7.08
+Function: HEALTH SERVICES - 2130 $93,028 $98,637 $120,023 $125,652 $134,544 $8,892 7.08
+1000.0000.2213.51010.300 9-12 HONORARIUM $8,000 $5,913 $9,223 $1,989 $2,128 $139 6.99
+1000.0000.2213.51230.300 Substitute Salaries $390 $0 $0 $0 $0 $0 0.00
+1000.0000.2213.51500.300 Stipends-Acad Leadership $32,517 $33,489 $27,546 $20,530 $20,530 $0 0.00
+and LCC
+1000.0000.2213.52000.300 Stipend Benefits - FHS $4,766 $5,147 $4,977 $690 $690 $0 0.00
+1000.0000.2213.52010.300 9-12 HONORARIUM $1,245 $1,158 $1,623 $67 $213 $146 217.91
+BENEFITS
+1000.0000.2213.52030.300 Substitute Benefit $32 $0 $0 $0 $0 $0 0.00
+1000.0000.2213.52300.300 Stipend Retirement - FHS $1,249 $1,497 $1,230 $918 $918 $0 0.00
+1000.0000.2213.52310.300 9-12 HONORARIUM $306 $264 $421 $89 $95 $6 6.74
+RETIREMENT
+1000.0000.2213.52510.300 Tuition $19,635 $17,445 $11,455 $20,000 $20,000 $0 0.00
+Reimbursement-Teacher
+1000.0000.2213.52520.300 Tuition $0 $0 $0 $1,500 $1,500 $0 0.00
+Reimbursement-Support
+1000.0000.2213.53000.300 Purchased Professional $16,178 $14,680 $28,432 $35,400 $35,400 $0 0.00
+Services
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 60 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2213.55000.300 Other Purchased Services $0 $0 $150 $1,000 $0 ($1,000) (100.00)
+1000.0000.2213.55810.300 Travel $730 $0 $123 $1,000 $0 ($1,000) (100.00)
+Program: OVERHEAD - 0000 $85,048 $79,593 $85,179 $83,183 $81,474 ($1,709) (2.05)
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $85,048 $79,593 $85,179 $83,183 $81,474 ($1,709) (2.05)
+1000.0000.2220.51010.300 Librarian Salary $81,341 $85,303 $90,369 $95,791 $101,060 $5,269 5.50
+1000.0000.2220.51020.300 Ed Tech Salaries $15,250 $24,958 $3,082 $31,142 $0 ($31,142) (100.00)
+1000.0000.2220.52010.300 Librarian Benefits $11,262 $10,830 $12,104 $14,060 $15,032 $972 6.91
+1000.0000.2220.52020.300 Ed Tech Benefits $1,496 $7,909 $3,272 $11,972 $0 ($11,972) (100.00)
+1000.0000.2220.52310.300 Retirement $3,123 $3,813 $4,024 $4,282 $4,517 $235 5.49
+1000.0000.2220.52320.300 Retirement $142 $1,037 $138 $1,392 $0 ($1,392) (100.00)
+1000.0000.2220.54330.300 Software $1,129 $1,275 $1,319 $1,500 $1,500 $0 0.00
+1000.0000.2220.56000.300 Supplies $1,231 $0 $18 $0 $0 $0 0.00
+1000.0000.2220.56100.300 Instructional Supplies $0 $1,341 $1,262 $990 $1,490 $500 50.51
+1000.0000.2220.56400.300 Books $11,337 $12,640 $13,359 $14,147 $12,933 ($1,214) (8.58)
+Program: OVERHEAD - 0000 $126,311 $149,107 $128,947 $175,276 $136,532 ($38,744) (22.10)
+Function: LIBRARY SERVICES - 2220 $126,311 $149,107 $128,947 $175,276 $136,532 ($38,744) (22.10)
+1000.0000.2230.51010.300 Teacher Salaries $795 $0 $0 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 61 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2230.52010.300 Teacher Benefits $107 $0 $0 $0 $0 $0 0.00
+1000.0000.2230.52310.300 Retirement $31 $0 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $932 $0 $0 $0 $0 $0 0.00
+Function: INSTRUCTION RELATED TECHNOLOGY - $932 $0 $0 $0 $0 $0 0.00
+2230
+1000.0000.2290.51060.300 Outreach Coordinator $60,612 $62,786 $65,907 $69,822 $36,831 ($32,991) (47.25)
+Salary
+1000.0000.2290.52060.300 Outreach Coordinator $21,296 $22,259 $26,947 $37,828 $20,228 ($17,600) (46.53)
+Benefits
+Program: OVERHEAD - 0000 $81,908 $85,045 $92,854 $107,650 $57,059 ($50,591) (47.00)
+Function: OTH SUPPORT SVCS - STAFF - 2290 $81,908 $85,045 $92,854 $107,650 $57,059 ($50,591) (47.00)
+Cost Center: FREEPORT HIGH SCHOOL - 300 $808,405 $917,592 $965,096 $1,118,617 $1,061,829 ($56,788) (5.08)
+1000.0000.2130.51500.900 Doctor-Consulting $0 $0 $0 $1,500 $1,500 $0 0.00
+Physician-Stipend
+1000.0000.2130.56000.900 Supplies - District Wide $0 $2,172 $10,924 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $0 $2,172 $10,924 $1,500 $1,500 $0 0.00
+Function: HEALTH SERVICES - 2130 $0 $2,172 $10,924 $1,500 $1,500 $0 0.00
+1000.0000.2210.51040.900 Curriculum Director Salary $79,651 $84,000 $99,434 $93,492 $98,635 $5,143 5.50
+1000.0000.2210.52040.900 Curriculum Director Benefits $12,691 $13,463 $14,983 $20,058 $24,477 $4,419 22.03
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 62 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2210.52340.900 Retirement $3,059 $3,755 $4,458 $4,179 $4,409 $230 5.50
+1000.0000.2210.53000.900 Purchased Professional $62 $4,250 $861 $5,000 $5,000 $0 0.00
+1000.0000.2210.55810.900 Travel $0 $31 $0 $700 $700 $0 0.00
+1000.0000.2210.56400.900 Curriculum Materials $50,000 $43,562 $51,751 $47,300 $56,500 $9,200 19.45
+1000.0000.2210.58100.900 Dues & Fees $1,784 $185 $655 $505 $505 $0 0.00
+Program: OVERHEAD - 0000 $147,248 $149,246 $172,143 $171,234 $190,226 $18,992 11.09
+Function: IMPROVEMENT OF INSTRUCTION - 2210 $147,248 $149,246 $172,143 $171,234 $190,226 $18,992 11.09
+1000.0000.2230.51040.900 Technology Director Salary $101,800 $112,000 $117,600 $124,656 $131,513 $6,857 5.50
+1000.0000.2230.51180.900 Support Wages $285,350 $258,261 $359,999 $367,877 $400,305 $32,428 8.81
+1000.0000.2230.52040.900 Benefits $20,783 $25,656 $27,972 $35,691 $40,441 $4,750 13.31
+1000.0000.2230.52080.900 Benefits $93,687 $68,654 $92,984 $126,948 $136,299 $9,351 7.37
+1000.0000.2230.52340.900 Retirement $10,254 $11,424 $11,642 $12,341 $13,020 $679 5.50
+1000.0000.2230.52380.900 Retirement $8,010 $8,331 $13,574 $22,250 $24,083 $1,833 8.24
+1000.0000.2230.53000.900 Purchased Professional $4,800 $4,751 $5,573 $7,012 $9,012 $2,000 28.52
+1000.0000.2230.54320.900 Tech Repairs/Maintenance $0 $5,250 $3,442 $6,000 $6,000 $0 0.00
+1000.0000.2230.54330.900 Software $553 $2,787 $0 $0 $0 $0 0.00
+1000.0000.2230.55000.900 Other Purchased Services $28,619 $41,371 $104,775 $116,131 $190,478 $74,347 64.02
+1000.0000.2230.55200.900 Insurance (P&C) $15,658 $16,303 $16,584 $16,500 $16,500 $0 0.00
+1000.0000.2230.55800.900 Travel $1,370 $1,962 $1,591 $4,000 $6,000 $2,000 50.00
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 63 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2230.56500.900 Computer Materials $9,488 $13,170 $31,048 $345,710 $354,121 $8,411 2.43
+1000.0000.2230.57340.900 EQUIPMENT $154,467 $311,801 $362,417 $0 $0 $0 0.00
+1000.0000.2230.58100.900 Dues and Fees $120 $170 $220 $270 $270 $0 0.00
+Program: OVERHEAD - 0000 $734,959 $881,893 $1,149,423 $1,185,386 $1,328,042 $142,656 12.03
+Function: INSTRUCTION RELATED TECHNOLOGY - $734,959 $881,893 $1,149,423 $1,185,386 $1,328,042 $142,656 12.03
+2230
+1000.0000.2240.53000.900 Purchased Professional - $3,750 $3,750 $0 $7,475 $3,900 ($3,575) (47.83)
+Assessment
+Program: OVERHEAD - 0000 $3,750 $3,750 $0 $7,475 $3,900 ($3,575) (47.83)
+Function: ACADEMIC STUDENT ASSESSMENT - 2240 $3,750 $3,750 $0 $7,475 $3,900 ($3,575) (47.83)
+Cost Center: SYSTEM WIDE - 900 $885,957 $1,037,060 $1,332,490 $1,365,595 $1,523,668 $158,073 11.58
+1000.0000.2213.51010.950 K-8 HONORARIUM $4,449 $8,083 $8,003 $4,733 $5,065 $332 7.01
+1000.0000.2213.51500.950 New Educator Mentors K-8 $13,470 $13,043 $6,980 $31,593 $31,593 $0 0.00
+1000.0000.2213.52000.950 Stipend Benefits - K-8 $1,696 $2,195 $891 $1,601 $1,601 $0 0.00
+1000.0000.2213.52010.950 K-8 HONORARIUM $79 $2,016 $2,261 $159 $507 $348 218.87
+BENEFITS
+1000.0000.2213.52300.950 Stipend Retirement - K-8 $517 $583 $312 $2,129 $2,129 $0 0.00
+1000.0000.2213.52310.950 K-8 HONORARIUM $31 $299 $194 $212 $226 $14 6.60
+RETIREMENT
+1000.0000.2213.52510.950 Tuition Reimbursement-Prof $76,856 $112,405 $140,802 $112,000 $141,000 $29,000 25.89
+1000.0000.2213.52520.950 Tuition $2,786 $0 $0 $1,500 $1,500 $0 0.00
+Reimbursement-Support
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 64 of 89
+
+RSU No. 5
+FY27 Article 5 Student and Staff Support- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2213.53000.950 K-8 Purchased Professional $46,072 $33,926 $47,042 $63,300 $63,800 $500 0.79
+1000.0000.2213.55810.950 Travel $0 $738 $981 $250 $250 $0 0.00
+1000.0000.2213.56000.950 Supplies $0 $0 $0 $350 $350 $0 0.00
+1000.0000.2213.56400.950 Books $1,400 $641 $1,218 $1,400 $1,400 $0 0.00
+Program: OVERHEAD - 0000 $147,357 $173,928 $208,681 $219,227 $249,421 $30,194 13.77
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $147,357 $173,928 $208,681 $219,227 $249,421 $30,194 13.77
+Cost Center: K-8 - 950 $147,357 $173,928 $208,681 $219,227 $249,421 $30,194 13.77
+1000.0000.2213.51500.990 New Educator Mentors 9-12 $0 $0 $0 $16,032 $16,032 $0 0.00
+Program: OVERHEAD - 0000 $0 $0 $0 $16,032 $16,032 $0 0.00
+Function: INSTRUCTIONAL STAFF TRAINING - 2213 $0 $0 $0 $16,032 $16,032 $0 0.00
+Cost Center: 9-12 - 990 $0 $0 $0 $16,032 $16,032 $0 0.00
+Grand Total: $3,389,184 $3,899,395 $4,308,020 $4,644,307 $4,906,366 $262,059 5.64
+End of Report
+Printed: 01/26/2026 9:48:19 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 65 of 89
+
+RSU No. 5
+FY27 Article 6 System Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2310.51500.900 Stipends $5,625 $4,900 $5,150 $7,150 $7,150 $0 0.00
+1000.0000.2310.52000.900 Board Stipend Benefits $453 $387 $442 $674 $675 $1 0.15
+1000.0000.2310.53400.900 Professional Services $14,501 $84,228 $110,560 $92,970 $90,185 ($2,785) (3.00)
+1000.0000.2310.55200.900 Insurance $43,477 $34,562 $43,316 $47,555 $47,555 $0 0.00
+1000.0000.2310.55800.900 Committee Travel $0 $0 $0 $150 $150 $0 0.00
+1000.0000.2310.56000.900 Supplies $453 $835 $1,428 $850 $960 $110 12.94
+1000.0000.2310.58100.900 Dues & Fees $6,396 $6,860 $7,203 $7,592 $7,592 $0 0.00
+Program: OVERHEAD - 0000 $70,904 $131,772 $168,099 $156,941 $154,267 ($2,674) (1.70)
+Function: BOARD OF DIRECTORS - 2310 $70,904 $131,772 $168,099 $156,941 $154,267 ($2,674) (1.70)
+1000.0000.2314.53100.900 Election Costs $0 $5,481 $4,884 $7,525 $6,600 ($925) (12.29)
+Program: OVERHEAD - 0000 $0 $5,481 $4,884 $7,525 $6,600 ($925) (12.29)
+Function: ELECTION COSTS - 2314 $0 $5,481 $4,884 $7,525 $6,600 ($925) (12.29)
+1000.0000.2320.51040.900 Superintendent's Salary $210,809 $219,280 $238,427 $244,059 $256,185 $12,126 4.97
+1000.0000.2320.51180.900 Support Wages $75,772 $78,424 $82,345 $87,286 $92,087 $4,801 5.50
+1000.0000.2320.52040.900 Superintendent Benefits $32,959 $32,994 $38,639 $61,007 $57,544 ($3,463) (5.68)
+Printed: 01/26/2026 9:48:29 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 66 of 89
+
+RSU No. 5
+FY27 Article 6 System Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2320.52080.900 Support Benefits $24,389 $25,853 $27,545 $39,910 $42,551 $2,641 6.62
+1000.0000.2320.52340.900 Retirement $18,071 $21,232 $22,066 $10,909 $14,451 $3,542 32.47
+1000.0000.2320.52380.900 Retirement $7,577 $7,842 $8,234 $0 $9,252 $9,252 0.00
+1000.0000.2320.53300.900 Employee Training & $0 $3,179 $3,383 $3,050 $3,560 $510 16.72
+Development
+1000.0000.2320.53400.900 Professional Services $87,527 $89,359 $56,021 $72,995 $74,545 $1,550 2.12
+1000.0000.2320.54330.900 Software Repairs & $67,555 $2,571 $9,311 $10,000 $10,000 $0 0.00
+Maintenance
+1000.0000.2320.55310.900 Postage $9,089 $5,514 $7,206 $7,200 $7,700 $500 6.94
+1000.0000.2320.55400.900 Advertising $1,854 $1,309 $857 $1,500 $1,500 $0 0.00
+1000.0000.2320.55800.900 Travel $2,105 $3,300 $2,412 $2,600 $2,900 $300 11.54
+1000.0000.2320.56000.900 Supplies $12,436 $13,549 $11,425 $15,400 $15,400 $0 0.00
+1000.0000.2320.56400.900 Books $0 $0 $0 $100 $0 ($100) (100.00)
+1000.0000.2320.57340.900 Technology Equipment $0 $1,000 $777 $0 $0 $0 0.00
+1000.0000.2320.58100.900 Dues and Fees $11,563 $7,238 $6,736 $7,648 $7,748 $100 1.31
+1000.0000.2320.59000.900 Aspirations / Miscellaneous $6,108 $2,000 $607 $8,600 $8,600 $0 0.00
+Program: OVERHEAD - 0000 $567,816 $514,644 $515,991 $572,264 $604,023 $31,759 5.55
+Function: EXECUTIVE ADMINISTRATION - 2320 $567,816 $514,644 $515,991 $572,264 $604,023 $31,759 5.55
+1000.0000.2500.51040.900 Administrator Salary $114,630 $124,691 $143,925 $151,925 $160,282 $8,357 5.50
+1000.0000.2500.51180.900 Salaries $174,869 $189,421 $215,418 $217,944 $200,547 ($17,397) (7.98)
+1000.0000.2500.52040.900 Admin Benefits $19,360 $30,927 $32,933 $46,070 $54,169 $8,099 17.58
+Printed: 01/26/2026 9:48:29 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 67 of 89
+
+RSU No. 5
+FY27 Article 6 System Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2500.52080.900 Benefits $43,124 $38,499 $38,545 $46,202 $39,841 ($6,361) (13.77)
+1000.0000.2500.52340.900 Retirement $5,441 $12,409 $7,166 $0 $8,014 $8,014 0.00
+1000.0000.2500.52380.900 Retirement $8,135 $7,607 $8,959 $10,897 $10,027 ($870) (7.98)
+1000.0000.2500.53300.900 Training & Development $595 $1,878 $2,326 $5,400 $5,400 $0 0.00
+Services
+1000.0000.2500.53400.900 Purchased Professional $0 $0 $37,973 $40,900 $56,950 $16,050 39.24
+1000.0000.2500.55800.900 Travel $456 $395 $1,866 $1,500 $1,750 $250 16.67
+1000.0000.2500.55810.900 Travel $17 $0 $0 $0 $0 $0 0.00
+1000.0000.2500.56000.900 Supplies $0 $3,983 $2,268 $4,075 $4,340 $265 6.50
+1000.0000.2500.58100.900 Dues and Fees $4,942 $2,053 $6,094 $1,944 $1,798 ($146) (7.51)
+Program: OVERHEAD - 0000 $371,569 $411,862 $497,473 $526,857 $543,118 $16,261 3.09
+Function: CENTRAL SERVICES - 2500 $371,569 $411,862 $497,473 $526,857 $543,118 $16,261 3.09
+Cost Center: SYSTEM WIDE - 900 $1,010,289 $1,063,760 $1,186,446 $1,263,587 $1,308,008 $44,421 3.52
+Grand Total: $1,010,289 $1,063,760 $1,186,446 $1,263,587 $1,308,008 $44,421 3.52
+End of Report
+Printed: 01/26/2026 9:48:29 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 68 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2400.51040.010 Admin Salary $230,806 $243,767 $272,254 $270,646 $285,533 $14,887 5.50
+1000.0000.2400.51180.010 Support Wages $82,988 $91,863 $103,386 $100,527 $101,329 $802 0.80
+1000.0000.2400.52040.010 Admin Benefits $51,313 $40,022 $52,377 $62,446 $69,251 $6,805 10.90
+1000.0000.2400.52080.010 Support Benefits $23,255 $21,746 $22,061 $25,368 $35,116 $9,748 38.43
+1000.0000.2400.52340.010 Retirement $8,817 $10,487 $12,143 $12,098 $12,764 $666 5.51
+1000.0000.2400.52380.010 Retirement $0 $0 $2,268 $5,026 $5,472 $446 8.87
+1000.0000.2400.53400.010 Other Professional Services $0 $0 $0 $240 $240 $0 0.00
+1000.0000.2400.55310.010 Postage $1,754 $1,841 $2,047 $2,250 $2,250 $0 0.00
+1000.0000.2400.55800.010 Travel $409 $344 $270 $520 $520 $0 0.00
+1000.0000.2400.56000.010 Supplies $1,029 $1,193 $1,149 $1,200 $1,200 $0 0.00
+1000.0000.2400.56400.010 Books $50 $131 $135 $150 $150 $0 0.00
+1000.0000.2400.58100.010 Dues & Fees $421 $872 $1,158 $1,368 $1,368 $0 0.00
+Program: OVERHEAD - 0000 $400,842 $412,265 $469,247 $481,839 $515,193 $33,354 6.92
+Function: SCHOOL ADMINISTRATION - 2400 $400,842 $412,265 $469,247 $481,839 $515,193 $33,354 6.92
+Cost Center: DURHAM COMMUNITY - 010 $400,842 $412,265 $469,247 $481,839 $515,193 $33,354 6.92
+1000.0000.2400.51040.020 Admin Salary $117,628 $212,509 $229,266 $243,393 $256,782 $13,389 5.50
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 69 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2400.51180.020 Support Wages $53,660 $57,038 $61,665 $65,097 $66,413 $1,316 2.02
+1000.0000.2400.52040.020 Admin Benefits $7,588 $33,585 $45,103 $48,221 $53,689 $5,468 11.34
+1000.0000.2400.52080.020 Support Benefits $11,881 $12,582 $13,739 $19,723 $26,347 $6,624 33.59
+1000.0000.2400.52340.020 Retirement $4,548 $9,193 $10,248 $10,880 $11,478 $598 5.50
+1000.0000.2400.52380.020 Retirement $1,958 $2,156 $2,394 $3,255 $3,586 $331 10.17
+1000.0000.2400.53400.020 Other Professional Services $0 $0 $0 $240 $240 $0 0.00
+1000.0000.2400.55310.020 Postage $718 $956 $814 $1,000 $700 ($300) (30.00)
+1000.0000.2400.55800.020 Travel $0 $0 $0 $300 $300 $0 0.00
+1000.0000.2400.56000.020 Supplies $419 $387 $335 $500 $500 $0 0.00
+1000.0000.2400.58100.020 Dues & Fees $340 $340 $680 $1,150 $1,150 $0 0.00
+Program: OVERHEAD - 0000 $198,738 $328,746 $364,244 $393,759 $421,185 $27,426 6.97
+Function: SCHOOL ADMINISTRATION - 2400 $198,738 $328,746 $364,244 $393,759 $421,185 $27,426 6.97
+Cost Center: MORSE STREET - 020 $198,738 $328,746 $364,244 $393,759 $421,185 $27,426 6.97
+1000.0000.2400.51040.030 Admin Salary $118,228 $124,109 $130,284 $137,465 $145,027 $7,562 5.50
+1000.0000.2400.51180.030 Support Wages $38,519 $6,812 $58,089 $51,619 $48,708 ($2,911) (5.64)
+1000.0000.2400.52040.030 Admin Benefits $34,212 $22,097 $24,501 $31,295 $35,702 $4,407 14.08
+1000.0000.2400.52080.030 Support Benefits $3,338 $904 $11,537 $12,633 $17,364 $4,731 37.45
+1000.0000.2400.52340.030 Retirement $4,517 $5,521 $5,797 $6,145 $6,483 $338 5.50
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 70 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2400.52380.030 Retirement $8 $64 $2,488 $2,581 $2,630 $49 1.90
+1000.0000.2400.53400.030 Other Professional Services $0 $0 $0 $240 $240 $0 0.00
+1000.0000.2400.55310.030 Postage $301 $228 $116 $400 $300 ($100) (25.00)
+1000.0000.2400.55800.030 Travel $533 $761 $349 $450 $450 $0 0.00
+1000.0000.2400.56000.030 Supplies $237 $29 $240 $300 $300 $0 0.00
+1000.0000.2400.56400.030 Admin Books $0 $273 $456 $500 $500 $0 0.00
+1000.0000.2400.58100.030 Dues & Fees $539 $259 $259 $275 $275 $0 0.00
+Program: OVERHEAD - 0000 $200,432 $161,057 $234,115 $243,903 $257,979 $14,076 5.77
+Function: SCHOOL ADMINISTRATION - 2400 $200,432 $161,057 $234,115 $243,903 $257,979 $14,076 5.77
+Cost Center: POWNAL ELEMENTARY - 030 $200,432 $161,057 $234,115 $243,903 $257,979 $14,076 5.77
+1000.0000.2400.51040.040 Admin Salaries $120,627 $0 $229,266 $243,393 $256,782 $13,389 5.50
+1000.0000.2400.51180.040 Support Wages $49,082 $54,618 $60,295 $63,202 $64,020 $818 1.29
+1000.0000.2400.52040.040 Admin Benefits $19,357 $892 $16,698 $30,440 $34,589 $4,149 13.63
+1000.0000.2400.52080.040 Support Benefits $12,861 $15,564 $15,204 $20,426 $26,910 $6,484 31.74
+1000.0000.2400.52340.040 Retirement $4,602 $0 $10,248 $10,880 $11,478 $598 5.50
+1000.0000.2400.52380.040 Retirement $1,838 $2,057 $2,372 $3,160 $3,457 $297 9.40
+1000.0000.2400.53400.040 Other Professional Services $0 $0 $0 $240 $240 $0 0.00
+1000.0000.2400.55310.040 Postage $1,820 $1,160 $1,492 $1,400 $1,400 $0 0.00
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 71 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2400.55800.040 Travel $23 $101 $50 $300 $300 $0 0.00
+1000.0000.2400.56000.040 Supplies $250 $190 $16 $250 $250 $0 0.00
+1000.0000.2400.56400.040 Admin Books $0 $0 $97 $100 $100 $0 0.00
+1000.0000.2400.58100.040 Dues & Fees $340 $340 $680 $1,278 $680 ($598) (46.79)
+Program: OVERHEAD - 0000 $210,799 $74,922 $336,419 $375,069 $400,206 $25,137 6.70
+Function: SCHOOL ADMINISTRATION - 2400 $210,799 $74,922 $336,419 $375,069 $400,206 $25,137 6.70
+Cost Center: MAST LANDING - 040 $210,799 $74,922 $336,419 $375,069 $400,206 $25,137 6.70
+1000.0000.2400.51040.050 Admin Salaries $216,646 $242,007 $205,885 $252,681 $266,580 $13,899 5.50
+1000.0000.2400.51180.050 Support Wages $76,650 $119,082 $80,199 $87,484 $70,888 ($16,596) (18.97)
+1000.0000.2400.52040.050 Admin Benefits $40,577 $40,205 $52,358 $69,374 $79,643 $10,269 14.80
+1000.0000.2400.52080.050 Support Benefits $23,273 $26,734 $16,314 $23,294 $23,259 ($35) (0.15)
+1000.0000.2400.52340.050 Retirement $8,273 $10,764 $9,186 $11,295 $11,916 $621 5.50
+1000.0000.2400.52380.050 Retirement $3,794 $4,609 $2,330 $4,374 $3,802 ($572) (13.08)
+1000.0000.2400.53400.050 Other Professional Services $0 $0 $0 $240 $240 $0 0.00
+1000.0000.2400.55310.050 Postage $2,115 $1,947 $1,345 $2,020 $2,020 $0 0.00
+1000.0000.2400.55800.050 Travel $390 $438 $246 $810 $810 $0 0.00
+1000.0000.2400.56000.050 Supplies $494 $503 $417 $500 $500 $0 0.00
+1000.0000.2400.58100.050 Dues & Fees $340 $928 $2,918 $2,900 $2,900 $0 0.00
+Program: OVERHEAD - 0000 $372,553 $447,217 $371,198 $454,972 $462,558 $7,586 1.67
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 72 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: SCHOOL ADMINISTRATION - 2400 $372,553 $447,217 $371,198 $454,972 $462,558 $7,586 1.67
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $372,553 $447,217 $371,198 $454,972 $462,558 $7,586 1.67
+1000.0000.2400.51040.300 Admin Salaries $239,736 $378,416 $270,140 $280,677 $280,371 ($306) (0.11)
+1000.0000.2400.51180.300 Support Wages $125,864 $120,073 $133,379 $127,508 $127,818 $310 0.24
+1000.0000.2400.52040.300 Admin Benefits $50,057 $64,614 $57,554 $72,443 $74,858 $2,415 3.33
+1000.0000.2400.52080.300 Support Benefits $41,607 $35,735 $33,906 $51,654 $65,440 $13,786 26.69
+1000.0000.2400.52340.300 Retirement $9,183 $16,774 $11,836 $12,546 $13,236 $690 5.50
+1000.0000.2400.52380.300 Retirement $2,474 $2,572 $370 $6,375 $6,052 ($323) (5.07)
+1000.0000.2400.53400.300 Admin Purchased $0 $400 $0 $1,044 $1,059 $15 1.44
+Professional
+1000.0000.2400.55310.300 Postage $3,497 $4,171 $720 $3,784 $3,284 ($500) (13.21)
+1000.0000.2400.55800.300 Travel $476 $742 $1,110 $1,250 $1,250 $0 0.00
+1000.0000.2400.56000.300 Supplies $1,407 $1,593 $1,370 $400 $400 $0 0.00
+1000.0000.2400.56400.300 Admin Books $0 $0 $0 $300 $300 $0 0.00
+1000.0000.2400.58100.300 Dues and Fees $6,693 $6,626 $6,654 $6,962 $6,835 ($127) (1.82)
+Program: OVERHEAD - 0000 $480,993 $631,716 $517,039 $564,943 $580,903 $15,960 2.83
+Function: SCHOOL ADMINISTRATION - 2400 $480,993 $631,716 $517,039 $564,943 $580,903 $15,960 2.83
+Cost Center: FREEPORT HIGH SCHOOL - 300 $480,993 $631,716 $517,039 $564,943 $580,903 $15,960 2.83
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 73 of 89
+
+RSU No. 5
+FY27 Article 7 School Administration- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Grand Total: $1,864,357 $2,055,923 $2,292,262 $2,514,485 $2,638,024 $123,539 4.91
+End of Report
+Printed: 01/26/2026 9:48:36 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 74 of 89
+
+RSU No. 5
+FY27 Article 8 Transportation & Buses- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2700.51020.900 Ed Tech Salaries $6,890 $6,396 $0 $0 $0 $0 0.00
+1000.0000.2700.51040.900 Administrator Salary $126,603 $78,000 $121,198 $92,024 $105,680 $13,656 14.84
+1000.0000.2700.51060.900 Transportation Office $0 $0 $0 $0 $40,109 $40,109 0.00
+Clerical Support Salary
+1000.0000.2700.51180.900 Bus Drivers Salaries $482,704 $482,613 $476,792 $529,229 $609,326 $80,097 15.13
+1000.0000.2700.51200.900 Substitute Salaries $97,242 $76,595 $147,021 $77,112 $77,112 $0 0.00
+1000.0000.2700.52000.900 Sub Bus Driver Benefits $22,101 $14,379 $23,294 $11,983 $19,111 $7,128 59.48
+1000.0000.2700.52020.900 Ed Tech Benefits $2,127 $1,698 $0 $0 $0 $0 0.00
+1000.0000.2700.52040.900 Administrator Benefits $32,279 $21,334 $22,868 $20,362 $32,898 $12,536 61.57
+1000.0000.2700.52060.900 Transportation Office $0 $0 $0 $0 $9,707 $9,707 0.00
+Clerical Support Benefits
+1000.0000.2700.52080.900 Bus Driver Benefits $165,981 $156,816 $198,128 $244,463 $342,167 $97,704 39.97
+1000.0000.2700.52300.900 Retirement $826 $145 $515 $0 $0 $0 0.00
+1000.0000.2700.52320.900 Retirement $740 $786 $0 $0 $0 $0 0.00
+1000.0000.2700.52340.900 Retirement $2,233 $0 $0 $0 $5,284 $5,284 0.00
+1000.0000.2700.52360.900 Transportation Office $0 $0 $0 $0 $2,005 $2,005 0.00
+Clerical Retirement
+1000.0000.2700.52380.900 Retirement $8,301 $6,232 $2,741 $26,463 $32,904 $6,441 24.34
+1000.0000.2700.53000.900 Purchased Professional $12,784 $4,009 $9,644 $13,932 $13,665 ($267) (1.92)
+1000.0000.2700.53300.900 Employee Training $0 $0 $2,307 $2,100 $2,800 $700 33.33
+1000.0000.2700.53400.900 Contracted Services $0 $4,237 $11,876 $7,700 $6,100 ($1,600) (20.78)
+Printed: 01/26/2026 9:48:43 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 75 of 89
+
+RSU No. 5
+FY27 Article 8 Transportation & Buses- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2700.54300.900 Purchased Repair/Maint $127,244 $164,682 $216,652 $180,200 $259,200 $79,000 43.84
+1000.0000.2700.54450.900 Bus Garage Lease $12,500 $13,000 $13,500 $13,000 $13,000 $0 0.00
+1000.0000.2700.55200.900 Insurance $25,198 $28,998 $29,062 $31,968 $31,968 $0 0.00
+1000.0000.2700.55320.900 Telephone $0 $870 $982 $3,000 $3,984 $984 32.80
+1000.0000.2700.55800.900 Travel $0 $204 $639 $500 $2,000 $1,500 300.00
+1000.0000.2700.56220.900 Electricity $0 $158 $0 $0 $0 $0 0.00
+1000.0000.2700.56260.900 Fleet Fuel $166,813 $138,458 $141,293 $175,200 $189,000 $13,800 7.88
+1000.0000.2700.56700.900 Supplies $33,654 $73,840 $32,063 $80,530 $71,930 ($8,600) (10.68)
+1000.0000.2700.58100.900 Dues and Fees $4,576 $3,836 $525 $350 $400 $50 14.29
+1000.0000.2700.58310.900 Principal-Bus Lease $74,096 $88,555 $136,167 $228,649 $309,872 $81,223 35.52
+Purchase
+Program: OVERHEAD - 0000 $1,404,891 $1,365,840 $1,587,267 $1,738,765 $2,180,222 $441,457 25.39
+Function: TRANSPORTATION - 2700 $1,404,891 $1,365,840 $1,587,267 $1,738,765 $2,180,222 $441,457 25.39
+1000.0000.2750.51020.900 Ed Tech Salaries $740 $11 $1,053 $18,760 $18,760 $0 0.00
+1000.0000.2750.51180.900 Support Wages $66,640 $72,047 $99,035 $147,392 $147,392 $0 0.00
+1000.0000.2750.52020.900 Ed Tech Benefits $422 $6 $242 $2,915 $4,649 $1,734 59.49
+1000.0000.2750.52080.900 Support Benefits $10,131 $11,912 $15,900 $22,905 $36,528 $13,623 59.48
+1000.0000.2750.52320.900 Retirement $159 $1 $47 $839 $906 $67 7.99
+1000.0000.2750.52380.900 Retirement $28 $185 $73 $0 $0 $0 0.00
+1000.0000.2750.55100.900 OOD PURCHASED $0 $95,154 $0 $0 $0 $0 0.00
+TRANSPORTATION
+Printed: 01/26/2026 9:48:43 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 76 of 89
+
+RSU No. 5
+FY27 Article 8 Transportation & Buses- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Program: OVERHEAD - 0000 $78,122 $179,315 $116,351 $192,811 $208,235 $15,424 8.00
+Function: TRANSPORTATION SPECIAL ED - 2750 $78,122 $179,315 $116,351 $192,811 $208,235 $15,424 8.00
+1000.0000.2770.55100.900 HOMELESS PURCHASED $0 $44,142 $19,459 $0 $0 $0 0.00
+TRANSPORTATION
+Program: OVERHEAD - 0000 $0 $44,142 $19,459 $0 $0 $0 0.00
+Function: TRANSPORTATION HOMELESS - 2770 $0 $44,142 $19,459 $0 $0 $0 0.00
+Cost Center: SYSTEM WIDE - 900 $1,483,013 $1,589,297 $1,723,078 $1,931,576 $2,388,457 $456,881 23.65
+Grand Total: $1,483,013 $1,589,297 $1,723,078 $1,931,576 $2,388,457 $456,881 23.65
+End of Report
+Printed: 01/26/2026 9:48:43 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 77 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.010 Salaries $194,423 $196,251 $201,010 $208,967 $210,241 $1,274 0.61
+1000.0000.2600.52080.010 Custodian Benefits $53,127 $52,481 $41,597 $57,506 $78,332 $20,826 36.22
+1000.0000.2600.52380.010 Retirement $1,677 $1,716 $1,415 $10,448 $11,353 $905 8.66
+1000.0000.2600.53000.010 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.010 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54300.010 Purchased Repairs/Maint $96,341 $128,554 $129,488 $117,387 $96,459 ($20,928) (17.83)
+1000.0000.2600.55200.010 Insurance $32,679 $20,520 $43,509 $47,860 $47,860 $0 0.00
+1000.0000.2600.55320.010 Telephone $9,217 $10,135 $11,222 $9,494 $11,559 $2,065 21.75
+1000.0000.2600.55800.010 Travel $0 $46 $0 $15 $15 $0 0.00
+1000.0000.2600.56000.010 Supplies $31,416 $22,762 $19,794 $29,600 $31,483 $1,883 6.36
+1000.0000.2600.56011.010 Materials for Repair $2,322 $6,592 $6,362 $10,100 $10,100 $0 0.00
+1000.0000.2600.56013.010 Major Maintenance $4,980 $2,355 $26,047 $16,705 $13,820 ($2,885) (17.27)
+1000.0000.2600.56220.010 Electricity - Durham $86,520 $87,261 $79,413 $144,000 $144,000 $0 0.00
+1000.0000.2600.56240.010 Heating Fuel $17,413 $20,105 $27,893 $13,000 $28,500 $15,500 119.23
+Program: OVERHEAD - 0000 $530,116 $548,778 $587,751 $665,325 $683,965 $18,640 2.80
+Function: OPERATION OF PLANT - 2600 $530,116 $548,778 $587,751 $665,325 $683,965 $18,640 2.80
+Cost Center: DURHAM COMMUNITY - 010 $530,116 $548,778 $587,751 $665,325 $683,965 $18,640 2.80
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 78 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.020 Custodial Salaries $144,127 $170,157 $172,513 $257,246 $214,884 ($42,362) (16.47)
+1000.0000.2600.52080.020 Custodian Benefits $43,175 $100,139 $72,299 $122,678 $125,451 $2,773 2.26
+1000.0000.2600.52380.020 Retirement $911 $2,641 $1,338 $12,862 $11,604 ($1,258) (9.78)
+1000.0000.2600.53000.020 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.020 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54100.020 Water/Sewage $18,958 $20,892 $34,343 $19,512 $19,512 $0 0.00
+1000.0000.2600.54300.020 Purchased Repairs/Maint $39,257 $66,441 $63,790 $46,239 $54,090 $7,851 16.98
+1000.0000.2600.55200.020 Insurance $15,318 $20,520 $19,987 $21,986 $21,986 $0 0.00
+1000.0000.2600.55320.020 Telephone $4,646 $5,654 $9,384 $4,785 $9,666 $4,881 102.01
+1000.0000.2600.55800.020 Travel $0 $44 $99 $15 $15 $0 0.00
+1000.0000.2600.56000.020 Supplies $28,630 $24,140 $12,063 $24,750 $26,034 $1,284 5.19
+1000.0000.2600.56011.020 Materials for Repair $4,715 $827 $2,923 $6,400 $6,400 $0 0.00
+1000.0000.2600.56013.020 Major Maintenance $6,121 $2,340 $18,892 $4,706 $29,255 $24,549 521.65
+1000.0000.2600.56220.020 Electricity $21,453 $21,991 $36,149 $10,000 $10,000 $0 0.00
+1000.0000.2600.56240.020 Heating Fuel $44,780 $27,978 $39,023 $41,000 $40,500 ($500) (1.22)
+Program: OVERHEAD - 0000 $372,089 $463,763 $482,803 $572,422 $569,640 ($2,782) (0.49)
+Function: OPERATION OF PLANT - 2600 $372,089 $463,763 $482,803 $572,422 $569,640 ($2,782) (0.49)
+Cost Center: MORSE STREET - 020 $372,089 $463,763 $482,803 $572,422 $569,640 ($2,782) (0.49)
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 79 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.030 Custodial Salaries $65,224 $97,053 $82,113 $100,353 $100,729 $376 0.37
+1000.0000.2600.52080.030 Custodian Benefits $11,523 $21,268 $15,220 $26,752 $36,655 $9,903 37.02
+1000.0000.2600.52380.030 Retirement $0 $0 $0 $5,018 $5,439 $421 8.39
+1000.0000.2600.53000.030 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.030 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54300.030 Purchased Repairs/Maint $34,487 $52,591 $62,695 $37,764 $40,389 $2,625 6.95
+1000.0000.2600.55200.030 Insurance $9,191 $20,520 $12,750 $14,025 $14,025 $0 0.00
+1000.0000.2600.55320.030 Telephone $2,968 $4,082 $6,347 $3,057 $6,537 $3,480 113.84
+1000.0000.2600.55800.030 Travel $0 $38 $0 $15 $15 $0 0.00
+1000.0000.2600.56000.030 Supplies $18,226 $12,284 $6,713 $12,925 $13,652 $727 5.62
+1000.0000.2600.56011.030 Materials for Repair $3,265 $2,065 $429 $6,700 $6,700 $0 0.00
+1000.0000.2600.56013.030 Major Maintenance $0 $15,303 $0 $0 $0 $0 0.00
+1000.0000.2600.56050.030 Furniture & Equipment - $2,321 $0 $0 $0 $0 $0 0.00
+Non Instructional PES
+1000.0000.2600.56220.030 Electricity $11,965 $12,057 $16,163 $8,000 $8,000 $0 0.00
+1000.0000.2600.56240.030 Heating Fuel $26,369 $27,016 $19,449 $28,000 $21,000 ($7,000) (25.00)
+Program: OVERHEAD - 0000 $185,540 $264,277 $221,879 $242,852 $253,384 $10,532 4.34
+Function: OPERATION OF PLANT - 2600 $185,540 $264,277 $221,879 $242,852 $253,384 $10,532 4.34
+Cost Center: POWNAL ELEMENTARY - 030 $185,540 $264,277 $221,879 $242,852 $253,384 $10,532 4.34
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 80 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.040 Custodian Salaries $130,630 $114,677 $109,637 $146,409 $174,158 $27,749 18.95
+1000.0000.2600.52080.040 Custodian Benefits $58,149 $96,672 $43,090 $84,153 $121,717 $37,564 44.64
+1000.0000.2600.52380.040 Retirement $7,045 $5,574 $5,554 $7,320 $9,405 $2,085 28.48
+1000.0000.2600.53000.040 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.040 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54100.040 Water/Sewage $9,758 $9,658 $12,916 $10,958 $10,958 $0 0.00
+1000.0000.2600.54300.040 Purchased Repairs/Maint $46,562 $83,999 $66,641 $53,057 $57,824 $4,767 8.98
+1000.0000.2600.55200.040 Insurance $15,318 $20,520 $19,987 $21,986 $21,986 $0 0.00
+1000.0000.2600.55320.040 Telephone $4,211 $4,314 $4,533 $4,337 $4,669 $332 7.66
+1000.0000.2600.55800.040 Travel $0 $153 $84 $15 $15 $0 0.00
+1000.0000.2600.56000.040 Supplies $22,366 $23,655 $15,085 $22,700 $23,898 $1,198 5.28
+1000.0000.2600.56011.040 Material Repair $5,282 $2,859 $1,804 $6,500 $6,500 $0 0.00
+1000.0000.2600.56013.040 Major Maintenance $4,752 $14,004 $24,486 $5,930 $17,500 $11,570 195.11
+1000.0000.2600.56220.040 Electricity $24,325 $25,830 $37,249 $10,000 $10,000 $0 0.00
+1000.0000.2600.56240.040 Heating Fuel $34,062 $27,809 $21,087 $39,000 $23,500 ($15,500) (39.74)
+Program: OVERHEAD - 0000 $362,461 $429,724 $362,154 $412,608 $482,373 $69,765 16.91
+Function: OPERATION OF PLANT - 2600 $362,461 $429,724 $362,154 $412,608 $482,373 $69,765 16.91
+Cost Center: MAST LANDING - 040 $362,461 $429,724 $362,154 $412,608 $482,373 $69,765 16.91
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 81 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.050 Custodian Salaries $159,608 $218,450 $175,400 $245,456 $246,731 $1,275 0.52
+1000.0000.2600.52080.050 Custodian Benefits $60,532 $141,293 $56,453 $106,699 $134,482 $27,783 26.04
+1000.0000.2600.52380.050 Retirement $3,107 $2,624 $2,910 $12,273 $13,323 $1,050 8.56
+1000.0000.2600.53000.050 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.050 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54100.050 Water/Sewage $12,552 $11,489 $13,482 $13,167 $13,167 $0 0.00
+1000.0000.2600.54300.050 Purchased Repair $61,692 $81,042 $52,320 $57,081 $67,118 $10,037 17.58
+1000.0000.2600.55200.050 Insurance $14,297 $20,520 $18,897 $20,787 $20,787 $0 0.00
+1000.0000.2600.55320.050 Telephone $8,916 $10,915 $9,124 $9,183 $9,398 $215 2.34
+1000.0000.2600.55800.050 Travel $0 $46 $36 $15 $15 $0 0.00
+1000.0000.2600.56000.050 Supplies $25,762 $25,078 $14,746 $22,525 $23,766 $1,241 5.51
+1000.0000.2600.56011.050 Materials for Repair $4,259 $1,946 $4,168 $6,950 $6,950 $0 0.00
+1000.0000.2600.56013.050 Major Maintenance $118 $4,602 $35,315 $24,329 $24,800 $471 1.94
+1000.0000.2600.56050.050 Furniture & Equipment - $1,514 $0 $0 $0 $0 $0 0.00
+Non Instructional FMS
+1000.0000.2600.56220.050 Electricity $25,925 $26,124 $31,114 $14,000 $14,000 $0 0.00
+1000.0000.2600.56240.050 Heating Fuel $47,859 $53,610 $65,792 $50,000 $67,000 $17,000 34.00
+Program: OVERHEAD - 0000 $426,141 $597,740 $479,756 $582,708 $641,780 $59,072 10.14
+Function: OPERATION OF PLANT - 2600 $426,141 $597,740 $479,756 $582,708 $641,780 $59,072 10.14
+Cost Center: FREEPORT MIDDLE SCHOOL - 050 $426,141 $597,740 $479,756 $582,708 $641,780 $59,072 10.14
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 82 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.51180.300 Custodian Salaries $197,634 $184,712 $157,316 $253,639 $245,727 ($7,912) (3.12)
+1000.0000.2600.51200.300 Salaries of Temporary $5,578 $2,663 $57,981 $37,212 $74,424 $37,212 100.00
+Employees
+1000.0000.2600.52000.300 Employee Benefits $670 $0 $6,079 $5,782 $18,445 $12,663 219.01
+1000.0000.2600.52080.300 Custodian Benefits $66,695 $65,674 $40,820 $109,434 $134,810 $25,376 23.19
+1000.0000.2600.52380.300 Retirement $2,768 $1,951 $0 $12,682 $13,269 $587 4.63
+1000.0000.2600.53000.300 Purchased Professional $0 $0 $0 $118 $118 $0 0.00
+1000.0000.2600.53300.300 Employee Training $0 $0 $0 $125 $125 $0 0.00
+1000.0000.2600.54100.300 Water/Sewage $28,693 $17,334 $15,338 $28,960 $28,960 $0 0.00
+1000.0000.2600.54300.300 Purchased Repair $67,516 $112,988 $104,629 $93,376 $106,897 $13,521 14.48
+1000.0000.2600.55200.300 Insurance $15,318 $20,520 $21,796 $23,976 $23,976 $0 0.00
+1000.0000.2600.55320.300 Telephone $10,071 $8,985 $11,645 $10,373 $11,994 $1,621 15.63
+1000.0000.2600.55800.300 Travel $0 $0 $0 $15 $15 $0 0.00
+1000.0000.2600.56000.300 Supplies $46,921 $31,003 $28,594 $37,200 $39,254 $2,054 5.52
+1000.0000.2600.56011.300 Materials for Repair $8,634 $2,303 $998 $6,168 $7,600 $1,432 23.22
+1000.0000.2600.56013.300 Major Maintenance $2,355 $10,381 $0 $25,045 $40,495 $15,450 61.69
+1000.0000.2600.56220.300 Electricity $46,100 $48,384 $74,550 $42,000 $42,000 $0 0.00
+1000.0000.2600.56240.300 Heating Fuel $97,169 $77,846 $80,732 $91,000 $82,000 ($9,000) (9.89)
+Program: OVERHEAD - 0000 $596,124 $584,742 $600,478 $777,105 $870,109 $93,004 11.97
+Function: OPERATION OF PLANT - 2600 $596,124 $584,742 $600,478 $777,105 $870,109 $93,004 11.97
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410 :
+rptGLGenBudgetRptUsingDefinition
+Page 83 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2680.58310.300 Principal-High School $900,000 $680,000 $680,000 $680,000 $680,000 $0 0.00
+Renovation
+1000.0000.2680.58320.300 Interest-High School $327,425 $289,000 $255,000 $221,000 $195,500 ($25,500) (11.54)
+Renovation
+Program: OVERHEAD - 0000 $1,227,425 $969,000 $935,000 $901,000 $875,500 ($25,500) (2.83)
+Function: CAPITAL ENHANCEMENT & IMPROVEMENT - $1,227,425 $969,000 $935,000 $901,000 $875,500 ($25,500) (2.83)
+2680
+Cost Center: FREEPORT HIGH SCHOOL - 300 $1,823,549 $1,553,742 $1,535,478 $1,678,105 $1,745,609 $67,504 4.02
+1000.0000.2600.54300.900 Purchaed Repairs $5,273 $2,005 $1,230 $0 $0 $0 0.00
+1000.0000.2600.55800.900 Travel $137 $0 $138 $0 $0 $0 0.00
+1000.0000.2600.56000.900 Supplies $4,993 $887 $167 $0 $0 $0 0.00
+1000.0000.2600.56011.900 Materials for Repair $338 $904 $0 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $10,741 $3,795 $1,535 $0 $0 $0 0.00
+Function: OPERATION OF PLANT - 2600 $10,741 $3,795 $1,535 $0 $0 $0 0.00
+1000.0000.2620.51040.900 Administrator Salary $2,284 $90,460 $94,500 $100,170 $105,680 $5,510 5.50
+1000.0000.2620.51180.900 Salaries $286,472 $209,839 $236,640 $366,326 $318,456 ($47,870) (13.07)
+1000.0000.2620.51200.900 Other Wages $0 $0 $2,552 $0 $0 $0 0.00
+1000.0000.2620.52000.900 Maintenance Benefits $0 $73,923 $0 $0 $0 $0 0.00
+1000.0000.2620.52040.900 Administrator Benefits $483 $15,734 $17,719 $26,151 $32,898 $6,747 25.80
+1000.0000.2620.52080.900 Benefits $84,981 $64,101 $70,859 $145,542 $138,749 ($6,793) (4.67)
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 84 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2620.52340.900 Administrator Retirement $0 $3,462 $4,725 $0 $5,284 $5,284 0.00
+1000.0000.2620.52380.900 Retirement $10,892 $8,333 $8,508 $18,316 $17,197 ($1,119) (6.11)
+1000.0000.2620.53000.900 Purchased Professional ($3,060) $632 $3,356 $5,396 $6,066 $670 12.42
+1000.0000.2620.53300.900 Training & Development $0 $175 $0 $350 $350 $0 0.00
+1000.0000.2620.54300.900 Purchased Repair $32,400 $39,697 $35,624 $40,431 $44,666 $4,235 10.47
+1000.0000.2620.55800.900 Travel $2,622 $3,403 $2,567 $3,382 $3,382 $0 0.00
+1000.0000.2620.56000.900 Supplies $46,268 $37,609 $41,229 $62,341 $60,841 ($1,500) (2.41)
+1000.0000.2620.56260.900 Fleet Fuel $0 $0 $0 $11,342 $11,342 $0 0.00
+1000.0000.2620.57300.900 Equipment $8,945 $1,193 $54,691 $0 $0 $0 0.00
+1000.0000.2620.58100.900 Dues & Fees $170 $0 $225 $350 $350 $0 0.00
+Program: OVERHEAD - 0000 $472,456 $548,562 $573,193 $780,097 $745,261 ($34,836) (4.47)
+Function: MAINTENANCE OF BUILDINGS - 2620 $472,456 $548,562 $573,193 $780,097 $745,261 ($34,836) (4.47)
+1000.0000.2650.54300.900 Repair & Maintenance $0 $0 $0 $11,100 $12,000 $900 8.11
+Services
+1000.0000.2650.54449.900 Lease Purchase of $0 $0 $0 $33,600 $70,886 $37,286 110.97
+Non-Instructional
+Program: OVERHEAD - 0000 $0 $0 $0 $44,700 $82,886 $38,186 85.43
+Function: Vehicle Operation & Maint (non Student $0 $0 $0 $44,700 $82,886 $38,186 85.43
+Transport) - 2650
+1000.0000.2670.55900.900 Crossing Guards $4,165 $4,403 $4,528 $0 $0 $0 0.00
+Program: OVERHEAD - 0000 $4,165 $4,403 $4,528 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410 :
+rptGLGenBudgetRptUsingDefinition
+Page 85 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: Safety - 2670 $4,165 $4,403 $4,528 $0 $0 $0 0.00
+1000.0000.2680.54449.900 Lease Purchase of $0 $0 $0 $0 $254,455 $254,455 0.00
+Non-Instructional
+Program: OVERHEAD - 0000 $0 $0 $0 $0 $254,455 $254,455 0.00
+Function: CAPITAL ENHANCEMENT & IMPROVEMENT - $0 $0 $0 $0 $254,455 $254,455 0.00
+2680
+1000.0000.2690.54300.900 Capital Renewal/Track $35,000 $0 $0 $0 $0 $0 0.00
+Replacement
+1000.0000.2690.54500.900 Capital Renewal/Tennis $40,000 $0 $0 $0 $0 $0 0.00
+Courts Replacement
+1000.0000.2690.58310.900 Capital Improvements $329,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Program: OVERHEAD - 0000 $404,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Function: CAPITAL RENEWAL & RENOVATION - 2690 $404,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Cost Center: SYSTEM WIDE - 900 $891,500 $920,897 $1,051,486 $1,305,797 $1,564,602 $258,805 19.82
+1000.0000.2600.51180.941 Support Salary $2,750 $2,037 $0 $0 $0 $0 0.00
+1000.0000.2600.52080.941 Support Benefits $907 $735 $0 $0 $0 $0 0.00
+1000.0000.2600.52380.941 Custodian Retirement $38 $92 $0 $0 $0 $0 0.00
+1000.0000.2600.53300.941 Employee Training $0 $1,175 $0 $0 $0 $0 0.00
+1000.0000.2600.54100.941 Water/Sewage $1,271 $1,284 $1,311 $1,271 $1,271 $0 0.00
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 86 of 89

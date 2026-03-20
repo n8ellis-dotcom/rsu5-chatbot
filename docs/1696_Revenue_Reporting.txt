@@ -1,0 +1,215 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/d8bc20ea-ac4d-4a3e-9080-75792879522e
+SECTION: /budget/financial-statements
+TITLE: Revenue Reporting
+TYPE: Finalsite-PDF
+============================================================
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1000.0000.0000.41110.000 Durham Local Additional ($2,520,904.00) $0.00 ($2,520,904.00) $0.00 ($1,199,263.44) ($1,321,640.56) $0.00 ($1,321,640.56) 52.43%
+1000.0000.0000.41111.000 DURHAM REQUIRED LOCAL ($3,274,273.67) $0.00 ($3,274,273.67) $0.00 ($1,637,136.84) ($1,637,136.83) $0.00 ($1,637,136.83) 50.00%
+1000.0000.0000.41112.000 FREEPORT REQUIRED LOCAL ($13,777,482.83) $0.00 ($13,777,482.83) ($1,148,123.57) ($8,036,864.99) ($5,740,617.84) $0.00 ($5,740,617.84) 41.67%
+1000.0000.0000.41113.000 POWNAL REQUIRED LOCAL ($2,002,597.17) $0.00 ($2,002,597.17) ($166,883.10) ($1,001,298.60) ($1,001,298.57) $0.00 ($1,001,298.57) 50.00%
+1000.0000.0000.41115.000 FREEPORT LOCAL ADDITIONAL ($7,388,179.81) $0.00 ($7,388,179.81) ($615,681.64) ($4,321,821.91) ($3,066,357.90) $0.00 ($3,066,357.90) 41.50%
+1000.0000.0000.41116.000 POWNAL LOCAL ADDITIONAL ($1,410,898.24) $0.00 ($1,410,898.24) ($117,574.85) ($705,449.10) ($705,449.14) $0.00 ($705,449.14) 50.00%
+1000.0000.0000.41215.000 Additional Shared Revenue ($149,911.00) $0.00 ($149,911.00) $0.00 ($61,188.54) ($88,722.46) $0.00 ($88,722.46) 59.18%
+1000.0000.0000.41510.000 Interest Revenue ($100,000.00) $0.00 ($100,000.00) ($12.82) ($216,820.93) $116,820.93 $0.00 $116,820.93 -116.82%
+1000.0000.0000.41900.000 Local Revenues $0.00 $0.00 $0.00 $0.00 ($11,954.86) $11,954.86 $0.00 $11,954.86 0.00%
+1000.0000.0000.41991.000 MSMA DIVIDENDS/REFUNDS $0.00 $0.00 $0.00 $0.00 ($2,544.00) $2,544.00 $0.00 $2,544.00 0.00%
+1000.0000.0000.43111.000 STATE SUBSIDY ($7,359,322.28) $0.00 ($7,359,322.28) ($544,753.30) ($5,180,261.63) ($2,179,060.65) $0.00 ($2,179,060.65) 29.61%
+1000.0000.0000.43121.000 State Agency Revenue ($35,000.00) $0.00 ($35,000.00) ($6,251.72) ($9,263.56) ($25,736.44) $0.00 ($25,736.44) 73.53%
+1000.0000.0000.43127.000 Child Development Services ($50,000.00) $0.00 ($50,000.00) ($17,757.15) ($17,757.15) ($32,242.85) $0.00 ($32,242.85) 64.49%
+1000.0000.0000.45000.000 FUND BALANCE FORWARD ($900,000.00) $0.00 ($900,000.00) $0.00 $0.00 ($900,000.00) $0.00 ($900,000.00) 100.00%
+Fund: GENERAL FUND - 1000 ($38,968,569.00) $0.00 ($38,968,569.00) ($2,617,038.15) ($22,401,625.55) ($16,566,943.45) $0.00 ($16,566,943.45) 42.51%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 1
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+1500.0000.0000.41114.400 RSU5 AE Local Contribution ($112,000.00) $0.00 ($112,000.00) ($7,334.14) ($62,158.18) ($49,841.82) $0.00 ($49,841.82) 44.50%
+1500.0000.0000.43240.400 Adult Ed State Revenue ($35,000.00) $0.00 ($35,000.00) $0.00 ($44,063.16) $9,063.16 $0.00 $9,063.16 -25.89%
+1500.0000.0000.45209.400 TRANSFER IN FROM ($104,284.00) $0.00 ($104,284.00) $0.00 $0.00 ($104,284.00) $0.00 ($104,284.00) 100.00%
+COMMUNITY EDUCATION
+Fund: ADULT EDUCATION - 1500 ($251,284.00) $0.00 ($251,284.00) ($7,334.14) ($106,221.34) ($145,062.66) $0.00 ($145,062.66) 57.73%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 2
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2010.0000.0000.41920.000 MLTI DEVICE PROTECTION PLAN $0.00 $0.00 $0.00 ($263.26) ($27,408.86) $27,408.86 $0.00 $27,408.86 0.00%
+- REVENUE
+Fund: TECHNOLOGY - MLTI DEVICE PROTECTION PLAN - 2010 $0.00 $0.00 $0.00 ($263.26) ($27,408.86) $27,408.86 $0.00 $27,408.86 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 3
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2150.0000.0000.41900.000 Aspirations Revenue $0.00 $0.00 $0.00 ($0.11) ($0.69) $0.69 $0.00 $0.69 0.00%
+Fund: STUDENT ASPIRATIONS - 2150 $0.00 $0.00 $0.00 ($0.11) ($0.69) $0.69 $0.00 $0.69 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 4
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2170.0000.0000.41920.000 PAC - Revenue $0.00 $0.00 $0.00 ($3,881.00) ($7,311.00) $7,311.00 $0.00 $7,311.00 0.00%
+Fund: PERFORMING ARTS CENTER - 2170 $0.00 $0.00 $0.00 ($3,881.00) ($7,311.00) $7,311.00 $0.00 $7,311.00 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 5
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2237.0000.0000.43262.000 MLTI 1:1 Grant Revenue $0.00 $0.00 $0.00 $0.00 ($95,970.00) $95,970.00 $0.00 $95,970.00 0.00%
+Fund: MLTI 1:1 Grant - 2237 $0.00 $0.00 $0.00 $0.00 ($95,970.00) $95,970.00 $0.00 $95,970.00 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 6
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2300.0000.0000.44517.000 Title I Revenue $0.00 $0.00 $0.00 ($63,071.52) ($136,469.85) $136,469.85 $0.00 $136,469.85 0.00%
+Fund: TITLE 1A - 2300 $0.00 $0.00 $0.00 ($63,071.52) ($136,469.85) $136,469.85 $0.00 $136,469.85 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 7
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2615.0000.0000.44531.000 ESSERF/ARP Revenue $0.00 $0.00 $0.00 ($8,999.09) ($46,493.79) $46,493.79 $0.00 $46,493.79 0.00%
+Fund: ESSERF 3 - 2615 $0.00 $0.00 $0.00 ($8,999.09) ($46,493.79) $46,493.79 $0.00 $46,493.79 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 8
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2617.0000.0000.44531.000 LMSTech DOE grant-Amplified IT $0.00 $0.00 $0.00 $0.00 ($9,500.00) $9,500.00 $0.00 $9,500.00 0.00%
+GClassroom
+Fund: LMS Technology Grant - DOE-Amplified IT GClassroom - 2617 $0.00 $0.00 $0.00 $0.00 ($9,500.00) $9,500.00 $0.00 $9,500.00 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 9
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2680.0000.0000.44512.900 Title III $0.00 $0.00 $0.00 ($875.00) ($1,655.00) $1,655.00 $0.00 $1,655.00 0.00%
+Fund: TITLE III - 2680 $0.00 $0.00 $0.00 ($875.00) ($1,655.00) $1,655.00 $0.00 $1,655.00 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 10
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+2690.0000.0000.44520.000 Title IIA - Teacher Quality $0.00 $0.00 $0.00 ($22,762.40) ($36,056.76) $36,056.76 $0.00 $36,056.76 0.00%
+Fund: TITLE IIA - 2690 $0.00 $0.00 $0.00 ($22,762.40) ($36,056.76) $36,056.76 $0.00 $36,056.76 0.00%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 11
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6000.0000.0000.41610.900 School Nutrition Revenues ($60,000.00) $0.00 ($60,000.00) $0.00 ($27,788.25) ($32,211.75) $0.00 ($32,211.75) 53.69%
+6000.0000.0000.41620.900 School Nutrition A La Carte ($50,000.00) $0.00 ($50,000.00) $0.00 ($7,435.06) ($42,564.94) $0.00 ($42,564.94) 85.13%
+Revenue
+6000.0000.0000.43250.900 Educ School Nutrition, LUNCH $0.00 $0.00 $0.00 ($58,358.30) ($306,248.25) $306,248.25 $0.00 $306,248.25 0.00%
+PAID STATE
+6000.0000.0000.43254.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($260.00) ($1,398.40) $1,398.40 $0.00 $1,398.40 0.00%
+REDUCED STATE
+6000.0000.0000.43258.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($17,756.30) ($91,232.60) $91,232.60 $0.00 $91,232.60 0.00%
+BREAKFAST PAID STATE
+6000.0000.0000.44353.900 LOCAL PRODUCE (New 2024) $0.00 $0.00 $0.00 $0.00 ($10,608.79) $10,608.79 $0.00 $10,608.79 0.00%
+6000.0000.0000.44551.900 Educ. School Nutrition, LUNCH ($1,051,594.34) $0.00 ($1,051,594.34) ($9,046.56) ($47,410.08) ($1,004,184.26) $0.00 ($1,004,184.26) 95.49%
+(REG.) Paid Meals
+6000.0000.0000.44553.900 Educ. School Nutrition, LUNCH $0.00 $0.00 $0.00 ($13,942.65) ($72,621.70) $72,621.70 $0.00 $72,621.70 0.00%
+(S.A.) Free and Redu
+6000.0000.0000.44554.900 Educ. School Nutrition, $0.00 $0.00 $0.00 ($9,512.50) ($48,748.00) $48,748.00 $0.00 $48,748.00 0.00%
+BREAKFAST
+6000.0000.0000.44557.900 LOCAL PEBT $0.00 $0.00 $0.00 $0.00 ($3,918.00) $3,918.00 $0.00 $3,918.00 0.00%
+6000.0000.0000.44561.900 Supply Chain Assistance $0.00 $0.00 $0.00 ($49,299.49) ($49,299.49) $49,299.49 $0.00 $49,299.49 0.00%
+6000.0000.0000.45201.900 School Nutrition Transfer In ($293,245.00) $0.00 ($293,245.00) $0.00 ($109.79) ($293,135.21) $0.00 ($293,135.21) 99.96%
+Fund: SCHOOL NUTRITION - 6000 ($1,454,839.34) $0.00 ($1,454,839.34) ($158,175.80) ($666,818.41) ($788,020.93) $0.00 ($788,020.93) 54.17%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 12
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6150.0000.0000.41317.400 Adult Ed User Fees ($27,501.00) $0.00 ($27,501.00) ($22,205.00) ($36,675.33) $9,174.33 $0.00 $9,174.33 -33.36%
+Fund: AE ENRICHMENT - 6150 ($27,501.00) $0.00 ($27,501.00) ($22,205.00) ($36,675.33) $9,174.33 $0.00 $9,174.33 -33.36%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 13
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6501.0000.0000.41990.000 L&L User Fees= paid by registr and ($330,000.00) $0.00 ($330,000.00) ($909.64) ($200,825.53) ($129,174.47) $0.00 ($129,174.47) 39.14%
+tuition
+Fund: LAUGH & LEARN - 6501 ($330,000.00) $0.00 ($330,000.00) ($909.64) ($200,825.53) ($129,174.47) $0.00 ($129,174.47) 39.14%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 14
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6502.0000.0000.41990.000 user fees paid by program ($100,000.00) $0.00 ($100,000.00) ($50.00) ($29,620.00) ($70,380.00) $0.00 ($70,380.00) 70.38%
+registrations
+Fund: CAMP SEASIDE - 6502 ($100,000.00) $0.00 ($100,000.00) ($50.00) ($29,620.00) ($70,380.00) $0.00 ($70,380.00) 70.38%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 15
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+6800.0000.0000.41920.000 Scholarship Funds $0.00 $0.00 $0.00 $0.00 ($1,525.00) $1,525.00 $0.00 $1,525.00 0.00%
+6800.0000.0000.41990.000 User Fees ($1,493,266.00) $0.00 ($1,493,266.00) ($19,077.06) ($196,529.81) ($1,296,736.19) $0.00 ($1,296,736.19) 86.84%
+6800.0000.0000.41991.000 Sponsorships and Grants ($9,000.00) $0.00 ($9,000.00) $0.00 ($3,500.00) ($5,500.00) $0.00 ($5,500.00) 61.11%
+Fund: CE- RECREATION - 6800 ($1,502,266.00) $0.00 ($1,502,266.00) ($19,077.06) ($201,554.81) ($1,300,711.19) $0.00 ($1,300,711.19) 86.58%
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 16
+
+RSU No. 5
+Revenues
+From Date: 1/1/2024 To Date: 1/31/2024
+Fiscal Year: 2023-2024 Include pre encumbrance Print accounts with zero balance Filter Encumbrance Detail by Date Range
+Exclude inactive accounts with zero balance
+Account Number Description Budget Adjustments GL Budget Current YTD Balance Encumbrance Budget Bal% Rem
+Grand Total: ($42,634,459.34) $0.00 ($42,634,459.34) ($2,924,642.17) ($24,004,206.92) ($18,630,252.42) $0.00 ($18,630,252.42) 43.70%
+End of Report
+Printed: 02/08/2024 12:12:25 PM Report: rptGLGenRptwBudgetAdj 2023.1.32 Page: 17

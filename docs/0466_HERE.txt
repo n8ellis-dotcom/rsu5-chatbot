@@ -1,0 +1,114 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/7421bf0f-9417-47ef-b1a1-fb521f56a0fd
+SECTION: /board-of-directors-and-policies/board-agendas-and-minutes/agendas
+TITLE: HERE
+TYPE: Finalsite-PDF
+============================================================
+
+Date: November 6, 2019
+To: RSU5 Board of Directors
+From: Finance Committee
+RE: RSU5 Current Cost Sharing Methodology – Assessment of Fairness
+A fair cost-sharing methodology distributes the burden of local educational costs resulting in as close to an
+equal tax rate as possible amongst each taxpayer in RSU5. The Finance Committee sees the RSU taxpayer,
+not individual towns when assessing that impact, though undeniably it must acknowledge the three
+municipalities when it comes time to issue the warrants to raise local revenue. The Finance Committee
+considered fairness of the current cost sharing methodology through a variety of different lenses, as follows:
+1. Property valuation is the fundamental way in which public education, and local government in
+general, is funded in the State.
+2. The majority of Regional School Units have adopted a cost sharing model in which the Required
+Local Contribution as reported on the ED279 is utilized in combination with 100% valuation.
+3. Bill Stockmeyer’s presentation to the Board in December 2017 demonstrated in various ways how
+the current method of cost sharing in RSU5 is very close to what it would be under the
+methodologies commonly used in other Regional School Units.
+4. Per pupil cost sharing methods are intended to protect towns that have high valuation to pupil ratios
+coupled with a minority voting power.
+5. Under the current methodology the percent Total Contribution (i.e., Local Contribution1 + State
+Contribution2 + Minimum Special Education Adjustment) for each town is close to each town’s
+percent Pupil Count. This is not surprising since the ED279 allocations for each municipality are
+determined based on pupil percentage.
+The fiscal capacity of each town and therefore the impact of local education costs on each RSU5 household
+are adequately incorporated into the current methodology.
+For example, the education mil rates in each town under the current cost sharing methodology for FY20,
+FY19, FY18, and FY17 are presented below, along with a breakdown of each municipality’s Total
+Contribution towards the cost of education in RSU5 compared to percent Pupil Count:
+RSU5 Education Mil Rates by Towna/
+2019/20 2018/19 2017/18 2016/17
+(FY20) (FY19) (FY18) (FY17)
+Durham $14.34 $14.18 $14.08 $13.88
+Freeport $10.50 $10.94 $10.84 $12.18
+Pownal $11.25 $11.06 $10.23 $10.56
+a/ Education mil rates are based on each town’s Tax Bill Distribution Percentage for Schools
+in FY20, FY19, FY18, and FY17.
+1 Local Contribution does not include Non-Shared Debt.
+2 State Contribution includes State Funded Debt Assumed by RSU.
+1 o f 3
+
+Total Contribution to RSU5 by Towna/
+2019/20 (FY20)
+Total % Total % Pupil
+Contributionb/ Contribution Countc/
+Durham $ 9,852,607.56 29.84 30.73
+Freeport $ 19,678,889.00 59.60 58.43
+Pownal $ 3,487,902.49 10.56 10.84
+TOTAL $ 33,019,399.05 100.00 100.00
+2018/19 (FY19)
+Total % Total % Pupil
+Contributionb/ Contribution Countc/
+Durham $ 9,601,789.49 30.31 31.02
+Freeport $ 18,807,122.00 59.38 58.38
+Pownal $ 3,265,064.10 10.31 10.60
+TOTAL $ 31,673,975.59 100.00 100.00
+2017/18 (FY18)
+Total % Total % Pupil
+Contributionb/ Contribution Countc/
+Durham $ 9,567,919.27 31.26 31.66
+Freeport $ 17,860,952.28 58.35 58.02
+Pownal $ 3,179,129.99 10.39 10.32
+TOTAL $ 30,608,001.54 100.00 100.00
+2016/17 (FY17)
+Total % Total % Pupil
+Contributionb/ Contribution Countc/
+Durham $ 9,434,372.83 31.95 31.53
+Freeport $ 17,069,399.44 57.81 58.47
+Pownal $ 3,021,755.27 10.23 10.00
+TOTAL $ 29,525,527.54 100.00 100.00
+a/ Per Section 6.A. of the Reorganization Plan prepared by the Reorganization Planning Committee (9/18/2009), the RSU
+assumed liability to pay certain existing indebtedness and lease-purchase obligations for Central Office (issued 2001), FHS
+(issued 2002), State Portion of MLS (issued 1990), FHS Heating System (issued 2008), FHS Portion of Lighting Upgrade
+(issued 2008), and State Portion of DCS (issued 2009). In the years it was received, the full State Contribution, including
+the State Portion of MLS and DCS debt, is allocated towards the Total Contribution for Freeport and Durham, respectively.
+b/ Total Contribution is calculated as Local Contribution (i.e., Total Required Local Contribution plus Additional Local
+Monies) plus State Contribution plus Min. Spec. Ed. Adj. State Contribution includes State Funded Debt Assumed by
+RSU.
+c/ Percentage of Total Pupils as reported in Section 4.A. of the ED 279.
+2 of 3
+
+For additional context, the education costs under the current cost sharing methodology for the median
+homeowner in each town for 2019/20 (FY20) are presented below. Note, though a town assesses real
+estate taxes for an individual residential property based on the town’s assessed valuation for that property,
+we calculated the median home education tax based on available data for median home values (i.e.,
+market value) to provide a rough estimate. To calculate the actual median home education tax would
+require additional information from each town based on their assessed valuations for residential property.
+RSU5 Education Costs for Median Homeowner by Town
+Education Median
+Tax per Home Median
+$200,000 Median Home Education Household
+FY20 Valuation Valuea/ Taxb/ Incomec/
+Durham $2,868 $225,700d/ $3,235 $73,750e/
+Freeport $2,100 $307,700d/ $3,230 $79,500e/
+Pownal $2,250 $255,300d/ $2,872 $83,700e/
+a/ Most recent data available. Source: United States Census Bureau, 2017 American Community Survey
+5-Year Estimates, Table DP04, Value, Owner-Occupied Units, Median, https://data.census.gov/cedsci/.
+Searched by Zip Code Tabulation Areas: 04222, 04032, 04069.
+b/ Based on each town’s 2019/20 Education Mil Rate.
+c/ Most recent data available. Source: United States Census Bureau, 2017 American Community Survey
+5-Year Estimates, Table S1903. https://data.census.gov/cedsci/. Searched by Zip Code Tabulation
+Areas: 04222, 04032, 04069. Also provided by this source: 2017 Mean Income (margin of error): D
+$84,955 (+/- $8,512), F $111,275 (+/- $21,629), P $94,061 (+/- $8,400).
+d/ Margin of Error: D +/-$13,604, F +/- $30,141, P +/-$21,690. Source: United States Census Bureau,
+2017 American Community Survey 5-Year Estimates, Table DP04, Value, Owner-Occupied Units,
+Median, https://data.census.gov/cedsci/. Searched by Zip Code Tabulation Areas: 04222, 04032, 04069.
+e/ Margin of Error: D +/-$15,996, F +/- $6,849, P +/-$10,956. Source: United States Census Bureau,
+2017 American Community Survey 5-Year Estimates, Table S1903. https://data.census.gov/cedsci/.
+Searched by Zip Code Tabulation Areas: 04222, 04032, 04069.
+3 of 3

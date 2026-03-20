@@ -1,0 +1,33 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/09e2d3c1-760a-4e6f-bcc2-afa6e98dc172
+SECTION: /budget/financial-statements
+TITLE: School Nutrition
+TYPE: Finalsite-PDF
+============================================================
+
+School Nutrition
+March
+… …
+2021 2021 2021 2021 Budget Remaining Percent Remaining
+Revised Budget Current Period Reported Period Encumbrance
+Revenue
+6000-0000-0000-41610-900 School Nutrition Revenues $0.00 ($7,826.41) ($26,234.22) $0.00 $26,234.22 0 %
+6000-0000-0000-41620-900 School Nutrition A La Carte Revenue $0.00 ($327.19) ($57,206.78) $0.00 $57,206.78 0 %
+6000-0000-0000-44551-900 School Nutrition Federal Revenues $0.00 ($70,518.24) ($537,509.59) $0.00 $537,509.59 0 %
+6000-0000-0000-45201-900 School Nutrition Transfer In ($293,245.00) $0.00 ($1,709,043.17) $0.00 $1,415,798.17 -483 %
+ACCOUNT TYPE TOTAL ($293,245.00) ($78,671.84) ($2,329,993.76) $0.00 $2,036,748.76 -695 %
+Expense
+6000-0000-3100-51040-900 Administrator Salery $0.00 $5,089.33 $49,550.65 $16,017.73 ($65,568.38) 0 %
+6000-0000-3100-51180-900 School Nutition Salaries $0.00 $31,360.88 $254,749.19 $0.00 ($254,749.19) 0 %
+6000-0000-3100-52040-900 Administrator Benefits $0.00 $1,159.00 $9,524.24 $3,561.74 ($13,085.98) 0 %
+6000-0000-3100-52080-900 School Nutrition Benefits $0.00 $1,669.15 $27,495.57 $0.00 ($27,495.57) 0 %
+6000-0000-3100-53300-900 Employee Training & Development $0.00 $0.00 $85.84 $0.00 ($85.84) 0 %
+6000-0000-3100-53400-900 Contracted Services $0.00 $0.00 $7,234.40 $0.00 ($7,234.40) 0 %
+6000-0000-3100-54300-900 School Nutrition Repairs $0.00 $0.00 $3,178.86 $0.00 ($3,178.86) 0 %
+6000-0000-3100-55800-900 Travel $0.00 $0.00 $1,732.99 $0.00 ($1,732.99) 0 %
+6000-0000-3100-56300-900 Food Purchases $338,097.50 $19,869.47 $192,217.91 $0.00 $145,879.59 43 %
+6000-0000-3100-56310-900 Supplies $0.00 $1,095.82 $22,711.51 $0.00 ($22,711.51) 0 %
+6000-0000-3100-57300-900 School Nutrition Equipment $0.00 $0.00 $5,617.44 $0.00 ($5,617.44) 0 %
+6000-0000-3100-58100-900 School Nutrition Dues & Fees $0.00 $157.50 $857.50 $0.00 ($857.50) 0 %
+ACCOUNT TYPE TOTAL $338,097.50 $60,401.15 $574,956.10 $19,579.47 ($256,438.07) -76 %
+GRAND TOTAL $44,852.50 ($18,270.69) ($1,755,037.66) $19,579.47 $1,780,310.69 3,969 %
+4/8/2021 5:42:05 AM Page 1 of 1

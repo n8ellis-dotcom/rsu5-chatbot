@@ -1,0 +1,99 @@
+am: OVERHEAD - 0000 $4,165 $4,403 $4,528 $0 $0 $0 0.00
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410 :
+rptGLGenBudgetRptUsingDefinition
+Page 85 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+Function: Safety - 2670 $4,165 $4,403 $4,528 $0 $0 $0 0.00
+1000.0000.2680.54449.900 Lease Purchase of $0 $0 $0 $0 $254,455 $254,455 0.00
+Non-Instructional
+Program: OVERHEAD - 0000 $0 $0 $0 $0 $254,455 $254,455 0.00
+Function: CAPITAL ENHANCEMENT & IMPROVEMENT - $0 $0 $0 $0 $254,455 $254,455 0.00
+2680
+1000.0000.2690.54300.900 Capital Renewal/Track $35,000 $0 $0 $0 $0 $0 0.00
+Replacement
+1000.0000.2690.54500.900 Capital Renewal/Tennis $40,000 $0 $0 $0 $0 $0 0.00
+Courts Replacement
+1000.0000.2690.58310.900 Capital Improvements $329,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Program: OVERHEAD - 0000 $404,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Function: CAPITAL RENEWAL & RENOVATION - 2690 $404,137 $364,136 $472,229 $481,000 $482,000 $1,000 0.21
+Cost Center: SYSTEM WIDE - 900 $891,500 $920,897 $1,051,486 $1,305,797 $1,564,602 $258,805 19.82
+1000.0000.2600.51180.941 Support Salary $2,750 $2,037 $0 $0 $0 $0 0.00
+1000.0000.2600.52080.941 Support Benefits $907 $735 $0 $0 $0 $0 0.00
+1000.0000.2600.52380.941 Custodian Retirement $38 $92 $0 $0 $0 $0 0.00
+1000.0000.2600.53300.941 Employee Training $0 $1,175 $0 $0 $0 $0 0.00
+1000.0000.2600.54100.941 Water/Sewage $1,271 $1,284 $1,311 $1,271 $1,271 $0 0.00
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 86 of 89
+
+RSU No. 5
+FY27 Article 9 Operations & Maintenance- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.2600.54300.941 Purchaed Repairs $11,378 $12,790 $6,372 $6,120 $16,348 $10,228 167.12
+1000.0000.2600.55320.941 Telephone $5,804 $5,900 $6,605 $5,978 $6,803 $825 13.80
+1000.0000.2600.55800.941 Travel $0 $0 $119 $0 $0 $0 0.00
+1000.0000.2600.56000.941 Supplies $2,273 $2,691 $3,609 $1,550 $1,782 $232 14.97
+1000.0000.2600.56011.941 Materials for Repair $2,804 $2,353 $1,789 $1,275 $2,700 $1,425 111.76
+1000.0000.2600.56013.941 Major Maintenance $159 $92 $3,995 $5,500 $15,020 $9,520 173.09
+1000.0000.2600.56220.941 Electricity $4,381 $4,679 $5,246 $4,000 $4,000 $0 0.00
+1000.0000.2600.56240.941 Heating Fuel $4,606 $3,741 $3,934 $5,000 $4,500 ($500) (10.00)
+Program: OVERHEAD - 0000 $36,370 $37,569 $32,981 $30,694 $52,424 $21,730 70.80
+Function: OPERATION OF PLANT - 2600 $36,370 $37,569 $32,981 $30,694 $52,424 $21,730 70.80
+Cost Center: CENTRAL OFFICE - 941 $36,370 $37,569 $32,981 $30,694 $52,424 $21,730 70.80
+Grand Total: $4,627,766 $4,816,490 $4,754,287 $5,490,511 $5,993,777 $503,266 9.17
+End of Report
+Printed: 01/26/2026 9:48:50 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 87 of 89
+
+RSU No. 5
+FY27 Article 10 Debt Service- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.5100.58310.900 Principal Payments-State $995,302 $995,302 $995,302 $995,302 $995,302 $0 0.00
+Supported Debt
+1000.0000.5100.58320.900 Interest Payments-State $186,303 $144,093 $115,762 $92,126 $76,275 ($15,851) (17.21)
+Supported Debt
+Program: OVERHEAD - 0000 $1,181,605 $1,139,395 $1,111,064 $1,087,428 $1,071,577 ($15,851) (1.46)
+Function: STATE SUPPORTED DEBT SERVICE - 5100 $1,181,605 $1,139,395 $1,111,064 $1,087,428 $1,071,577 ($15,851) (1.46)
+Cost Center: SYSTEM WIDE - 900 $1,181,605 $1,139,395 $1,111,064 $1,087,428 $1,071,577 ($15,851) (1.46)
+Grand Total: $1,181,605 $1,139,395 $1,111,064 $1,087,428 $1,071,577 ($15,851) (1.46)
+End of Report
+Printed: 01/26/2026 9:42:06 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 88 of 89
+
+RSU No. 5
+FY27 Article 11 All Other Expenditures- Proposed
+Fiscal Year: 2025-2026 Print accounts with zero balance Round to whole dollars Account on new page
+Exclude inactive accounts with zero balance
+From Date: 7/1/2026 To Date: 6/30/2027 Definition: FY27 Proposed
+FY27 Dollar Percent
+FY23 Actual FY24 Actual FY25 Actual FY26 Adopted Proposed Difference Difference
+Account Description
+1000.0000.3100.59100.900 Nutrition Assessment $0 $293,245 $185,334 $139,591 $69,796 ($69,795) (50.00)
+Program: OVERHEAD - 0000 $0 $293,245 $185,334 $139,591 $69,796 ($69,795) (50.00)
+Function: FOOD SERVICES OPERATIONS - 3100 $0 $293,245 $185,334 $139,591 $69,796 ($69,795) (50.00)
+Cost Center: SYSTEM WIDE - 900 $0 $293,245 $185,334 $139,591 $69,796 ($69,795) (50.00)
+Grand Total: $0 $293,245 $185,334 $139,591 $69,796 ($69,795) (50.00)
+End of Report
+Printed: 01/26/2026 9:42:12 AM CST Report: DR:2025.3.1410
+rptGLGenBudgetRptUsingDefinition
+Page 89 of 89

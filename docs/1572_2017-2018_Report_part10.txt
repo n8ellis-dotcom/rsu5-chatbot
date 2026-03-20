@@ -1,0 +1,192 @@
+)(cid:15)(cid:22)(cid:21)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:25)(cid:26)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:3)(cid:24)(cid:19)
+(cid:40)(cid:81)(cid:74)(cid:79)(cid:76)(cid:86)(cid:75) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:22)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:22)(cid:23)
+(cid:40)(cid:81)(cid:89)(cid:76)(cid:85)(cid:82)(cid:81)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:38)(cid:79)(cid:88)(cid:69)(cid:11)(cid:40)(cid:36)(cid:53)(cid:55)(cid:43)(cid:12) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:15)(cid:21)(cid:28)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:3)(cid:15)(cid:24)(cid:23)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:15)(cid:23)(cid:21)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:23)(cid:20)(cid:20)
+(cid:41)(cid:76)(cid:86)(cid:75)(cid:76)(cid:81)(cid:74)(cid:3)(cid:38)(cid:79)(cid:88)(cid:69) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:15)(cid:20)(cid:19)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:15)(cid:20)(cid:19)(cid:28)
+(cid:41)(cid:82)(cid:85)(cid:72)(cid:76)(cid:74)(cid:81)(cid:3)(cid:47)(cid:68)(cid:81)(cid:74)(cid:88)(cid:68)(cid:74)(cid:72) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:3)(cid:21)
+(cid:41)(cid:51)(cid:68)(cid:39)(cid:3)(cid:40)(cid:71)(cid:88)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:41)(cid:82)(cid:88)(cid:81)(cid:71)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:3)(cid:15)(cid:21)(cid:23)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:25)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:15)(cid:26)(cid:27)(cid:21)
+(cid:41)(cid:85)(cid:76)(cid:72)(cid:81)(cid:71)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:41)(cid:43)(cid:54) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:23)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:23)(cid:19)
+(cid:42)(cid:68)(cid:92)(cid:18)(cid:54)(cid:87)(cid:85)(cid:68)(cid:76)(cid:74)(cid:75)(cid:87)(cid:3)(cid:36)(cid:79)(cid:79) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:3)(cid:26)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:21)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:3)(cid:19)(cid:23)
+(cid:42)(cid:40)(cid:48)(cid:54)(cid:3)(cid:81)(cid:72)(cid:90) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:27)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:22)
+(cid:43)(cid:82)(cid:80)(cid:72)(cid:70)(cid:82)(cid:80)(cid:76)(cid:81)(cid:74) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:23)(cid:3)(cid:15)(cid:28)(cid:28)(cid:22) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:15)(cid:27)(cid:25)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:24)(cid:20) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:3)(cid:15)(cid:24)(cid:20)(cid:19)
+(cid:45)(cid:48)(cid:42) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:3)(cid:15)(cid:26)(cid:26)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:15)(cid:28)(cid:22)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:20)(cid:24)(cid:22) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:3)(cid:15)(cid:24)(cid:24)(cid:23)
+(cid:47)(cid:68)(cid:87)(cid:76)(cid:81)(cid:3)(cid:38)(cid:79)(cid:88)(cid:69) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:24)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:15)(cid:25)(cid:27)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:15)(cid:25)(cid:25)(cid:21) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:27)(cid:3)(cid:21)
+(cid:47)(cid:76)(cid:69)(cid:85)(cid:68)(cid:85)(cid:92) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:26)(cid:3)(cid:22)(cid:28) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:3)(cid:27)(cid:27) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:28)(cid:3)(cid:21)(cid:26)
+(cid:48)(cid:68)(cid:87)(cid:75)(cid:3)(cid:55)(cid:72)(cid:68)(cid:80) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:21)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:25)(cid:3)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:27)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16)
+(cid:48)(cid:68)(cid:87)(cid:75)(cid:3)(cid:39)(cid:72)(cid:83)(cid:68)(cid:85)(cid:87)(cid:80)(cid:72)(cid:81)(cid:87) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:23)(cid:23) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:16) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:3)(cid:23)(cid:23)
+(cid:48)(cid:72)(cid:79)(cid:80)(cid:68)(cid:70)(cid:3)(cid:54)(cid:70)(cid:75)(cid:82)(cid:79)(cid:68)(cid:85)(cid:86)(cid:75)(cid:76)(cid:83) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:15)(cid:19)(cid:19)(cid:19) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:22)(cid:15)(cid:19)(cid:19)(cid:19)
+(cid:54)(cid:88)(cid:69)(cid:87)(cid:82)(cid:87)(cid:68)(cid:79) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:27)(cid:15)(cid:27)(cid:20)(cid:26) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:19)(cid:21)(cid:15)(cid:22)(cid:20)(cid:25) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:21)(cid:20)(cid:20)(cid:15)(cid:24)(cid:19)(cid:24) (cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:22)(cid:28)(cid:15)(cid:25)(cid:21)(cid:27)
+49
+
+Schedule 9 (Continued)
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT HIGH SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2018
+Balance Balance
+6/30/2017 Receipts Disbursements 6/30/2018
+Model UN $ 1,666 $ 6,890 $ 6,856 $ 1,700
+National Honor Society 36 - - 36
+NYC Trip 683 - - 683
+One Act Plays 2,521 2,002 24 4,499
+Outdoor Club - 140 100 40
+Photography 1,608 - - 1,608
+Principal's Contingency 9,336 5,461 6,221 8,576
+PTSO 1,566 628 1,670 524
+Quebec Trip 75 - - 75
+Recycling Service Project 490 - - 490
+Scholarships 21 3,000 3,000 21
+Science 326 25 101 250
+Science Olympiad 9 - - 9
+Social Studies 142 - - 142
+Staff Wellness Initiative 399 - - 399
+Stem Lab 20 968 616 372
+Student Council 1,400 2,130 1,779 1,751
+Student Needs Fund 256 - - 256
+Student Services 986 20,471 18,641 2,816
+Summer School 12,071 950 300 12,721
+Sunshine Fund 241 182 216 207
+Thomas Boat Grant 31 - - 31
+Thomas Max Scholarship 150 800 1,000 (50)
+Videography 46 40 - 86
+Yearbook 10,201 4,516 8,434 6,283
+Sub-total 44,280 48,203 48,958 43,525
+Grand Total $ 193,097 $ 250,519 $ 260,463 $ 183,153
+50
+
+Schedule 10
+REGIONAL SCHOOL UNIT NO. 5
+FREEPORT MIDDLE SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2018
+Balance Balance
+6/30/2017 Receipts Disbursements 6/30/2018
+Athletics $ 188 $ 380 $ 30 $ 538
+Band-Students 97 1,702 1,457 342
+Bradley Grant - 500 - 500
+Class 2016 161 - 161 -
+Class 2018 - 350 350 -
+Class 2019 350 3,688 4,038 -
+Class 2020 - 18,779 17,933 846
+Coffee Fund - 400 400 -
+Drama 5,702 11,541 10,539 6,704
+Fab Friday 1,834 12,628 12,511 1,951
+Favreau-Technology 1,658 - - 1,658
+Field Hockey - 938 772 166
+FLS & Choices 104 25 - 129
+Fpad - 176 176 -
+Gardening Club 235 - - 235
+General Fund 3,783 5,696 8,610 869
+GT 913 - - 913
+Guidance 424 - 31 393
+Interact Club 252 615 616 251
+JMG 910 1,061 126 1,845
+Library 422 2,714 2,435 701
+Lisa Roney 100 - - 100
+Magazine Drive 4,543 11,511 13,463 2,591
+Math Prof Dev 2,496 - - 2,496
+Mrs. Pritchard's Class 51 - - 51
+Musical Performances 7,393 585 573 7,405
+O'Brien-Science 1,115 - 65 1,050
+OM-DI 2,357 3,757 3,920 2,194
+Parent Team 5,215 5,847 5,799 5,263
+Peer Helpers 118 - - 118
+Postage 910 1,044 1,082 872
+Project Adventure 124 - - 124
+Puffin Fund 2,827 1,000 - 3,827
+Robotics Grant 222 - - 222
+Scholarship Fund 1,157 1,433 994 1,596
+Space Camp 2,644 31,948 28,662 5,930
+Sports Boosters 4,047 608 79 4,576
+Sunshine Fund 57 135 69 123
+Touch Tank 11 - - 11
+Travel Club 558 35,166 34,178 1,546
+Yearbook 59 1,140 856 343
+$ 53,037 $ 155,367 $ 149,925 $ 58,479
+51
+
+Schedule 11
+REGIONAL SCHOOL UNIT NO. 5
+DURHAM COMMUNITY SCHOOL STUDENT ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2018
+Balance Balance
+6/30/2017 Receipts Disbursements 6/30/2018
+Computer $ 454 $ - $ 454 $ -
+Dance 1,318 1,391 1,671 1,038
+Drama 3,770 225 269 3,726
+Exxon Mobil 99 - - 99
+Field Work 2,243 1,028 1,576 1,695
+Garden 81 25 25 81
+Grade 8 757 3,921 3,774 904
+JMG 995 1,008 654 1,349
+Library 195 250 236 209
+Math 274 - 154 120
+Music 1,924 1,415 1,587 1,752
+Outing Club 1,308 3,446 3,487 1,267
+PTA Field Work support 72 491 195 368
+Reimbursement 1,946 757 2,579 124
+School Activity 297 3,049 2,931 415
+Sports Gate 1,207 - 200 1,007
+Student Council 1,653 - 581 1,072
+Telecommunications 0 1,783 - 150 1,633
+Trips 24,454 10,556 9,381 25,629
+Yearbook 844 2,405 1,798 1,451
+$ 45,674 $ 29,967 $ 31,702 $ 43,939
+52
+
+Schedule 12
+REGIONAL SCHOOL UNIT NO. 5
+POWNAL ELEMENTARY SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2018
+Balance Balance
+6/30/2017 Receipts Disbursements 6/30/2018
+Assembly Fund $ 217 $ - $ - $ 217
+Class Of 2014 1,611 4,979 4,814 1,776
+Class Of 2015 179 - - 179
+Drama 52 - 52 -
+Eco Maine 88 - - 88
+Fpd Grant 600 1,068 1,018 650
+Fun Account 1,511 969 2,480 -
+Garden 39 - - 39
+General 1,636 3,677 2,571 2,742
+Holiday - 200 175 25
+Library 504 - 45 459
+Library Grant 2,794 - 1,408 1,386
+Postage - 455 449 6
+Snacks 642 - 25 617
+Summer Day Camp 369 - - 369
+Water/Soda Account 77 72 29 120
+Wellness 920 - - 920
+Yearbook 204 326 - 530
+Youth Soccer 183 432 316 299
+$ 11,626 $ 12,178 $ 13,382 $ 10,422
+53
+
+Schedule 13
+REGIONAL SCHOOL UNIT NO. 5
+MAST LANDING SCHOOL ACTIVITY FUNDS
+STATEMENT OF CASH RECEIPTS, DISBURSEMENTS AND
+CHANGES IN CASH BALANCES
+YEAR ENDED JUNE 30, 2018
+Balance Balance
+6/30/2017 Receipts Disbursements 6/30/2018
+Bradley Foundation $ 1,502 $ 405 $ 599 $ 1,308
+Cole Grant 7 - 7 -
+Drama 2,717 1,956 3,015 1,658
+Eco Maine - 680 403 277
+Fpad Grant 3,080 4,000 6,632 448
+Fuel Up 484 - 484 -
+Guidance 29 275 100 204
+Library 974 1,943 1,767 1,150
+Music/Art 181 1,254 1,244 191
+Office 1,015 36,095 34,523 2,587
+PTC 14,056 - 14,056 -
+School Store 233 49 100 182
+Wellness 30 - 30 -
+$ 24,308 $ 46,657 $ 62,960 $ 8,005
+54

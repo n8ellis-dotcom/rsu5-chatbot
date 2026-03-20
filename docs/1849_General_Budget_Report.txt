@@ -1,0 +1,22 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/697b3c34-997c-4dc9-a38b-4ee4cf9aeeac
+SECTION: /budget/financial-statements
+TITLE: General Budget Report
+TYPE: Finalsite-PDF
+============================================================
+
+Budget Summary
+2021 2021 April 2021 2021 Balances YTD % Remaining
+Budget Budget Adj 2021 Expenses YTD Encumbrances
+Expenses YTD
+Art 1 - Reg Inst Total 15,104,655.00 -3,225.00 1,627,635.37 9,937,135.93 3,595,949.18 1,571,569.89 10%
+Art 2 - Special Ed Total 4,688,560.00 0 506,781.23 3,000,360.28 1,121,389.03 566,810.69 12%
+Art 3 - CTE 101,706.00 0 8,475.45 84,754.52 8,475.43 8,476.05 8%
+Art 4 - Oth Inst Total 858,926.00 0 57,262.71 506,085.38 45,729.07 307,111.55 36%
+Art 5 - Stu/Stf Sup Total 3,161,872.00 1,000.00 280,451.99 2,024,000.70 663,072.24 474,799.06 15%
+Art 6 - Sys Admin Total 1,013,211.00 0 99,937.06 767,986.77 79,308.79 165,915.44 16%
+Art 7 - Sch Admin Total 1,727,711.00 0 194,795.57 1,401,067.32 240,386.10 86,257.58 5%
+Art 8 - Trans Total 1,473,419.00 0 146,923.91 912,667.50 536,548.06 24,203.44 2%
+Art 9 - O&M Total 5,030,748.00 2,225.00 409,412.04 3,642,312.87 1,091,380.03 297,055.10 6%
+Art 10 - Debt Svc Total 1,427,247.00 0 20,422.34 152,267.78 0 1,274,979.22 89%
+Art 11 - All Oth Total 294,645.00 0 0 73,311.24 219,933.72 1,400.04 0%
+1000 - GENERAL FUND Totals: 34,882,700.00 0 3,352,097.67 22,501,950.29 7,602,171.65 4,778,578.06 14%

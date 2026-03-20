@@ -1,0 +1,32 @@
+SOURCE: https://www.rsu5.org/fs/resource-manager/view/fc08fdb7-a7ed-4564-b6e4-b66f03e30395
+SECTION: /budget/financial-statements
+TITLE: School Nutrition
+TYPE: Finalsite-PDF
+============================================================
+
+School Nutrition
+December
+… …
+2021 2021 2021 2021 Budget Remaining Percent Remaining
+Revised Budget Current Period Reported Period Encumbrance
+1Revenue
+26000-0000-0000-41610-900 School Nutrition Revenues $0.00 $12.05 ($9,796.43) $0.00 $9,796.43 0 %
+36000-0000-0000-41620-900 School Nutrition A La Carte Revenue $0.00 $0.00 ($75.73) $0.00 $75.73 0 %
+46000-0000-0000-44551-900 School Nutrition Federal Revenues $0.00 $0.00 ($303,924.22) $0.00 $303,924.22 0 %
+56000-0000-0000-45201-900 School Nutrition Transfer In $0.00 $0.00 ($73,311.24) $0.00 $73,311.24 0 %
+6 ACCOUNT TYPE TOTAL $0.00 $12.05 ($387,107.62) $0.00 $387,107.62 0 %
+7Expense
+86000-0000-3100-51040-900 Administrator Salery $0.00 $5,490.76 $34,233.48 $33,811.67 ($68,045.15) 0 %
+96000-0000-3100-51180-900 School Nutition Salaries $0.00 $35,556.63 $156,318.02 $0.00 ($156,318.02) 0 %
+106000-0000-3100-52040-900 Administrator Benefits $0.00 $626.30 $6,047.24 $3,908.94 ($9,956.18) 0 %
+116000-0000-3100-52080-900 School Nutrition Benefits $0.00 $1,896.95 $22,479.41 $0.00 ($22,479.41) 0 %
+126000-0000-3100-53400-900 Contracted Services $0.00 $0.00 $7,115.00 $0.00 ($7,115.00) 0 %
+136000-0000-3100-54300-900 School Nutrition Repairs $0.00 $694.41 $3,885.15 $0.00 ($3,885.15) 0 %
+146000-0000-3100-55800-900 Travel $0.00 $0.00 $1,732.99 $0.00 ($1,732.99) 0 %
+156000-0000-3100-56300-900 Food Purchases $338,097.50 $23,586.98 $132,172.81 $0.00 $205,924.69 61 %
+166000-0000-3100-56310-900 Supplies $0.00 $1,597.22 $17,190.93 $0.00 ($17,190.93) 0 %
+176000-0000-3100-57300-900 School Nutrition Equipment $0.00 $174.28 $1,302.55 $0.00 ($1,302.55) 0 %
+186000-0000-3100-58100-900 School Nutrition Dues & Fees $0.00 $100.00 $700.00 $0.00 ($700.00) 0 %
+19 ACCOUNT TYPE TOTAL $338,097.50 $69,723.53 $383,177.58 $37,720.61 ($82,800.69) -24 %
+20 GRAND TOTAL $338,097.50 $69,735.58 ($3,930.04) $37,720.61 $304,306.93 90 %
+1/8/2021 9:04:55 AM Page 1 of 1
