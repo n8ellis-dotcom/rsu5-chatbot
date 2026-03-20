@@ -32,7 +32,7 @@ def get_all_files(directory):
     if not p.exists(): return []
     return sorted([str(f) for f in p.rglob("*") if f.suffix.lower() in (".txt", ".md")])
 
-conn = psycopg2.connect(DATABASE_URL, connect_timeout=30)
+conn = psycopg2.connect(DATABASE_URL, connect_timeout=60, keepalives=1, keepalives_idle=30)
 conn.autocommit = True
 cur = conn.cursor()
 print("Connected")
