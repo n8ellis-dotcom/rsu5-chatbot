@@ -1,3 +1,13 @@
+cd ~/Desktop/rsu5-chatbot && python3 << 'EOF'
+content = open('embed_ci.py').read()
+if 'sys.stdout.reconfigure' not in content:
+    new = content.replace('import os, sys, json', 'import os, sys, json\nsys.stdout.reconfigure(line_buffering=True)')
+    open('embed_ci.py', 'w').write(new)
+    print('Updated')
+else:
+    print('Already set')
+EOF
+git add embed_ci.py && git commit -m "Force stdout line buffering" && git push
 import os, sys, json
 import psycopg2
 from pathlib import Path
