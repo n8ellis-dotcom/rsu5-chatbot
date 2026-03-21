@@ -12,9 +12,8 @@ const SUGGESTED = [
 ];
 
 export default function Home() {
-  const { messages, input, handleInputChange, handleSubmit, isLoading } = useChat();
+  const { messages, input, handleInputChange, handleSubmit, isLoading, setInput } = useChat();
   const bottomRef = useRef<HTMLDivElement>(null);
-  const formRef = useRef<HTMLFormElement>(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -29,6 +28,10 @@ export default function Home() {
         .join('');
     }
     return '';
+  }
+
+  function handleSuggestedClick(q: string) {
+    setInput(q);
   }
 
   return (
@@ -66,9 +69,7 @@ export default function Home() {
               {SUGGESTED.map((q) => (
                 <button
                   key={q}
-                 onClick={() => {
-  handleInputChange({ target: { value: q } } as React.ChangeEvent<HTMLInputElement>);
-}}
+                  onClick={() => handleSuggestedClick(q)}
                   className="text-left text-sm text-[#8B1A1A] bg-red-50 hover:bg-red-100 border border-red-200 rounded px-3 py-2 transition-colors"
                 >
                   {q}
@@ -105,10 +106,10 @@ export default function Home() {
 
       <div className="sticky bottom-0 bg-white border-t border-gray-200 shadow-md">
         <div className="max-w-3xl mx-auto px-4 py-3">
-          <form ref={formRef} onSubmit={handleSubmit} className="flex gap-2">
+          <form onSubmit={handleSubmit} className="flex gap-2">
             <input
               value={input}
-              onChange={handleInputChange}
+              onChange={(e) => handleInputChange(e)}
               placeholder="Ask a question about RSU5..."
               disabled={isLoading}
               className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#8B1A1A] focus:border-transparent"
