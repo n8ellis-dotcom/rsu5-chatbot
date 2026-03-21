@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 const SUGGESTED = [
   "What positions are being reduced in the FY27 superintendent's recommended budget?",
@@ -118,7 +119,7 @@ export default function Home() {
                   <span>{m.content}</span>
                 ) : (
                   <div className="markdown-body">
-                    <ReactMarkdown>{m.content}</ReactMarkdown>
+                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{m.content}</ReactMarkdown>
                   </div>
                 )}
               </div>
