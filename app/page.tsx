@@ -137,4 +137,23 @@ export default function Home() {
               onKeyDown={(e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMessage(input); } }}
               placeholder="Ask a question about RSU5..."
               disabled={isLoading}
-              className="flex-1 border bor
+              style={{ color: '#111111', backgroundColor: '#ffffff' }}
+              className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#8B1A1A] focus:border-transparent"
+            />
+            <button
+              onClick={() => sendMessage(input)}
+              disabled={isLoading}
+              style={{ backgroundColor: '#8B1A1A', color: '#ffffff' }}
+              className="rounded-lg px-4 py-2 text-sm font-medium hover:opacity-90 transition-opacity"
+            >
+              ▶
+            </button>
+          </div>
+          <p className="text-xs text-gray-400 mt-1 text-center">
+            RSU5 Community Assistant · Powered by Claude AI · Not an official district resource
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
