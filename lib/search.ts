@@ -19,7 +19,7 @@ export async function findRelevantChunks(query: string, limit = 8) {
       similarity,
     })
     .from(embeddings)
-    .where(gt(similarity, 0.5))
+    .where(gt(similarity, 0.3))
     .orderBy(desc(similarity))
     .limit(limit);
 
