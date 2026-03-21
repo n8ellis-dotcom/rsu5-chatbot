@@ -14,6 +14,7 @@
     "@ai-sdk/openai": "^3.0.41",
     "@ai-sdk/react": "^3.0.118",
     "@neondatabase/serverless": "^1.0.2",
+    "@tailwindcss/typography": "^0.5.19",
     "ai": "^6.0.116",
     "dotenv": "^17.3.1",
     "drizzle-kit": "^0.31.10",
