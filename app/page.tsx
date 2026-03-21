@@ -117,7 +117,7 @@ export default function Home() {
                 {m.role === 'user' ? (
                   <span>{m.content}</span>
                 ) : (
-                  <div className="prose prose-sm max-w-none prose-table:text-xs prose-th:bg-gray-100 prose-th:p-2 prose-td:p-2 prose-td:border prose-th:border prose-table:border-collapse">
+                  <div className="prose prose-sm max-w-none">
                     <ReactMarkdown>{m.content}</ReactMarkdown>
                   </div>
                 )}
