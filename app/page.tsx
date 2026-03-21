@@ -1,6 +1,5 @@
 'use client';
 
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useChat } from '@ai-sdk/react';
 import { useRef, useEffect } from 'react';
 
@@ -13,9 +12,9 @@ const SUGGESTED = [
 ];
 
 export default function Home() {
-  const chat = useChat() as any;
-  const { messages, input, handleInputChange, handleSubmit, isLoading } = chat;
+  const { messages, input, handleInputChange, handleSubmit, isLoading, append } = useChat();
   const bottomRef = useRef<HTMLDivElement>(null);
+  const formRef = useRef<HTMLFormElement>(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -34,7 +33,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
-      {/* Header */}
       <header className="bg-[#8B1A1A] text-white shadow-md">
         <div className="max-w-3xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
@@ -53,7 +51,6 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Chat */}
       <main className="flex-1 max-w-3xl mx-auto w-full px-4 py-6 flex flex-col gap-4">
         {messages.length === 0 && (
           <div className="bg-white rounded-lg border border-gray-200 p-5 shadow-sm">
@@ -69,9 +66,7 @@ export default function Home() {
               {SUGGESTED.map((q) => (
                 <button
                   key={q}
-                  onClick={() => {
-  chat.append({ role: 'user', content: q });
-}}
+                  onClick={() => append({ role: 'user', content: q })}
                   className="text-left text-sm text-[#8B1A1A] bg-red-50 hover:bg-red-100 border border-red-200 rounded px-3 py-2 transition-colors"
                 >
                   {q}
@@ -106,10 +101,9 @@ export default function Home() {
         </div>
       </main>
 
-      {/* Input bar */}
       <div className="sticky bottom-0 bg-white border-t border-gray-200 shadow-md">
         <div className="max-w-3xl mx-auto px-4 py-3">
-          <form onSubmit={handleSubmit} className="flex gap-2">
+          <form ref={formRef} onSubmit={handleSubmit} className="flex gap-2">
             <input
               value={input}
               onChange={handleInputChange}
