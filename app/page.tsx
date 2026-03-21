@@ -150,7 +150,7 @@ export default function Home() {
             </button>
           </div>
           <p className="text-xs text-gray-400 mt-1 text-center">
-            RSU5 Community Assistant · Powered by Claude AI · Not an official district resource
+            Created by Nathan Ellis for demonstration purposes · Not an official district resource
           </p>
         </div>
       </div>
