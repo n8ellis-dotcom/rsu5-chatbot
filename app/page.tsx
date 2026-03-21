@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
+import ReactMarkdown from 'react-markdown';
 
 const SUGGESTED = [
   "What positions are being reduced in the FY27 superintendent's recommended budget?",
@@ -110,10 +111,16 @@ export default function Home() {
         <div className="flex flex-col gap-4">
           {messages.map((m) => (
             <div key={m.id} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-              <div className={`max-w-[85%] rounded-lg px-4 py-3 text-sm shadow-sm whitespace-pre-wrap ${
+              <div className={`max-w-[85%] rounded-lg px-4 py-3 text-sm shadow-sm ${
                 m.role === 'user' ? 'bg-[#8B1A1A] text-white' : 'bg-white border border-gray-200 text-gray-800'
               }`}>
-                {m.content}
+                {m.role === 'user' ? (
+                  <span>{m.content}</span>
+                ) : (
+                  <div className="prose prose-sm max-w-none prose-table:text-xs prose-th:bg-gray-100 prose-th:p-2 prose-td:p-2 prose-td:border prose-th:border prose-table:border-collapse">
+                    <ReactMarkdown>{m.content}</ReactMarkdown>
+                  </div>
+                )}
               </div>
             </div>
           ))}
