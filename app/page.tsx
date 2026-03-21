@@ -53,16 +53,8 @@ export default function Home() {
         const { done, value } = await reader.read();
         if (done) break;
         const chunk = decoder.decode(value);
-        const lines = chunk.split('\n');
-        for (const line of lines) {
-          if (line.startsWith('0:')) {
-            try {
-              const text = JSON.parse(line.slice(2));
-              assistantContent += text;
-              setMessages(prev => prev.map(m => m.id === assistantId ? { ...m, content: assistantContent } : m));
-            } catch {}
-          }
-        }
+        assistantContent += chunk;
+        setMessages(prev => prev.map(m => m.id === assistantId ? { ...m, content: assistantContent } : m));
       }
     } catch (e) {
       setMessages(prev => [...prev, { id: Date.now().toString(), role: 'assistant', content: 'Sorry, something went wrong. Please try again.' }]);
