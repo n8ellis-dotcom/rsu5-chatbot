@@ -1,5 +1,5 @@
 import { openai } from '@ai-sdk/openai';
-import { streamText, generateText } from 'ai';
+import { streamText } from 'ai';
 import { findRelevantChunks } from '@/lib/search';
 
 export const maxDuration = 30;
@@ -10,18 +10,7 @@ export async function POST(req: Request) {
     .reverse()
     .find((m: { role: string }) => m.role === 'user')?.content ?? '';
 
-  // Expand the query before searching
-  const { text: expandedQuery } = await generateText({
-    model: openai('gpt-4o-mini'),
-    prompt: `You are helping search a school district document database. 
-Rewrite this question as a search query that expands acronyms, adds synonyms, and includes related terms.
-Return only the expanded search query, nothing else.
-
-Question: ${lastUserMessage}
-Expanded search query:`,
-  });
-
-  const relevantChunks = await findRelevantChunks(expandedQuery, 8);
+  const relevantChunks = await findRelevantChunks(lastUserMessage, 8);
 
   const context = relevantChunks.length > 0
     ? relevantChunks
