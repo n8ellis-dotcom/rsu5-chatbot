@@ -1,5 +1,4 @@
-import { openai } from '@ai-sdk/openai';
-import { streamText } from 'ai';
+import Anthropic from '@anthropic-ai/sdk';
 import { findRelevantChunks } from '@/lib/search';
 
 export const maxDuration = 30;
@@ -35,21 +34,38 @@ export async function POST(req: Request) {
         .join('\n\n---\n\n')
     : 'No relevant documents found.';
 
-  const result = streamText({
-    model: openai('gpt-4o-mini'),
-    system: `You are the RSU5 Community Information Assistant — a neutral, factual resource for the Regional School Unit 5 community in Freeport, Durham, and Pownal, Maine.
+  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+  const systemPrompt = `You are the RSU5 Community Information Assistant — a neutral, factual resource for the Regional School Unit 5 community in Freeport, Durham, and Pownal, Maine.
 You answer questions about RSU5 board meetings, budgets, policies, school calendars, and district decisions using only the official RSU5 documents provided below.
 Guidelines:
 - Be accurate and cite your sources by mentioning the document or meeting date
 - Be neutral and factual — do not take positions on policy debates
 - If the answer isn't in the provided context, say so clearly rather than guessing
 - Keep answers concise but complete
-- Format lists and key figures clearly
 - When presenting numerical data with multiple columns, always use a markdown table
+- Format lists and key figures clearly
 CONTEXT FROM RSU5 DOCUMENTS:
-${context}`,
-    messages,
+${context}`;
+
+  const anthropicMessages = messages.map((m: { role: string; content: string }) => ({
+    role: m.role as 'user' | 'assistant',
+    content: m.content,
+  }));
+
+  const response = await client.messages.create({
+    model: 'claude-sonnet-4-5',
+    max_tokens: 1024,
+    system: systemPrompt,
+    messages: anthropicMessages,
   });
 
-  return result.toTextStreamResponse();
+  const text = response.content
+    .filter((block) => block.type === 'text')
+    .map((block) => block.text)
+    .join('');
+
+  return new Response(text, {
+    headers: { 'Content-Type': 'text/plain' },
+  });
 }
