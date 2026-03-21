@@ -45,6 +45,7 @@ Guidelines:
 - If the answer isn't in the provided context, say so clearly rather than guessing
 - Keep answers concise but complete
 - Format lists and key figures clearly
+- When presenting numerical data with multiple columns, always use a markdown table
 CONTEXT FROM RSU5 DOCUMENTS:
 ${context}`,
     messages,
