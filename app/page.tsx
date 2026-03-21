@@ -70,8 +70,7 @@ export default function Home() {
                 <button
                   key={q}
                   onClick={() => {
-  handleInputChange({ target: { value: q } } as React.ChangeEvent<HTMLInputElement>);
-  setTimeout(() => handleSubmit(new Event('submit') as any), 50);
+  chat.append({ role: 'user', content: q });
 }}
                   className="text-left text-sm text-[#8B1A1A] bg-red-50 hover:bg-red-100 border border-red-200 rounded px-3 py-2 transition-colors"
                 >
