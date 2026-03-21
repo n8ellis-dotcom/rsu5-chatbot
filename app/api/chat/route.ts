@@ -6,25 +6,18 @@ export const maxDuration = 30;
 
 function formatSource(filepath: string): string {
   const filename = filepath.split('/').pop() || filepath;
-  
-  // Transcript files
   const transcriptMatch = filename.match(/transcript_(\d{4}-\d{2}-\d{2})_([^_]+)/);
   if (transcriptMatch) {
     const date = transcriptMatch[1];
-    const videoId = transcriptMatch[2].replace('_part1', '').replace('_part2', '');
+    const videoId = transcriptMatch[2].replace('_part1', '').replace('_part2', '').replace('.txt', '');
     return `RSU5 Board Meeting Transcript – ${date} (https://youtube.com/watch?v=${videoId})`;
   }
-
-  // March 18 2026 transcript
   if (filename.includes('RSU5_Meeting_3_18_26')) {
     return 'RSU5 Board Meeting Transcript – 2026-03-18';
   }
-
-  // Chunk files from compiled docs
   if (filename.startsWith('rsu5_chunk')) {
     return 'RSU5 District Documents';
   }
-
   return filename.replace(/_/g, ' ').replace('.txt', '');
 }
 
@@ -59,15 +52,3 @@ ${context}`,
 
   return result.toTextStreamResponse();
 }
-```
-
-For the white text in the input box — that's a CSS issue in `page.tsx`. In the input element, add `text-gray-900` to the className. Here's the input line to find and replace:
-
-Find:
-```
-className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#8B1A1A] focus:border-transparent"
-```
-
-Replace with:
-```
-className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-sm text-gray-900 bg-white focus:outline-none focus:ring-2 focus:ring-[#8B1A1A] focus:border-transparent"
