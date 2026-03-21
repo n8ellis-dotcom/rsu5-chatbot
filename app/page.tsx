@@ -1,7 +1,6 @@
 'use client';
 
-import { useChat } from '@ai-sdk/react';
-import { useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 
 const SUGGESTED = [
   "What positions are being reduced in the FY27 superintendent's recommended budget?",
@@ -11,27 +10,64 @@ const SUGGESTED = [
   "What did the board discuss about the FY27 budget at the November 2025 meeting?",
 ];
 
+interface Message {
+  id: string;
+  role: 'user' | 'assistant';
+  content: string;
+}
+
 export default function Home() {
-  const { messages, input, handleInputChange, handleSubmit, isLoading, setInput } = useChat();
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [input, setInput] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
 
-  function getTextContent(msg: any): string {
-    if (typeof msg.content === 'string') return msg.content;
-    if (Array.isArray(msg.parts)) {
-      return msg.parts
-        .filter((p: any) => p.type === 'text')
-        .map((p: any) => p.text)
-        .join('');
-    }
-    return '';
-  }
+  async function sendMessage(text: string) {
+    if (!text.trim() || isLoading) return;
+    const userMsg: Message = { id: Date.now().toString(), role: 'user', content: text };
+    const newMessages = [...messages, userMsg];
+    setMessages(newMessages);
+    setInput('');
+    setIsLoading(true);
 
-  function handleSuggestedClick(q: string) {
-    setInput(q);
+    try {
+      const res = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ messages: newMessages }),
+      });
+
+      if (!res.body) throw new Error('No response body');
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let assistantContent = '';
+      const assistantId = (Date.now() + 1).toString();
+
+      setMessages(prev => [...prev, { id: assistantId, role: 'assistant', content: '' }]);
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value);
+        const lines = chunk.split('\n');
+        for (const line of lines) {
+          if (line.startsWith('0:')) {
+            try {
+              const text = JSON.parse(line.slice(2));
+              assistantContent += text;
+              setMessages(prev => prev.map(m => m.id === assistantId ? { ...m, content: assistantContent } : m));
+            } catch {}
+          }
+        }
+      }
+    } catch (e) {
+      setMessages(prev => [...prev, { id: Date.now().toString(), role: 'assistant', content: 'Sorry, something went wrong. Please try again.' }]);
+    }
+    setIsLoading(false);
   }
 
   return (
@@ -69,7 +105,7 @@ export default function Home() {
               {SUGGESTED.map((q) => (
                 <button
                   key={q}
-                  onClick={() => handleSuggestedClick(q)}
+                  onClick={() => sendMessage(q)}
                   className="text-left text-sm text-[#8B1A1A] bg-red-50 hover:bg-red-100 border border-red-200 rounded px-3 py-2 transition-colors"
                 >
                   {q}
@@ -80,16 +116,12 @@ export default function Home() {
         )}
 
         <div className="flex flex-col gap-4">
-          {messages.map((m: any) => (
+          {messages.map((m) => (
             <div key={m.id} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-              <div
-                className={`max-w-[85%] rounded-lg px-4 py-3 text-sm shadow-sm whitespace-pre-wrap ${
-                  m.role === 'user'
-                    ? 'bg-[#8B1A1A] text-white'
-                    : 'bg-white border border-gray-200 text-gray-800'
-                }`}
-              >
-                {getTextContent(m)}
+              <div className={`max-w-[85%] rounded-lg px-4 py-3 text-sm shadow-sm whitespace-pre-wrap ${
+                m.role === 'user' ? 'bg-[#8B1A1A] text-white' : 'bg-white border border-gray-200 text-gray-800'
+              }`}>
+                {m.content}
               </div>
             </div>
           ))}
@@ -106,22 +138,23 @@ export default function Home() {
 
       <div className="sticky bottom-0 bg-white border-t border-gray-200 shadow-md">
         <div className="max-w-3xl mx-auto px-4 py-3">
-          <form onSubmit={handleSubmit} className="flex gap-2">
+          <div className="flex gap-2">
             <input
               value={input}
-              onChange={(e) => handleInputChange(e)}
+              onChange={(e) => setInput(e.target.value)}
+              onKeyDown={(e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMessage(input); } }}
               placeholder="Ask a question about RSU5..."
               disabled={isLoading}
               className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#8B1A1A] focus:border-transparent"
             />
             <button
-              type="submit"
-              disabled={isLoading || !input?.trim()}
+              onClick={() => sendMessage(input)}
+              disabled={isLoading || !input.trim()}
               className="bg-[#8B1A1A] hover:bg-[#7a1717] disabled:bg-gray-300 text-white rounded-lg px-4 py-2 text-sm font-medium transition-colors"
             >
               ▶
             </button>
-          </form>
+          </div>
           <p className="text-xs text-gray-400 mt-1 text-center">
             RSU5 Community Assistant · Powered by Claude AI · Not an official district resource
           </p>
