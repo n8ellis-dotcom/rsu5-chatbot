@@ -1,25 +1,19 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { findRelevantChunks } from '@/lib/search';
 
-export const maxDuration = 30;
+export const maxDuration = 60;
 
-const COMPLEX_INDICATORS = [
-  'compare', 'why', 'explain', 'how did', 'across', 'over time',
-  'summarize', 'what changed', 'trend', 'difference', 'history',
-  'pattern', 'evolve', 'progress', 'analyze', 'analysis', 'impact',
-  'relationship', 'connect', 'multiple', 'several', 'throughout'
+const DEEPER_INDICATORS = [
+  'tell me more', 'elaborate', 'explain more', 'dig deeper', 'more detail',
+  'expand on', 'can you explain', 'what do you mean', 'go deeper',
+  'more about', 'further', 'in depth', 'deeper dive'
 ];
 
-function selectModel(query: string, messages: { role: string }[]): string {
-  const userMessages = messages.filter(m => m.role === 'user');
-  const isFollowUp = userMessages.length > 1;
-  const isComplex = COMPLEX_INDICATORS.some(word =>
-    query.toLowerCase().includes(word)
+function selectModel(query: string): string {
+  const wantsDeeperDive = DEEPER_INDICATORS.some(phrase =>
+    query.toLowerCase().includes(phrase)
   );
-  if (isFollowUp || isComplex) {
-    return 'claude-sonnet-4-5';
-  }
-  return 'claude-haiku-4-5-20251001';
+  return wantsDeeperDive ? 'claude-sonnet-4-5' : 'claude-haiku-4-5-20251001';
 }
 
 function formatSource(filepath: string, sourceUrl?: string | null): string {
@@ -57,8 +51,8 @@ export async function POST(req: Request) {
   const isAdmin = adminMatch !== null;
   const actualQuery = isAdmin ? adminMatch[1] : lastUserMessage;
 
-  const model = selectModel(actualQuery, messages);
-  const chunkLimit = (model === 'claude-sonnet-4-5') ? 6 : 5;
+  const model = selectModel(actualQuery);
+  const chunkLimit = model === 'claude-sonnet-4-5' ? 6 : 5;
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
@@ -86,22 +80,43 @@ ${context}`;
     content: m.role === 'user' && adminMatch ? actualQuery : m.content,
   }));
 
-  const response = await client.messages.create({
+  // Admin mode — no streaming, need full response for debug info
+  if (isAdmin) {
+    const response = await client.messages.create({
+      model,
+      max_tokens: 1024,
+      system: systemPrompt,
+      messages: anthropicMessages,
+    });
+    const answerText = response.content
+      .filter((block) => block.type === 'text')
+      .map((block) => block.text)
+      .join('');
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
+  }
+
+  // Public mode — stream the response
+  const stream = await client.messages.stream({
     model,
     max_tokens: 1024,
     system: systemPrompt,
     messages: anthropicMessages,
   });
 
-  const answerText = response.content
-    .filter((block) => block.type === 'text')
-    .map((block) => block.text)
-    .join('');
+  const encoder = new TextEncoder();
+  const readable = new ReadableStream({
+    async start(controller) {
+      for await (const chunk of stream) {
+        if (chunk.type === 'content_block_delta' && chunk.delta.type === 'text_delta') {
+          controller.enqueue(encoder.encode(chunk.delta.text));
+        }
+      }
+      controller.close();
+    },
+  });
 
-  if (isAdmin) {
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
-    return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
-  }
-
-  return new Response(answerText, { headers: { 'Content-Type': 'text/plain' } });
+  return new Response(readable, {
+    headers: { 'Content-Type': 'text/plain; charset=utf-8' },
+  });
 }
