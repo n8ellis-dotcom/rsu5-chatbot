@@ -60,7 +60,7 @@ ${context}`;
   });
 
   const answerText = response.content
-    .filter((block) => block.type === 'text')
+    .filter((block) => block.type === 'text') 
     .map((block) => block.text)
     .join('');
 
