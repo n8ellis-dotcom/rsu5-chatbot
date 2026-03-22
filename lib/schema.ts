@@ -1,3 +1,4 @@
+cat > ~/rsu5-chatbot/lib/schema.ts << 'ENDOFFILE'
 import { pgTable, serial, text, vector, index } from 'drizzle-orm/pg-core';
 
 export const embeddings = pgTable(
@@ -8,6 +9,9 @@ export const embeddings = pgTable(
     chunk: text('chunk').notNull(),
     embedding: vector('embedding', { dimensions: 1536 }).notNull(),
     source_url: text('source_url'),
+    doc_type: text('doc_type'),
+    school: text('school'),
+    doc_date: text('doc_date'),
   },
   (table) => ({
     embeddingIndex: index('embeddingIndex').using(
@@ -15,4 +19,6 @@ export const embeddings = pgTable(
       table.embedding.op('vector_cosine_ops')
     ),
   })
-); 
+);
+ENDOFFILE
+echo "schema.ts written"
