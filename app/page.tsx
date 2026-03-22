@@ -127,8 +127,13 @@ export default function Home() {
           ))}
           {isLoading && (
             <div className="flex justify-start">
-              <div className="bg-white border border-gray-200 rounded-lg px-4 py-3 text-sm text-gray-400 shadow-sm">
-                Searching RSU5 documents...
+              <div className="bg-white border border-gray-200 rounded-lg px-4 py-3 text-sm text-gray-400 shadow-sm flex items-center gap-2">
+                <span className="flex gap-1">
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '0ms'}}></span>
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '150ms'}}></span>
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '300ms'}}></span>
+                </span>
+                Searching RSU5 documents…
               </div>
             </div>
           )}
