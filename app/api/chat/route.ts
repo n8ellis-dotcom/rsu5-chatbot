@@ -65,7 +65,7 @@ ${context}`;
     .join('');
 
   if (isAdmin) {
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Query:** ${actualQuery}\n\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${(1 - c.distance).toFixed(3)}\` | Source: ${formatSource(c.filepath)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Query:** ${actualQuery}\n\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, {
       headers: { 'Content-Type': 'text/plain' },
     });
