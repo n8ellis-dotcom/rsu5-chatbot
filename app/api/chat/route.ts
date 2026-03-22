@@ -1,3 +1,4 @@
+cat > ~/rsu5-chatbot/app/api/chat/route.ts << 'ENDOFFILE'
 import Anthropic from '@anthropic-ai/sdk';
 import { findRelevantChunks } from '@/lib/search';
 
@@ -12,11 +13,18 @@ const DEEPER_INDICATORS = [
   'more comprehensive', 'flesh out', 'more context', 'more information'
 ];
 
+const SONNET_INDICATORS = [
+  'retirement', 'retirements', 'position', 'positions', 'cut', 'cuts',
+  'reduction', 'salary', 'salaries', 'budget', 'compare', 'history',
+  'over the years', 'trend', 'summarize', 'who spoke', 'list everyone',
+  'all of the', 'everything about'
+];
+
 function selectModel(query: string): string {
-  const wantsDeeperDive = DEEPER_INDICATORS.some(phrase =>
-    query.toLowerCase().includes(phrase)
-  );
-  return wantsDeeperDive ? 'claude-sonnet-4-5' : 'claude-haiku-4-5-20251001';
+  const q = query.toLowerCase();
+  if (DEEPER_INDICATORS.some(p => q.includes(p))) return 'claude-sonnet-4-5';
+  if (SONNET_INDICATORS.some(p => q.includes(p))) return 'claude-sonnet-4-5';
+  return 'claude-haiku-4-5-20251001';
 }
 
 function extractTimestamp(chunk: string): number | null {
@@ -65,9 +73,6 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
     const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
     return `RSU5 Board Meeting Transcript – 2026-03-18 ([Watch video${timeLabel}](${url}))`;
   }
-  if (filename.startsWith('rsu5_chunk')) {
-    return sourceUrl ? `RSU5 District Documents ([Source](${sourceUrl}))` : 'RSU5 District Documents';
-  }
   if (sourceUrl) {
     return `${filename.replace(/_/g, ' ').replace('.txt', '')} ([Source](${sourceUrl}))`;
   }
@@ -75,11 +80,11 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
 }
 
 function extractNameFromQuery(query: string): string | null {
-  // Match full names (First Last)
   const fullName = query.match(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/);
   if (fullName) return fullName[0];
-  // Match single capitalized names that look like people (not RSU5, Maine, etc.)
-  const skipWords = ['RSU5', 'Maine', 'Freeport', 'Durham', 'Pownal', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  const skipWords = ['RSU5','Maine','Freeport','Durham','Pownal','Monday','Tuesday',
+    'Wednesday','Thursday','Friday','January','February','March','April','May','June',
+    'July','August','September','October','November','December'];
   const singleName = query.match(/\b([A-Z][a-z]{2,})\b/g);
   if (singleName) {
     const name = singleName.find(n => !skipWords.includes(n));
@@ -114,7 +119,14 @@ export async function POST(req: Request) {
   }
 
   const context = allChunks.length > 0
-    ? allChunks.map((c) => `[Source: ${formatSource(c.filepath, c.source_url, c.chunk)}]\n${c.chunk}`).join('\n\n---\n\n')
+    ? allChunks.map((c) => {
+        const meta = [
+          c.doc_type ? `TYPE: ${c.doc_type}` : '',
+          c.doc_date ? `DATE: ${c.doc_date}` : '',
+          c.school ? `SCHOOL: ${c.school}` : '',
+        ].filter(Boolean).join(' | ');
+        return `[Source: ${formatSource(c.filepath, c.source_url, c.chunk)}${meta ? ` | ${meta}` : ''}]\n${c.chunk}`;
+      }).join('\n\n---\n\n')
     : 'No relevant documents found.';
 
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
@@ -123,7 +135,7 @@ export async function POST(req: Request) {
 You answer questions about RSU5 board meetings, budgets, policies, school calendars, and district decisions using only the official RSU5 documents provided below.
 
 KNOWN RSU5 FACTS (always accurate, do not contradict):
-- Superintendent: Tom Gray (tom.gray@rsu5.org)
+- Superintendent: Tom Gray (grayt@rsu5.org)
 - District: Regional School Unit 5, serving Freeport, Durham, and Pownal, Maine
 
 Guidelines:
@@ -131,8 +143,12 @@ Guidelines:
 - Always include the source link from the context when citing a source — format it as a clickable markdown link
 - The source links already include timestamps where available — use them exactly as provided
 - NEVER invent or guess names, titles, or contact information — if you cannot find it in the context, say so explicitly
+- When answering questions about budgets, positions, salaries, or current policies, always prefer the most recent documents (highest DATE values). If citing older data, note the year explicitly
+- When multiple chunks share the same source file, treat them as parts of the same document and synthesize them into a complete answer rather than treating each separately
+- When someone pushes back on your answer or asks to go deeper, look for additional context across all provided chunks from the same source before saying you don't have enough information
+- Do not second-guess a correct answer simply because someone challenges it — if your sources support the answer, stand by it and cite them
 - Be neutral and factual — do not take positions on policy debates
-- If the answer isn't in the provided context, say so clearly rather than guessing
+- If the answer is not in the provided context, say so clearly rather than guessing
 - Keep answers concise but complete
 - When presenting numerical data with multiple columns, always use a markdown table
 - Format lists and key figures clearly
@@ -156,7 +172,7 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${(c.similarity as number).toFixed(3)}\` | Type: ${c.doc_type || 'unknown'} | Date: ${c.doc_date || 'unknown'} | School: ${c.school || 'none'}\n> Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
@@ -183,3 +199,5 @@ ${context}`;
     headers: { 'Content-Type': 'text/plain; charset=utf-8' },
   });
 }
+ENDOFFILE
+echo "route.ts written"
