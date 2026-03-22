@@ -7,6 +7,7 @@ export const embeddings = pgTable(
     filepath: text('filepath').notNull(),
     chunk: text('chunk').notNull(),
     embedding: vector('embedding', { dimensions: 1536 }).notNull(),
+    source_url: text('source_url'),
   },
   (table) => ({
     embeddingIndex: index('embeddingIndex').using(
