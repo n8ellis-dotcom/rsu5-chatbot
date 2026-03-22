@@ -1,4 +1,3 @@
-cat > ~/rsu5-chatbot/lib/schema.ts << 'ENDOFFILE'
 import { pgTable, serial, text, vector, index } from 'drizzle-orm/pg-core';
 
 export const embeddings = pgTable(
@@ -20,5 +19,3 @@ export const embeddings = pgTable(
     ),
   })
 );
-ENDOFFILE
-echo "schema.ts written"
