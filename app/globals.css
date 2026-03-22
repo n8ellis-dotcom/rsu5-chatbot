@@ -24,3 +24,16 @@
 .markdown-body ul { padding-left: 20px; margin: 4px 0; }
 .markdown-body li { margin: 2px 0; }
 .markdown-body strong { font-weight: 600; }
+
+.markdown-body a {
+  color: #8B1A1A;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.markdown-body a:hover {
+  background-color: #fef2f2;
+  border-radius: 3px;
+  padding: 0 2px;
+}
