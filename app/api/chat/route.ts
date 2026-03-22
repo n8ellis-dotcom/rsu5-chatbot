@@ -46,7 +46,8 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
     const baseUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
     const seconds = chunk ? extractTimestamp(chunk) : null;
     const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
-    return `RSU5 Board Meeting Transcript – ${date} ([Watch video ~${formatTime(seconds)}](${url}))`;
+    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
+    return `RSU5 Board Meeting Transcript – ${date} ([Watch video${timeLabel}](${url}))`;
   }
   const boardMatch = filename.match(/(\d{4}-\d{2}-\d{2})_RSU5_Board_Meeting/);
   if (boardMatch) {
@@ -73,6 +74,20 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
   return filename.replace(/_/g, ' ').replace('.txt', '');
 }
 
+function extractNameFromQuery(query: string): string | null {
+  // Match full names (First Last)
+  const fullName = query.match(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/);
+  if (fullName) return fullName[0];
+  // Match single capitalized names that look like people (not RSU5, Maine, etc.)
+  const skipWords = ['RSU5', 'Maine', 'Freeport', 'Durham', 'Pownal', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  const singleName = query.match(/\b([A-Z][a-z]{2,})\b/g);
+  if (singleName) {
+    const name = singleName.find(n => !skipWords.includes(n));
+    if (name) return name;
+  }
+  return null;
+}
+
 export async function POST(req: Request) {
   const { messages } = await req.json();
   const lastUserMessage = [...messages].reverse().find((m: { role: string }) => m.role === 'user')?.content ?? '';
@@ -86,10 +101,10 @@ export async function POST(req: Request) {
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
-  // If query mentions a person's name, also search staff directory
-  const nameMatch = actualQuery.match(/\b[A-Z][a-z]+ [A-Z][a-z]+\b/);
-  const staffChunks = nameMatch
-    ? await findRelevantChunks(`${nameMatch[0]} RSU5 staff directory`, 2)
+  // If query mentions a name, also search staff directory
+  const detectedName = extractNameFromQuery(actualQuery);
+  const staffChunks = detectedName
+    ? await findRelevantChunks(`${detectedName} RSU5 staff directory`, 2)
     : [];
   const allChunks = [...relevantChunks];
   for (const sc of staffChunks) {
@@ -106,15 +121,22 @@ export async function POST(req: Request) {
 
   const systemPrompt = `You are the RSU5 Community Information Assistant — a neutral, factual resource for the Regional School Unit 5 community in Freeport, Durham, and Pownal, Maine.
 You answer questions about RSU5 board meetings, budgets, policies, school calendars, and district decisions using only the official RSU5 documents provided below.
+
+KNOWN RSU5 FACTS (always accurate, do not contradict):
+- Superintendent: Tom Gray (tom.gray@rsu5.org)
+- District: Regional School Unit 5, serving Freeport, Durham, and Pownal, Maine
+
 Guidelines:
 - Be accurate and cite your sources by mentioning the document or meeting date
 - Always include the source link from the context when citing a source — format it as a clickable markdown link
 - The source links already include timestamps where available — use them exactly as provided
+- NEVER invent or guess names, titles, or contact information — if you cannot find it in the context, say so explicitly
 - Be neutral and factual — do not take positions on policy debates
 - If the answer isn't in the provided context, say so clearly rather than guessing
 - Keep answers concise but complete
 - When presenting numerical data with multiple columns, always use a markdown table
 - Format lists and key figures clearly
+
 CONTEXT FROM RSU5 DOCUMENTS:
 ${context}`;
 
@@ -134,7 +156,7 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
