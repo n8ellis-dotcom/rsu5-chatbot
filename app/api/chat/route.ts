@@ -28,48 +28,6 @@ function extractTimestamp(chunk: string): number | null {
   return match[3] ? h * 3600 + m * 60 + s : m * 60 + s;
 }
 
-function formatSource(filepath: string, sourceUrl?: string | null, chunk?: string): string {
-  const filename = filepath.split('/').pop() || filepath;
-
-  const transcriptMatch = filename.match(/transcript_(\d{4}-\d{2}-\d{2})_([^_]+)/);
-  if (transcriptMatch) {
-    const date = transcriptMatch[1];
-    const videoId = transcriptMatch[2].replace('_part1', '').replace('_part2', '').replace('.txt', '');
-    const baseUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
-    const seconds = chunk ? extractTimestamp(chunk) : null;
-    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
-    return `RSU5 Board Meeting Transcript – ${date} ([Watch video ~${formatTime(seconds)}](${url}))`;
-  }
-
-  const boardMatch = filename.match(/(\d{4}-\d{2}-\d{2})_RSU5_Board_Meeting/);
-  if (boardMatch) {
-    const date = boardMatch[1];
-    const baseUrl = sourceUrl || `https://www.youtube.com/@rsu5livestream524`;
-    const seconds = chunk ? extractTimestamp(chunk) : null;
-    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
-    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
-    return `RSU5 Board Meeting Transcript – ${date} ([Watch video${timeLabel}](${url}))`;
-  }
-
-  if (filename.includes('RSU5_Meeting_3_18_26')) {
-    const seconds = chunk ? extractTimestamp(chunk) : null;
-    const baseUrl = `https://youtube.com/watch?v=5vc4AdOr5oM`;
-    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
-    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
-    return `RSU5 Board Meeting Transcript – 2026-03-18 ([Watch video${timeLabel}](${url}))`;
-  }
-
-  if (filename.startsWith('rsu5_chunk')) {
-    return sourceUrl ? `RSU5 District Documents ([Source](${sourceUrl}))` : 'RSU5 District Documents';
-  }
-
-  if (sourceUrl) {
-    return `${filename.replace(/_/g, ' ').replace('.txt', '')} ([Source](${sourceUrl}))`;
-  }
-
-  return filename.replace(/_/g, ' ').replace('.txt', '');
-}
-
 function formatTime(seconds: number | null): string {
   if (!seconds) return '';
   const h = Math.floor(seconds / 3600);
@@ -79,8 +37,40 @@ function formatTime(seconds: number | null): string {
   return `${m}:${String(s).padStart(2, '0')}`;
 }
 
-function formatSourceForContext(filepath: string, sourceUrl?: string | null, chunk?: string): string {
-  return formatSource(filepath, sourceUrl, chunk);
+function formatSource(filepath: string, sourceUrl?: string | null, chunk?: string): string {
+  const filename = filepath.split('/').pop() || filepath;
+  const transcriptMatch = filename.match(/transcript_(\d{4}-\d{2}-\d{2})_([^_]+)/);
+  if (transcriptMatch) {
+    const date = transcriptMatch[1];
+    const videoId = transcriptMatch[2].replace('_part1', '').replace('_part2', '').replace('.txt', '');
+    const baseUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    return `RSU5 Board Meeting Transcript – ${date} ([Watch video ~${formatTime(seconds)}](${url}))`;
+  }
+  const boardMatch = filename.match(/(\d{4}-\d{2}-\d{2})_RSU5_Board_Meeting/);
+  if (boardMatch) {
+    const date = boardMatch[1];
+    const baseUrl = sourceUrl || `https://www.youtube.com/@rsu5livestream524`;
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
+    return `RSU5 Board Meeting Transcript – ${date} ([Watch video${timeLabel}](${url}))`;
+  }
+  if (filename.includes('RSU5_Meeting_3_18_26')) {
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const baseUrl = `https://youtube.com/watch?v=5vc4AdOr5oM`;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
+    return `RSU5 Board Meeting Transcript – 2026-03-18 ([Watch video${timeLabel}](${url}))`;
+  }
+  if (filename.startsWith('rsu5_chunk')) {
+    return sourceUrl ? `RSU5 District Documents ([Source](${sourceUrl}))` : 'RSU5 District Documents';
+  }
+  if (sourceUrl) {
+    return `${filename.replace(/_/g, ' ').replace('.txt', '')} ([Source](${sourceUrl}))`;
+  }
+  return filename.replace(/_/g, ' ').replace('.txt', '');
 }
 
 export async function POST(req: Request) {
@@ -96,8 +86,20 @@ export async function POST(req: Request) {
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
-  const context = relevantChunks.length > 0
-    ? relevantChunks.map((c) => `[Source: ${formatSourceForContext(c.filepath, c.source_url, c.chunk)}]\n${c.chunk}`).join('\n\n---\n\n')
+  // If query mentions a person's name, also search staff directory
+  const nameMatch = actualQuery.match(/\b[A-Z][a-z]+ [A-Z][a-z]+\b/);
+  const staffChunks = nameMatch
+    ? await findRelevantChunks(`${nameMatch[0]} RSU5 staff directory`, 2)
+    : [];
+  const allChunks = [...relevantChunks];
+  for (const sc of staffChunks) {
+    if (!allChunks.find(c => c.chunk === sc.chunk)) {
+      allChunks.push(sc);
+    }
+  }
+
+  const context = allChunks.length > 0
+    ? allChunks.map((c) => `[Source: ${formatSource(c.filepath, c.source_url, c.chunk)}]\n${c.chunk}`).join('\n\n---\n\n')
     : 'No relevant documents found.';
 
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
@@ -132,7 +134,7 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
