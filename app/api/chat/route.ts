@@ -3,6 +3,25 @@ import { findRelevantChunks } from '@/lib/search';
 
 export const maxDuration = 30;
 
+const COMPLEX_INDICATORS = [
+  'compare', 'why', 'explain', 'how did', 'across', 'over time',
+  'summarize', 'what changed', 'trend', 'difference', 'history',
+  'pattern', 'evolve', 'progress', 'analyze', 'analysis', 'impact',
+  'relationship', 'connect', 'multiple', 'several', 'throughout'
+];
+
+function selectModel(query: string, messages: { role: string }[]): string {
+  const userMessages = messages.filter(m => m.role === 'user');
+  const isFollowUp = userMessages.length > 1;
+  const isComplex = COMPLEX_INDICATORS.some(word =>
+    query.toLowerCase().includes(word)
+  );
+  if (isFollowUp || isComplex) {
+    return 'claude-sonnet-4-5';
+  }
+  return 'claude-haiku-4-5-20251001';
+}
+
 function formatSource(filepath: string, sourceUrl?: string | null): string {
   const filename = filepath.split('/').pop() || filepath;
   const transcriptMatch = filename.match(/transcript_(\d{4}-\d{2}-\d{2})_([^_]+)/);
@@ -12,7 +31,6 @@ function formatSource(filepath: string, sourceUrl?: string | null): string {
     const ytUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
     return `RSU5 Board Meeting Transcript – ${date} ([Watch video](${ytUrl}))`;
   }
-  // For board meeting files with different naming
   const boardMatch = filename.match(/(\d{4}-\d{2}-\d{2})_RSU5_Board_Meeting/);
   if (boardMatch) {
     const date = boardMatch[1];
@@ -39,7 +57,10 @@ export async function POST(req: Request) {
   const isAdmin = adminMatch !== null;
   const actualQuery = isAdmin ? adminMatch[1] : lastUserMessage;
 
-  const relevantChunks = await findRelevantChunks(actualQuery, 8);
+  const model = selectModel(actualQuery, messages);
+  const chunkLimit = (model === 'claude-sonnet-4-5') ? 6 : 5;
+
+  const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
   const context = relevantChunks.length > 0
     ? relevantChunks.map((c) => `[Source: ${formatSource(c.filepath, c.source_url)}]\n${c.chunk}`).join('\n\n---\n\n')
@@ -66,7 +87,7 @@ ${context}`;
   }));
 
   const response = await client.messages.create({
-    model: 'claude-sonnet-4-5',
+    model,
     max_tokens: 1024,
     system: systemPrompt,
     messages: anthropicMessages,
@@ -78,7 +99,7 @@ ${context}`;
     .join('');
 
   if (isAdmin) {
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Query:** ${actualQuery}\n\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
