@@ -15,4 +15,4 @@ export const embeddings = pgTable(
       table.embedding.op('vector_cosine_ops')
     ),
   })
-);
+); 
