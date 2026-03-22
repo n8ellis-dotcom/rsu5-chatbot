@@ -19,31 +19,68 @@ function selectModel(query: string): string {
   return wantsDeeperDive ? 'claude-sonnet-4-5' : 'claude-haiku-4-5-20251001';
 }
 
-function formatSource(filepath: string, sourceUrl?: string | null): string {
+function extractTimestamp(chunk: string): number | null {
+  const match = chunk.match(/\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]/);
+  if (!match) return null;
+  const h = match[3] ? parseInt(match[1]) : 0;
+  const m = match[3] ? parseInt(match[2]) : parseInt(match[1]);
+  const s = match[3] ? parseInt(match[3]) : parseInt(match[2]);
+  return match[3] ? h * 3600 + m * 60 + s : m * 60 + s;
+}
+
+function formatSource(filepath: string, sourceUrl?: string | null, chunk?: string): string {
   const filename = filepath.split('/').pop() || filepath;
+
   const transcriptMatch = filename.match(/transcript_(\d{4}-\d{2}-\d{2})_([^_]+)/);
   if (transcriptMatch) {
     const date = transcriptMatch[1];
     const videoId = transcriptMatch[2].replace('_part1', '').replace('_part2', '').replace('.txt', '');
-    const ytUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
-    return `RSU5 Board Meeting Transcript – ${date} ([Watch video](${ytUrl}))`;
+    const baseUrl = sourceUrl || `https://youtube.com/watch?v=${videoId}`;
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    return `RSU5 Board Meeting Transcript – ${date} ([Watch video ~${formatTime(seconds)}](${url}))`;
   }
+
   const boardMatch = filename.match(/(\d{4}-\d{2}-\d{2})_RSU5_Board_Meeting/);
   if (boardMatch) {
     const date = boardMatch[1];
-    const url = sourceUrl || `https://www.youtube.com/@rsu5livestream524`;
-    return `RSU5 Board Meeting Transcript – ${date} ([Watch video](${url}))`;
+    const baseUrl = sourceUrl || `https://www.youtube.com/@rsu5livestream524`;
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
+    return `RSU5 Board Meeting Transcript – ${date} ([Watch video${timeLabel}](${url}))`;
   }
+
   if (filename.includes('RSU5_Meeting_3_18_26')) {
-    return `RSU5 Board Meeting Transcript – 2026-03-18 ([Watch video](https://youtube.com/watch?v=5vc4AdOr5oM))`;
+    const seconds = chunk ? extractTimestamp(chunk) : null;
+    const baseUrl = `https://youtube.com/watch?v=5vc4AdOr5oM`;
+    const url = seconds ? `${baseUrl}&t=${seconds}` : baseUrl;
+    const timeLabel = seconds ? ` ~${formatTime(seconds)}` : '';
+    return `RSU5 Board Meeting Transcript – 2026-03-18 ([Watch video${timeLabel}](${url}))`;
   }
+
   if (filename.startsWith('rsu5_chunk')) {
     return sourceUrl ? `RSU5 District Documents ([Source](${sourceUrl}))` : 'RSU5 District Documents';
   }
+
   if (sourceUrl) {
     return `${filename.replace(/_/g, ' ').replace('.txt', '')} ([Source](${sourceUrl}))`;
   }
+
   return filename.replace(/_/g, ' ').replace('.txt', '');
+}
+
+function formatTime(seconds: number | null): string {
+  if (!seconds) return '';
+  const h = Math.floor(seconds / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  const s = seconds % 60;
+  if (h > 0) return `${h}:${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+  return `${m}:${String(s).padStart(2, '0')}`;
+}
+
+function formatSourceForContext(filepath: string, sourceUrl?: string | null, chunk?: string): string {
+  return formatSource(filepath, sourceUrl, chunk);
 }
 
 export async function POST(req: Request) {
@@ -60,7 +97,7 @@ export async function POST(req: Request) {
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
   const context = relevantChunks.length > 0
-    ? relevantChunks.map((c) => `[Source: ${formatSource(c.filepath, c.source_url)}]\n${c.chunk}`).join('\n\n---\n\n')
+    ? relevantChunks.map((c) => `[Source: ${formatSourceForContext(c.filepath, c.source_url, c.chunk)}]\n${c.chunk}`).join('\n\n---\n\n')
     : 'No relevant documents found.';
 
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
@@ -70,7 +107,7 @@ You answer questions about RSU5 board meetings, budgets, policies, school calend
 Guidelines:
 - Be accurate and cite your sources by mentioning the document or meeting date
 - Always include the source link from the context when citing a source — format it as a clickable markdown link
-- When citing a board meeting transcript, look for a timestamp like [8:24] or [1:12:34] near the relevant content and append it to the YouTube link as ?t=X where X is the time converted to total seconds — for example [8:24] becomes ?t=504 and [1:12:34] becomes ?t=4354 — so viewers can jump directly to that moment
+- The source links already include timestamps where available — use them exactly as provided
 - Be neutral and factual — do not take positions on policy debates
 - If the answer isn't in the provided context, say so clearly rather than guessing
 - Keep answers concise but complete
@@ -84,7 +121,6 @@ ${context}`;
     content: m.role === 'user' && adminMatch ? actualQuery : m.content,
   }));
 
-  // Admin mode — no streaming, need full response for debug info
   if (isAdmin) {
     const response = await client.messages.create({
       model,
@@ -96,11 +132,10 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${c.similarity.toFixed(3)}\` | Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
-  // Public mode — stream the response
   const stream = await client.messages.stream({
     model,
     max_tokens: 1024,
