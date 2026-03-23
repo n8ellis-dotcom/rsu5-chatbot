@@ -48,7 +48,7 @@ export async function findRelevantChunks(
       .select({
         filepath: embeddings.filepath,
         chunk: embeddings.chunk,
-        similarity: sql<numsimilarity: sql<number>`cast(0.95 as float8)`,ber>`0.95`,
+        similarity: sql<number>`cast(0.95 as float8)`,
         source_url: embeddings.source_url,
         doc_type: embeddings.doc_type,
         school: embeddings.school,
