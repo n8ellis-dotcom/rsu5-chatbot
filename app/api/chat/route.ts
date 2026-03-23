@@ -72,16 +72,17 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
 
 function extractNameFromQuery(query: string): string | null {
   const skipWords = [
+    'What', 'When', 'Where', 'Which', 'Who', 'Why', 'How', 'Does', 'Did',
+    'Can', 'Could', 'Would', 'Should', 'Has', 'Have', 'Had', 'Are', 'Was',
+    'Were', 'Will', 'The', 'This', 'That', 'These', 'Those',
     'RSU5', 'Maine', 'Freeport', 'Durham', 'Pownal', 'Monday', 'Tuesday',
     'Wednesday', 'Thursday', 'Friday', 'January', 'February', 'March', 'April',
     'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'
   ];
+  // Only match full two-word names — never single words
   const fullName = query.match(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/);
-  if (fullName) return fullName[0];
-  const singleName = query.match(/\b([A-Z][a-z]{2,})\b/g);
-  if (singleName) {
-    const name = singleName.find(n => !skipWords.includes(n));
-    if (name) return name;
+  if (fullName && !skipWords.includes(fullName[1]) && !skipWords.includes(fullName[2])) {
+    return fullName[0];
   }
   return null;
 }
@@ -135,7 +136,7 @@ Guidelines:
 - When someone pushes back on your answer or asks to go deeper, look for additional context across all provided chunks from the same source before saying you do not have enough information
 - Do not second-guess a correct answer simply because someone challenges it — if your sources support the answer, stand by it and cite them
 - Be neutral and factual — do not take positions on policy debates
-- If the answer is not in the provided context, say so clearly rather than guessing
+- If the answer is not in the provided context, say so in one sentence and suggest visiting rsu5.org directly — do not pad the response with generic contact information or lists of phone numbers
 - Keep answers concise but complete
 - When presenting numerical data with multiple columns, always use a markdown table
 - Format lists and key figures clearly
