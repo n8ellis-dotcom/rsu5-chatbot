@@ -184,10 +184,12 @@ export async function findRelevantChunks(
   const priorityFilepaths = [...budgetFilepaths, ...dateFilepaths, ...nameFilepaths, ...vectorFilepaths];
   const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 4);
 
-  const allChunks: ChunkResult[] = [];
+ const allChunks: ChunkResult[] = [];
   for (const fp of uniqueFilepaths) {
     const docChunks = await getFullDocument(db, fp);
-    allChunks.push(...docChunks);
+    // For history/multi-year queries cap per doc so multiple years fit
+    const cap = isBudgetHistoryQuery ? 8 : docChunks.length;
+    allChunks.push(...docChunks.slice(0, cap));
   }
 
   // Deduplicate
@@ -201,5 +203,5 @@ export async function findRelevantChunks(
     }
   }
 
-  return merged.slice(0, limit);
+  return merged.slice(0, isBudgetHistoryQuery ? 40 : limit);
 }
