@@ -9,24 +9,8 @@ const RECENCY_KEYWORDS = [
   'proposed', '2025', '2026'
 ];
 
-// Simple in-memory embedding cache — avoids repeat OpenAI calls
-const embeddingCache = new Map<string, number[]>();
-const CACHE_MAX = 50;
-
-async function getCachedEmbedding(query: string): Promise<number[]> {
-  const key = query.toLowerCase().trim();
-  if (embeddingCache.has(key)) return embeddingCache.get(key)!;
-  const embedding = await generateEmbedding(query);
-  if (embeddingCache.size >= CACHE_MAX) {
-    embeddingCache.delete(embeddingCache.keys().next().value);
-  }
-  embeddingCache.set(key, embedding);
-  return embedding;
-}
-
 function needsRecencyBoost(query: string): boolean {
-  const q = query.toLowerCase();
-  return RECENCY_KEYWORDS.some(k => q.includes(k));
+  return RECENCY_KEYWORDS.some(k => query.toLowerCase().includes(k));
 }
 
 function recencyScore(docDate: string | null): number {
@@ -42,7 +26,7 @@ function recencyScore(docDate: string | null): number {
 
 export async function findRelevantChunks(query: string, limit = 4) {
   const db = getDb();
-  const queryEmbedding = await getCachedEmbedding(query);
+  const queryEmbedding = await generateEmbedding(query);
   const similarity = sql<number>`1 - (${cosineDistance(embeddings.embedding, queryEmbedding)})`;
   const boost = needsRecencyBoost(query);
 
