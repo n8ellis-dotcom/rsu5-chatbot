@@ -5,7 +5,7 @@ export const maxDuration = 60;
 
 const DEEPER_INDICATORS = [
   'tell me more', 'elaborate', 'explain more', 'dig deeper', 'more detail',
-  'expand on', 'can you explain', 'what do you mean', 'go deeper
+  'expand on', 'can you explain', 'what do you mean', 'go deeper',
   'more about', 'further', 'in depth', 'deeper dive', 'try harder',
   'more thorough', 'be more specific', 'give me more', 'not enough',
   'too vague', 'more complete', 'full answer', 'complete answer',
