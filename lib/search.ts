@@ -32,6 +32,7 @@ function extractDatePrefix(query: string): string | null {
 }
 
 async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): Promise<ChunkResult[]> {
+  const filename = filepath.split('/').pop() || filepath;
   return (await db
     .select({
       filepath: embeddings.filepath,
@@ -41,9 +42,10 @@ async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): 
       doc_type: embeddings.doc_type,
       school: embeddings.school,
       doc_date: embeddings.doc_date,
+      chunk_index: embeddings.chunkIndex,
     })
     .from(embeddings)
-    .where(like(embeddings.filepath, `%${filepath.split('/').pop()}%`))
+    .where(like(embeddings.filepath, `%${filename}%`))
     .orderBy(asc(embeddings.chunkIndex))) as ChunkResult[];
 }
 
@@ -59,7 +61,6 @@ export async function findRelevantChunks(
 
   // ── Stage 1: Identify relevant files ────────────────────────────────────────
 
-  // Date match: find files whose filepath or doc_date matches the detected date
   let dateFilepaths: string[] = [];
   if (datePrefix) {
     const dateHits = await db
@@ -75,7 +76,6 @@ export async function findRelevantChunks(
     dateFilepaths = [...new Set(dateHits.map(r => r.filepath))];
   }
 
-  // Name match: find files whose chunks mention the person
   let nameFilepaths: string[] = [];
   if (name) {
     const nameHits = await db
@@ -86,7 +86,6 @@ export async function findRelevantChunks(
     nameFilepaths = [...new Set(nameHits.map(r => r.filepath))].slice(0, 3);
   }
 
-  // Vector match: find top semantically similar chunks, extract their filepaths
   const vectorHits = await db
     .select({
       filepath: embeddings.filepath,
@@ -98,13 +97,9 @@ export async function findRelevantChunks(
     .limit(20);
   const vectorFilepaths = [...new Set(vectorHits.map(r => r.filepath))].slice(0, 3);
 
-  // ── Stage 2: Fetch full documents for each identified file ───────────────────
+  // ── Stage 2: Fetch full documents ────────────────────────────────────────────
 
-  const priorityFilepaths = [
-    ...dateFilepaths,
-    ...nameFilepaths,
-    ...vectorFilepaths,
-  ];
+  const priorityFilepaths = [...dateFilepaths, ...nameFilepaths, ...vectorFilepaths];
   const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 3);
 
   const allChunks: ChunkResult[] = [];
