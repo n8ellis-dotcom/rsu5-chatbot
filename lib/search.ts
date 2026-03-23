@@ -1,4 +1,4 @@
-import { cosineDistance, desc, gt, sql, or, like } from 'drizzle-orm';
+import { cosineDistance, desc, gt, sql, or, like, asc } from 'drizzle-orm';
 import { getDb } from './db';
 import { embeddings } from './schema';
 import { generateEmbedding } from './embeddings';
@@ -31,6 +31,22 @@ function extractDatePrefix(query: string): string | null {
   return null;
 }
 
+async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): Promise<ChunkResult[]> {
+  return (await db
+    .select({
+      filepath: embeddings.filepath,
+      chunk: embeddings.chunk,
+      similarity: sql<number>`cast(0.95 as float8)`,
+      source_url: embeddings.source_url,
+      doc_type: embeddings.doc_type,
+      school: embeddings.school,
+      doc_date: embeddings.doc_date,
+    })
+    .from(embeddings)
+    .where(like(embeddings.filepath, `%${filepath.split('/').pop()}%`))
+    .orderBy(asc(embeddings.chunkIndex))) as ChunkResult[];
+}
+
 export async function findRelevantChunks(
   query: string,
   limit = 10,
@@ -41,19 +57,13 @@ export async function findRelevantChunks(
   const similarity = sql<number>`1 - (${cosineDistance(embeddings.embedding, queryEmbedding)})`;
   const datePrefix = extractDatePrefix(query);
 
-  // Date-targeted lookup: inject chunks from the matching date document directly
-  let dateChunks: ChunkResult[] = [];
+  // ── Stage 1: Identify relevant files ────────────────────────────────────────
+
+  // Date match: find files whose filepath or doc_date matches the detected date
+  let dateFilepaths: string[] = [];
   if (datePrefix) {
-    dateChunks = (await db
-      .select({
-        filepath: embeddings.filepath,
-        chunk: embeddings.chunk,
-        similarity: sql<number>`cast(0.95 as float8)`,
-        source_url: embeddings.source_url,
-        doc_type: embeddings.doc_type,
-        school: embeddings.school,
-        doc_date: embeddings.doc_date,
-      })
+    const dateHits = await db
+      .select({ filepath: embeddings.filepath })
       .from(embeddings)
       .where(
         or(
@@ -61,52 +71,58 @@ export async function findRelevantChunks(
           like(embeddings.doc_date, `${datePrefix}%`)
         )
       )
-      .limit(5)) as ChunkResult[];
+      .limit(3);
+    dateFilepaths = [...new Set(dateHits.map(r => r.filepath))];
   }
 
-  // Name-targeted lookup: inject chunks that mention the person directly
-  let nameChunks: ChunkResult[] = [];
+  // Name match: find files whose chunks mention the person
+  let nameFilepaths: string[] = [];
   if (name) {
-    nameChunks = (await db
-      .select({
-        filepath: embeddings.filepath,
-        chunk: embeddings.chunk,
-        similarity: sql<number>`cast(0.92 as float8)`,
-        source_url: embeddings.source_url,
-        doc_type: embeddings.doc_type,
-        school: embeddings.school,
-        doc_date: embeddings.doc_date,
-      })
+    const nameHits = await db
+      .select({ filepath: embeddings.filepath })
       .from(embeddings)
       .where(like(embeddings.chunk, `%${name}%`))
-      .limit(5)) as ChunkResult[];
+      .limit(20);
+    nameFilepaths = [...new Set(nameHits.map(r => r.filepath))].slice(0, 3);
   }
 
-  // Standard vector search
-  const vectorResults = (await db
+  // Vector match: find top semantically similar chunks, extract their filepaths
+  const vectorHits = await db
     .select({
       filepath: embeddings.filepath,
-      chunk: embeddings.chunk,
       similarity,
-      source_url: embeddings.source_url,
-      doc_type: embeddings.doc_type,
-      school: embeddings.school,
-      doc_date: embeddings.doc_date,
     })
     .from(embeddings)
     .where(gt(similarity, 0.25))
     .orderBy(desc(similarity))
-    .limit(limit)) as ChunkResult[];
+    .limit(20);
+  const vectorFilepaths = [...new Set(vectorHits.map(r => r.filepath))].slice(0, 3);
 
-  // Merge: date and name chunks first, then vector results, deduplicated
+  // ── Stage 2: Fetch full documents for each identified file ───────────────────
+
+  const priorityFilepaths = [
+    ...dateFilepaths,
+    ...nameFilepaths,
+    ...vectorFilepaths,
+  ];
+  const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 3);
+
+  const allChunks: ChunkResult[] = [];
+  for (const fp of uniqueFilepaths) {
+    const docChunks = await getFullDocument(db, fp);
+    allChunks.push(...docChunks);
+  }
+
+  // Deduplicate
   const seen = new Set<string>();
   const merged: ChunkResult[] = [];
-  for (const r of [...dateChunks, ...nameChunks, ...vectorResults]) {
+  for (const r of allChunks) {
     const key = `${r.filepath}::${r.chunk.slice(0, 80)}`;
     if (!seen.has(key)) {
       seen.add(key);
       merged.push(r);
     }
   }
+
   return merged.slice(0, limit);
 }
