@@ -78,7 +78,7 @@ function extractNameFromQuery(query: string): string | null {
     'RSU5', 'Maine', 'Freeport', 'Durham', 'Pownal', 'Monday', 'Tuesday',
     'Wednesday', 'Thursday', 'Friday', 'January', 'February', 'March', 'April',
     'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'
-  ];
+  ]; 
   // Only match full two-word names — never single words
   const fullName = query.match(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/);
   if (fullName && !skipWords.includes(fullName[1]) && !skipWords.includes(fullName[2])) {
