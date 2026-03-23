@@ -92,6 +92,7 @@ export async function POST(req: Request) {
   const isAdmin = adminMatch !== null;
   const actualQuery = isAdmin ? adminMatch[1] : lastUserMessage;
   if (actualQuery === 'ping') {
+    await findRelevantChunks('RSU5', 1);
     return new Response('ok', { headers: { 'Content-Type': 'text/plain' } });
   } 
 
@@ -100,16 +101,7 @@ export async function POST(req: Request) {
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
-  const detectedName = extractNameFromQuery(actualQuery);
-  const staffChunks = detectedName
-    ? await findRelevantChunks(`${detectedName} RSU5 staff directory`, 2)
-    : [];
   const allChunks = [...relevantChunks];
-  for (const sc of staffChunks) {
-    if (!allChunks.find(c => c.chunk === sc.chunk)) {
-      allChunks.push(sc);
-    }
-  }
 
   const context = allChunks.length > 0
     ? allChunks.map((c) => {
