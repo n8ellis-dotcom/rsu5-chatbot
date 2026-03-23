@@ -113,11 +113,11 @@ export async function findRelevantChunks(
       .from(embeddings)
       .where(
         or(
-          like(embeddings.filepath, '%budget_fy26%'),
-          like(embeddings.filepath, '%budget_fy25%'),
-          like(embeddings.filepath, '%budget_fy24%'),
-          like(embeddings.filepath, '%budget_fy23%'),
-          like(embeddings.filepath, '%budget_fy22%'),
+          like(embeddings.filepath, '%fy26_board_adopted_brochure%'),
+          like(embeddings.filepath, '%fy25_board_adopted_brochure%'),
+          like(embeddings.filepath, '%fy24_board_adopted_brochure%'),
+          like(embeddings.filepath, '%fy26_citizens_adopted%'),
+          like(embeddings.filepath, '%fy25_superintendent_recommended%'),
         )
       )
       .limit(20);
