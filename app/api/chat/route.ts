@@ -100,7 +100,7 @@ export async function POST(req: Request) {
   }
 
   const model = selectModel(actualQuery);
-  const chunkLimit = model === 'claude-sonnet-4-5' ? 12 : 10;
+  const chunkLimit = model === 'claude-sonnet-4-5' ? 40 : 40;
   const detectedName = extractNameFromQuery(actualQuery);
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit, detectedName ?? undefined);
