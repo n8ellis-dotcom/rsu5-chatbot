@@ -1,4 +1,4 @@
-import { pgTable, serial, text, vector, index } from 'drizzle-orm/pg-core';
+import { pgTable, serial, text, vector, integer, index } from 'drizzle-orm/pg-core';
 
 export const embeddings = pgTable(
   'embeddings',
@@ -11,11 +11,16 @@ export const embeddings = pgTable(
     doc_type: text('doc_type'),
     school: text('school'),
     doc_date: text('doc_date'),
+    chunk_index: integer('chunk_index'),
   },
   (table) => ({
     embeddingIndex: index('embeddingIndex').using(
       'hnsw',
       table.embedding.op('vector_cosine_ops')
+    ),
+    filepathIndex: index('embeddings_filepath_idx').using(
+      'btree',
+      table.filepath
     ),
   })
 );
