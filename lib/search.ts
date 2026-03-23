@@ -1,4 +1,4 @@
-import { cosineDistance, desc, gt, sql, or, like } from 'drizzle-orm';
+import { cosineDistance, desc, gt, sql, or, like, and, eq } from 'drizzle-orm';
 import { getDb } from './db';
 import { embeddings } from './schema';
 import { generateEmbedding } from './embeddings';
@@ -31,6 +31,11 @@ function extractDatePrefix(query: string): string | null {
   return null;
 }
 
+function prefersBoardMeeting(query: string): boolean {
+  const q = query.toLowerCase();
+  return ['meeting', 'vote', 'voted', 'board', 'transcript', 'motion', 'approved', 'agenda'].some(w => q.includes(w));
+}
+
 async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): Promise<ChunkResult[]> {
   const filename = filepath.split('/').pop() || filepath;
   const rows = await db.execute(
@@ -59,22 +64,43 @@ export async function findRelevantChunks(
   const queryEmbedding = await generateEmbedding(query);
   const similarity = sql<number>`1 - (${cosineDistance(embeddings.embedding, queryEmbedding)})`;
   const datePrefix = extractDatePrefix(query);
+  const wantsBoardMeeting = prefersBoardMeeting(query);
 
   // ── Stage 1: Identify relevant files ────────────────────────────────────────
 
   let dateFilepaths: string[] = [];
   if (datePrefix) {
-    const dateHits = await db
-      .select({ filepath: embeddings.filepath })
-      .from(embeddings)
-      .where(
-        or(
-          like(embeddings.filepath, `%${datePrefix}%`),
-          like(embeddings.doc_date, `${datePrefix}%`)
+    // If query is about a board meeting, try transcript doc_type first
+    if (wantsBoardMeeting) {
+      const transcriptHits = await db
+        .select({ filepath: embeddings.filepath })
+        .from(embeddings)
+        .where(
+          and(
+            or(
+              like(embeddings.filepath, `%${datePrefix}%`),
+              like(embeddings.doc_date, `${datePrefix}%`)
+            ),
+            eq(embeddings.doc_type, 'board_meeting_transcript')
+          )
         )
-      )
-      .limit(3);
-    dateFilepaths = [...new Set(dateHits.map(r => r.filepath))];
+        .limit(5);
+      dateFilepaths = [...new Set(transcriptHits.map(r => r.filepath))];
+    }
+    // Fall back to any doc type if no transcripts found
+    if (dateFilepaths.length === 0) {
+      const dateHits = await db
+        .select({ filepath: embeddings.filepath })
+        .from(embeddings)
+        .where(
+          or(
+            like(embeddings.filepath, `%${datePrefix}%`),
+            like(embeddings.doc_date, `${datePrefix}%`)
+          )
+        )
+        .limit(5);
+      dateFilepaths = [...new Set(dateHits.map(r => r.filepath))];
+    }
   }
 
   let nameFilepaths: string[] = [];
@@ -100,8 +126,9 @@ export async function findRelevantChunks(
 
   // ── Stage 2: Fetch full documents ────────────────────────────────────────────
 
+  // Date-matched transcripts get priority slots, then vector results fill the rest
   const priorityFilepaths = [...dateFilepaths, ...nameFilepaths, ...vectorFilepaths];
-  const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 3);
+  const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 4);
 
   const allChunks: ChunkResult[] = [];
   for (const fp of uniqueFilepaths) {
