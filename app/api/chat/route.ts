@@ -101,7 +101,7 @@ export async function POST(req: Request) {
   const actualQuery = isAdmin ? adminMatch[1] : lastUserMessage;
   if (actualQuery === 'ping') {
     return new Response('ok', { headers: { 'Content-Type': 'text/plain' } });
-  }
+  } 
 
   const model = selectModel(actualQuery);
   const chunkLimit = model === 'claude-sonnet-4-5' ? 6 : 5;
