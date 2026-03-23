@@ -1,4 +1,3 @@
-cat > ~/rsu5-chatbot/app/api/chat/route.ts << 'ENDOFFILE'
 import Anthropic from '@anthropic-ai/sdk';
 import { findRelevantChunks } from '@/lib/search';
 
@@ -106,7 +105,6 @@ export async function POST(req: Request) {
 
   const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
 
-  // If query mentions a name, also search staff directory
   const detectedName = extractNameFromQuery(actualQuery);
   const staffChunks = detectedName
     ? await findRelevantChunks(`${detectedName} RSU5 staff directory`, 2)
@@ -123,7 +121,7 @@ export async function POST(req: Request) {
         const meta = [
           c.doc_type ? `TYPE: ${c.doc_type}` : '',
           c.doc_date ? `DATE: ${c.doc_date}` : '',
-          c.school ? `SCHOOL: ${c.school}` : '',
+          c.school   ? `SCHOOL: ${c.school}` : '',
         ].filter(Boolean).join(' | ');
         return `[Source: ${formatSource(c.filepath, c.source_url, c.chunk)}${meta ? ` | ${meta}` : ''}]\n${c.chunk}`;
       }).join('\n\n---\n\n')
@@ -145,7 +143,7 @@ Guidelines:
 - NEVER invent or guess names, titles, or contact information — if you cannot find it in the context, say so explicitly
 - When answering questions about budgets, positions, salaries, or current policies, always prefer the most recent documents (highest DATE values). If citing older data, note the year explicitly
 - When multiple chunks share the same source file, treat them as parts of the same document and synthesize them into a complete answer rather than treating each separately
-- When someone pushes back on your answer or asks to go deeper, look for additional context across all provided chunks from the same source before saying you don't have enough information
+- When someone pushes back on your answer or asks to go deeper, look for additional context across all provided chunks from the same source before saying you do not have enough information
 - Do not second-guess a correct answer simply because someone challenges it — if your sources support the answer, stand by it and cite them
 - Be neutral and factual — do not take positions on policy debates
 - If the answer is not in the provided context, say so clearly rather than guessing
@@ -172,7 +170,7 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${(c.similarity as number).toFixed(3)}\` | Type: ${c.doc_type || 'unknown'} | Date: ${c.doc_date || 'unknown'} | School: ${c.school || 'none'}\n> Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${(c.similarity as number).toFixed(3)}\` | Type: ${c.doc_type || '?'} | Date: ${c.doc_date || '?'} | School: ${c.school || 'none'}\n> Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
@@ -199,5 +197,3 @@ ${context}`;
     headers: { 'Content-Type': 'text/plain; charset=utf-8' },
   });
 }
-ENDOFFILE
-echo "route.ts written"
