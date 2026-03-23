@@ -71,11 +71,13 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
 }
 
 function extractNameFromQuery(query: string): string | null {
+  const skipWords = [
+    'RSU5', 'Maine', 'Freeport', 'Durham', 'Pownal', 'Monday', 'Tuesday',
+    'Wednesday', 'Thursday', 'Friday', 'January', 'February', 'March', 'April',
+    'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'
+  ];
   const fullName = query.match(/\b([A-Z][a-z]+)\s+([A-Z][a-z]+)\b/);
   if (fullName) return fullName[0];
-  const skipWords = ['RSU5','Maine','Freeport','Durham','Pownal','Monday','Tuesday',
-    'Wednesday','Thursday','Friday','January','February','March','April','May','June',
-    'July','August','September','October','November','December'];
   const singleName = query.match(/\b([A-Z][a-z]{2,})\b/g);
   if (singleName) {
     const name = singleName.find(n => !skipWords.includes(n));
@@ -91,20 +93,20 @@ export async function POST(req: Request) {
   const adminMatch = lastUserMessage.match(/^admin:\s*(.+)$/i);
   const isAdmin = adminMatch !== null;
   const actualQuery = isAdmin ? adminMatch[1] : lastUserMessage;
+
   if (actualQuery === 'ping') {
     await findRelevantChunks('RSU5', 1);
     return new Response('ok', { headers: { 'Content-Type': 'text/plain' } });
-  } 
+  }
 
   const model = selectModel(actualQuery);
-  const chunkLimit = model === 'claude-sonnet-4-5' ? 6 : 5;
+  const chunkLimit = model === 'claude-sonnet-4-5' ? 12 : 10;
+  const detectedName = extractNameFromQuery(actualQuery);
 
-  const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit);
+  const relevantChunks = await findRelevantChunks(actualQuery, chunkLimit, detectedName ?? undefined);
 
-  const allChunks = [...relevantChunks];
-
-  const context = allChunks.length > 0
-    ? allChunks.map((c) => {
+  const context = relevantChunks.length > 0
+    ? relevantChunks.map((c) => {
         const meta = [
           c.doc_type ? `TYPE: ${c.doc_type}` : '',
           c.doc_date ? `DATE: ${c.doc_date}` : '',
@@ -149,7 +151,7 @@ ${context}`;
   if (isAdmin) {
     const response = await client.messages.create({
       model,
-      max_tokens: 512,
+      max_tokens: 1024,
       system: systemPrompt,
       messages: anthropicMessages,
     });
@@ -157,13 +159,13 @@ ${context}`;
       .filter((block) => block.type === 'text')
       .map((block) => block.text)
       .join('');
-    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${allChunks.length}\n\n${allChunks.map((c, i) => `**${i + 1}.** Score: \`${(c.similarity as number).toFixed(3)}\` | Type: ${c.doc_type || '?'} | Date: ${c.doc_date || '?'} | School: ${c.school || 'none'}\n> Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
+    const debugInfo = `\n\n---\n**🔧 Admin Debug Info**\n\n**Model used:** ${model}\n**Query:** ${actualQuery}\n**Detected name:** ${detectedName || 'none'}\n**Chunks found:** ${relevantChunks.length}\n\n${relevantChunks.map((c, i) => `**${i + 1}.** Score: \`${(c.similarity as number).toFixed(3)}\` | Type: ${c.doc_type || '?'} | Date: ${c.doc_date || '?'} | School: ${c.school || 'none'}\n> Source: ${formatSource(c.filepath, c.source_url, c.chunk)}\n> ${c.chunk.slice(0, 150)}...`).join('\n\n')}`;
     return new Response(answerText + debugInfo, { headers: { 'Content-Type': 'text/plain' } });
   }
 
   const stream = await client.messages.stream({
     model,
-    max_tokens: 512,
+    max_tokens: 1024,
     system: systemPrompt,
     messages: anthropicMessages,
   });
