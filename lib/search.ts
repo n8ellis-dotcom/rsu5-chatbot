@@ -164,4 +164,20 @@ export async function findRelevantChunks(
 
   const allChunks: ChunkResult[] = [];
   for (const fp of uniqueFilepaths) {
-    const docChunks = await getFullDo
+    const docChunks = await getFullDocument(db, fp);
+    allChunks.push(...docChunks);
+  }
+
+  // Deduplicate
+  const seen = new Set<string>();
+  const merged: ChunkResult[] = [];
+  for (const r of allChunks) {
+    const key = `${r.filepath}::${r.chunk.slice(0, 80)}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      merged.push(r);
+    }
+  }
+
+  return merged.slice(0, limit);
+}
