@@ -107,21 +107,22 @@ export async function findRelevantChunks(
       .limit(10);
     budgetFilepaths = [...new Set(budgetHits.map(r => r.filepath))].slice(0, 3);
   } else if (isBudgetHistoryQuery) {
-    // Fetch the most recent budget brochures across multiple years
-    const recentBudgets = await db
-      .select({ filepath: embeddings.filepath })
-      .from(embeddings)
-      .where(
-        or(
-          like(embeddings.filepath, '%fy26_board_adopted_brochure%'),
-          like(embeddings.filepath, '%fy25_board_adopted_brochure%'),
-          like(embeddings.filepath, '%fy24_board_adopted_brochure%'),
-          like(embeddings.filepath, '%fy26_citizens_adopted%'),
-          like(embeddings.filepath, '%fy25_superintendent_recommended%'),
-        )
-      )
-      .limit(20);
-    budgetFilepaths = [...new Set(recentBudgets.map(r => r.filepath))].slice(0, 4);
+    // Directly target the most information-dense budget docs across recent years
+    const targetDocs = [
+      '%fy26_board_adopted_brochure%',
+      '%fy25_board_adopted_brochure%',
+      '%fy24_board_adopted_brochure%',
+      '%fy23_board_adopted_brochure%',
+      '%fy26_citizens_adopted%',
+    ];
+    for (const pattern of targetDocs) {
+      const hit = await db
+        .select({ filepath: embeddings.filepath })
+        .from(embeddings)
+        .where(like(embeddings.filepath, pattern))
+        .limit(1);
+      if (hit.length > 0) budgetFilepaths.push(hit[0].filepath);
+    }
   }
 
   // Date match — prefer board_meeting_transcript if query is about a meeting
