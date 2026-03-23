@@ -27,6 +27,13 @@ export default function Home() {
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
+  useEffect(() => {
+    fetch('/api/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ messages: [{ role: 'user', content: 'ping' }] }),
+    }).catch(() => {});
+  }, []);
 
   async function sendMessage(text: string) {
     if (!text.trim() || isLoading) return;
