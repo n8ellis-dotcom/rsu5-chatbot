@@ -33,7 +33,7 @@ export default function Home() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ messages: [{ role: 'user', content: 'ping' }] }),
     }).catch(() => {});
-  }, []);
+  }, []); 
 
   async function sendMessage(text: string) {
     if (!text.trim() || isLoading) return;
