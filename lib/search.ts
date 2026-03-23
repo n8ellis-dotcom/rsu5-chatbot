@@ -1,4 +1,4 @@
-import { cosineDistance, desc, gt, sql, or, like, asc } from 'drizzle-orm';
+import { cosineDistance, desc, gt, sql, or, like } from 'drizzle-orm';
 import { getDb } from './db';
 import { embeddings } from './schema';
 import { generateEmbedding } from './embeddings';
@@ -33,21 +33,22 @@ function extractDatePrefix(query: string): string | null {
 
 async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): Promise<ChunkResult[]> {
   const filename = filepath.split('/').pop() || filepath;
-  return (await db
-    .select({
-      filepath: embeddings.filepath,
-      chunk: embeddings.chunk,
-      similarity: sql<number>`cast(0.95 as float8)`,
-      source_url: embeddings.source_url,
-      doc_type: embeddings.doc_type,
-      school: embeddings.school,
-      doc_date: embeddings.doc_date,
-      chunk_index: embeddings.chunkIndex,
-    })
-    .from(embeddings)
-    .where(like(embeddings.filepath, `%${filename}%`))
-    .orderBy(asc(embeddings.chunkIndex))) as ChunkResult[];
-} 
+  const rows = await db.execute(
+    sql`SELECT filepath, chunk, cast(0.95 as float8) as similarity, source_url, doc_type, school, doc_date
+        FROM embeddings
+        WHERE filepath LIKE ${'%' + filename + '%'}
+        ORDER BY chunk_index ASC NULLS LAST`
+  );
+  return rows.rows.map((r: Record<string, unknown>) => ({
+    filepath: r.filepath as string,
+    chunk: r.chunk as string,
+    similarity: Number(r.similarity),
+    source_url: r.source_url as string | null,
+    doc_type: r.doc_type as string | null,
+    school: r.school as string | null,
+    doc_date: r.doc_date as string | null,
+  }));
+}
 
 export async function findRelevantChunks(
   query: string,
