@@ -31,13 +31,17 @@ function extractDatePrefix(query: string): string | null {
   return null;
 }
 
-export async function findRelevantChunks(query: string, limit = 10): Promise<ChunkResult[]> {
+export async function findRelevantChunks(
+  query: string,
+  limit = 10,
+  name?: string
+): Promise<ChunkResult[]> {
   const db = getDb();
   const queryEmbedding = await generateEmbedding(query);
   const similarity = sql<number>`1 - (${cosineDistance(embeddings.embedding, queryEmbedding)})`;
   const datePrefix = extractDatePrefix(query);
 
-  // Date-targeted lookup: pull chunks from the matching date document directly
+  // Date-targeted lookup: inject chunks from the matching date document directly
   let dateChunks: ChunkResult[] = [];
   if (datePrefix) {
     dateChunks = (await db
@@ -60,6 +64,24 @@ export async function findRelevantChunks(query: string, limit = 10): Promise<Chu
       .limit(5)) as ChunkResult[];
   }
 
+  // Name-targeted lookup: inject chunks that mention the person directly
+  let nameChunks: ChunkResult[] = [];
+  if (name) {
+    nameChunks = (await db
+      .select({
+        filepath: embeddings.filepath,
+        chunk: embeddings.chunk,
+        similarity: sql<number>`0.92`,
+        source_url: embeddings.source_url,
+        doc_type: embeddings.doc_type,
+        school: embeddings.school,
+        doc_date: embeddings.doc_date,
+      })
+      .from(embeddings)
+      .where(like(embeddings.chunk, `%${name}%`))
+      .limit(5)) as ChunkResult[];
+  }
+
   // Standard vector search
   const vectorResults = (await db
     .select({
@@ -76,12 +98,15 @@ export async function findRelevantChunks(query: string, limit = 10): Promise<Chu
     .orderBy(desc(similarity))
     .limit(limit)) as ChunkResult[];
 
-  // Merge: date chunks first, then vector results, deduplicated
+  // Merge: date and name chunks first, then vector results, deduplicated
   const seen = new Set<string>();
   const merged: ChunkResult[] = [];
-  for (const r of [...dateChunks, ...vectorResults]) {
+  for (const r of [...dateChunks, ...nameChunks, ...vectorResults]) {
     const key = `${r.filepath}::${r.chunk.slice(0, 80)}`;
-    if (!seen.has(key)) { seen.add(key); merged.push(r); }
+    if (!seen.has(key)) {
+      seen.add(key);
+      merged.push(r);
+    }
   }
   return merged.slice(0, limit);
 }
