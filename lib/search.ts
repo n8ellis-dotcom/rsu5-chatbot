@@ -91,8 +91,14 @@ export async function findRelevantChunks(
 
   // ── Stage 1: Identify relevant files ────────────────────────────────────────
 
-  // Budget year lookup — directly find budget files for the requested year
+ // Budget year lookup — directly find budget files for the requested year
   let budgetFilepaths: string[] = [];
+  const isBudgetHistoryQuery = !budgetYear && 
+    (query.toLowerCase().includes('budget') || query.toLowerCase().includes('fiscal')) &&
+    (query.toLowerCase().includes('year') || query.toLowerCase().includes('history') || 
+     query.toLowerCase().includes('changed') || query.toLowerCase().includes('over') ||
+     query.toLowerCase().includes('trend') || query.toLowerCase().includes('past'));
+
   if (budgetYear) {
     const budgetHits = await db
       .select({ filepath: embeddings.filepath })
@@ -100,6 +106,22 @@ export async function findRelevantChunks(
       .where(like(embeddings.filepath, `%${budgetYear}%`))
       .limit(10);
     budgetFilepaths = [...new Set(budgetHits.map(r => r.filepath))].slice(0, 3);
+  } else if (isBudgetHistoryQuery) {
+    // Fetch the most recent budget brochures across multiple years
+    const recentBudgets = await db
+      .select({ filepath: embeddings.filepath })
+      .from(embeddings)
+      .where(
+        or(
+          like(embeddings.filepath, '%budget_fy26%'),
+          like(embeddings.filepath, '%budget_fy25%'),
+          like(embeddings.filepath, '%budget_fy24%'),
+          like(embeddings.filepath, '%budget_fy23%'),
+          like(embeddings.filepath, '%budget_fy22%'),
+        )
+      )
+      .limit(20);
+    budgetFilepaths = [...new Set(recentBudgets.map(r => r.filepath))].slice(0, 4);
   }
 
   // Date match — prefer board_meeting_transcript if query is about a meeting
