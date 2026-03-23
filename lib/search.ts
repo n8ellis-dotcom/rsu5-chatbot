@@ -47,7 +47,7 @@ async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): 
     .from(embeddings)
     .where(like(embeddings.filepath, `%${filename}%`))
     .orderBy(asc(embeddings.chunkIndex))) as ChunkResult[];
-}
+} 
 
 export async function findRelevantChunks(
   query: string,
