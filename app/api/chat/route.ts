@@ -5,7 +5,7 @@ export const maxDuration = 60;
 
 const DEEPER_INDICATORS = [
   'tell me more', 'elaborate', 'explain more', 'dig deeper', 'more detail',
-  'expand on', 'can you explain', 'what do you mean', 'go deeper',
+  'expand on', 'can you explain', 'what do you mean', 'go deeper
   'more about', 'further', 'in depth', 'deeper dive', 'try harder',
   'more thorough', 'be more specific', 'give me more', 'not enough',
   'too vague', 'more complete', 'full answer', 'complete answer',
@@ -149,7 +149,7 @@ ${context}`;
   if (isAdmin) {
     const response = await client.messages.create({
       model,
-      max_tokens: 1024,
+      max_tokens: 512,
       system: systemPrompt,
       messages: anthropicMessages,
     });
@@ -163,7 +163,7 @@ ${context}`;
 
   const stream = await client.messages.stream({
     model,
-    max_tokens: 1024,
+    max_tokens: 512,
     system: systemPrompt,
     messages: anthropicMessages,
   });
