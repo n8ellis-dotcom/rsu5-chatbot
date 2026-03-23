@@ -12,17 +12,9 @@ const DEEPER_INDICATORS = [
   'more comprehensive', 'flesh out', 'more context', 'more information'
 ];
 
-const SONNET_INDICATORS = [
-  'retirement', 'retirements', 'position', 'positions', 'cut', 'cuts',
-  'reduction', 'salary', 'salaries', 'budget', 'compare', 'history',
-  'over the years', 'trend', 'summarize', 'who spoke', 'list everyone',
-  'all of the', 'everything about'
-];
-
 function selectModel(query: string): string {
   const q = query.toLowerCase();
   if (DEEPER_INDICATORS.some(p => q.includes(p))) return 'claude-sonnet-4-5';
-  if (SONNET_INDICATORS.some(p => q.includes(p))) return 'claude-sonnet-4-5';
   return 'claude-haiku-4-5-20251001';
 }
 
