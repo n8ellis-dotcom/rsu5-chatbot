@@ -69,6 +69,8 @@ function isBudgetNarrative(query: string): boolean {
 }
 
 // Keyword reranker — scores chunks by query term overlap
+// Use this pattern in any RAG app: after retrieval, score each chunk for
+// keyword relevance and blend with vector similarity for better ranking
 function rerankChunks(chunks: ChunkResult[], query: string): ChunkResult[] {
   const stopWords = new Set([
     'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
@@ -94,7 +96,7 @@ function rerankChunks(chunks: ChunkResult[], query: string): ChunkResult[] {
     }
     if (text.includes(queryTerms.join(' '))) keywordScore += 3;
     const normalizedKeyword = keywordScore / Math.sqrt(text.length / 200);
-    // Blend vector similarity (60%) with keyword score (40%)
+    // Blend: 60% vector similarity, 40% keyword score
     const blended = (chunk.similarity * 0.6) + (normalizedKeyword * 0.4);
     return { chunk, score: blended };
   });
@@ -135,20 +137,25 @@ export async function findRelevantChunks(
     (query.toLowerCase().includes('budget') || query.toLowerCase().includes('fiscal')) &&
     ['year', 'history', 'changed', 'over', 'trend', 'past', 'years'].some(w => query.toLowerCase().includes(w));
 
-  const seen = new Set<string>();
-  const candidates: ChunkResult[] = [];
+  // ── PARALLEL STRATEGY EXECUTION ───────────────────────────────────────────
+  // All independent search strategies fire simultaneously via Promise.all.
+  // This is the key performance pattern: don't await each query sequentially —
+  // fire them all at once and collect results together.
+  // Rule: only parallelize queries that don't need each other's output to run.
+  // The neighbor fetch below stays sequential because it needs topCandidates first.
 
-  function addChunk(c: ChunkResult) {
-    const key = `${c.filepath}::${c.chunk_index ?? c.chunk.slice(0, 60)}`;
-    if (!seen.has(key) && c.chunk && !c.chunk.startsWith('SUMMARY CHUNK')) {
-      seen.add(key);
-      candidates.push(c);
-    }
-  }
+  const [
+    vectorRows,
+    budgetBrochureRows,
+    budgetLineItemRows,
+    budgetHistoryRows,
+    dateRows,
+    policyRows,
+    nameRows,
+  ] = await Promise.all([
 
-  // ── Strategy A: Vector search — real semantic similarity scores ───────────
-  const vectorRows = await db
-    .select({
+    // Strategy A: Vector search — semantic similarity, always runs
+    db.select({
       filepath: embeddings.filepath,
       chunk: embeddings.chunk,
       similarity: similarityExpr,
@@ -164,126 +171,132 @@ export async function findRelevantChunks(
       sql`${embeddings.chunk} NOT LIKE 'SUMMARY CHUNK%'`
     ))
     .orderBy(desc(similarityExpr))
-    .limit(15);
+    .limit(15),
 
-  for (const r of vectorRows) addChunk({ ...r, similarity: Number(r.similarity) });
-
-  // ── Strategy B: Budget year lookup — prefer narrative brochure files ──────
-  if (budgetYear) {
-    // First try brochure (narrative) for budget questions
-    const brochureRows = await db.execute(
-      sql`SELECT filepath, chunk, 0.92::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+    // Strategy B: Budget brochure — narrative docs for "why" questions
+    budgetYear
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.92::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
           FROM embeddings
           WHERE filepath LIKE ${'%' + budgetYear + '_board_adopted_brochure%'}
             AND chunk NOT LIKE 'SUMMARY CHUNK%'
           ORDER BY chunk_index ASC NULLS LAST
-          LIMIT 20`
-    );
-    for (const r of brochureRows.rows) addChunk(rowToChunk(r, 0.92));
+          LIMIT 20`)
+      : Promise.resolve({ rows: [] }),
 
-    // Also include line-item for specific dollar questions
-    if (!wantsBudgetNarrative) {
-      const lineItemRows = await db.execute(
-        sql`SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
-            FROM embeddings
-            WHERE filepath LIKE ${'%' + budgetYear + '_board_adopted%'}
-              AND filepath NOT LIKE '%brochure%'
-              AND chunk NOT LIKE 'SUMMARY CHUNK%'
-            ORDER BY chunk_index ASC NULLS LAST
-            LIMIT 10`
-      );
-      for (const r of lineItemRows.rows) addChunk(rowToChunk(r, 0.88));
-    }
-  }
+    // Strategy C: Budget line-item — detailed numbers, non-narrative queries
+    budgetYear && !wantsBudgetNarrative
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+          FROM embeddings
+          WHERE filepath LIKE ${'%' + budgetYear + '_board_adopted%'}
+            AND filepath NOT LIKE '%brochure%'
+            AND chunk NOT LIKE 'SUMMARY CHUNK%'
+          ORDER BY chunk_index ASC NULLS LAST
+          LIMIT 10`)
+      : Promise.resolve({ rows: [] }),
 
-  // ── Strategy C: Budget history — pull brochures across years ─────────────
-  if (isBudgetHistoryQuery) {
-    const targetPatterns = [
-      '%fy26_board_adopted_brochure%', '%fy25_board_adopted_brochure%',
-      '%fy24_board_adopted_brochure%', '%fy23_board_adopted_brochure%',
-      '%fy22_board_adopted_brochure%',
-    ];
-    for (const pattern of targetPatterns) {
-      const rows = await db.execute(
-        sql`SELECT filepath, chunk, 0.90::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
-            FROM embeddings
-            WHERE filepath LIKE ${pattern}
-              AND chunk NOT LIKE 'SUMMARY CHUNK%'
-            ORDER BY chunk_index ASC NULLS LAST
-            LIMIT 8`
-      );
-      for (const r of rows.rows) addChunk(rowToChunk(r, 0.90));
-    }
-  }
+    // Strategy D: Budget history — multi-year brochures
+    isBudgetHistoryQuery
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.90::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+          FROM embeddings
+          WHERE (
+            filepath LIKE '%fy26_board_adopted_brochure%' OR
+            filepath LIKE '%fy25_board_adopted_brochure%' OR
+            filepath LIKE '%fy24_board_adopted_brochure%' OR
+            filepath LIKE '%fy23_board_adopted_brochure%' OR
+            filepath LIKE '%fy22_board_adopted_brochure%'
+          )
+          AND chunk NOT LIKE 'SUMMARY CHUNK%'
+          ORDER BY filepath DESC, chunk_index ASC NULLS LAST
+          LIMIT 40`)
+      : Promise.resolve({ rows: [] }),
 
-  // ── Strategy D: Date lookup ───────────────────────────────────────────────
-  if (datePrefix) {
-    const docTypeFilter = wantsBoardMeeting
-      ? sql`AND doc_type = 'board_meeting_transcript'`
-      : sql`AND 1=1`;
-
-    const dateRows = await db.execute(
-      sql`SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+    // Strategy E: Date lookup — transcripts and minutes by date
+    datePrefix
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
           FROM embeddings
           WHERE (filepath LIKE ${'%' + datePrefix + '%'} OR doc_date LIKE ${datePrefix + '%'})
             AND chunk NOT LIKE 'SUMMARY CHUNK%'
+            ${wantsBoardMeeting ? sql`AND doc_type = 'board_meeting_transcript'` : sql``}
           ORDER BY chunk_index ASC NULLS LAST
-          LIMIT 20`
-    );
-    for (const r of dateRows.rows) addChunk(rowToChunk(r, 0.88));
-  }
+          LIMIT 20`)
+      : Promise.resolve({ rows: [] }),
 
-  // ── Strategy E: Policy lookup ─────────────────────────────────────────────
-  if (wantsPolicy) {
-    const policyRows = await db.execute(
-      sql`SELECT filepath, chunk, 0.85::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+    // Strategy F: Policy lookup — filtered by doc_type
+    wantsPolicy
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.85::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
           FROM embeddings
           WHERE doc_type IN ('policy', 'handbook')
             AND chunk NOT LIKE 'SUMMARY CHUNK%'
-            AND (${similarityExpr}) > 0.22
-          ORDER BY (${similarityExpr}) DESC
-          LIMIT 15`
-    );
-    for (const r of policyRows.rows) addChunk(rowToChunk(r, 0.85));
-  }
+          ORDER BY (1 - (embedding <=> ${sql.raw(`'[${queryEmbedding.join(',')}]'`)})) DESC
+          LIMIT 15`)
+      : Promise.resolve({ rows: [] }),
 
-  // ── Strategy F: Name lookup ───────────────────────────────────────────────
-  if (name) {
-    const nameRows = await db.execute(
-      sql`SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+    // Strategy G: Name lookup — keyword search on chunk text
+    name
+      ? db.execute(sql`
+          SELECT filepath, chunk, 0.88::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
           FROM embeddings
           WHERE chunk ILIKE ${'%' + name + '%'}
             AND chunk NOT LIKE 'SUMMARY CHUNK%'
           ORDER BY chunk_index ASC NULLS LAST
-          LIMIT 20`
-    );
-    for (const r of nameRows.rows) addChunk(rowToChunk(r, 0.88));
+          LIMIT 20`)
+      : Promise.resolve({ rows: [] }),
+  ]);
+
+  // ── MERGE ALL RESULTS ─────────────────────────────────────────────────────
+  const seen = new Set<string>();
+  const candidates: ChunkResult[] = [];
+
+  function addChunk(c: ChunkResult) {
+    const key = `${c.filepath}::${c.chunk_index ?? c.chunk.slice(0, 60)}`;
+    if (!seen.has(key) && c.chunk && !c.chunk.startsWith('SUMMARY CHUNK')) {
+      seen.add(key);
+      candidates.push(c);
+    }
   }
 
-  // ── Fetch neighbors for context ───────────────────────────────────────────
-  // For each top candidate chunk, fetch the chunks immediately before and after
-  // so Claude has surrounding context without loading entire documents
+  for (const r of vectorRows) addChunk({ ...r, similarity: Number(r.similarity) });
+  for (const r of (budgetBrochureRows as any).rows) addChunk(rowToChunk(r, 0.92));
+  for (const r of (budgetLineItemRows as any).rows) addChunk(rowToChunk(r, 0.88));
+  for (const r of (budgetHistoryRows as any).rows) addChunk(rowToChunk(r, 0.90));
+  for (const r of (dateRows as any).rows) addChunk(rowToChunk(r, 0.88));
+  for (const r of (policyRows as any).rows) addChunk(rowToChunk(r, 0.85));
+  for (const r of (nameRows as any).rows) addChunk(rowToChunk(r, 0.88));
+
+  if (candidates.length === 0) return [];
+
+  // ── NEIGHBOR FETCH (sequential — needs top candidates first) ──────────────
+  // For each top candidate chunk, fetch the 2 chunks before and after it
+  // so Claude has surrounding context without loading entire documents.
+  // This stays sequential because it depends on the candidates result above.
   const topForNeighbors = [...candidates]
     .sort((a, b) => b.similarity - a.similarity)
     .slice(0, 8)
     .filter(c => c.chunk_index != null);
 
-  for (const c of topForNeighbors) {
-    const neighborRows = await db.execute(
-      sql`SELECT filepath, chunk, 0.80::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
-          FROM embeddings
-          WHERE filepath = ${c.filepath}
-            AND chunk_index BETWEEN ${(c.chunk_index ?? 0) - 2} AND ${(c.chunk_index ?? 0) + 2}
-            AND chunk NOT LIKE 'SUMMARY CHUNK%'
-          ORDER BY chunk_index ASC`
-    );
-    for (const r of neighborRows.rows) addChunk(rowToChunk(r, 0.80));
+  // Fire neighbor fetches in parallel too — they're independent of each other
+  const neighborResults = await Promise.all(
+    topForNeighbors.map(c =>
+      db.execute(sql`
+        SELECT filepath, chunk, 0.80::float8 as similarity, source_url, doc_type, school, doc_date, chunk_index
+        FROM embeddings
+        WHERE filepath = ${c.filepath}
+          AND chunk_index BETWEEN ${(c.chunk_index ?? 0) - 2} AND ${(c.chunk_index ?? 0) + 2}
+          AND chunk NOT LIKE 'SUMMARY CHUNK%'
+        ORDER BY chunk_index ASC`)
+    )
+  );
+
+  for (const result of neighborResults) {
+    for (const r of (result as any).rows) addChunk(rowToChunk(r, 0.80));
   }
 
-  if (candidates.length === 0) return [];
-
-  // ── Rerank and cap ────────────────────────────────────────────────────────
+  // ── RERANK AND RETURN ─────────────────────────────────────────────────────
   const reranked = rerankChunks(candidates, query);
-  const cap = isBudgetHistoryQuery ? 40 : limit;
-  return reranked.slice(0, cap);
+  return reranked.slice(0, isBudgetHistoryQuery ? 40 : limit);
 }
