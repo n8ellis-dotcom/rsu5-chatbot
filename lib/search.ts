@@ -34,22 +34,18 @@ function extractDatePrefix(query: string): string | null {
 function extractBudgetYear(query: string): string | null {
   const q = query.toLowerCase();
   if (!q.includes('budget') && !q.includes('fiscal') && !q.includes('fy') && !q.includes('spending')) return null;
-  // Match FY26, FY25, FY24 etc
   const fyMatch = q.match(/\bfy\s?(\d{2})\b/);
   if (fyMatch) return `fy${fyMatch[1]}`;
-  // Match 2025-2026, 2024-2025 etc
   const yearMatch = q.match(/\b(20\d{2})[-–/](20\d{2})\b/);
   if (yearMatch) {
     const y = parseInt(yearMatch[2]) % 100;
     return `fy${y.toString().padStart(2, '0')}`;
   }
-  // Match single year like "2026 budget"
   const singleYear = q.match(/\b(20\d{2})\b/);
   if (singleYear) {
     const y = parseInt(singleYear[1]) % 100;
     return `fy${y.toString().padStart(2, '0')}`;
   }
-  // "last 5 years" or "recent" — return null, let vector handle it
   return null;
 }
 
@@ -64,6 +60,7 @@ async function getFullDocument(db: ReturnType<typeof getDb>, filepath: string): 
     sql`SELECT filepath, chunk, cast(0.95 as float8) as similarity, source_url, doc_type, school, doc_date
         FROM embeddings
         WHERE filepath LIKE ${'%' + filename + '%'}
+          AND chunk NOT LIKE 'SUMMARY CHUNK%'
         ORDER BY chunk_index ASC NULLS LAST`
   );
   return rows.rows.map((r: Record<string, unknown>) => ({
@@ -89,13 +86,12 @@ export async function findRelevantChunks(
   const budgetYear = extractBudgetYear(query);
   const wantsBoardMeeting = prefersBoardMeeting(query);
 
-  // ── Stage 1: Identify relevant files ────────────────────────────────────────
+  // ── Stage 1: Identify relevant files ─────────────────────────────────────
 
- // Budget year lookup — directly find budget files for the requested year
   let budgetFilepaths: string[] = [];
-  const isBudgetHistoryQuery = !budgetYear && 
+  const isBudgetHistoryQuery = !budgetYear &&
     (query.toLowerCase().includes('budget') || query.toLowerCase().includes('fiscal')) &&
-    (query.toLowerCase().includes('year') || query.toLowerCase().includes('history') || 
+    (query.toLowerCase().includes('year') || query.toLowerCase().includes('history') ||
      query.toLowerCase().includes('changed') || query.toLowerCase().includes('over') ||
      query.toLowerCase().includes('trend') || query.toLowerCase().includes('past'));
 
@@ -107,7 +103,6 @@ export async function findRelevantChunks(
       .limit(10);
     budgetFilepaths = [...new Set(budgetHits.map(r => r.filepath))].slice(0, 3);
   } else if (isBudgetHistoryQuery) {
-    // Directly target the most information-dense budget docs across recent years
     const targetDocs = [
       '%fy26_board_adopted_brochure%',
       '%fy25_board_adopted_brochure%',
@@ -125,7 +120,6 @@ export async function findRelevantChunks(
     }
   }
 
-  // Date match — prefer board_meeting_transcript if query is about a meeting
   let dateFilepaths: string[] = [];
   if (datePrefix) {
     if (wantsBoardMeeting) {
@@ -159,7 +153,6 @@ export async function findRelevantChunks(
     }
   }
 
-  // Name lookup
   let nameFilepaths: string[] = [];
   if (name) {
     const nameHits = await db
@@ -170,30 +163,32 @@ export async function findRelevantChunks(
     nameFilepaths = [...new Set(nameHits.map(r => r.filepath))].slice(0, 3);
   }
 
-  // Vector search
+  // Vector search — exclude summary chunks so they don't hijack file selection
   const vectorHits = await db
     .select({ filepath: embeddings.filepath, similarity })
     .from(embeddings)
-    .where(gt(similarity, 0.25))
+    .where(
+      and(
+        gt(similarity, 0.25),
+        sql`${embeddings.chunk} NOT LIKE 'SUMMARY CHUNK%'`
+      )
+    )
     .orderBy(desc(similarity))
     .limit(20);
   const vectorFilepaths = [...new Set(vectorHits.map(r => r.filepath))].slice(0, 3);
 
-  // ── Stage 2: Fetch full documents ────────────────────────────────────────────
+  // ── Stage 2: Fetch full documents ─────────────────────────────────────────
 
-  // Budget and date filepaths take priority over vector
   const priorityFilepaths = [...budgetFilepaths, ...dateFilepaths, ...nameFilepaths, ...vectorFilepaths];
   const uniqueFilepaths = [...new Set(priorityFilepaths)].slice(0, 4);
 
- const allChunks: ChunkResult[] = [];
+  const allChunks: ChunkResult[] = [];
   for (const fp of uniqueFilepaths) {
     const docChunks = await getFullDocument(db, fp);
-    // For history/multi-year queries cap per doc so multiple years fit
     const cap = isBudgetHistoryQuery ? 8 : docChunks.length;
     allChunks.push(...docChunks.slice(0, cap));
   }
 
-  // Deduplicate
   const seen = new Set<string>();
   const merged: ChunkResult[] = [];
   for (const r of allChunks) {
