@@ -107,7 +107,9 @@ function formatSource(filepath: string, sourceUrl?: string | null, chunk?: strin
   if (sourceUrl) {
     return `${filename.replace(/_/g, ' ').replace('.txt', '')} ([Source](${sourceUrl}))`;
   }
-  return filename.replace(/_/g, ' ').replace('.txt', '');
+  const cleaned = filename.replace(/_/g, ' ').replace('.txt', '').trim();
+if (!cleaned || cleaned.length < 3) return sourceUrl ? `RSU5 Document ([Source](${sourceUrl}))` : 'RSU5 District Document';
+return sourceUrl ? `${cleaned} ([Source](${sourceUrl}))` : cleaned;
 }
 
 function extractNameFromQuery(query: string): string | null {
