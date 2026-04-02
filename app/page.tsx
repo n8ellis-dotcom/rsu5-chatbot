@@ -5,11 +5,11 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 const SUGGESTED = [
-  "What positions are being reduced in the FY27 superintendent's recommended budget?",
-  "What was the RSU5 budget total in 2020?",
-  "What is the graduation requirement at Freeport High School?",
-  "What did the board vote on at the March 2026 meeting?",
+  "Why did the RSU5 budget increase this year and by how much?",
+  "How has the RSU5 budget changed over the last 5 years?",
   "What did the board discuss about the FY27 budget at the November 2025 meeting?",
+  "What is RSU5's policy on student absences?",
+  "Has the board discussed closing or consolidating any schools?",
 ];
 
 interface Message {
@@ -27,13 +27,14 @@ export default function Home() {
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
+
   useEffect(() => {
     fetch('/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ messages: [{ role: 'user', content: 'ping' }] }),
     }).catch(() => {});
-  }, []); 
+  }, []);
 
   async function sendMessage(text: string) {
     if (!text.trim() || isLoading) return;
@@ -66,7 +67,11 @@ export default function Home() {
         setMessages(prev => prev.map(m => m.id === assistantId ? { ...m, content: assistantContent } : m));
       }
     } catch (e) {
-      setMessages(prev => [...prev, { id: Date.now().toString(), role: 'assistant', content: 'Sorry, something went wrong. Please try again.' }]);
+      setMessages(prev => [...prev, {
+        id: Date.now().toString(),
+        role: 'assistant',
+        content: 'Sorry, something went wrong. Please try again.',
+      }]);
     }
     setIsLoading(false);
   }
@@ -120,7 +125,9 @@ export default function Home() {
           {messages.map((m) => (
             <div key={m.id} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'}`}>
               <div className={`max-w-[85%] rounded-lg px-4 py-3 text-sm shadow-sm ${
-                m.role === 'user' ? 'bg-[#8B1A1A] text-white' : 'bg-white border border-gray-200 text-gray-800'
+                m.role === 'user'
+                  ? 'bg-[#8B1A1A] text-white'
+                  : 'bg-white border border-gray-200 text-gray-800'
               }`}>
                 {m.role === 'user' ? (
                   <span>{m.content}</span>
@@ -136,9 +143,9 @@ export default function Home() {
             <div className="flex justify-start">
               <div className="bg-white border border-gray-200 rounded-lg px-4 py-3 text-sm text-gray-400 shadow-sm flex items-center gap-2">
                 <span className="flex gap-1">
-                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '0ms'}}></span>
-                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '150ms'}}></span>
-                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{animationDelay: '300ms'}}></span>
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
+                  <span className="w-2 h-2 bg-[#8B1A1A] rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
                 </span>
                 Searching RSU5 documents…
               </div>
@@ -154,7 +161,12 @@ export default function Home() {
             <input
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              onKeyDown={(e) => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendMessage(input); } }}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                  e.preventDefault();
+                  sendMessage(input);
+                }
+              }}
               placeholder="Ask a question about RSU5..."
               disabled={isLoading}
               style={{ color: '#111111', backgroundColor: '#ffffff' }}
