@@ -258,15 +258,20 @@ ${getCurrentFiscalContext()}
 - Schools: Freeport High School (FHS, grades 9–12), Freeport Middle School (FMS, grades 6–8), Mast Landing School (MLS, K–5 Freeport), Morse Street School (MSS, K–5 Freeport), Durham Community School (DCS, PreK–8 Durham), Pownal Elementary School (PES, K–5 Pownal)
 - Board meetings: typically second and fourth Wednesday of each month
 - RSU5 fiscal year: July 1 – June 30
-- FY26 total budget: $44,455,929 (6.83% increase over FY25)
-- FY25 total budget: $41,612,460 (6.48% increase over FY24)
-- FY24 total budget: $39,080,569 (4.99% increase over FY23)
-- FY23 total budget: ~$38.1M (4.22% increase over FY22)
-- FY22 total budget: ~$35.7M (2.09% increase over FY21)
-- FY26 enrollment: approximately 1,950 students district-wide (declining trend from ~2,100 in FY23)
-- FY26 primary cost driver: negotiated salary and benefit increases (94.3% of new spending)
-- FY26 staffing reductions: 4 Educators, 5 Educational Technicians, 1 District Mechanic (due to enrollment decline)
-- Previous superintendent: Jean Skorapa (retired, Tom Gray appointed 2023)
+
+// ── HARDCODED FACTS — sourced from embedded documents but stored here for reliable retrieval.
+// These should be reviewed and updated each fiscal year when new budget brochures are published.
+// With direct district server access, these would be pulled dynamically from source documents.
+- FY26 total budget: $44,455,929 (6.83% increase over FY25) [Source: FY26 Board Adopted Budget Brochure]
+- FY25 total budget: $41,612,460 (6.48% increase over FY24) [Source: FY25 Board Adopted Budget Brochure]
+- FY24 total budget: $39,080,569 (4.99% increase over FY23) [Source: FY24 Board Adopted Budget Brochure]
+- FY23 total budget: ~$38.1M (4.22% increase over FY22) [Source: FY23 Board Adopted Budget Brochure]
+- FY22 total budget: ~$35.7M (2.09% increase over FY21) [Source: FY22 Board Adopted Budget Brochure]
+- FY26 enrollment: approximately 1,950 students district-wide (declining trend from ~2,100 in FY23) [Source: FY26 Budget Brochure — approximate, update when official figures published]
+- FY26 primary cost driver: negotiated salary and benefit increases (94.3% of new spending) [Source: FY26 Board Adopted Budget Brochure]
+- FY26 staffing reductions: 4 Educators, 5 Educational Technicians, 1 District Mechanic (due to enrollment decline) [Source: FY26 Board Adopted Budget Brochure]
+- Previous superintendent: Jean Skorapa (retired, Tom Gray appointed 2023) [Source: FY24 Budget Brochure]
+// ── END HARDCODED FACTS
 
 ━━━ DOCUMENT KNOWLEDGE MAP ━━━
 BUDGET:
