@@ -133,7 +133,18 @@ export default function Home() {
                   <span>{m.content}</span>
                 ) : (
                   <div className="markdown-body">
-                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{m.content}</ReactMarkdown>
+                    <ReactMarkdown
+  remarkPlugins={[remarkGfm]}
+  components={{
+    a: ({ href, children }) => (
+      <a href={href} target="_blank" rel="noopener noreferrer" className="text-[#8B1A1A] underline">
+        {children}
+      </a>
+    ),
+  }}
+>
+  {m.content}
+</ReactMarkdown>
                   </div>
                 )}
               </div>
